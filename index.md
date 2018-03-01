@@ -23,7 +23,7 @@ here is the sorted set of all sample pages:
       
     {% for page in site.[name] %}
     {% if page.index == true and page.hidden != true %}
-      <li><a href="{{ page.url }}">{{ page.title }}</a><BR />{{ page.description }}</li>
+      <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a><BR />{{ page.description }}</li>
     {% endif %}
     {% endfor %}
 {% endunless %}
