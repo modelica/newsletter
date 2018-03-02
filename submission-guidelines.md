@@ -18,6 +18,9 @@ The submissions are currently open! The deadline for contributions to the curren
    * If you want to modify your contribution or add a local image, you have to navigate to this branch of your fork (e.g. patch-1) and click on Create Pull-request.
 5. Create pull-request   
 6. Submit the pull request.
+
+Please note, that all your contributions are public from the beginning for anyone who knows the (public) repository. If you insist on having the contribution private prior to the release, please [let me know](mailto:filip.jezek@creativeconnections.cz).
+
   {% else %}
 
 *The contributions are closed right now*
