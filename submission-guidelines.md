@@ -2,6 +2,9 @@
 title: Submission guidelines
 layout: default
 ---
+## Scope
+The scope of the newsletter include all topics covered by the [Modelica Association](https://www.modelica.org) (Modelica language, libraries, FMI, SSP), related tools and news in education (courses, books and related materials).
+
 ## Process
 Everyone is welcome to contribute a post to the Modelica newsletter, however the editor holds the right to decline without reason. The submission is done by creating a pull request to the dedicated newsletter repository.
 {% if site.contribution-open %}
@@ -40,6 +43,15 @@ Each post should start with a header information, starting and ending with a lin
 ## Markdown syntax   
 For the text body, use the [kramdown](https://kramdown.gettalong.org/) flavor of the Markdown syntax. See the [quick reference](https://kramdown.gettalong.org/quickref.html).
 
+### Paragraphs
+Simple line break 
+in the source would not create separate paragraphs. Please use empty line between intended paragraphs instead. When a hard line-break is required, you may use four spaces at the end of the line.
+
+    First paragraph
+
+    Second paragraph    
+    with hard break - note the four spaces at the end of the upper line
+
 ### Text style
 You can use **emphasize** by double asterisks (`**emphasize**`) or *italics* using single asterisks (`*italics*`).
 
@@ -54,8 +66,13 @@ or if the image resides online, you can also provide an absolute address, e.g.
 
     ![](https://modelica.org/logo.jpg)
     
+### Headings
+Please use 4th level heading for headings within your posts, e.g.
+
+    #### My Beatiful Subheading
+
 ### Preview
-If writing directly in GitHub, make use of the *Preview changes* - which offers a live formatted preview of your text, including the images.
+If writing directly in GitHub, make use of the *Preview changes* - which offers a live formatted preview of your text, including the images. GitHub-flavored Markdown is supported by kramdown by default, so you can use Markdown with GitHub Pages the same way you use Markdown on GitHub.
 
 ## Example
 You can use the following code as a basis for your article:
@@ -68,10 +85,11 @@ You can use the following code as a basis for your article:
 
     ![FMI logo](http://fmi-standard.org/assets/img/fmi-logo.svg "FMI image"){:width="250px"}
 
-    The FMI Project will organize an "**FMI User Meeting**" within the tutorial/workshop session on the first day of the Modelica Conference 2015 as a complement to the scientific track(s) on FMI.   
-    The intention is to increase the interaction between FMI users in different companies / institutions and the Modelica Association Project FMI.
+    The FMI Project will organize an "**FMI User Meeting**" within the tutorial/workshop session on the first day of the Modelica Conference 2015 as a complement to the scientific track(s) on FMI.    
+    The intention is 
+    to increase the interaction between FMI users in different companies / institutions and the Modelica Association Project FMI.
 
-    ### Agenda
+    #### Agenda
     - FMI overview
     - FMI current status
     - future developments   
@@ -89,10 +107,11 @@ This code would yield the result in GitHub preview similar to this:
 
 ![FMI logo](http://fmi-standard.org/assets/img/fmi-logo.svg "FMI image"){:width="250px"}
 
-The FMI Project will organize an "**FMI User Meeting**" within the tutorial/workshop session on the first day of the Modelica Conference 2015 as a complement to the scientific track(s) on FMI.   
-The intention is to increase the interaction between FMI users in different companies / institutions and the Modelica Association Project FMI.
+The FMI Project will organize an "**FMI User Meeting**" within the tutorial/workshop session on the first day of the Modelica Conference 2015 as a complement to the scientific track(s) on FMI.    
+The intention is 
+to increase the interaction between FMI users in different companies / institutions and the Modelica Association Project FMI.
 
-### Agenda
+#### Agenda
 - FMI overview
 - FMI current status
 - future developments   
