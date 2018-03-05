@@ -31,7 +31,7 @@ Please note, that all your contributions are public from the beginning for anyon
 Each post should start with a header information, starting and ending with a line with three slashes '---'. Then, three meta-information shall be inserted:
 - `title` - a short title. Can be nested into quotes to prevent special characters (e.g. colons) from breaking the text.
 - `author` - authors of the contribution and their affiliations, preferably including hyperlinks `[Modelica Association](http://modelica.org)`
-- `category` - a category of the post. Currently, these four categories are currently accepted:
+- `category` - a category of the post. Currently, following four categories are currently accepted. However, if you feel, that your contribution does not exactly fit one of those, we might open a new category. Just [let us know](mailto:filip.jezek@creativeconnections.cz).
   - `"association"` - news regarding Modelica association
   - `"education"` - news regarding educational resources, or training  
   - `"library"` - news regarding new or improved libraries
