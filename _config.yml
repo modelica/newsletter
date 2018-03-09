@@ -17,8 +17,3 @@ collections:
     title: First release!
     date: 2018-04-02
     output: true
-  2018-00:
-    permalink: /:collection/:path
-    title: Zero emission
-    date: 2018-01-01
-    output: true
