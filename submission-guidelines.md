@@ -12,7 +12,7 @@ Everyone is welcome to contribute a post to the Modelica newsletter, however the
 The submissions are currently open! The deadline for contributions to the current issue is **{{ site.contribution-deadline }}**. The newsletter would be published on {{ site.current-newsletter-date }}.
 
 0. Create a GitHub account, log in.
-1. Navigate to the [newsletter repository]({{site.current-contribution-url}}).
+1. Navigate to the [newsletter repository]({{site.current-contribution-url}}) - it is important to keep the folder with the current issue, e.g. `_2018-01`.
 2. Click Create new markdown file, e.g. *my-new-post.md* (the file extension is important)
 3. Insert your post. You can reuse the example below or inspire yourself from other posts in the folder. 
 4. Commit changes. 
