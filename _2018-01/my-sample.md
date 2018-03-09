@@ -1,7 +1,7 @@
 ---
 title: A sample submission
 author: "[Filip Ježek](https://creativeconnections.cz)"
-category: 'association" 
+category: "association"
 ---
 
 This is just a sample post, which will be deleted before publication.
