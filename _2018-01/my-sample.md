@@ -1,6 +1,6 @@
 ---
 title: A sample submission
-author: "[Filip Ježek](https://creativeconnections.cz)"
+author: "[Filip Ježek](http://www.creativeconnections.cz)"
 category: "association"
 ---
 
