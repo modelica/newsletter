@@ -4,8 +4,8 @@ current-contribution-url: "https://github.com/modelica/newsletter/tree/master/_2
 contribution-open: true
 contribution-deadline: 23 March
 current-newsletter-date: 02 April
-baseurl: /newsletter
-url: "https://modelica.github.io"
+baseurl: /
+url: "https://newsletter.modelica.org"
 collections:
   2015-03:
     permalink: /:collection/:path
