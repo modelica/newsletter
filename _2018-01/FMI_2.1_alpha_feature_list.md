@@ -23,5 +23,5 @@ The FMI Steering Committee is happy to announce the preliminary (Alpha) feature 
 
 We expect to conclude the now following prototype-phase mid 2018 with a potentially shortened Beta feature list of proven FMI 2.1 features.
 In the unlikely event of unsolvable conflicts between features, the FMI Steering Committee might be forced to again remove or alter
-features during the merge-phase of all FCPs starting after the release of the Beta feature list.
+features during the merge-phase of all FMI Change Proposals (FCPs) starting after the release of the Beta feature list.
 The FMI Steering Committee will make these FCPs available to interested parties on request once their maturity allows dissemination. 
