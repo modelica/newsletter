@@ -56,7 +56,7 @@ Name                Causality          Start Value  Unit     Description
 outputs             output        282.842712474619  V        Rectifier1.Capacitor1.v
 >>> result = simulate_fmu(fmu)         # simulate the FMU
 >>> from fmpy.util import plot_result  # import the plot function
->>> plot_result(result)                # plot two variables
+>>> plot_result(result)                # plot the variables
 ```
 
 ![Rectifier Result](FMPy/Rectifier_result.png)
