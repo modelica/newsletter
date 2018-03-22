@@ -4,7 +4,7 @@ author: "Bruno Loyer ([Siemens PLM Software](https://www.siemens.com/plm/simcent
 category: "vendor"
 ---
 
-![](Simcenter-Amesim-FMI.png)
+![](Simcenter-Amesim-FMI.png){:height="270px" width="640px"}.
 
 With the addition of FMI 2.0 for model exchange import and export, 
 **the recently released Simcenter Amesim 16 supports all existing continuous and discrete coupling modes of FMI**. 
