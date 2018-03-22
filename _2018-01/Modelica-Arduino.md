@@ -3,10 +3,6 @@ title: Modelica Arduino - a virtual Arduino Uno and Firmata for Modelica
 author: Torsten Sommer ([Dassault Systémes](https://www.3ds.com/))
 category: library
 ---
-
-
-## Modelica Arduino Library
-
 With the Arduino Modelica library you can simulate your circuits and [sketches](https://www.arduino.cc/en/Tutorial/Sketch) on a virtual [Arduino Uno](https://www.arduino.cc/en/Main/ArduinoBoardUno) and connect your Modelica models to real-world circuits using the [Firmata protocol](http://www.firmata.org/).
 
 It's developed by Dassault Systèmes and released under the GPLv3 on [GitHub](https://github.com/CATIA-Systems/Modelica-Arduino).
@@ -15,8 +11,7 @@ It's developed by Dassault Systèmes and released under the GPLv3 on [GitHub](ht
 
 ![Firmata Fade LED Example](Modelica-Arduino/firmata-fade.png)
 
-
-### How does it work?
+#### How does it work?
 
 The ArduinoUno model is driven by an ExternalObject that contains the compiled sketch and an implementation of the Arduino API. The external object is synchronized at every sample step with the Modelica model.
 
