@@ -4,7 +4,7 @@ author: "Dag Brück ([Dassault Systemes](http://www.3ds.com/dymola))"
 category: "vendor"
 ---
 
-![](whitepaper-cropped.png)
+![](Free-Downloads-Dassault-Systemes-whitepaper-cropped.png)
 
 
 Dassault Systèmes offers ([free webinars, whitepapers and tools]
