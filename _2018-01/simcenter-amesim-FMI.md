@@ -1,6 +1,6 @@
 ---
 title: Simcenter Amesim 16 supports all FMI coupling modes
-author: "Bruno Loyer ([Siemens PLM Software](https://www.siemens.com/plm/simcenter-amesim))"
+author: "Bruno Loyer ([Siemens PLM Software](www.siemens.com/plm/simcenter-amesim))"
 category: "vendor"
 ---
 
@@ -24,4 +24,5 @@ specifically generated for compatible real-time targets. Supported hardware curr
 - ETAS LABCAR (32-bit and 64-bit)
 - Concurrent Simulation Workbench (32-bit and 64-bit)
 
-More will come, along with the support of tunable parameters for online or virtual calibration.
+More will come, along with **the support of tunable parameters for online or virtual calibration**.
+For more information on Simcenter Amesim, please visit our [website](www.siemens.com/plm/simcenter-amesim).
