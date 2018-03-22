@@ -1,6 +1,6 @@
 ---
 title: Modelica Arduino - a virtual Arduino Uno and Firmata for Modelica
-author: Torsten Sommer
+author: Torsten Sommer ([Dassault Systémes](https://www.3ds.com/))
 category: library
 ---
 
