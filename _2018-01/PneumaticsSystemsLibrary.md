@@ -22,10 +22,10 @@ The component icons are compliant with the standard ISO 1219 which is typically 
 
 As an example, the following model represents two single-acting cylinders with spring feedback, piloted by a single directional control valve alternatively connecting to an ideal pressure source or exhaust. While the top cylinder does not include any cushioning device, the piston of the bottom cylinder will close the inlet port when it approaches its end stop (throttle effect).
 
-![Pneumatic Systems Example](PneumaticsLibrary-cushioning-model.png "Pneumatic Systems Example"){:width="1000px"}
+![](PneumaticSystemsLibrary-cushioning-model.png "Pneumatic Systems Example"){:width="1000px"}
 
 This example covers the main physical effects involved into pneumatics: capacitance as the gas volume inside the cylinder, restriction as the inlet flow restriction into the cylinder and transformation as the cylinder converts pneumatic into mechanic power.
 
 As the example uses a one-sided cylinder, cushioning only happens on the left side of the cylinder actuation. When the piston enters in the cushioning zone (below the green line), the cylinder with cushioning (red plot) receives less mass flow rate from the inlet port and thus its speed decreases regarding the top cylinder (blue plot).
 
-![Pneumatic Systems Example Result](PneumaticsLibrary-cushioning-result.png "Pneumatic Systems Example Result"){:width="1000px"}
+![](PneumaticSystemsLibrary-cushioning-result.png "Pneumatic Systems Example Result"){:width="1000px"}
