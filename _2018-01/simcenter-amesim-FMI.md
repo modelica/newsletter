@@ -4,8 +4,6 @@ author: "Bruno Loyer ([Siemens PLM Software](www.siemens.com/plm/simcenter-amesi
 category: "vendor"
 ---
 
-![](Simcenter-Amesim-FMI.png)
-
 With the addition of FMI 2.0 for model exchange import and export, 
 **the recently released Simcenter Amesim 16 supports all existing continuous and discrete coupling modes of FMI**. 
 Moreover all Simcenter Amesim 2.0 FMUs can provide their directional derivatives. 
@@ -13,6 +11,8 @@ As a result, Simcenter Amesim's recognized frequency analysis capabilities becom
 within advanced FMI master or importing environments. These high-end FMI capabilities 
 make Simcenter Amesim one of the most interoperable system simulation tools and reflect 
 Siemens PLM Software's expertise and prominent role within the FMI Steering Committee. 
+
+![](Simcenter-Amesim-FMI.png)
 
 For its forthcoming product releases, Siemens PLM Software is working on other advanced FMI capabilities that pave the way towards large-scale and efficient heterogeneous simulations. 
 
