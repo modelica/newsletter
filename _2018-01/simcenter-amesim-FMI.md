@@ -25,4 +25,4 @@ specifically generated for compatible real-time targets. Supported hardware curr
 - Concurrent Simulation Workbench (32-bit and 64-bit)
 
 More will come, along with **the support of tunable parameters for online or virtual calibration**.
-For more information on Simcenter Amesim, please visit our [website](www.siemens.com/plm/simcenter-amesim ).
+For more information on Simcenter Amesim, please visit our [website]( https://www.siemens.com/plm/simcenter-amesim ).
