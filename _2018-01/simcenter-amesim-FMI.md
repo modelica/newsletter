@@ -16,15 +16,15 @@ Siemens PLM Software's expertise and prominent role within the FMI Steering Comm
 
 For its forthcoming product releases, Siemens PLM Software is working on other advanced FMI capabilities that pave the way towards large-scale and efficient heterogeneous simulations. 
 
-#### Support for FMI compatible real-time targets
+### Support for FMI compatible real-time targets
 With Simcenter Amesim 16, users can create and export real-time capable models directly as FMUs
 specifically generated for compatible multi-core and/or multi-processor real-time targets. Supported hardware currently includes:
 
-- dSPACE SCALEXIO
-- ETAS LABCAR (32-bit and 64-bit)
-- Concurrent Simulation Workbench (32-bit and 64-bit)
+* dSPACE SCALEXIO
+* ETAS LABCAR (32-bit and 64-bit)
+* Concurrent Simulation Workbench (32-bit and 64-bit)
 
 ![](Simcenter-Amesim-FMI2.png)
 
-More will come, along with **the support of tunable parameters for online or virtual calibration**.
+More will come, along with **the support of tunable parameters for online or virtual calibration**.  
 For more information on Simcenter Amesim, please visit our [website]( https://www.siemens.com/plm/simcenter-amesim ).
