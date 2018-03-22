@@ -4,7 +4,7 @@ author: "Dag Brück ([Dassault Systemes](http://www.3ds.com/dymola))"
 category: "vendor"
 ---
 
-![](sparse-solver-small.png)
+![](Dymola2018FD01-sparse-solver-small.png)
 
 We are delighted to announce that **Dymola 2018 FD01 was released on December 1, 2017**.
 
