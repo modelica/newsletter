@@ -18,7 +18,7 @@ For its forthcoming product releases, Siemens PLM Software is working on other a
 
 #### Support for FMI compatible real-time targets
 With Simcenter Amesim 16, users can create and export real-time capable models directly as FMUs
-specifically generated for compatible real-time targets. Supported hardware currently includes:
+specifically generated for compatible multi-core and/or multi-processor real-time targets. Supported hardware currently includes:
 
 - dSPACE SCALEXIO
 - ETAS LABCAR (32-bit and 64-bit)
