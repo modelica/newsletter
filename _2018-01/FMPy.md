@@ -1,11 +1,8 @@
 ---
 title: FMPy - simulate FMUs in Python
-author: Torsten Sommer
+author: Torsten Sommer ([Dassault Systémes](https://www.3ds.com/))
 category: library
 ---
-
-
-## FMPy
 
 FMPy is a free Python library to simulate Functional Mock-up Units (FMUs) that...
 
@@ -21,12 +18,12 @@ For more information on how to install FMPy and a short tutorial take a look at 
 You've found a problem or have a suggestion? Visit our [GitHub project](https://github.com/CATIA-Systems/FMPy) and open an issue.
 
 
-### Simulate an FMU in the Graphical User Interface
+#### Simulate an FMU in the Graphical User Interface
 
 ![FMPy GUI](FMPy/Rectifier_GUI.png)
 
 
-### Simulate an FMU in Python
+#### Simulate an FMU in Python
 
 ```
 >>> from fmpy import *
@@ -62,7 +59,7 @@ outputs             output        282.842712474619  V        Rectifier1.Capacito
 ![Rectifier Result](FMPy/Rectifier_result.png)
 
 
-### Simulate an FMU on the command line
+#### Simulate an FMU on the command line
 
 To get information about an FMU directly from the command line change to the folder where you've saved the
 FMU and enter
@@ -84,7 +81,7 @@ fmpy --help
 ```
 
 
-### Advanced Usage
+#### Advanced Usage
 
 To learn more about how to use FMPy in you own scripts take a look at the
 [examples](https://github.com/CATIA-Systems/FMPy/tree/master/fmpy/examples).
