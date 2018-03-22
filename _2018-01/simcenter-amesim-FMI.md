@@ -24,5 +24,7 @@ specifically generated for compatible multi-core and/or multi-processor real-tim
 - ETAS LABCAR (32-bit and 64-bit)
 - Concurrent Simulation Workbench (32-bit and 64-bit)
 
+![](Simcenter-Amesim-FMI2.png)
+
 More will come, along with **the support of tunable parameters for online or virtual calibration**.
 For more information on Simcenter Amesim, please visit our [website]( https://www.siemens.com/plm/simcenter-amesim ).
