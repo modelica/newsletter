@@ -1,6 +1,6 @@
 ---
 title: New version 3.9 of ESI’s SimulationX released
-author: Thomas Hofmann, [SimulationX] (https://www.simulationx.com/)
+author: Thomas Hofmann, [SimulationX](https://www.simulationx.com/)
 category: “vendor”
 ---
 
