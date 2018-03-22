@@ -1,6 +1,6 @@
 ---
 title: Simcenter Amesim 16 supports all FMI coupling modes
-author: "Bruno Loyer ([Siemens PLM Software](www.siemens.com/plm/simcenter-amesim ))"
+author: "Bruno Loyer ([Siemens PLM Software](http>//www.siemens.com/plm/simcenter-amesim ))"
 category: "vendor"
 ---
 
