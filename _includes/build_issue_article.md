@@ -2,7 +2,7 @@
 {% assign cat = include.category %}
 {% assign section  = include.section %}
 
-{% assign cat_posts = ((site.[name] | where:"category", cat %}
+{% assign cat_posts = ((site.[name] | where:"category", cat | sort:"date" | reverse %}
 
 {% if cat_posts.size > 0 %}
 ## {{ section }}
