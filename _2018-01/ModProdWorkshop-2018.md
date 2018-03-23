@@ -10,13 +10,13 @@ was successfully held at Linköping University, Linköping, Sweden, February 6-7
 
 Four tutorials were held in the morning the first day on the topics:
 
--Introduction to Modelica modeling, debugging, optimization
--FMI for composite modeling, co-simulation and model-exchange
--Using system anatomies to understand complex systems
--requirement  modelling and verification
+- Introduction to Modelica modeling, debugging, optimization
+- FMI for composite modeling, co-simulation and model-exchange
+- Using system anatomies to understand complex systems
+- requirement  modelling and verification
 
 
-The program and presentations are available from: [link](http://www.modprod.liu.se/)
+The program and presentations are available from [the ModProd website](http://www.modprod.liu.se/)
 
 
 ![](https://openmodelica.github.io/OpenModelica-Resources/images/2018-0207-Keynote-Sebastian-Engell-IMG_0303.medium.jpg)  
