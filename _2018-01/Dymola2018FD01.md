@@ -6,7 +6,7 @@ category: "vendor"
 
 ![](Dymola2018FD01-sparse-solver-small.png)
 
-We are delighted to announce that **Dymola 2018 FD01 was released on December 1, 2017**.
+Speed up your simulations with the newest Dymola version **Dymola 2018 FD01**.
 
 #### Modeling and simulation
 
