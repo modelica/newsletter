@@ -26,7 +26,7 @@ user-oriented presentations like those found at typical NAMUG events over the la
 do not need to be accompanied by a full scientific paper. The abstracts for the presentations will also
 be peer-reviewed by the conference board. 
 
-### Free Workshops October 8th
+#### Free Workshops October 8th
 
 Thanks to the generous support from MERL (Mitsubishi Electric Research Lab), NAMUG
 will organize two **free Modelica workshops, Monday, October 8th** (before the conference).  These workshops
