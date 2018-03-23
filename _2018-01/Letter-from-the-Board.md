@@ -12,7 +12,7 @@ will be the editor and organizer of the newsletters. The plan is to have three r
 Since Modelica Association is migrating to "Software-as-a-Service" platforms to minimize our maintenance burden,  the legacy Modelica Association Newsletter application is replaced by a new GitHub based publishing process.
 
 The Modelica Association board was newly elected on March 21, for the coming two years period.
-The new board is identical to the previous board with the following exceptions:
+The [new board](https://www.modelica.org/association) is identical to the previous board with the following exceptions:
 
 - Hilding Elmqvist, one of the founders of the Modelica Association,
   did not longer apply for the *Technology* board position. In an email to the 
