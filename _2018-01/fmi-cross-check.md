@@ -21,8 +21,8 @@ importing FMUs from other tools.  In this way, each vendor repository is a more 
 each vendor is managing the repository themselves, the Modelica Association doesn't need to get involved
 in the management of users, permissions, *etc.*.
 
-To facilitate this process, the Modelica Association established the [`fmi-crosscheck` organization]
-(https://github.com/fmi-crosscheck) on GitHub.  Each vendors existing FMI data was broken out into
+To facilitate this process, the Modelica Association established the [`fmi-crosscheck` organization](https://github.com/fmi-crosscheck)
+on GitHub.  Each vendors existing FMI data was broken out into
 individual vendor-specific repositories.  Furthermore, these repositories use a technology called 
 [webhooks](https://developer.github.com/webhooks/) to signal when they have been updated.  Using these
 webhooks, the entire process of generating the FMI web site has been automated.  Now, when any vendor
@@ -38,7 +38,11 @@ long tables and horizontal scrollbars, the new dynamic visualization encourages 
 filter and zoom to explore the data which generally fits on a single page.  Users can even bookmark
 specific search, filter and selection settings and/or email their results to others as a single URL.
 
-If you are a vendor and you have not yet taken ownership of your new repository, please [contact me]
-(mailto:michael.tiller@gmail.com) so you can be added as an admin to your repository.  A preview of
-the new dynamic web site can be found at [https://preview.fmi-standard.org](https://preview.fmi-standard.org).
+If you are a vendor and you have not yet taken ownership of your new repository, please [contact me](mailto:michael.tiller@gmail.com) so you can be added as an admin to your repository.  A preview of
+the new dynamic web site can be found at [https://preview.fmi-standard.org](https://preview.fmi-standard.org/tools/).
 If you find any issues, please report them in the [`fmi-crosscheck-tools` issue tracker](https://github.com/modelica/fmi-crosscheck-tools/issues).
+
+All source code associated with the new FMI cross check process can be found in the [`fmi-crosscheck-tools` repository](https://github.com/modelica/fmi-crosscheck-tools).  This includes the scripts that process the data,
+the code that is used to dynamically visualize the data as well as the source code for the build server that
+handles webhook notifications and pushes out new published versions of the FMI web site.  If you are interested
+in improving the cross check process, we welcome contributions via pull requests for the tools in that repository.
