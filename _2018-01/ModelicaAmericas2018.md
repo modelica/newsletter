@@ -9,8 +9,7 @@ category: “association”
 
 The American Modelica Conference 2018 will be held at the Samberg Conference Center in Cambridge/Boston, MA, USA from **October 9 - 10, 2018**. It is organized by the Modelica Association and the North American Modelica User Group NAMUG.
 
-Registration is already open with early bird discounts available until August 20th at [Eventbrite][Eventbrite site].
-[Eventbrite site]: https://www.eventbrite.com/e/the-american-modelica-conference-2018-tickets-39188362447
+Registration is already open with early bird discounts available until August 20th at [Eventbrite] (https://www.eventbrite.com/e/the-american-modelica-conference-2018-tickets-39188362447)
 
 The Modelica Conference is the main event for users, library developers, tool vendors and researchers to share their knowledge and 
 learn about the latest scientific and industrial progress related to Modelica and to the Functional Mockup Interface (FMI). 
