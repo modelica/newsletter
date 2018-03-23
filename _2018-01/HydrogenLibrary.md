@@ -4,7 +4,7 @@ author: "Imke Krüger ([Dassault Systemes](https://www.3ds.com/))"
 category: "library"
 ---
 
-![](Hydrogen-image.png)
+![](Hydrogen-image.png){:width="70%"}
 
 The Hydrogen library is targeted at modeling and simulation of PEM fuel cell stacks and
 fuel cell systems using hydrogen and air. It may be used for pre-design, control strategy
