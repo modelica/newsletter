@@ -7,8 +7,7 @@ category: "vendor"
 ![](Free-Downloads-Dassault-Systemes-whitepaper-cropped.png)
 
 
-Dassault Systèmes offers ( [free webinars, whitepapers and tools](https://www.3ds.com/products-services/catia/products/dymola/free-downloads/) )
-for the Modelica and FMI communities.
+Dassault Systèmes offers [free webinars, whitepapers and tools](https://www.3ds.com/products-services/catia/products/dymola/free-downloads/) for the Modelica and FMI communities.
 
 #### Webinars
 
