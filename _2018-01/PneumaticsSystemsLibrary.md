@@ -26,6 +26,6 @@ As an example, the following model represents two single-acting cylinders with s
 
 This example covers the main physical effects involved into pneumatics: capacitance as the gas volume inside the cylinder, restriction as the inlet flow restriction into the cylinder and transformation as the cylinder converts pneumatic into mechanic power.
 
-As the example uses a one-sided cylinder, cushioning only happens on the left side of the cylinder actuation. When the piston enters in the cushioning zone (below the green line), the cylinder with cushioning (red plot) receives less mass flow rate from the inlet port and thus its speed decreases regarding the top cylinder (blue plot).
+As the example uses a one-sided cylinder, cushioning only happens on the left side of the cylinder actuation. When the piston enters the cushioning zone (below the green line), the cylinder with cushioning (red plot) receives less mass flow rate from the inlet port and thus its speed decreases regarding the top cylinder (blue plot).
 
 ![](PneumaticSystemsLibrary-cushioning-result.png "Pneumatic Systems Example Result")
