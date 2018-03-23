@@ -1,5 +1,5 @@
 ---
-title: "Free Downloads from Dassault Systèmes"
+title: "Free Downloads from Dassault Systemes"
 author: "Dag Brück ([Dassault Systemes](http://www.3ds.com/dymola))"
 category: "vendor"
 ---
