@@ -8,6 +8,6 @@ A new project proposal called PDE (partial differential equations) for Systems w
 
 ![](WorkflowPDEForSystems.png)
 
-The project is supposed to be driven by a collection of use cases which in particular demonstrate the added value of such a standardized interface component and attract industry and commercial PDE-tool vendors.  Everyone who feels appealed by the project idea is strongly requested to submit use case candidates similar to the use case [Health Monitoring of Composite](https://github.com/modelica/pde-for-systems/blob/master/use-cases/healt-monitoring-of-composite.md) to the [repository](https://github.com/modelica/pde-for-systems/tree/master/use-cases), preferably by 1. June 2018.
+The project is supposed to be driven by a collection of use cases which in particular demonstrate the added value of such a standardized interface component and attract industry and commercial PDE-tool vendors.  Everyone who feels appealed by the project idea is strongly requested to submit use case candidates similar to the use case [Health Monitoring of Composite](https://github.com/modelica/pde-for-systems/blob/master/use-cases/healt-monitoring-of-composite.md) to the [repository](https://github.com/modelica/pde-for-systems/tree/master/use-cases), preferably by June 1, 2018.
 
 Contact: Dr. Andreas Heckmann, DLR, Institute of System Dynamics and Control, andreas.heckmann@dlr.de 
