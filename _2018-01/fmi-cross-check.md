@@ -1,7 +1,7 @@
 ---
 title: Updated FMI Cross Check Process 
 author: Michael M. Tiller ([Xogeny](https://www.xogeny.com))
-category: modelica-association
+category: association
 ---
 
 The FMI project collects and publishes so-called "cross check" data.  As part of this process, each vendor
