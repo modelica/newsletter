@@ -4,7 +4,7 @@ author: "Leo Gall [LTX Simulation GmbH](http://www.ltx.de/)"
 category: "education"
 ---
 
-![ltx training image](Training_LTXSimulation.png)
+<img src="Training_LTXSimulation.png" width="550" >
 
 In the upcoming months, LTX Simulation GmbH offers the following 2-day training classes for Dymola and Modelica in German language (in English on request) at our office in Munich:
 
