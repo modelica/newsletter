@@ -2,7 +2,7 @@
 index: true
 hidden: true
 layout: default
-title: "Some articles missing? v6"
+title: "Some articles missing? v7"
 name: "2018-01"
 ---
 {% assign pages = site.[page.name] %}
@@ -20,5 +20,4 @@ name: "2018-01"
 {% else %}
 - {{ page.path }} ok...
 {% endif %}
-{% endunless %}
 {% endfor %}
