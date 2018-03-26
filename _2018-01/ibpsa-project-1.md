@@ -1,7 +1,7 @@
 ---
 title: IBPSA Project 1 Expert Meeting in Berlin
 author: "Michael Wetter ([Lawrence Berkeley National Laboratory](http://simulationresearch.lbl.gov/modelica))"
-category: "projects"
+category: "association"
 ---
 
 On February 27 and 28, 2018, the IBPSA Project 1 held its first Expert Meeting at the UdK Berlin, hosted by Christoph Nytsch-Geusen.
