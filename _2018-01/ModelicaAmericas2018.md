@@ -1,7 +1,7 @@
 ---
 title: American Modelica Conference 2018, October 9 - 10, 2018 
 author: Hubertus Tummescheit, [Modelon](https://www.modelon.com/)
-category: “association”
+category: "association"
 ---
 
 ![](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F36908542%2F232427334571%2F1%2Foriginal.jpg?w=800&rect=0%2C149%2C1486%2C743&s=11377e10a546a2aeb2884502bfaba381)
