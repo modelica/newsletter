@@ -8,9 +8,10 @@ name: "2018-01"
 {% assign pages = site.[page.name] %}
 {% for page in pages %}
 
-{% if page.category !="association" and page.category != "vendor" and page.category != "library" and page.category != "project" and page.category != "association") %}
+{% if page.category !="association" and page.category != "vendor" and page.category != "library" and page.category != "project" and page.category != "association" %}
 
-- {{ page.path }}
 
-{% endif %}
+- {{ page.path }} ok...
+
+
 {% endfor %}
