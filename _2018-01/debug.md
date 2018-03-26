@@ -5,7 +5,14 @@ layout: default
 title: "Some articles missing? v7"
 name: "2018-01"
 ---
-{% include build_email_list_category.md section="Modelica Association" category="association" %}
-{% include build_email_list_category.md section="Vendor news" category="vendor" %}
-{% include build_email_list_category.md section="New libraries and library updates" category="library" %}
-{% include build_email_list_category.md section="News in education" category="education" %}
+
+{% assign name = page.name %}
+{% assign cat = include.category %}
+{% assign section  = include.section %}
+
+{% for page in site.[name] %}
+{% assign inCat = page.category == "association" or page.category == "vendor" or page.category == "library" %}
+{% if page.index != true and hidden != true %}
+* [{{ page.title }}]({{site.url}}/{{ name }}/index.html#{{ page.title | slugify }})
+{% endif %}
+{% endfor %}
