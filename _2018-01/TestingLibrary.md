@@ -10,7 +10,9 @@ stage by running regular tests. The library contains multiple blocks for the con
 comparison of signals to reference values and trajectories. Existing examples and test
 models can easily be converted to a test case by providing a reference and connecting the
 signals of interest to one of the various comparison blocks.
+
 ![](TestingLibrary_LossyGearDemo.png){:width="250px"}
+
 Test models can be simulated as any other model. At the end of the simulation the
 message window shows the test result for every check block in the model.
 This allows the developer to check regularly during the development if the tests class behaves as expected.
