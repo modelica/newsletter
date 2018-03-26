@@ -11,7 +11,7 @@ As an example, part of a generic aircraft electric power system architecture, pr
 The power generation is realized thanks to the aircraft engines connected directly to Variable Frequency Starter Generators. The VFSGs convert the mechanical power into electrical power. The electrical power is then distributed to the consumers through High Voltage AC bus bar and DC bus bars.
 Typical loads on the system are, for example: Environmental Control System (ECS), Electro-Mechanical Actuators (EMA), Wing Icing Protection System.
  
-![](EPSL-MOET.png)
+![](EPSL-MOET.PNG)
 
 This architecture considers a large aircraft with four engines. The circuit associated to the first generator is illustrated in the figure above.
 
