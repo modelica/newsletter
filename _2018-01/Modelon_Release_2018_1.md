@@ -1,6 +1,6 @@
 ---
-title: Modelon Announces Release of 2018.1
-author: Jesse Gohl, [Modelon](http://www.modelon.com)
+title: "Modelon Announces Release of 2018.1"
+author: "Jesse Gohl, [Modelon](http://www.modelon.com)"
 categor: "vendor"
 ---
 <a href="http://www.modelon.com"><img src="Modelon_2011_Flat_RGB.png" width="452" height="130" class="" alt=""></a>
