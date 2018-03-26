@@ -1,4 +1,4 @@
-## Table of contents
+# Table of contents
 {:.no_toc}
 
 * seed TOC list
