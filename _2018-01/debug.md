@@ -12,9 +12,9 @@ name: "2018-01"
 
 {% for page in site.[name] %}
 {% assign inCat = page.category == "association" or page.category == "vendor" or page.category == "library" %}
-{% if page.index != true and hidden != true %}
+{% if page.index != true %}
 {% unless inCat %}
-* {{ page.title }}
+* {{ page.path }} {% if page.hidden %} HIDDEN {% endif %}
 {% endunless %}
 {% endif %}
 {% endfor %}
