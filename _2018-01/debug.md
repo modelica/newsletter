@@ -9,8 +9,9 @@ name: "2018-01"
 {% assign name = page.name %}
 
 {% for page in site.[name] %}
-{% assign outCat = page.category != "association" and page.category != "vendor" and page.category != "library" %}
-{% if page.index != true and outCat == true %}
-* {{ page.path }} {% if page.hidden %} HIDDEN {% endif %}
+{% if page.index != true %}
+{% if page.category != "association" and page.category != "vendor" and page.category != "library" %}
+* error at {{ page.path }} {% if page.hidden %} HIDDEN {% endif %}
+{% endif %}
 {% endif %}
 {% endfor %}
