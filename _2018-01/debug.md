@@ -13,6 +13,8 @@ name: "2018-01"
 {% for page in site.[name] %}
 {% assign inCat = page.category == "association" or page.category == "vendor" or page.category == "library" %}
 {% if page.index != true and hidden != true %}
-* [{{ page.title }}]({{site.url}}/{{ name }}/index.html#{{ page.title | slugify }})
+{% unless inCat %}
+* {{ page.title }}
+{% endunless %}
 {% endif %}
 {% endfor %}
