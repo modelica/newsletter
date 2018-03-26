@@ -38,7 +38,7 @@ In October last year, MA had a one-day Modelica Association Strategy Meeting to 
 - The MA newsletter is reactivated with a new newsletter editor and a new technical infrastructure.
 
 - The FMI cross check results are currently moved to a modern infrastructure
-  designed and implemented by Michael Tiller, see [article below](fmi-cross-check).
+  designed and implemented by Michael Tiller, see [article below](#updated-fmi-cross-check-process).
 
 - The MA bylaws will be slightly adapted in the near future, in particular to allow voting and anonymous
   elections via teleconference services, so that physical presence at a meeting is no
