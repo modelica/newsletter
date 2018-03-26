@@ -12,5 +12,5 @@ name: "2018-01"
 
 - {{ page.path }}
 
-
+{% endif %}
 {% endfor %}
