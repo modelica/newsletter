@@ -6,8 +6,6 @@ category: "vendor"
 
 ![](Modelon_2011_Flat_RGB_129.png)
 
-<a href="http://www.modelon.com"><img src="Modelon_2011_Flat_RGB.png" width="452" height="130" class="" alt=""></a>
-
 Modelon is pleased to announce the release of 2018.1 for products within the <a href="http://www.modelon.com/products/modelon-library-suite/" title="Opens internal link in current window" class="internal-link">Modelon Library Suite</a>, <a href="http://www.modelon.com/products/modelon-creator-suite/" title="Opens internal link in current window" class="internal-link">Modelon Creator Suite</a>, and <a href="http://www.modelon.com/products/modelon-deployment-suite/" title="Opens internal link in current window" class="internal-link">Modelon Deployment Suite</a>. Detailed release notes are available and can be found on the individual product pages as well as clicking the links below.&nbsp; 
 
 As part of our multi-platform strategy Modelon libraries are compliant in Dymola, OPTIMICA, Simplorer, IGNITE, and MapleSim. 
@@ -15,8 +13,6 @@ As part of our multi-platform strategy Modelon libraries are compliant in Dymola
 Updated versions of Modelon products are only sold and distributed directly from Modelon, as well as approved <a href="http://www.modelon.com/about-modelon/contact/resellers/" title="Opens internal link in current window" class="internal-link">resellers</a>.<a href="http://www.modelon.com/about-modelon/contact/sales-and-inquiries/" title="Opens internal link in current window" class="internal-link"> Contact us directly</a> to update your Modelon software! 
 
 ![](Modelon_Library_Suite_logo_129.png)
-
-<a href="http://www.modelon.com/products/modelon-library-suite/"><img src="Modelon_Library_Suite_logo.png" width="300" height="164" class="" alt=""></a>
 
 2018.1 includes updates to the following libraries within the Modelon Library Suite:
 
@@ -37,15 +33,11 @@ Updated versions of Modelon products are only sold and distributed directly from
 
 ![](Modelon_Creator_Suite_Logo_129.png)
 
-<a href="http://www.modelon.com/products/modelon-creator-suite/"><img src="Modelon_Creator_Suite_Logo.png" width="300" height="170" class="" alt=""></a>
-
 2018.1 includes updates to the following products within the Modelon Creator Suite:
 - <a href="http://www.modelon.com/products/optimica-compiler-toolkit-release-information/" title="Opens internal link in current window" class="internal-link">OPTIMICA Compiler Toolkit v1.2</a>
 - <a href="http://www.jmodelica.org/" title="Opens external link in new window" target="_blank" class="external-link-new-window">JModelica 2.2</a>
 
 ![](Modelon_Deployment_Suite_logo_129.png)
-
-<a href="http://www.modelon.com/products/modelon-deployment-suite/"><img src="Modelon_Deployment_Suite_logo.png" width="300" height="145" class="" alt=""></a>
 
 2018.1 includes updates to the following product within the Modelon Deployment Suite:
 - <a href="http://www.modelon.com/products/modelon-deployment-suite/fmit-toolbox-for-matlabsimulink-release-information/" title="Opens internal link in current window" class="internal-link">FMI Toolbox v2.6.3</a>
