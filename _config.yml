@@ -1,9 +1,9 @@
 theme: jekyll-theme-tactile
 google_analytics: UA-114571919-1
 current-contribution-url: "https://github.com/modelica/newsletter/tree/master/_2018-01"
-contribution-open: true
-contribution-deadline: 23 March
-current-newsletter-date: 02 April
+contribution-open: false
+contribution-deadline: 20 July
+current-newsletter-date: 03 April
 baseurl: /
 url: "https://newsletter.modelica.org"
 collections:
