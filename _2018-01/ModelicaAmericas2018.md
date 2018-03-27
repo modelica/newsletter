@@ -39,6 +39,4 @@ modeling of thermo-fluid systems using applications from the Buildings Library i
 
 We are looking forward to seeing you in Cambridge, MA.
 
-*Dr. Michael Tiller* and Associate Professor *Luigi Vanfretti*, PhD
-
-General Chair (Xogeny) and Program Chair (Rensselaer Polytechnical Institute)
+*Dr. Michael Tiller* and Associate Professor *Luigi Vanfretti*, PhD, General Chair (Xogeny) and Program Chair (Rensselaer Polytechnical Institute)
