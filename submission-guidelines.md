@@ -6,6 +6,28 @@ description: How to contribute to the newsletter
 ## Scope
 The scope of the newsletter include all topics covered by the [Modelica Association](https://www.modelica.org) (Modelica language, libraries, FMI, SSP), related tools and news in education (courses, books and related materials).
 
+## subscribe to the contributors mailing
+We would let you know, when the next newsletter is prepared.
+
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://modelica.us12.list-manage.com/subscribe/post?u=0be901f875b69817eddd7e71b&amp;id=cba4cad140" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL">Subscribe to contributors mailing list</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_0be901f875b69817eddd7e71b_cba4cad140" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
 ## Process
 Everyone is welcome to contribute a post to the Modelica newsletter, however the editor holds the right to decline a contribution without reason. The submission is done by creating a pull request to the dedicated newsletter repository.
 {% if site.contribution-open %}
@@ -54,20 +76,22 @@ in the source would not create separate paragraphs. Please use empty line betwee
     Second paragraph    
     with hard break - note the four spaces at the end of the upper line
 
-### Text style
+### Text style and hyperlinks
 You can use **emphasize** by double asterisks (`**emphasize**`) or *italics* using single asterisks (`*italics*`).
 
-It is easy to create [hyperlinks](https://en.wikipedia.org/wiki/Hyperlink) (as `[hyperlinks](https://en.wikipedia.org/wiki/Hyperlink)`)
+It is easy to create [hyperlinks](https://en.wikipedia.org/wiki/Hyperlink) (as `[hyperlinks](https://en.wikipedia.org/wiki/Hyperlink)`). Caution, not-tagged links are not generated, e.g. https://modelica.org/ will stay exactly as written (even though the GitHub's *Preview changes* shows them as links)
 
 ### Images
-Each post is welcome to have at least one image. If you commit the image together with your post, you can link it relatively, i. e.
+Each post is welcome to have one or more images. For a single image, please keep the image size 620x400px or below. When useing multiple images, please try to occupy as low vertical space as possible. If required, you can link to the full size image. 
 
-    ![](logo.jpg)
+If you commit the image together with your post, you can link it relatively, i. e.
 
-or if the image resides online, you can also provide an absolute address, e.g.
+    ![Alt text](logo.jpg 'Title text')
+
+The alt and title text could be ommitted. Or if the image resides online, you can also provide an absolute address, e.g.
 
     ![](https://modelica.org/logo.jpg)
-    
+
 Please keep in mind, that the folder is shared for the whole issue and name the images specifically to your post to avoid collisions with contrbutions of others. E.g. if you post name is `new-version-of-FMI` use `new-version-of-FMI-logo.png` instead of just `logo.png` to avoid conflicts.
     
 ### Headings
