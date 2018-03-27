@@ -24,6 +24,10 @@
           <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
           {% if page.index %}
           <p> <BR /><a href="../">Modelica Association Newsletter</a>, issued on {{ page.date | date_to_long_string }}</p>
+          {% elsif page.mainpage %}
+          <!-- Keep clear -->
+          {% else %}
+          <p> <BR />{{ page.description }}</p>
           {% endif %}
         </header>
         <hr>
