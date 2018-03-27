@@ -1,7 +1,7 @@
 ---
 title: Letter from the Board
 author: "Martin Otter ([Modelica Association](https://www.modelica.org/))"
-category: "association"
+category: "letter"
 ---
 
 Dear Modelica and FMI interested,
