@@ -7,7 +7,7 @@ category: "letter"
 Dear Modelica and FMI interested,
 
 the Modelica Association (MA) is restarting its newsletter.
-We are happy that Filip Ježek - one of the organizers of the Modelica'2017 conference in Prague -
+We are happy that [Filip Ježek](mailto:filip.jezek@creativeconnections.cz) - one of the organizers of the Modelica'2017 conference in Prague -
 will be the editor and organizer of the newsletters. The plan is to have three releases per year. Furthermore, the technical infrastructure for the newsletter has changed: 
 Since Modelica Association is migrating to "Software-as-a-Service" platforms to minimize our maintenance burden,  the legacy Modelica Association Newsletter application is replaced by a new GitHub based publishing process.
 
