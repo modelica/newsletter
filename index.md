@@ -5,6 +5,8 @@ layout: default
 
 The Modelica Association newsletter informs the audience about news related to Modelica. You can [subscribe](http://eepurl.com/dpvVdH) to receive the newsletter as well.
 
+Contributions are open to everyone, please see the [submission guidelines](submission-guidelines.html) for details.
+
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -25,10 +27,6 @@ The Modelica Association newsletter informs the audience about news related to M
 </div>
 
 <!--End mc_embed_signup-->
-
-
-Contributions are open to everyone, please see the [submission guidelines](submission-guidelines.html) for details.
-
 
 ## Newsletters
 here is the sorted set of all sample pages:
