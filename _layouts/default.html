@@ -26,6 +26,7 @@
           <p> <BR /><a href="../">Modelica Association Newsletter</a>, issued on {{ page.date | date: "%b %d, %y" }} or on {{ page.date | date_to_long_string }}</p>
           {{ assign col = page.collection }}
           {{ page.date }} or {{ col.date }} or {{ site.[col].date }}
+          oh snap..  {{ site.[col] | inspect }}
           {% endif %}
         </header>
         <hr>
