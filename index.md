@@ -4,14 +4,12 @@ layout: default
 mainpage: true
 ---
 
-The Modelica Association newsletter informs the audience about news related to Modelica. You can [subscribe](http://eepurl.com/dpvVdH) to receive the newsletter as well.
-
-Contributions are open to everyone, please see the [submission guidelines](submission-guidelines.html) for details.
+The [Modelica Association] newsletter informs the audience about all topics covered by the Modelica Association (Modelica language, FMI, SSP), libraries, related projects and tools and news in education (courses, books and related materials). You can [subscribe](http://eepurl.com/dpvVdH) to receive the newsletter as well.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;margin:2em}
 	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
@@ -28,6 +26,8 @@ Contributions are open to everyone, please see the [submission guidelines](submi
 </div>
 
 <!--End mc_embed_signup-->
+    
+Contributions are open to everyone, please see the [submission guidelines](submission-guidelines.html) for details.
 
 ## Newsletters
 here is the sorted set of all sample pages:
