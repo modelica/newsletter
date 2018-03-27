@@ -1,6 +1,6 @@
 ---
 title: Pneumatic Systems Library
-author: "Dr. Clément Coïc ([Dassault Systèmes Deutschland GmbH](https://www.3ds.com/)) and Maximilian Kormann ([Dassault Systèmes Deutschland GmbH](https://www.3ds.com/))"
+author: "Dr. Clément Coïc and Maximilian Kormann ([Dassault Systèmes Deutschland GmbH](https://www.3ds.com/))"
 category: "library"
 ---
 
