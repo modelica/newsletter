@@ -12,9 +12,8 @@ You can also [view the web version]({{site.url}}/{{page.collection}}).
 {% unless page.hidden or page.index %}
 ## {{ page.title }}
 {{ page.content | markdownify }}
-{% if page.author %}
-*This article is provided by {{ page.author }}*  
-{% endif %}
-
+{% if page.author %} *This article is provided by {{ page.author }}*  {% endif %}
+{% endunless %}
+{% endfor %}
 
 *[Read the rest of the newsletter on the web]({{site.url}}/{{page.collection}})*
