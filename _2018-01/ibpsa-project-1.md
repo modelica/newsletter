@@ -24,4 +24,4 @@ from
 
 The next meeting will be in fall in Paris, organized by Engie.
 
-For more information about the project, visit https://ibpsa.github.io/project1/index.html
+For more information about the project, visit [ibpsa.github.io/project1/](https://ibpsa.github.io/project1/index.html)
