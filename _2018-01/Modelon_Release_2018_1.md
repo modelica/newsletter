@@ -43,4 +43,4 @@ Updated versions of Modelon products are only sold and distributed directly from
 
 <h4><a href="http://www.modelon.com/about-modelon/contact/sales-and-inquiries/" title="Opens internal link in current window" class="internal-link">Contact us to receive 2018.1 updates!</a></h4>
 
-<a href="http://web.modelon.com/cn/aavt4/subscribe-newsletter" title="Opens external link in new window" target="_blank" class="external-link-new-window">Subscribe to our mailing list&nbsp;</a>to receive future information about product releases in your inbox.</a>
+<a href="http://web.modelon.com/cn/aavt4/subscribe-newsletter" title="Opens external link in new window" target="_blank" class="external-link-new-window">Subscribe to our mailing list&nbsp;</a>to receive future information about product releases in your inbox.
