@@ -40,5 +40,3 @@ Updated versions of Modelon products are only sold and distributed directly from
 
 2018.1 includes updates to the following product within the Modelon Deployment Suite:
 - <a href="http://www.modelon.com/products/modelon-deployment-suite/fmit-toolbox-for-matlabsimulink-release-information/" title="Opens internal link in current window" class="internal-link">FMI Toolbox v2.6.3</a>
-
-<a href="http://www.modelon.com/about-modelon/contact/sales-and-inquiries/" title="Opens internal link in current window" class="internal-link">Contact us to receive 2018.1 updates!</a>
