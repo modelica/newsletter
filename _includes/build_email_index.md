@@ -16,4 +16,7 @@ You can also [view the web version]({{site.url}}/{{page.collection}}).
 {% endunless %}
 {% endfor %}
 
+   
+
 *[Read the rest of the newsletter on the web]({{site.url}}/{{page.collection}})*
+{: style="text-align: center;"}
