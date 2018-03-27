@@ -4,7 +4,7 @@
 
 {% assign cat_posts = ((site.[name] | where:"category", cat | sort:"date" | reverse %}
 
-{% if cat_posts.size > 0 %}
+{% if cat_posts.size > 0 and cat != "letter" %}
 # {{ section }}
 {% endif %}
 
