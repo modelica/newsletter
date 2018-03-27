@@ -1,6 +1,7 @@
 ---
 title: Modelica Association Newsletters
 layout: default
+mainpage: true
 ---
 
 The Modelica Association newsletter informs the audience about news related to Modelica. You can [subscribe](http://eepurl.com/dpvVdH) to receive the newsletter as well.
