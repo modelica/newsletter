@@ -7,13 +7,7 @@ current-newsletter-date: 02 April
 baseurl: /
 url: "https://newsletter.modelica.org"
 collections:
-  2015-03:
-    permalink: /:collection/:path
-    title: Old newsletter
-    date: 2015-11-04
-    output: true
   2018-01:
     permalink: /:collection/:path
     title: First release!
-    date: 2018-04-02
     output: true
