@@ -4,10 +4,10 @@ layout: default
 description: How to contribute to the newsletter
 ---
 ## Scope
-The scope of the newsletter include all topics covered by the [Modelica Association](https://www.modelica.org) (Modelica language, libraries, FMI, SSP), related tools and news in education (courses, books and related materials). [Subscribe to the Newsletter Contributors mailing list](http://eepurl.com/dpvIVP), so we would let you know, when the next newsletter is being prepared.
+The scope of the newsletter include all topics covered by the [Modelica Association](https://www.modelica.org) (Modelica language, libraries, FMI, SSP), related tools and news in education (courses, books and related materials). 
 
 ## Process
-Everyone is welcome to contribute a post to the Modelica newsletter, however the editor holds the right to decline a contribution without reason. The submission is done by creating a pull request to the dedicated newsletter repository.
+[Everyone is welcome](http://eepurl.com/dpvIVP) to contribute a post to the Modelica newsletter, however the editor holds the right to decline a contribution without reason. The submission is done by creating a pull request to the dedicated newsletter repository.
 {% if site.contribution-open %}
 
 The submissions are currently open! The deadline for contributions to the current issue is **{{ site.contribution-deadline }}**. The newsletter would be published on **{{ site.current-newsletter-date }}**.
@@ -29,6 +29,8 @@ Please note, that all your contributions are public from the beginning for anyon
   {% else %}
 
 *The contributions are closed right now*
+
+[Subscribe to the Newsletter Contributors mailing list](http://eepurl.com/dpvIVP), so we would let you know, when the next newsletter is being prepared.
 
 {% endif %}
 
