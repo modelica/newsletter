@@ -13,7 +13,7 @@ comparison of signals to reference values and trajectories. Existing examples an
 models can easily be converted to a test case by providing a reference and connecting the
 signals of interest to one of the various comparison blocks.
 
-![](TestingLibrary_LossyGearDemo.png){:width="250px"}
+![](TestingLibrary_LossyGearDemo.png)
 
 Test models can be simulated as any other model. At the end of the simulation the
 message window shows the test result for every check block in the model.
