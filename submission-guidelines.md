@@ -1,7 +1,7 @@
 ---
 title: Submission guidelines
 layout: default
-description: How to contribute to the newsletter
+description: How to contribute to the [Modelica Association newsletter](./)
 ---
 ## Scope
 The scope of the newsletter include all topics covered by the [Modelica Association](https://www.modelica.org) (Modelica language, libraries, FMI, SSP), related tools and news in education (courses, books and related materials). 
