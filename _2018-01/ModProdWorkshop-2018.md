@@ -17,5 +17,5 @@ Four tutorials were held in the morning the first day on the topics:
 
 The program and presentations are available from [the ModProd website](http://www.modprod.liu.se/)
 
-| ![](https://openmodelica.github.io/OpenModelica-Resources/images/2018-0207-Keynote-Sebastian-Engell-IMG_0303.medium.jpg)  | ![](https://openmodelica.github.io/OpenModelica-Resources/images/2018-0207-Keynote-Janos-Sztipanovits-IMG_0306.medium.jpg) |
+| ![](2018-0207-Keynote-Sebastian-Engell-IMG_0303.medium.jpg)  | ![](2018-0207-Keynote-Janos-Sztipanovits-IMG_0306.medium.jpg) |
 | Sebastian Engell (Technical University of Dortmund, Germany) gives his MODPROD keynote on“Challenges in the Engineering and Management of Cyber-physical Systems of Systems”. | Janos Sztipanovits (Vanderbilt University, USA) presents his keynote on “Integration platforms for the Model-Based Design of Cyber-Physical Systems”. |
