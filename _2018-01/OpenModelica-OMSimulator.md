@@ -17,5 +17,3 @@ The following are highlights of OMSimulator 2.0:
 * Distributed simulations utilizing TLM master algorithm
 * Increased numerical stability during co-simulation in various applications due to TLM connectors
 * SSP (System Structure and Parameterization) support for composite models
-
-![OMEdit, TLM 3D view](https://openmodelica.github.io/OpenModelica-Resources/images/2018-OpenModelica-OMSimulator-TLM.jpg)
