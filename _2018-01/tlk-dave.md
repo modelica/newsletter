@@ -14,9 +14,9 @@ DaVE is TLK's software tool to visualize and analyze transient **measurement** a
 - Opening different data file formats like Dymola result files, csv and FMUs.
 - Exporting data e.g. via your own Python script or directly to csv and pdf.
 - Simulating online with TISC, CAN, HiL or offline with FMUs.
-- Visualizing data by the use vector-line plots, thermal state charts (optional module) and many other instruments.
+- Visualizing data using vector-line plots, thermal state charts (optional module) and many other instruments.
 
-The latest version 1.7.0 contains many new features to make simulation and its post-processing a lot easier and more efficient. One of those improvements is the optional **P&I Flow Diagram** module. This tool allows you to setup a visual model of your system by the use of pre-existing or self-made Icons (Nodes). You can connect your simulation or measurement data to the P&I Flow Diagram and easily monitor your system’s behavior.
+The latest version 1.7.0 contains many new features to make simulation and its post-processing a lot easier and more efficient. One of those improvements is the optional **P&I Flow Diagram** module. This tool allows you to setup a visual model of your system by the use of pre-existing or self-made icons (nodes). You can connect your simulation or measurement data to the P&I Flow Diagram and easily monitor your system’s behavior.
 
 **The latest version 1.7.0** of DaVE contains the following improvements and features:
 - Improved **simulation speed and handling of FMUs** within DaVE.
