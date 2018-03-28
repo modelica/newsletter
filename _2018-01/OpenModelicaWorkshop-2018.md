@@ -16,4 +16,5 @@ The program and the 13 presentations are available from: [link](https://www.open
 
 
 | ![](2018-0205-OM-Chars-Adrian-Bernhard-IMG_0279.medium.jpg) | ![](2018-0205-Volker-WaurichIMG_0286.medium.jpg) |
-| Adrian Pop and Bernhard Thiele, OpenModelica workshop chairpersons (Linköping University) opening the workshop. | OpenModelica workshop, Volker Waurich presenting automation of a wheel loader (TU Dresden). | {:style="table-layout:fixed;"}
+| Adrian Pop and Bernhard Thiele, OpenModelica workshop chairpersons (Linköping University) opening the workshop. | OpenModelica workshop, Volker Waurich presenting automation of a wheel loader (TU Dresden). | 
+{:style="table-layout:fixed;"}
