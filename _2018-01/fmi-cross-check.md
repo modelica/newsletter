@@ -10,7 +10,7 @@ vendors to test those FMUs by importing them.  In this way, the FMI vendors work
 address any non-compliant implementations to improve the overall quality of FMI support.
 
 This process used to involve one very large SVN repository where *all* vendors published not only their
-tool data and FMUs but the results of their attempts to import other vendor's FMUs.  Needsless to say, with all
+tool data and FMUs but the results of their attempts to import other vendor's FMUs.  Needless to say, with all
 the large binary files and data files associated with this compliance checking process, the repository
 got to be very large.  Furthermore, the Modelica Association had to manage users, permissions, disk
 space, *etc.* for this effort.
