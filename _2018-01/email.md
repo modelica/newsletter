@@ -19,7 +19,7 @@ the Modelica Association (MA) is restarting its newsletter. We are happy that Fi
 {% include build_email_index.md %}
 
 ## Editor`s note
-*Dear Modelicans, I would like to thank to all contributors and for any feedback on this issue. I am also looking forward for your contributions to the next newsletter, which is  planned in summer. You better [subscribe to the contributors list](http://eepurl.com/dpvIVP) to be informed about planning the next release.
+*Dear Modelicans, I would like to thank to all contributors and for any feedback on this issue. I am also looking forward for your contributions to the next newsletter, which is  planned in summer. You better [subscribe to the contributors list](http://eepurl.com/dpvIVP) to be informed about planning the next release.*
 
-All the best,
+*All the best,    
 Filip Ježek, newsletter editor*
