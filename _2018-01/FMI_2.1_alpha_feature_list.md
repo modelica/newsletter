@@ -9,7 +9,7 @@ category: "association"
 The FMI Steering Committee is happy to announce the preliminary (Alpha) feature list for FMI 2.1. "Preliminary" means that we might be forced to drop some features from that list for the actual release. This list is based on the results of the respective working groups which were discussed at the last FMI Design Meeting (Nov 2017).
 
  -  Ports and Icons:
-    Help the user to build consistent systems from FMUs and render the systems more intuitively with better representation of structured ports (for instance busses and physical connectors) in the modelDescription.xml.
+    Help the user to build consistent systems from FMUs and render the systems more intuitively with better representation of structured ports (for instance buses and physical connectors) in the modelDescription.xml.
  -  Array variables:
     Allow FMUs to communicate multi-dimensional variables and change their sizes using structural parameters.
  -  Clocks and Hybrid Co-Simulation
