@@ -1,6 +1,6 @@
 ---
 title: MWorks 2018 released
-author: "Fanli Zhou ([Suzhou Tongyuan](https://www.tongyuan.cc/))"
+author: "Fanli Zhou ([Suzhou Tongyuan](http://www.tongyuan.cc/))"
 category: "vendor"
 ---
 MWorks has evolved into a product suite, including system simulation software
