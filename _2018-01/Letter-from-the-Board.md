@@ -40,10 +40,6 @@ In October last year, MA had a one-day Modelica Association Strategy Meeting to 
 - The FMI cross check results are currently moved to a modern infrastructure
   designed and implemented by Michael Tiller, see [article below](#updated-fmi-cross-check-process).
 
-- The MA bylaws will be slightly adapted in the near future, in particular to allow voting and anonymous
-  elections via teleconference services, so that physical presence at a meeting is no
-  longer needed in order to influence decisions of MA.
-
 In order to enlarge the Modelica and FMI community, MA has changed its strategy regarding
 Modelica conferences. Previously, the International Modelica Conference took place every 18 months in Europe.
 This is changed now:
@@ -67,7 +63,6 @@ If you would like to organize a Modelica Conference, please inspect the Modelica
 
 If you have interesting news for the Modelica and FMI community, please follow the
 [submission guidelines](https://newsletter.modelica.org/submission-guidelines.html). 
-The deadline for articles for the next newsletter is **Fr. July 20, 2018**.
 
 Martin Otter on March 23, 2018    
 (Chairman of the Modelica Association)
