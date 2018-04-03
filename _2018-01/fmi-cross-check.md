@@ -48,4 +48,6 @@ the code that is used to dynamically visualize the data as well as the source co
 handles webhook notifications and pushes out new published versions of the FMI web site.  If you are interested
 in improving the cross check process, we welcome contributions via pull requests for the tools in that repository.
 
-Note, if you are a vendor and you have not yet taken ownership of your new repository, please [contact me](mailto:michael.tiller@gmail.com) so you can be added as an admin to your repository.  
+Note, if you are a vendor and you have not yet taken ownership of your new repository, please [contact me](mailto:michael.tiller@gmail.com) so you can be added as an admin to your repository.
+
+With the new infrastructure working, the FMI Steering Committee will now update the FMI Cross-Check Rules and then implement those new rules in the new infrastructure during the next few months.
