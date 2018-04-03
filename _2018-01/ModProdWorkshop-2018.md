@@ -1,7 +1,7 @@
 ---
 title: ModProd Annual Workshop 2018
 author: "Peter Fritzson [Open Source Modelica Consortium](https://www.openmodelica.org/)"
-category: "vendor"
+category: "project"
 ---
 
 The 12th international MODPROD Workshop on Model-Based Cyber-Physical Product Development,
