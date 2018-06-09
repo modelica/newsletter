@@ -4,10 +4,27 @@ layout: default
 description: How to contribute to the [Modelica Association newsletter](./)
 ---
 ## Scope
-The scope of the newsletter include all topics covered by the [Modelica Association](https://www.modelica.org) (Modelica language, libraries, FMI, SSP), related tools and news in education (courses, books and related materials). 
+Everyone is welcome to contribute a post to the Modelica newsletter, however the editor holds the right to decline a contribution without reason. The scope of the newsletter include all topics covered by the [Modelica Association](https://www.modelica.org) (Modelica language, libraries, FMI, SSP), related tools and news in education (courses, books and related materials). If you have an item of interest that you would like to share with the Modelica community, for example:
+- A brief note on a Modelica related project.
+- Information about Modelica libraries, tools or services (technical details only, no marketing or advertising content).
+- Upcoming Modelica related events.    
+...please consider submitting a brief write-up about it to the Modelica Newsletter.
+
+Submission guidelines are as follows (Exceptions are possible in justified cases):
+- **Relevance:** Of course, the material must be of interest to the general Modelica community.  But in addition, part of being relevant is being timely.  So articles should contain information that can impact the present and future options for readers and not simply contain historical information.
+- **Novelty:** This is a newsletter.  As such, what is contained in it must be new.  It is unacceptable for an article to repeat content from previous articles.  If you feel that background information is required, provide it via a hyperlink to information stored elsewhere.  For example, don't list the features of your tool and/or library with every article about it.  Instead, include a hyperlink, e.g. "In addition to existing features, version X.Y.Z includes the following new features..."
+- **Tone:** Articles are expected to be of a mostly factual nature and avoid hyperbole and excessive marketing and advertising content.
+One post per product: Individual new features to a product should not be divided to another article. If the features require further description, then there shall be provided links to further information.
+- **Length:** approximately 3-4 paragraphs. Please try to squish only the most important information into no more than 200 words. Additional information should be linked to another page.
+- **Additional materials:** Additional materials (i.e. extensive product description, leaflet, additional images etc) could be uploaded as well to prevent dead links in the future.  It is possible (and perfectly easy) to host the linked page within the newsletter repository, however it would not be listed among the posts (only linked from the article). Any additional pages (.md files) not meant for the newsletter mainpage shall include the `--hidden: true` mark in the header.
+- **Images:** One image no larger than 620x400 px is preferred, please upload the image alongside with your post - external images tend to break after while. It is the submitters responsibility to resize the image to meet these guidelines. 
+- **Format:** clean kramdown (See below):
+  - No style attributes, html tags are to be avoided, when posible
+  - No spacing or layout directives
+
 
 ## Process
-[Everyone is welcome](http://eepurl.com/dpvIVP) to contribute a post to the Modelica newsletter, however the editor holds the right to decline a contribution without reason. The submission is done by creating a pull request to the dedicated newsletter repository.
+The submission is done by creating a pull request to the dedicated newsletter repository.
 {% if site.contribution-open %}
 
 The submissions are currently open! The deadline for contributions to the current issue is **{{ site.contribution-deadline }}**. The newsletter would be published on **{{ site.current-newsletter-date }}**.
@@ -40,6 +57,7 @@ Each post should start with a header information, starting and ending with a lin
 - `author` - authors of the contribution and their affiliations, preferably including hyperlinks, e.g. `[Modelica Association](http://modelica.org)`
 - `category` - a category of the post. Currently, following four categories are currently accepted. However, if you feel, that your contribution does not exactly fit one of those, we might open a new category. Just [let us know](mailto:filip.jezek@creativeconnections.cz).
   - `"association"` - news regarding Modelica association
+  - `"project"` - news regarding Modelica Association related projects
   - `"education"` - news regarding educational resources, or training  
   - `"library"` - news regarding new or improved libraries
   - `"vendor"` - news regarding new Modelica tools versions
@@ -62,20 +80,16 @@ You can use **emphasize** by double asterisks (`**emphasize**`) or *italics* usi
 It is easy to create [hyperlinks](https://en.wikipedia.org/wiki/Hyperlink) (as `[hyperlinks](https://en.wikipedia.org/wiki/Hyperlink)`). Caution, not-tagged links are not generated, e.g. https://modelica.org/ will stay exactly as written (even though the GitHub's *Preview changes* shows them as links)
 
 ### Images
-Each post is welcome to have one or more images. For a single image, please keep the image size 620x400px or below. When useing multiple images, please try to occupy as low vertical space as possible. If required, you can link to the full size image. 
+Each post is welcome to have one image. For a single image, please keep the image size 620x400px or below. When using multiple images, please try to occupy as low vertical space as possible. If required, you can link to the full size image. 
 
 If you commit the image together with your post, you can link it relatively, i. e.
 
-    ![Alt text](logo.jpg 'Title text')
+    ![Alt text](My-Company-logo.jpg 'Title text')
 
-The alt and title text could be ommitted. Or if the image resides online, you can also provide an absolute address, e.g.
-
-    ![](https://modelica.org/logo.jpg)
-
-Please keep in mind, that the folder is shared for the whole issue and name the images specifically to your post to avoid collisions with contrbutions of others. E.g. if you post name is `new-version-of-FMI` use `new-version-of-FMI-logo.png` instead of just `logo.png` to avoid conflicts.
+The alt and title text could be ommitted. Please keep in mind, that the folder is shared for the whole issue and name the images specifically to your post to avoid collisions with contrbutions of others. E.g. if you post name is `new-version-of-FMI` use `new-version-of-FMI-logo.png` instead of just `logo.png` to avoid conflicts.
     
 ### Headings
-Please use 4th level heading for headings within your posts, e.g.
+Please use **4th level heading** for any headings within your posts, e.g.
 
     #### My Beatiful Subheading
 
