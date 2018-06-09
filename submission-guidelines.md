@@ -30,7 +30,7 @@ The submission is done by creating a pull request to the dedicated newsletter re
 The submissions are currently open! The deadline for contributions to the current issue is **{{ site.contribution-deadline }}**. The newsletter would be published on **{{ site.current-newsletter-date }}**.
 
 0. Create a GitHub account, log in.
-1. Navigate to the [newsletter repository]({{site.current-contribution-url}}) - it is important to keep your contribution within the folder with the current issue, e.g. `_2018-01`. Contributions to other folders would be discarded.
+1. Navigate to the [newsletter repository]({{site.current-contribution-url}}) - it is important to keep your contribution within the folder with the current issue, e.g. `_2018-02`. Contributions to other folders would be discarded.
 2. Click Create new markdown file, e.g. *my-new-post.md* (the file extension is important)
 3. Insert your post. You can reuse the example below or inspire yourself from other posts in the [folder]({{site.current-contribution-url}}). 
 4. Commit changes. 
