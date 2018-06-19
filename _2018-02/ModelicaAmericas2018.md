@@ -4,7 +4,7 @@ author: "Christopher Laughman ([MERL] (http://www.merl.com))"
 category: "association"
 ---
 
-|![](https://betterworld.mit.edu/wp-content/uploads/2016/04/samberg-conference-room-01.jpg?x13406)|![](https://i1.wp.com/dev.cacboston.org/wp-content/uploads/2017/08/samberg-conference-center-mit.jpg)|
+![](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F36908542%2F232427334571%2F1%2Foriginal.jpg?w=800&rect=0%2C149%2C1486%2C743&s=11377e10a546a2aeb2884502bfaba381)
 
 The American Modelica Conference 2018 will be held at the Samberg Conference Center in Cambridge/Boston, MA, USA from **October 9 - 10, 2018**. It is organized by the Modelica Association and the North American Modelica Users’ Group (NAMUG).
 
