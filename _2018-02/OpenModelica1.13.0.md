@@ -1,5 +1,5 @@
 ---
-title: OpenModelica 1.13.0 Beta1 Release
+title: OpenModelica v1.13.0 Beta1 Release
 author: "Peter Fritzson [Open Source Modelica Consortium](https://www.openmodelica.org/)"
 category: "vendor"
 ---
@@ -13,17 +13,17 @@ with many company, institute, and university members.
 
 The figure shows OpenModelica with a plot from a simulation of the V6Engine model.
 
-The current OpenModelica development is focused on OpenModelica 1.13.0, for which a Beta1 release is planned at the beginning of April,2018.
+The current OpenModelica development is focused on OpenModelica v1.13.0, for which a Beta1 release is planned at the end of June, 2018.
 Some of the main new items in this release are the following:
 
 - Replaceable library GUI support.
-- OMSimulator 2.0 – the second release of our efficient FMI Simulation tool including a GUI for FMI Composition and co-simulation
+- [OMSimulator v2.0.0](https://openmodelica.org/doc/OMSimulator/html/) – the second release of our efficient FMI Simulation tool including a GUI for FMI Composition and co-simulation, as well as [transmission line modeling](https://www.openmodelica.org/doc/OpenModelicaUsersGuide/v1.13.0-dev.beta0/omsimulator.html)
 - Improved OpenModelica DAEMode for efficient solution of large Modelica models.
-- Matlab scripting API to OpenModelica.
-- Julia scripting API to OpenModelica.
-- OMSysIdent - parameter estimation module for linear and non-linear parametric dynamic models.
-- Interactive simulation and control of simulations with OPC-UA.
-- PDEModelica1 - experimental support for one-dimensional PDEs in Modelica.
+- [Matlab scripting](https://www.openmodelica.org/doc/OpenModelicaUsersGuide/v1.13.0-dev.beta0/ommatlab.html) API to OpenModelica.
+- [Julia scripting](https://www.openmodelica.org/doc/OpenModelicaUsersGuide/v1.13.0-dev.beta0/omjulia.html) API to OpenModelica.
+- [OMSysIdent](https://openmodelica.org/doc/OMSimulator/html/) - parameter estimation module for linear and non-linear parametric dynamic models.
+- [Interactive simulation](https://openmodelica.org/doc/OpenModelicaUsersGuide/v1.13.0-dev.beta0/omedit.html#interactive-simulation) and control of simulations with OPC-UA.
+- [PDEModelica1](https://www.openmodelica.org/doc/OpenModelicaUsersGuide/v1.13.0-dev.beta0/pdemodelica.html) - experimental support for one-dimensional PDEs in Modelica.
 - Analytic directional derivatives for FMI export and efficient calculation of multiple Jacobian columns – giving much faster simulation for some models
 - Enhanced OMEdit – including fast multi-file search
 
