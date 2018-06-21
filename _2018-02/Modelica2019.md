@@ -12,11 +12,10 @@ It is organized by OTH Regensburg / Faculty of Electrical Engineering and Inform
 #### Conference Venue
 The conference will take place at Ostbayerische Technische Hochschule (Eastbavarian Technical University) Regensburg near the center of Regensburg, 
 only 30 minutes to walk from the historical centre of Regensburg.
-**Venue Address**:
-OTH Regensburg
-Seybothstr. 2
-93053 Regensburg
-Germany
+
+**Venue Address**: OTH Regensburg
+
+Seybothstr. 2, 93053 Regensburg, Germany
 
 The **Modelica Conference** is the main event for users, library developers, tool vendors and language designers to share their knowledge 
 and learn about the latest scientific and industrial progress related to Modelica and to the Functional Mockup Interface.
