@@ -1,0 +1,14 @@
+DYMOLA 2019
+
+Dymola 2019 was released on June 1, 2018.
+
+Model creation
+Dymola 2019 allows you to capture the parameters of existing components to create new models. This encourages the creation of specialized component libraries that can be used in subsequent designs.
+Improved use of display units for parameters and variables in the graphical editor and in plots improves readability and reduces model ambiguity.
+
+Simulation
+To further support the simulation of hard thermo-fluid problems, Dymola 2019 has more robust and efficient handling of models with nonlinear equation systems through improved handling of initial values. Improved diagnostics at compilation and runtime helps find difficult numeric problems, and intermediate values can be checked during debugging.
+Optimized handling of parameters helps minimize code generation for large tables of data, leading to faster model translation, simulation and post-processing.
+
+Modelica libraries
+Pneumatic Systems library is available in Dymola 2019, facilitating architecture design, component sizing, modelling and simulation of pneumatic systems. Other libraries have seen significant enhancements.
