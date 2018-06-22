@@ -18,9 +18,11 @@ Optimized handling of parameters helps minimize code generation for large tables
 
 ####Modelica libraries
 
+Our libraries have seen the following enhancements amongst others
+
 - Battery Library: Version 2.1 includes a new pack model that enables the simulation of nested cylindrical cells. Additionally the thermal model of the cylindrical cells is updated, allowing multiple surface heat ports for an improved simulation of heat distribution in discretized pack models.
 - Hydrogen Library: Version 1.1 includes new media and component models for humidity control as well as a control based methane reformation model for PEM. 
-- Pneumatic Systems library is available in Dymola 2019, facilitating architecture design, component sizing, modelling and simulation of pneumatic systems. Other libraries have seen significant enhancements.
+- Pneumatic Systems library is available in Dymola 2019, facilitating architecture design, component sizing, modelling and simulation of pneumatic systems. 
 - Testing Library: This release brings improved test runners, changes the visual look of the library and introduces operator records.
 
 ![](Dymola2019_pneumatic.png)
