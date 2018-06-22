@@ -1,6 +1,6 @@
 ---
 title: DYMOLA 2019
-author: "Dag Brück and Dr. Imke Krüger ([Dassault Systèmes Deutschland GmbH](https://www.3ds.com/))"
+author: "Dag Brück and Dr. Imke Krüger ([Dassault Systèmes](https://www.3ds.com/))"
 category: "vendor"
 ---
 
@@ -18,7 +18,7 @@ Optimized handling of parameters helps minimize code generation for large tables
 
 ####Modelica libraries
 
-Our libraries have seen the following enhancements amongst others
+Our libraries have seen the following enhancements: 
 
 - Battery Library: Version 2.1 includes a new pack model that enables the simulation of nested cylindrical cells. Additionally the thermal model of the cylindrical cells is updated, allowing multiple surface heat ports for an improved simulation of heat distribution in discretized pack models.
 - Hydrogen Library: Version 1.1 includes new media and component models for humidity control as well as a control based methane reformation model for PEM. 
