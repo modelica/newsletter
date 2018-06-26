@@ -14,6 +14,6 @@ More technical features of Score:
   - **Multi-Threading** (parameter sweeps on multiple CPU cores)
   - **Automatized** simulation process
   - Import, filtering and interpolation of complex result files (Dymola, FMU and OM) in Excel
-  - Use template reports
+  - Template reports
   - Broad support of MS Office versions through COM add-in
 
