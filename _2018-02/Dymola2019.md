@@ -4,7 +4,7 @@ author: "Dag Brück and Dr. Imke Krüger ([Dassault Systèmes](https://www.3ds.c
 category: "vendor"
 ---
 
-Dymola 2019 was released on June 1, 2018. Detailed release notes can be found [here](https://www.3ds.com/fileadmin/PRODUCTS/CATIA/DYMOLA/PDF/Dymola-2019-highlights.pdf).
+Dymola 2019 was released on June 1, 2018. Detailed information can be found [here](https://www.3ds.com/fileadmin/PRODUCTS/CATIA/DYMOLA/PDF/Dymola-2019-highlights.pdf) and the complete release notes [here](https://www.3ds.com/fileadmin/PRODUCTS/CATIA/DYMOLA/PDF/Dymola-2019-release-notes.pdf).
 
 ####Model creation
 
