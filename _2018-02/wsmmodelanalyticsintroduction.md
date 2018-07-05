@@ -1,7 +1,7 @@
 ---
 title: New Free Online SystemModeler Course
 author: "Patrik Ekenberg [Wolfram](http://wolfram.com)"
-category: "vendor"
+category: "education"
 ---
 
 Get an introduction to model analytics with SystemModeler and the Wolfram Language. This free course shows you how to harness the analytics engine of the Wolfram Language to analyze, simulate and generate Modelica models.
