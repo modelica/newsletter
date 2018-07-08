@@ -26,5 +26,6 @@ category: "vendor"
 * Can directly export “source-code FMUs” for specific FMI compatible multi-core real-time targets, which avoids the use of proprietary middleware 
   to assemble the complete model, or create the real-time application.
 
-More will come in future releases with other powerful FMI capabilities and usability improvements. 
+**More will come in future releases with other powerful FMI capabilities and usability improvements**.
+
 Stay tuned. For more information on Simcenter Amesim, please visit our [website]( https://www.siemens.com/plm/simcenter-amesim ).
