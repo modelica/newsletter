@@ -6,6 +6,7 @@ category: "vendor"
 ---
 
 #### Simcenter Amesim 16.1 provides a high-quality support of the Functional Mock-up Interface (FMI)
+![](Simcenter-Amesim-FMI.png)
 Simcenter Amesim 16.1:
 
 * Complies with all existing discrete and continuous FMI 1.0 and 2.0 coupling modes.
@@ -23,8 +24,6 @@ Simcenter Amesim 16.1:
   Thus the recognized frequency analysis capabilities of Simcenter Amesim can be used within advanced master or importing environments. 
 * Can directly export “source-code FMUs” for specific FMI compatible multi-core real-time targets, which avoids the use of proprietary middleware 
   to assemble the complete model, or create the real-time application.
-
-![](Simcenter-Amesim-FMI.png)
 
 More will come in future releases with other powerful FMI capabilities and usability improvements. 
 Stay tuned. For more information on Simcenter Amesim, please visit our [website]( https://www.siemens.com/plm/simcenter-amesim ).
