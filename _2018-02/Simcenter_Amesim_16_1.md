@@ -11,7 +11,7 @@ category: "vendor"
 **Simcenter Amesim 16.1**
 
 * Complies with all existing discrete and continuous FMI 1.0 and 2.0 coupling modes.
-* Can be used as master or integration platform for FMUs .
+* Can be used as master or integration platform for Functional Mock-up Unit (FMUs).
 * Can manage multiple instantiations of the same FMU (if supported by the FMU itself).
 * Can import and mix multiple FMUs: 1.0, 2.0, model exchange and co-simulation.
 * Can export FMUs that support variable-step co-simulation.
