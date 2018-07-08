@@ -21,7 +21,7 @@ Simcenter Amesim 16.1:
   from variable-step to fixed-step solver directly from the importing tool's interface with no need to re-export the FMU.
 * Can export 2.0 FMUs for model exchange or co-simulation that provide their directional derivatives. 
   Thus the recognized frequency analysis capabilities of Simcenter Amesim can be used within advanced master or importing environments. 
-* Can directly export “source-code FMUs” for specific FMI compatible mutli-core real-time targets, which avoids the use of proprietary middleware 
+* Can directly export “source-code FMUs” for specific FMI compatible multi-core real-time targets, which avoids the use of proprietary middleware 
   to assemble the complete model, or create the real-time application.
 
 ![](Simcenter-Amesim-FMI.png)
