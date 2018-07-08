@@ -27,5 +27,4 @@ category: "vendor"
   to assemble the complete model, or create the real-time application.
 
 **More will come in future releases with other powerful FMI capabilities and usability improvements**.
-
-Stay tuned. For more information on Simcenter Amesim, please visit our [website]( https://www.siemens.com/plm/simcenter-amesim ).
+Stay tuned. See also “Why you should upgrade to Simcenter Amesim 16.1” on our [blog]( https://community.plm.automation.siemens.com/t5/Simcenter-Blog/Why-you-should-upgrade-to-Simcenter-Amesim-16-1/ba-p/505399 ) and for more information on Simcenter Amesim, please visit our [website]( https://www.siemens.com/plm/simcenter-amesim ).
