@@ -8,7 +8,7 @@ category: "vendor"
 #### Simcenter Amesim 16.1 provides a high-quality support of the Functional Mock-up Interface (FMI)
 ![](Simcenter-Amesim-FMI.png)
 
-**Simcenter Amesim 16.1**:
+**Simcenter Amesim 16.1**
 
 * Complies with all existing discrete and continuous FMI 1.0 and 2.0 coupling modes.
 * Can be used as master or integration platform for FMUs .
