@@ -16,11 +16,11 @@ category: "vendor"
 * Can import and mix multiple FMUs: 1.0, 2.0, model exchange and co-simulation.
 * Can export FMUs that support variable-step co-simulation.
 * Can automatically generate a standardized HTML documentation for all its exported FMUs.
-* Can generate “binary-only” embedding all the tables they need for more IP protection and user-friendliness.
+* Can generate “binary-only” FMUs embedding all the tables they need, for more IP protection and user-friendliness.
 * Allows users to fine-tune which parameters and variables to be exposed by exported FMUs. 
 * Can export FMUs with both the 32-bit and the 64-bit binaries to ease model sharing via FMI.
 * Exports co-simulation FMUs embedding all Simcenter Amesim solver capabilities: through dedicated exposed parameters, one can for instance switch 
-  from variable-step to fixed-step solver directly from the importing tool's interface with no need to re-export the FMU.
+  from variable-step to fixed-step solver directly from the importing tool's interface, with no need to re-export the FMU.
 * Can export 2.0 FMUs for model exchange or co-simulation that provide their directional derivatives. 
   Thus the recognized frequency analysis capabilities of Simcenter Amesim can be used within advanced master or importing environments. 
 * Can directly export “source-code FMUs” for specific FMI compatible multi-core real-time targets, which avoids the use of proprietary middleware 
