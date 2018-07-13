@@ -1,5 +1,6 @@
 ---
 title: Modelon July Updates
+author: Swati Tyagi, [Modelon](https://www.modelon.com/)
 category: "vendor"
 ---
 
