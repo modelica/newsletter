@@ -1,7 +1,7 @@
 ---
 title: Register for a Modelon Training Class Near You
 author: Swati Tyagi, [Modelon](https://www.modelon.com/)
-category: "vendor"
+category: "education"
 ---
 
 <img src="modelon-11.jpg" alt="Training" width="350px" align="right">
