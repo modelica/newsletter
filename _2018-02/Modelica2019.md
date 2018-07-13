@@ -31,17 +31,17 @@ and we would like to welcome even more participants to this conference.
 - Other industrial applications, such as electric drives, power systems, aerospace, etc.
 - Large-scale system modelling
 - Real-time and hardware-in-the-loop simulation
-- Simulation and code generation for embedded control systems
-- Simulation acceleration by use of many CPU cores or GPU cores
+- Simulation and code generation for embedded control systems
+- Simulation acceleration by use of many CPU cores or GPU cores
 - Applications of Modelica for optimization and optimal control
 - Modelica modeling, simulation and design tools
 - Symbolic algorithms and numerical methods for model transformation and simulation
 - Discrete modeling techniques - FEM, CFD, DEM (Discrete Element Method), ...
 - New features of the Modelica language and of FMI
 - Experimental language designs and implementations related to Modelica
-- Modelica in other application areas (mathematical programming, databases etc.)
+- Modelica in other application areas (mathematical programming, databases etc.)
 - Modelica for teaching and education
-- FMI in Modelica and non-Modelica applications and tools
+- FMI in Modelica and non-Modelica applications and tools
 
 #### Important Dates
 - Jul.30, 2018: Call for Papers
