@@ -1,4 +1,3 @@
-
 ---
 title: Siemens PLM Software is proud to announce the release of Simcenter Amesim 16.1
 author: "Bruno Loyer ([Siemens PLM Software](https://www.siemens.com/plm/simcenter-amesim ))"
