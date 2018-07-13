@@ -1,4 +1,4 @@
-﻿---
+---
 title: DYMOLA 2019
 author: "Dag Brück and Dr. Imke Krüger ([Dassault Systèmes](https://www.3ds.com/))"
 category: "vendor"
