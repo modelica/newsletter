@@ -6,17 +6,17 @@ category: "vendor"
 
 Dymola 2019 was released on June 1, 2018. Detailed information can be found [here](https://www.3ds.com/fileadmin/PRODUCTS/CATIA/DYMOLA/PDF/Dymola-2019-highlights.pdf) and the complete release notes [here](https://www.3ds.com/fileadmin/PRODUCTS/CATIA/DYMOLA/PDF/Dymola-2019-release-notes.pdf).
 
-####Model creation
+#### Model creation
 
 Dymola 2019 allows you to capture the parameters of existing components to create new models. This encourages the creation of specialized component libraries that can be used in subsequent designs.
 Improved use of display units for parameters and variables in the graphical editor and in plots improves readability and reduces model ambiguity.
 
-####Simulation
+#### Simulation
 
 To further support the simulation of hard thermo-fluid problems, Dymola 2019 has more robust and efficient handling of models with nonlinear equation systems through improved handling of initial values. Improved diagnostics at compilation and runtime helps find difficult numeric problems, and intermediate values can be checked during debugging.
 Optimized handling of parameters helps minimize code generation for large tables of data, leading to faster model translation, simulation and post-processing.
 
-####Modelica libraries
+#### Modelica libraries
 
 Our libraries have seen the following enhancements: 
 
