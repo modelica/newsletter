@@ -32,12 +32,3 @@ As part of Modelon's 2018.1 release, FMI Toolbox 2.6.3 now includes the followin
 To download a demo version of FMI Toolbox, visit the [FMI Toolbox for MATLAB/Simulink product page](http://www.modelon.com/products/modelon-deployment-suite/fmi-toolbox-for-matlabsimulink/) on www.modelon.com.
 
 To learn more about the 2018.1 release, which includes enhancements to industry-leading libraries such as the [Vehicle Dynamics Library](http://www.modelon.com/products/modelon-library-suite/vehicle-dynamics-library/), [Hydraulics Library](http://www.modelon.com/products/modelon-library-suite/hydraulics-library/), and [Pneumatics Library](http://www.modelon.com/products/modelon-library-suite/pneumatics-library/), read the 2018.1 release notes [here](http://www.modelon.com/news/news-articles/modelon-release-20181/). 
-
-
-## Register for a Modelon Training Class Near You
-<img src="modelon-11.jpg" alt="Training" width="350px" align="right">
-Modelon offers both customized and standard [training courses](http://www.modelon.com/training/) for various topics such as Modelica, FMI, Dymola, and products from the Modelon Library Suite, Modelon Creator Suite and Modelon Development Suite. The courses typically include a mix of lectures, demos and exercises led by qualified field experts. Modelon's engagement in the Modelica Association and the experiences from Modelon's product development ensure that all Modelon training courses are up-to-date with the development of Modelica technology. 
-
-[View Modelon's training schedule](http://www.modelon.com/training/schedule/) to find a course near you.
-
-Don't see a course in the topic you're interested in or near your location? Contact sales@modelon.com to schedule a course. 
