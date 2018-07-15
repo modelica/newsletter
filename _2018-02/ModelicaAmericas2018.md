@@ -6,7 +6,7 @@ category: "association"
 
 ![](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F36908542%2F232427334571%2F1%2Foriginal.jpg?w=800&rect=0%2C149%2C1486%2C743&s=11377e10a546a2aeb2884502bfaba381)
 
-The American Modelica Conference 2018 will be held at the Samberg Conference Center in Cambridge/Boston, MA, USA from **October 9 - 10, 2018**. It is organized by the Modelica Association and the North American Modelica Users’ Group (NAMUG).
+The American Modelica Conference 2018 will be held at the Samberg Conference Center in Cambridge/Boston, MA, USA from **October 9 - 10, 2018**. It is organized by the Modelica Association and the North American Modelica Users’ Group ([NAMUG](http://na.modelica-users.org/)).
 
 Registration is open, with early bird discounts available through August 20th at [Eventbrite](https://www.eventbrite.com/e/the-american-modelica-conference-2018-tickets-39188362447).
 
@@ -16,7 +16,7 @@ An entertaining social program is also being planned for the conference, with a 
 
 #### Free Workshops: October 8th
 
-Thanks to the generous support from MERL (Mitsubishi Electric Research Laboratories), NAMUG will organize two **free Modelica workshops, Monday, October 8th** (before the conference). These workshops will take place at the MERL offices in Cambridge. If you are interested in attending one of these workshops, please select “Workshop Ticket” on the Eventbrite event page. There will be a beginner’s workshop in the morning, and an advanced workshop with an introduction to modeling of thermo-fluid systems using applications from the Buildings Library in the afternoon. To aid in planning, please register soon for these workshops since these workshops are conditional on interest and participation.
+Thanks to the generous support from [MERL](http://www.merl.com/) (Mitsubishi Electric Research Laboratories), NAMUG will organize two **free Modelica workshops, Monday, October 8th** (before the conference). These workshops will take place at the MERL offices in Cambridge. If you are interested in attending one of these workshops, please select “Workshop Ticket” on the Eventbrite event page. There will be a **beginner’s workshop** in the morning, and advanced workshops in the afternoon: one with an introduction to **modeling of thermo-fluid systems** using applications from the Buildings Library and the second on physiology modeling using the Physiolibrary. To aid in planning, please register soon for these workshops since these workshops are conditional on interest and participation.
 
 We are looking forward to seeing you in Cambridge, MA.
 
