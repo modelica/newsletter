@@ -1,3 +1,8 @@
+---
+title: Letter from the Board
+author: "Martin Otter ([Modelica Association](https://www.modelica.org/))"
+category: "letter"
+---
 Dear Modelica and FMI interested,
 
 The Modelica Association is very pleased about the successful second 
