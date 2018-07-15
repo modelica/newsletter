@@ -4,7 +4,7 @@ hidden: true
 layout: default
 title: "Modelica newsletter - summer edition of 2018"
 name: "2018-02"
-description: "The old newsletter in a new coat - the email version"
+description: "The email version"
 ---
 Dear Modelica and FMI interested,
 
