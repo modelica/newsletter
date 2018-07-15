@@ -16,7 +16,7 @@ An entertaining social program is also being planned for the conference, with a 
 
 #### Free Workshops: October 8th
 
-Thanks to the generous support from [MERL](http://www.merl.com/) (Mitsubishi Electric Research Laboratories), NAMUG will organize two **free Modelica workshops, Monday, October 8th** (before the conference). These workshops will take place at the MERL offices in Cambridge. If you are interested in attending one of these workshops, please select “Workshop Ticket” on the Eventbrite event page. There will be a **beginner’s workshop** in the morning, and advanced workshops in the afternoon: one with an introduction to **modeling of thermo-fluid systems** using applications from the Buildings Library and the second on physiology modeling using the Physiolibrary. To aid in planning, please register soon for these workshops since these workshops are conditional on interest and participation.
+Thanks to the generous support from [MERL](http://www.merl.com/) (Mitsubishi Electric Research Laboratories), NAMUG will organize two **free Modelica workshops, Monday, October 8th** (before the conference). These workshops will take place at the MERL offices in Cambridge. If you are interested in attending one of these workshops, please select “Workshop Ticket” on the Eventbrite event page. There will be a **beginner’s workshop** in the morning, and advanced workshops in the afternoon: one with an introduction to **modeling of thermo-fluid systems** using applications from the Buildings Library and the second on **physiology modeling** using the Physiolibrary. To aid in planning, please register soon for these workshops since these workshops are conditional on interest and participation.
 
 We are looking forward to seeing you in Cambridge, MA.
 
