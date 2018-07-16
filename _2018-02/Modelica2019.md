@@ -1,10 +1,10 @@
 ---
-title: [13th International Modelica Conference 2019](https://modelica.org/events/modelica2019)
+title: "13th International Modelica Conference 2019"
 author: "Anton Haumer [OTH Regensburg](https://www.oth-regensburg.de/en.html)"
 category: "association"
 ---
 
-The **13th International Modelica Conference** will be held at **OTH Regensburg, Germany, March 4-6, 2019**. 
+The **[13th International Modelica Conference 2019](https://modelica.org/events/modelica2019)** will be held at **OTH Regensburg, Germany, March 4-6, 2019**. 
 It is organized by OTH Regensburg / Faculty of Electrical Engineering and Information Technology, in cooperation with the Modelica Association.
 
 ![](Modelica2019Regensburg.jpg)
@@ -15,7 +15,7 @@ only 30 minutes to walk from the historical centre of Regensburg.
 **Venue Address**: OTH Regensburg    
 Seybothstr. 2, 93053 Regensburg, Germany
 
-The **Modelica Conference** is the main event for users, library developers, tool vendors and language designers to share their knowledge 
+The **[Modelica Conference](https://modelica.org/events/modelica2019)** is the main event for users, library developers, tool vendors and language designers to share their knowledge 
 and learn about the latest scientific and industrial progress related to Modelica and to the Functional Mockup Interface.
 The program will cover modeling of complex physical and cyber-physical systems, as well as tools, for a wide range of research and industrial applications. 
 In addition to paper presentations and poster sessions, the conference features several Modelica tutorials for beginners and advanced users, as well as vendor presentations, and an exhibition. 
@@ -62,5 +62,6 @@ and we would like to welcome even more participants to this conference.
 - Student  Late : Euro 250
 
 #### Contact
+[modelica.org/events/modelica2019](https://modelica.org/events/modelica2019)
 Prof. Anton Haumer, OTH Regensburg (Conference Chair)    
 **For general questions, please send an email to**: modelica2019@modelica.org
