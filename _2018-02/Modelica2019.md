@@ -1,5 +1,5 @@
 ---
-title: " 13th International Modelica Conference 2019 "
+title: "The 13th International Modelica Conference 2019 "
 author: "Anton Haumer [OTH Regensburg](https://www.oth-regensburg.de/en.html)"
 category: "association"
 ---
