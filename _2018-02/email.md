@@ -28,7 +28,7 @@ distributed simulations.
 {% include build_email_index.md %}
 
 ## Editor's note
-*Dear Modelicans, after the GDPR regulation we pruned the adress list to those implicitly opting in only. Please spread the word about this newsletter to your colleagues and other interested to help them keep with the high pace of the Modelica world. 
+*Dear Modelicans, after the GDPR regulation we pruned the adress list to those implicitly opting in only. Please spread the word about this newsletter to your colleagues and other interested to help them keep with the high pace of the Modelica world by [subscribing to this newsletter](http://eepurl.com/dpvVdH). 
 I am also looking forward for your contributions to the next newsletter, which is  planned on 26 November. The deadline for articles for the next newsletter is **Fr. November 16, 2018**. See the [submission guidelines](https://newsletter.modelica.org/submission-guidelines.html) for guidance on how to write a contribution.*
 
 *All the best,    
