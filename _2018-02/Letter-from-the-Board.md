@@ -15,12 +15,12 @@ will take place now every 2 years in March in Europe. The next one will take
 place in **March 4-6, 2019 in Regensburg** Germany (deadline for paper 
 submissions: **Nov. 5, 2018**). We hope many of you will participate. 
 More details about the conference are available 
-[below](https://newsletter.modelica.org/2018-02/Modelica2019.md).
+[below](https://newsletter.modelica.org/2018-02/index#13th-international-modelica-conference-2019).
 In the year between International Modelica Conferences, Modelica Conferences shall
 be organized on other continents with country specific focus.
 Besides the conference in Japan, this year the first American Modelica
 Conference will take place in **Boston, Oct. 9-10, 2018**. More details about
-this conference are available [below](https://newsletter.modelica.org/2018-02/modelica2018Americas.md).
+this conference are available [below](https://newsletter.modelica.org/2018-02/index#american-modelica-conference-2018-october-9-10).
 If you also would like to organize a Modelica Conference, please inspect the 
 [Modelica Conference series](https://www.modelica.org/publications/ModelicaConference) 
 for instructions.
@@ -43,7 +43,7 @@ resolved issues.
 MA is on the way to move nearly all of its infrastructure to Github. In the past, the FMI web page
 and svn, as well as the Modelica Standard Library svn and issue  tracker have been moved.
 Recently, the move of the FMI cross check results has been finished.
-In the near future, all remaining issue trackers will be moved from track to github.
+In the near future, all remaining issue trackers will be moved from trac to github.
 
 A new MA project will most likely start in the near future:
 **DCP - The Distributed Co-simulation Protocol**.
