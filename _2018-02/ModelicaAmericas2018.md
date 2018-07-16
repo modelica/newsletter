@@ -1,6 +1,6 @@
 ---
-title: American Modelica Conference 2018: October 9-10, 2018
-author: "Christopher Laughman ([MERL] (http://www.merl.com))"
+title: "American Modelica Conference 2018: October 9-10, 2018"
+author: "Christopher Laughman ([MERL](http://www.merl.com))"
 category: "association"
 ---
 
