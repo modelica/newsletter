@@ -1,6 +1,12 @@
 theme: jekyll-theme-tactile
 google_analytics: UA-114571919-1
 current-contribution-url: "https://github.com/modelica/newsletter/tree/master/_2018-02"
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/ModelicaLogoSq.jpg 
+    author: modelica 
 contribution-open: true
 contribution-deadline: 22 June
 current-newsletter-date: 02 July
