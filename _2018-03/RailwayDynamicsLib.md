@@ -1,6 +1,6 @@
 -----
 title: Beta-Release of the DLR RailwayDynamics library
-author: "Andreas Heckmann, [DLR] (http://www.dlr.de/sr/)"
+author: "Andreas Heckmann, [DLR](http://www.dlr.de/sr/)"
 category: "libraries"
 -----
 
