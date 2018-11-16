@@ -1,8 +1,8 @@
------
+---
 title: Beta-Release of the DLR RailwayDynamics library
 author: "Andreas Heckmann, [DLR](http://www.dlr.de/sr/)"
 category: "libraries"
------
+---
 
 Railway vehicles are complex multibody systems running at high speed along a given track. The particular contact between profiled steel wheels and rails carries the payload, provides lateral guidance and submits traction forces. 
 The running gears and their suspensions ensure track-holding and control the vibration comfort, which the passengers perceive. These are the vehicle dynamical issues the new commercial **DLR RailwayDynamics library** is dedicated to.
