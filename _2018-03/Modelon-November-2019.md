@@ -16,9 +16,11 @@ Modelon’s Electrification Library is used for the design, analysis, and contro
 Modelon’s Aircraft Dynamics Library is a comprehensive library for modeling and simulating full aircraft and aircraft subsystems. Learn about the library [here.](https://www.modelon.com/library/aircraft-dynamics-library/)
 
 # 2018.2 Release 
-###### <img src= "Release 2018.2 Image.jpg" alt= "Modelon 2018.2 Release" width="400px">
-Are you using the most up-to-date Modelon software? Learn about the latest updates to products within the Modelon Library Suite, the Modelon Creator Suite, and Modelon Deployment Suite as part of our 2018.2 release [here.](https://www.modelon.com/modelon-announces-release-of-2018-2/)
 
+<img src= "Release 2018.2 Image.jpg" alt= "Modelon 2018.2 Release" width="400px">
+
+Are you using the most up-to-date Modelon software? Learn about the latest updates to products within the Modelon Library Suite, the Modelon Creator Suite, and Modelon Deployment Suite as part of our 2018.2 release [here.](https://www.modelon.com/modelon-announces-release-of-2018-2/)
+ 
 # New eBook: 4 Benefits of Incorporating the FMI Standard Into Your Modeling Workflows
 
 How much do you know about the Functional Mock-up Interface (FMI) standard? Modelon's new eBook simplifies what the FMI standard is and outlines how it can be used to integrate models across varying simulation tools. [Download a free copy today.](https://www.modelon.com/support/4-benefits-of-incorporating-the-fmi-standard-into-your-modeling-workflows/)
@@ -38,3 +40,6 @@ Aircraft hydraulic system simulation requires a versatile tool that can handle m
 Modelon offers expert-led training courses on topics such as FMI, Modelica, multi-physics modeling, and more at varying learning levels. To view our available winter courses, check out our [training page.](https://www.modelon.com/support-learning/training/)
 
 Don't see a scheduled course that works for you? We also offer customized training. COntact our training team at training@modelon.com to find a course right for you. 
+
+
+
