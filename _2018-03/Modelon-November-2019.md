@@ -29,15 +29,17 @@ How much do you know about the Functional Mock-up Interface (FMI) standard? Mode
 
 # Case Study: Rimac's Journey Towards Full Vehicle System Simulation 
 
-<img src ="Case Study graphic.PNG" alt="Rimac Case study" height="300px" align=right>
+<img src ="Case Study graphic.PNG" alt="Rimac Case study" height="300px">
 
-Rimac, a Croatia-based automotive technology powerhouse, needed a more efficient and flexible way to evaluate multi-physics powertrain systems. In this new case study, learn why Rimac chose Modelon’s libraries and services, including Modelon’s newest library, the [Modelon Electrification Library](https://modelon.com/library/electrification-library/), to meet their electric powertrain modeling, battery modeling, and full vehicle system simulation needs. 
-
+Rimac, a Croatia-based automotive technology powerhouse, needed a more efficient and flexible way to evaluate multi-physics powertrain systems. In this new case study, learn why Rimac chose Modelon’s libraries and services, including Modelon’s newest library, the [Modelon Electrification Library](https://modelon.com/library/electrification-library/), to meet their electric powertrain modeling, battery modeling, and full vehicle system simulation needs.                                                                             
 # New Blog: Using Modelon's Hydraulics Library to Model Aircraft Hydraulic Circuit Architectures
+
+<img src="Blog - HL.png" alt="HL Blog" width="300px">
 
 Aircraft hydraulic system simulation requires a versatile tool that can handle modern and legacy concepts. This blog presents how the Modelon Hydraulics Library is applied to different architectures, specifically Electro Hydrostatic Actuation and Servo Hydraulic Actuation systems. 
 
 # Upcoming Training Courses
+
 
 Modelon offers expert-led training courses on topics such as FMI, Modelica, multi-physics modeling, and more at varying learning levels. To view our available winter courses, check out our [training page.](https://www.modelon.com/support-learning/training/)
 
