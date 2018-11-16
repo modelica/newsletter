@@ -17,29 +17,30 @@ Modelon’s Aircraft Dynamics Library is a comprehensive library for modeling an
 
 # 2018.2 Release 
 
-<img src= "Release 2018.2 Image.jpg" alt= "Modelon 2018.2 Release" width="400px">
+[<img src= "Release 2018.2 Image.jpg" alt= "Modelon 2018.2 Release" width="400px">](https://www.modelon.com/modelon-announces-release-of-2018-2/)
 
 Are you using the most up-to-date Modelon software? Learn about the latest updates to products within the Modelon Library Suite, the Modelon Creator Suite, and Modelon Deployment Suite as part of our 2018.2 release [here.](https://www.modelon.com/modelon-announces-release-of-2018-2/)
  
 # New eBook: 4 Benefits of Incorporating the FMI Standard Into Your Modeling Workflows
 
-<img src= "eBook Social Image.jpg" alt="FMI eBook" width="400px">
+[<img src= "eBook Social Image.jpg" alt="FMI eBook" width="400px">](https://www.modelon.com/support/4-benefits-of-incorporating-the-fmi-standard-into-your-modeling-workflows/)
 
 How much do you know about the Functional Mock-up Interface (FMI) standard? Modelon's new eBook simplifies what the FMI standard is and outlines how it can be used to integrate models across varying simulation tools. [Download a free copy today.](https://www.modelon.com/support/4-benefits-of-incorporating-the-fmi-standard-into-your-modeling-workflows/)                                              
 
 # Case Study: Rimac's Journey Towards Full Vehicle System Simulation 
 
-<img src ="Case Study graphic.PNG" alt="Rimac Case study" height="300px">
+[<img src ="Case Study graphic.PNG" alt="Rimac Case study" height="300px">](https://modelon.com/library/electrification-library/)
 
 Rimac, a Croatia-based automotive technology powerhouse, needed a more efficient and flexible way to evaluate multi-physics powertrain systems. In this new case study, learn why Rimac chose Modelon’s libraries and services, including Modelon’s newest library, the [Modelon Electrification Library](https://modelon.com/library/electrification-library/), to meet their electric powertrain modeling, battery modeling, and full vehicle system simulation needs.                                                                             
 # New Blog: Using Modelon's Hydraulics Library to Model Aircraft Hydraulic Circuit Architectures
 
-<img src="Blog - HL.png" alt="HL Blog" width="300px">
+[<img src="Blog - HL.png" alt="HL Blog" width="300px">](https://www.modelon.com/news-blog/)
 
-Aircraft hydraulic system simulation requires a versatile tool that can handle modern and legacy concepts. This blog presents how the Modelon Hydraulics Library is applied to different architectures, specifically Electro Hydrostatic Actuation and Servo Hydraulic Actuation systems. 
+Aircraft hydraulic system simulation requires a versatile tool that can handle modern and legacy concepts. This blog presents how the Modelon Hydraulics Library is applied to different architectures, specifically Electro Hydrostatic Actuation and Servo Hydraulic Actuation systems. Read it [here.](https://www.modelon.com/using-modelons-hydraulics-library-to-model-aircraft-hydraulic-circuit-architectures/) 
 
 # Upcoming Training Courses
 
+[<img src="Training3.jpg" alt="Modelon Training" width="400px">](https://www.modelon.com/support-learning/training/)
 
 Modelon offers expert-led training courses on topics such as FMI, Modelica, multi-physics modeling, and more at varying learning levels. To view our available winter courses, check out our [training page.](https://www.modelon.com/support-learning/training/)
 
