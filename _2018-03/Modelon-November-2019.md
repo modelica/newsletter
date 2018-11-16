@@ -1,5 +1,5 @@
 ---
-title: Modelon November Updates
+title: Modelon November 2019 Updates
 author: Swati Tyagi, [Modelon] (hhtps://www.modelon.com/)
 category: "vendor"
 ---
