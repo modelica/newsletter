@@ -19,9 +19,9 @@ In this release 1.1, the following improvements and more were made:
 For further details, please see the UsersGuide.
 
 V33 valves have been introduced to allow a zero mass flow position between the two end positions of the valves. Additionally, for all valves with pneumatic actuation the option to use a reference port has been implemented. It can apply a counter pressure on the actuation pressure.
-![New Valves](https://vm-sdl3-dsy.ux.dsone.3ds.com/SCT/LibDocs/raw/master/PSL/18_ModelicaNewsletter/2018-11/Valves.png "New Valves"){:width="558px"}
+![New Valves](Valves.png "New Valves"){:width="558px"}
 The newly introduced valves: V33 (bottom) and valves with a reference port (right side).
 
 To demonstrate the application of the PSL for complex models, a pneumatic train brake system has been added to the examples:
-![Train Brake Example](https://vm-sdl3-dsy.ux.dsone.3ds.com/SCT/LibDocs/raw/master/PSL/18_ModelicaNewsletter/2018-11/TrainBrake.png "Train Brake Example"){:width="543px"}
+![Train Brake Example](TrainBrake.png "Train Brake Example"){:width="543px"}
 This examples covers most of the functional properties of a pneumatic train brake system: A reduction of the train driver brake pressure leads to an increase in the brake pressure. The system is fail-safe as every brake cylinder has it's own pressure reservoir.
