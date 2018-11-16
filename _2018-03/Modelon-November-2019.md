@@ -16,8 +16,8 @@ Modelon’s Electrification Library is used for the design, analysis, and contro
 Modelon’s Aircraft Dynamics Library is a comprehensive library for modeling and simulating full aircraft and aircraft subsystems. Learn about the library [here.](https://www.modelon.com/library/aircraft-dynamics-library/)
 
 # 2018.2 Release 
-
-Are you using the most up-to-date Modelon software? Learn about the latest updates to products within the Modelon Library Suite, the Modelon Creator Suite, and Modelon Deployment Suite as part of our 2018.2 release [here](https://www.modelon.com/modelon-announces-release-of-2018-2/).
+<img src= "Release 2018.2 Image.jpg" alt= "Modelon 2018.2 Release" width="400px">
+Are you using the most up-to-date Modelon software? Learn about the latest updates to products within the Modelon Library Suite, the Modelon Creator Suite, and Modelon Deployment Suite as part of our 2018.2 release [here.](https://www.modelon.com/modelon-announces-release-of-2018-2/)
 
 # New eBook: 4 Benefits of Incorporating the FMI Standard Into Your Modeling Workflows
 
