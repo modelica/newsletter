@@ -12,3 +12,4 @@ Modelon provides software solutions and expert services to organizations that us
 <b> Electrification Library </b> <img src= "EL_icon_flat_500.png" alt= "Electrification Library Icon" width="100px" align=left>
 Modelon’s Electrification Library is used for the design, analysis, and control of electrified systems. Learn about the 
 [Electrification Library here](https://modelon.com/library/electrification-library/)
+
