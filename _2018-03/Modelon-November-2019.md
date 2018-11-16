@@ -23,5 +23,7 @@ Are you using the most up-to-date Modelon software? Learn about the latest updat
 <img src= "eBook Social Image.jpg" alt="FMI eBook" width="400px" align=left>
 How much do you know about the Functional Mock-up Interface (FMI) standard? Modelon's new eBook simplifies what the FMI standard is and outlines how it can be used to integrate models across varying simulation tools. [Download a free copy today](https://www.modelon.com/support/4-benefits-of-incorporating-the-fmi-standard-into-your-modeling-workflows/)
 
-# Case Study: Rimac's Journey Towards Full Vehicle System Simulation <img src ="Case Study graphic.PNG" alt="Rimac Case tudy" align=right>
+
+
+# Case Study: Rimac's Journey Towards Full Vehicle System Simulation <img src ="Case Study graphic.PNG" alt="Rimac Case study" height="500px" align=right>
 Rimac, a Croatia-based automotive technology powerhouse, needed a more efficient and flexible way to evaluate multi-physics powertrain systems. In this new case study, learn why Rimac chose Modelon’s libraries and services, including Modelon’s newest library, the [Modelon Electrification Library](https://modelon.com/library/electrification-library/), to meet their electric powertrain modeling, battery modeling, and full vehicle system simulation needs. 
