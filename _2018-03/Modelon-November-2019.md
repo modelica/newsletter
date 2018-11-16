@@ -15,7 +15,7 @@ Modelon provides software solutions and expert services to organizations that us
 Modelon’s Electrification Library is used for the design, analysis, and control of electrified systems. Learn about the Electrification Library [here.](https://modelon.com/library/electrification-library/)
 
 ## Aircraft Dynamics Library <img src= "ADL_icon_flat_500.png" alt="Aircraft Dynamics Library Icon" width="100px" align=left>
-Modelon’s Aircraft Dynamics Library is a comprehensive library for modeling and simulating full aircraft and aircraft subsystems. Learn about the library [here.](https://www.modelon.com/library/aircraft-dynamics-library/)
+Modelon’s Aircraft Dynamics Library is a comprehensive library for modeling and simulating full aircraft and aircraft subsystems. Learn about the Aircraft Dynamics Library [here.](https://www.modelon.com/library/aircraft-dynamics-library/)
 
 # 2018.2 Release 
 
@@ -46,7 +46,7 @@ Aircraft hydraulic system simulation requires a versatile tool that can handle m
 
 Modelon offers expert-led training courses on topics such as FMI, Modelica, multi-physics modeling, and more at varying learning levels. To view our available winter courses, check out our [training page.](https://www.modelon.com/support-learning/training/)
 
-Don't see a scheduled course that works for you? We also offer customized training. COntact our training team at training@modelon.com to find a course right for you. 
+Don't see a scheduled course that works for you? We also offer customized training. Contact our training team at training@modelon.com to find a course right for you. 
 
 
 
