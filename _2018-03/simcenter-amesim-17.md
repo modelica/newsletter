@@ -4,7 +4,7 @@ author: "Bruno Loyer ([Siemens PLM Software](https://www.siemens.com/plm ))"
 category: "vendor"
 ---
 
-[Siemens PLM Software](https://www.siemens.com/plm ) is proud to announce the recent release of [Simcenter Amesim 17](https://youtu.be/C4mzd3Ptf0Q ). 
+[Siemens PLM Software](https://www.siemens.com/plm ) is proud to announce the recent release of [Simcenter&nbsp;Amesim&nbsp;17](https://youtu.be/C4mzd3Ptf0Q ). 
 In this release, major development efforts have been put to help address key applications for electrification, controls engineering, vehicle systems and components performance engineering, aircraft systems performance engineering, and interoperability.
 
 ![](amesim_banner.png)
