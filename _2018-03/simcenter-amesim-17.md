@@ -16,7 +16,7 @@ Simcenter Amesim 17 and will be delivered as standard in the forthcoming release
 
 #### More FMI improvements
 
-Simcenter Amesim 17 introduces four new FMI capabilities: 
+[Simcenter Amesim 17](https://community.plm.automation.siemens.com/t5/Simcenter-Blog/Simcenter-Amesim-17-top-5-capabilities/ba-p/533861 ) introduces four new FMI capabilities: 
 
 * **More user-friendly run parameters for co-simulation FMUs**: some rework has been made on the way run parameters (typically solver settings) are exposed by Simcenter Amesim co-simulation FMUs. Now, these parameters are always relevant, self-explaining and mapped to standard FMI enumerations whenever possible.
 * **Structured naming convention at FMU import**: when imported into Simcenter Amesim, FMUs using the structured naming convention (dotted names) get their parameters and variables now presented in a convenient and hierarchized tree view.
