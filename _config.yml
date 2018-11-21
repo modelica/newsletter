@@ -24,4 +24,8 @@ collections:
   2018-03:
     permalink: /:collection/:path
     title: Winter release
-    output: true      
+    output: true
+  2019-01:
+    permalink: /:collection/:path
+    title: Spring release
+    output: true    
