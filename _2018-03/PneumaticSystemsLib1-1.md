@@ -1,7 +1,7 @@
 ---
 title: Pneumatic Systems Library 1.1 - New version for Dymola 2019
 author: "Maximilian Kormann ([Dassault Systèmes Deutschland GmbH](https://www.3ds.com/))"
-category: "association"
+category: "library"
 ---
 
 The Pneumatic Systems Library (PSL) is intended to assist the development of pneumatic systems. PSL enables predicting the system behavior for a wide range of industrial applications such as industrial machines, pneumatic brakes or suspension systems
