@@ -1,7 +1,7 @@
 ---
-title: "Siemens PLM Software –-- 2018 &ndash Simcenter Conference -- Europe "
+title: "Siemens PLM Software –- 2018 Simcenter Conference - Europe "
 author: "Bruno Loyer ([Siemens PLM Software](https://www.siemens.com/plm ))"
-category: "vendor"
+category: "conference"
 ---
 
 #### Join us on December 3-5 for the European Simcenter Conference 2018 
