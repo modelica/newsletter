@@ -11,10 +11,12 @@ Modelon provides software solutions and expert services to organizations that us
 
 
 ##### New Products
-###### Electrification Library <img src= "EL_icon_flat_500.png" alt= "Electrification Library Icon" width="100px" align=left>
+###### Electrification Library 
+[<img src= "EL_icon_flat_500.png" alt= "Electrification Library Icon" width="100px" align=left>]
 Modelon’s Electrification Library is used for the design, analysis, and control of electrified systems. Learn about the Electrification Library [here.](https://modelon.com/library/electrification-library/)
 
-###### Aircraft Dynamics Library <img src= "ADL_icon_flat_500.png" alt="Aircraft Dynamics Library Icon" width="100px" align=left>
+###### Aircraft Dynamics Library 
+[<img src= "ADL_icon_flat_500.png" alt="Aircraft Dynamics Library Icon" width="100px" align=left>]
 Modelon’s Aircraft Dynamics Library is a comprehensive library for modeling and simulating full aircraft and aircraft subsystems. Learn about the Aircraft Dynamics Library [here.](https://www.modelon.com/library/aircraft-dynamics-library/)
 
 #### 2018.2 Release 
