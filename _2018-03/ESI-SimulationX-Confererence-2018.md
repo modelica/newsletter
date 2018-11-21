@@ -1,7 +1,7 @@
 ---
 title: ESI SimulationX Confererence 2018
 author: "Manuela Joseph (ESI ITI)"
-category: "vendor"
+category: "conference"
 ---
 
 ![ESI SimulationX Confererence 2018](ESIITI20180009.jpg 'ESI SimulationX Confererence 2018')
