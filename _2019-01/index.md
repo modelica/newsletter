@@ -2,7 +2,7 @@
 index: true
 hidden: true
 layout: default
-title: "2018-03"
+title: "2019-01"
 name: "2019-01"
 date: 2019-03-01
 description: "Spring 2019 edition of the Modelica Association newsletter"
