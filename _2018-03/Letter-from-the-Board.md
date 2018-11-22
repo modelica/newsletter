@@ -13,11 +13,11 @@ had 2 keynotes, 36 papers, 11 exhibitors and more as xxx attendees.
 [The 13th International Modelica Conference](https://www.modelica.org/events/modelica2019)
 will take place on **March 4-6, 2019 in Regensburg**
 Germany. The submission of regular papers was just closed (on Nov. 19) and we received nearly
-as much submissions as for the last International Modelica Conference 2017 in Prague despite the
-fact that there had been two Modelica Conferences in 2018 (in Japan and USA)
+as much submissions as for the last International Modelica Conference 2017 in Prague, despite the
+fact that there had been two Modelica Conferences in 2018 (in Japan and USA).
 We expect that the conference in Regensburg will have 400-500 participants.
 
-Note, it is still possible to submit extended abstracts of 1-2 pages for *industrial user presentations*.
+Note, it is still possible to submit extended abstracts of 1-2 pages for *industrial user presentations* by Jan. 7, 2018.
 The abstracts will be reviewed, but no papers will be published in the conference proceedings.
 It is also still possible to submit proposals for tutorials, vendor sessions and exhibitions. The
 [registration](https://www.easychair.org/my/conference.cgi?a=12889138;conf=modelica2019;welcome=1)
