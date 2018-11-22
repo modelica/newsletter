@@ -7,8 +7,7 @@ Dear Modelica, FMI, DCP interested,
 
 The Modelica Association is very pleased about the successful first
 [American Modelica Conference](https://www.modelica.org/events/modelica2018Americas),
-held in Boston, USA on October 9-10, 2018. The conference
-had 2 keynotes, 36 papers, 11 exhibitors and more as xxx attendees.
+held in Cambridge, MA, USA on October 9-10, 2018. The conference had 2 keynotes, 36 papers, 11 exhibitors and almost 100 attendees. A short report on the conference can be found [here](./AMCONF_Event_report.md).
 
 [The 13th International Modelica Conference](https://www.modelica.org/events/modelica2019)
 will take place on **March 4-6, 2019 in Regensburg**
