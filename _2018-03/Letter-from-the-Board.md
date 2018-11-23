@@ -43,7 +43,9 @@ Therefore, please use the *Issues* at Github in the future to report bugs or sug
 [FMI Standard](https://github.com/modelica/fmi-standard/issues), and
 [Modelica Compliance Checker](https://github.com/modelica/Modelica-Compliance/issues).
 
-The FMI Steering Committee has approved a new set of FMI Cross-Check Rules.
+The FMI Steering Committee has approved a new set of FMI Cross-Check Rules
+([FMI Cross-Check](https://github.com/modelica/fmi-cross-check), 
+ [FMI Cross-Check rules](https://github.com/modelica/fmi-cross-check/blob/master/FMI-CROSS-CHECK-RULES.md)).
 Technically, the biggest change is that the rules are stricter about how files need to be submitted
 and how the rules are enforced before accepting commits.
 On the organisational site, the FMI group is introducing a *fee* for *listing* tools on the
