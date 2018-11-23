@@ -3,10 +3,10 @@ title: Letter from the Board
 author: "Martin Otter (Modelica Association)"
 category: "letter"
 ---
-Dear Modelica, FMI, DCP interested,
+Dear Modelica, FMI, SSP, DCP interested,
 
-The Modelica Association is very pleased about the successful first
-[American Modelica Conference](https://www.modelica.org/events/modelica2018Americas),
+The Modelica Association is very pleased about the successful
+[first American Modelica Conference](https://www.modelica.org/events/modelica2018Americas),
 held in Cambridge, MA, USA on October 9-10, 2018. The conference had 2 keynotes, 36 papers, 11 exhibitors and almost 100 attendees. A short report on the conference can be found [here](./AMCONF_Event_report.md).
 
 The [2nd Japanese Modelica Conference](https://www.modelica.org/events/modelica2018japan) took place in Tokyo, Japan on May 17-18, 2018.
@@ -19,8 +19,7 @@ Germany. The submission of regular papers was just closed (on Nov. 19) and we re
 as much submissions as for the last International Modelica Conference 2017 in Prague, despite the
 fact that there had been two Modelica Conferences in 2018.
 We expect that the conference in Regensburg will have 400-500 participants.
-
-Note, it is still possible to submit extended abstracts of 1-2 pages for *industrial user presentations* by Jan. 7, 2019.
+Note, it is still possible to submit extended abstracts of 1-2 pages for *industrial user presentations by Jan. 7, 2019*.
 The abstracts will be reviewed, but no papers will be published in the conference proceedings.
 It is also still possible to submit proposals for tutorials, vendor sessions and exhibitions. The
 [registration](https://www.easychair.org/my/conference.cgi?a=12889138;conf=modelica2019;welcome=1)
@@ -44,24 +43,25 @@ Therefore, please use the *Issues* at Github in the future to report bugs or sug
 [Modelica Compliance Checker](https://github.com/modelica/Modelica-Compliance/issues).
 
 The FMI Steering Committee has approved a new set of FMI Cross-Check Rules.
-Technically, the biggest change is that the rules are stricter about how you need to submit
-the files and how the rules are enforced before accepting your commit.
-On the organisational site, the FMI group is introducing a *fee* for listing your tool on the site.
+Technically, the biggest change is that the rules are stricter about how files need to be submitted
+and how the rules are enforced before accepting commits.
+On the organisational site, the FMI group is introducing a *fee* for *listing* tools on the
+[FMI tools web site](https://fmi-standard.org/tools/).
 *The money raised this way will be used to improve the FMI standard and the cross-check infrastructure.*
 The FMI standard is (and will always be) license and royalty free, so neither the entry nor the usage barrier is raised.
 The fee for listing a tool at the FMI web page will be 1000.-- Euro per calendar year for tools providing cross-check
 data with a green "available" button, otherwise it will be 2000.-- Euro. Open-source tools are continued to be
 listed free of charge.
 
-We are still searching for volunteers that are organizing Modelica Conferences in the future:
-The International Modelica Conference in 2021 in Europe and local Modelica Conferences
-outside of Europe in 2020. If you would like to organize such a Modelica Conference, please inspect the
+We are looking for interested people that are organizing Modelica Conferences in the future:
+The International Modelica Conference in *2021 in Europe* and local Modelica Conferences
+outside of Europe in *2020*. If you would like to organize such a Modelica Conference, please inspect the
 [Modelica Conference series](https://www.modelica.org/publications/ModelicaConference)
 for instructions.
 
-If you have interesting news for the Modelica and FMI communities, please follow the
+If you have interesting news for the Modelica, FMI, SSP and DCP communities, please follow the
 [submission guidelines](https://newsletter.modelica.org/submission-guidelines.html).
 The deadline for articles for the next newsletter is **Fr. March. 15, 2019**.
 
-Martin Otter on November 22, 2018
+Martin Otter on November 23, 2018
 (Chairman of the Modelica Association)
