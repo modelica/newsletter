@@ -64,5 +64,5 @@ If you have interesting news for the Modelica, FMI, SSP and DCP communities, ple
 [submission guidelines](https://newsletter.modelica.org/submission-guidelines.html).
 The deadline for articles for the next newsletter is **Fr. March. 15, 2019**.
 
-Martin Otter on November 23, 2018
+Martin Otter on November 23, 2019
 (Chairman of the Modelica Association)
