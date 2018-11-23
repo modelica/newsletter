@@ -11,7 +11,7 @@ held in Cambridge, MA, USA on October 9-10, 2018. The conference had 2 keynotes,
 
 The [2nd Japanese Modelica Conference](https://www.modelica.org/events/modelica2018japan) took place in Tokyo, Japan on May 17-18, 2018.
 The Conference Proceedings are currently [available as one pdf-file](https://www.modelica.org/events/modelica2018japan/conference-proceedings/modelica-final-proceedings-2018-Japan.pdf).
-In the near future, the proceedings will be published by Linköping University Press.
+In the near future, the proceedings will be published by LinkÃ¶ping University Press.
 
 [The 13th International Modelica Conference](https://www.modelica.org/events/modelica2019)
 will take place on **March 4-6, 2019 in Regensburg**
