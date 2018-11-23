@@ -21,7 +21,7 @@ fact that there had been two Modelica Conferences in 2018.
 We expect that the conference in Regensburg will have 400-500 participants.
 Note, it is still possible to submit extended abstracts of 1-2 pages for *industrial user presentations by Jan. 7, 2019*.
 The abstracts will be reviewed, but no papers will be published in the conference proceedings.
-Industrial user presentations are scheduled or the first day of the conference, on March 4, 2019.
+Industrial user presentations are scheduled for the first day of the conference, on March 4, 2019.
 It is also still possible to submit proposals for tutorials, vendor sessions and exhibitions. The
 [registration](https://www.easychair.org/my/conference.cgi?a=12889138;conf=modelica2019;welcome=1)
 is already open and reduced conference fees are available up to *January 7, 2019*.
