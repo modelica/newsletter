@@ -9,11 +9,15 @@ The Modelica Association is very pleased about the successful first
 [American Modelica Conference](https://www.modelica.org/events/modelica2018Americas),
 held in Cambridge, MA, USA on October 9-10, 2018. The conference had 2 keynotes, 36 papers, 11 exhibitors and almost 100 attendees. A short report on the conference can be found [here](./AMCONF_Event_report.md).
 
+The [2nd Japanese Modelica Conference](https://www.modelica.org/events/modelica2018japan) took place in Tokyo, Japan on May 17-18, 2018.
+The Conference Proceedings are currently [available as one pdf-file](https://www.modelica.org/events/modelica2018japan/conference-proceedings/modelica-final-proceedings-2018-Japan.pdf).
+In the near future, the proceedings will be published by Linköping University Press.
+
 [The 13th International Modelica Conference](https://www.modelica.org/events/modelica2019)
 will take place on **March 4-6, 2019 in Regensburg**
 Germany. The submission of regular papers was just closed (on Nov. 19) and we received nearly
 as much submissions as for the last International Modelica Conference 2017 in Prague, despite the
-fact that there had been two Modelica Conferences in 2018 (in Japan and USA).
+fact that there had been two Modelica Conferences in 2018.
 We expect that the conference in Regensburg will have 400-500 participants.
 
 Note, it is still possible to submit extended abstracts of 1-2 pages for *industrial user presentations* by Jan. 7, 2019.
@@ -48,6 +52,12 @@ The FMI standard is (and will always be) license and royalty free, so neither th
 The fee for listing a tool at the FMI web page will be 1000.-- Euro per calendar year for tools providing cross-check
 data with a green "available" button, otherwise it will be 2000.-- Euro. Open-source tools are continued to be
 listed free of charge.
+
+We are still searching for volunteers that are organizing Modelica Conferences in the future:
+The International Modelica Conference in 2021 in Europe and local Modelica Conferences
+outside of Europe in 2020. If you would like to organize such a Modelica Conference, please inspect the
+[Modelica Conference series](https://www.modelica.org/publications/ModelicaConference)
+for instructions.
 
 If you have interesting news for the Modelica and FMI communities, please follow the
 [submission guidelines](https://newsletter.modelica.org/submission-guidelines.html).
