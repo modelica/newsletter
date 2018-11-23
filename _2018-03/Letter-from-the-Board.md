@@ -52,7 +52,7 @@ On the organisational site, the FMI group is introducing a *fee* for *listing* t
 [FMI tools web site](https://fmi-standard.org/tools/).
 *The money raised this way will be used to improve the FMI standard and the cross-check infrastructure.*
 The FMI standard is (and will always be) license and royalty free, so neither the entry nor the usage barrier is raised.
-The fee for listing a tool at the FMI web page will be 1000.-- Euro per calendar year for tools providing cross-check
+Starting in 2019, the fee for listing a tool at the FMI web page will be 1000.-- Euro per calendar year for tools providing cross-check
 data with a green "available" button, otherwise it will be 2000.-- Euro. Open-source tools are continued to be
 listed free of charge.
 
