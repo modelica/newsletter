@@ -1,14 +1,12 @@
 ---
 title: Modelon November 2019 Updates
-author: Swati Tyagi, [Modelon] (hhtps://www.modelon.com/)
+author: Swati Tyagi, [Modelon](https://www.modelon.com/)
 category: "vendor"
 ---
 
 ![](Modelon_Orange_400.png)
 
 Modelon provides software solutions and expert services to organizations that use model-based simulation tools to design and develop technical systems. Modelon’s [libraries](https://www.modelon.com/products-services/modelon-library-suite/), [solver](https://www.modelon.com/products-services/modelon-creator-suite/),and [deployment solutions](https://www.modelon.com/products-services/modelon-deployment-suite/) are leading products available in the market today for modeling, simulation, and optimization. Our products enable companies to focus on delivering a unified picture of product system interaction and performance - from product concept to operation. 
-
-
 
 ##### New Products
 ###### Electrification Library 
@@ -51,6 +49,3 @@ Aircraft hydraulic system simulation requires a versatile tool that can handle m
 Modelon offers expert-led training courses on topics such as FMI, Modelica, multi-physics modeling, and more at varying learning levels. To view our available winter courses, check out our [training page.](https://www.modelon.com/support-learning/training/)
 
 Don't see a scheduled course that works for you? We also offer customized training. Contact our training team at training@modelon.com to find a course right for you. 
-
-
-
