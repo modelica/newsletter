@@ -1,5 +1,5 @@
 ---
-title: Report from American Modelica Conference 2018
+title: Report from the American Modelica Conference 2018
 author: "Luigi Vanfretti ([Rensselaer Polytechnic Institute, Troy, NY, USA](https://alsetlab.github.io/))"
 category: "conference"
 ---
