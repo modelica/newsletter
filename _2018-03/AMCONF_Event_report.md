@@ -1,6 +1,6 @@
 ---
-title: American Modelica Conference 2018
-author: "Luigi Vanfretti (Rensselaer Polytechnic Institute, Troy, NY, USA)"
+title: Report from American Modelica Conference 2018
+author: "Luigi Vanfretti ([Rensselaer Polytechnic Institute, Troy, NY, USA](https://alsetlab.github.io/))"
 category: "conference"
 ---
 
@@ -55,7 +55,7 @@ In this conference, Filip Ježek (shown in action below) presented their work us
 
 ![Filip](amconf_02.png 'Filip')
 
-Take a look at a heart model on your mobile phone running on an FMU, [here](http://physiomodelling.com/mobile.html), or if you are sitting on your PC, open your browser and learn how circulation is affected by weight, height, and other factors [here](http://physiomodelling.com/circulation/). You can find the full presentation [here]
+Take a look at a heart model on your mobile phone running on an FMU, [here](http://physiomodelling.com/mobile.html), or if you are sitting on your PC, open your browser and learn how circulation is affected by weight, height, and other factors [here](http://physiomodelling.com/circulation/). You can find the full presentation [here](https://github.com/ALSETLab/2018_American_Modelica_Conference/raw/master/FullPaper/Modelica2018US_Presentations_21.pdf)
 
 ![Circulation](amconf_01.gif 'Circulation')
 
