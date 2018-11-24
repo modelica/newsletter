@@ -19,4 +19,4 @@ Further enhancements include:
 - Utility function to retrieve MAC addresses
 - Utility function to generate a UUID
 
-The library is developed at [github.com/modelica/Modelica_DeviceDrivers](https://github.com/modelica/Modelica_DeviceDrivers) where the issue tracker provided by Github can be used to report bugs, feature requests or other issues.
+The library is developed at [github.com/modelica/Modelica_DeviceDrivers](https://github.com/modelica/Modelica_DeviceDrivers) where the issue tracker provided by GitHub can be used to report bugs, feature requests or other issues.
