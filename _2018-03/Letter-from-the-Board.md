@@ -34,10 +34,10 @@ A [new maintenance version](https://github.com/modelica-tools/csv-compare/releas
 for the CSV Compare Tool has recently released for Linux and Windows. The tool allows comparison
 of simulation results and is used, for example, in the regression testing for the Modelica Standard Library.
 Note, the pre-built binaries of the FMU Compliance Checker are now also
-[available at Github](https://github.com/modelica-tools/FMUComplianceChecker/releases).
+[available at GitHub](https://github.com/modelica-tools/FMUComplianceChecker/releases).
 
-MA continues to move its infrastructure to Github.
-Therefore, please use the *Issues* at Github in the future to report bugs or suggest improvements:
+MA continues to move its infrastructure to GitHub.
+Therefore, please use the *Issues* at GitHub in the future to report bugs or suggest improvements:
 [Modelica Specification](https://github.com/modelica/ModelicaSpecification/issues),
 [Modelica Standard Library](https://github.com/modelica/ModelicaStandardLibrary/issues),
 [FMI Standard](https://github.com/modelica/fmi-standard/issues), and
