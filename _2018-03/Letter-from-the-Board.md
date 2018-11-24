@@ -7,7 +7,7 @@ Dear Modelica, FMI, SSP, DCP interested,
 
 The Modelica Association is very pleased about the successful
 [first American Modelica Conference](https://www.modelica.org/events/modelica2018Americas),
-held in Cambridge, MA, USA on October 9-10, 2018. The conference had 2 keynotes, 36 papers, 11 exhibitors and almost 100 attendees. A short report on the conference can be found [here](./AMCONF_Event_report.md).
+held in Cambridge, MA, USA on October 9-10, 2018. The conference had 2 keynotes, 36 papers, 11 exhibitors and almost 100 attendees. A short report on the conference can be found [here](#report-from-the-american-modelica-conference-2018).
 
 The [2nd Japanese Modelica Conference](https://www.modelica.org/events/modelica2018japan) took place in Tokyo, Japan on May 17-18, 2018.
 The Conference Proceedings are currently [available as one pdf-file](https://www.modelica.org/events/modelica2018japan/conference-proceedings/modelica-final-proceedings-2018-Japan.pdf).
