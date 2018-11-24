@@ -6,7 +6,7 @@ category: "conference"
 
 # The new world opens to Modelica: Highlights from the very first **American Modelica Conference 2018!**
 
-![Amercian Modelica Conference 2018](AMCONF_2018.png 'American Modelica Conference 2018')
+![American Modelica Conference 2018](AMCONF_2018.png 'American Modelica Conference 2018')
 
 ## Thanks!
 
@@ -33,13 +33,12 @@ Concurrently, Jiri Kofranek offered a 1 day workshop on "Introduction to Equatio
 We had the pleasure of having two amazing keynotes from two unique perspectives.
 
 The first keynote was given by Dr. John F. Mckibben of Proctor and Gamble on "Simulation Led Innovation at Proter & Gamble". P&G is one of America's major source of "consumer packaged goods", think about toiletries, shampoo, and yes, toilet paper!
-The talk was an exciting expose of how simulation is enabling massive innovation possibilities with lower costs as compared to previous conventional prototyping approaches. Most importantly, Dr. Mckibben made a case that beyond mastering technology, to truly take advantage of modeling & simulation approaches, any business will need to change their mindset: the entire life cycle of digital assets (our models and simulators), needs to become as important of the physical assets. This aspect really struck a chord with me, as the world continues with the trend of digitalization - from smart homes to smart grids -, our "digital twins" will become a crucial part of our society, and as one of the world's premiere community of modeling and simulation experts, bringing this message out is an important role we can play.
+The talk was an exciting expose of how simulation is enabling massive innovation possibilities with lower costs as compared to previous conventional prototyping approaches. Most importantly, Dr. Mckibben made a case that beyond mastering technology, to truly take advantage of modeling & simulation approaches, any business will need to change their mindset: the entire life cycle of digital assets (our models and simulators), needs to become as important of the physical assets. This aspect really struck a chord with me, as the world continues with the trend of digitalization - from smart homes to smart grids -, our "digital twins" will become a crucial part of our society, and as one of the world's premier community of modeling and simulation experts, bringing this message out is an important role we can play.
 
-The second keynote was given by Dr. Hilding Elmqvist, CEO of Mogram AB, and most importantly, the pioneer of Modelica. The talk "Modelica - History, State, Needs, Trends, and Possibilities" was an entire eduational experience of its own. From the early challenges that Dr. Elmqvist faced with limited hardware, to the **universe of opportunities** that can be enabled with Modelica technologies, this talk made me learn, think and even laugh! To illustrate the point of evolution of the technology and current needs (i.e. self-driving cars), Dr. Elmqvist show how he used a web-based tool to develop a Modelica model while letting his Tesla drive for him in the road; luckily, this was not illegal in Sweden when he recorded it!
+The second keynote was given by Dr. Hilding Elmqvist, CEO of Mogram AB, and most importantly, the pioneer of Modelica. The talk "Modelica - History, State, Needs, Trends, and Possibilities" was an entire educational experience of its own. From the early challenges that Dr. Elmqvist faced with limited hardware, to the **universe of opportunities** that can be enabled with Modelica technologies, this talk made me learn, think and even laugh! To illustrate the point of evolution of the technology and current needs (i.e. self-driving cars), Dr. Elmqvist showed how he used a web-based tool to develop a Modelica model while letting his Tesla drive for him in the road; luckily, this was not illegal in Sweden when he recorded it!
 This really made me ponder on how **digital assets, physical systems, and humans** are becoming more interweaved, and how now, more than ever, the technologies of the Modelica ecosystem have a crucial role to play. To this point, Dr. Elmqvist illustrated the importance of making Modelica evolve through prototyping languages, such as Modia, to expand simulation standards to take advantage of Virtual and Augmented Reality (AR/VR), and other visions where modeling and simulation can help meeting the challenges today and the future.
 
 ![Elmqvist Vision](amconf_03.png 'Elmqvist Vision')
-
 
 Finally, something that is really important for me as a Professor, was the topic of low-cost HIL simulation. Dr. Elmqvist showed a low-cost prototype HIL system with the controller on an Raspberry Pi and the model on a PC, to highlight that the available technologies today for HIL are now opening new opportunities. I loved this kind of "toy" examples because not only I work with real-time HIL simulation at [ALSETLab](https://alsetlab.github.io/lab/) and I want the models I run in my targets to one day be portable, but more importantly because they can truly help bringing more people young to the Modelica world, specially young students. I really hope Dr. Elmqvist will continue this effort, it can make my job as an educator much better, and help foster the future Modelica generations.
 
@@ -80,7 +79,7 @@ The library allows the simulation of the complete spacecraft system (thermal sys
 ### Where's the proceedings?
 Along with Christopher Laughman of MERL, we are putting together the conference proceedings which should be available in the coming month.
 
-### Repository with Presenations
+### Repository with Presentations
 For those that can't wait to enjoy the fun, for the time being, an unofficial draft of a repository (which will be transferred to the Modelica Association upon completion) is available [here](https://github.com/ALSETLab/2018_American_Modelica_Conference).
 
 ## See you next time!
