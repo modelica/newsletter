@@ -33,7 +33,7 @@ Technically, the biggest change is *[continue reading ...](https://newsletter.mo
 {% include build_email_index.md %}
 
 ## Editor's note
-*Dear Modelicans, I wish you a pleasant end of the year and hope we will all meet at the following Modelica Conference in Dresden. The contributions to the Modelica newsletter are open for everyone (the posts are however moderated), so feel free to post any news regarding the Modelica, FMI and related to the following Newsletter. More information about submissions are listed at the [Submission guidelines](https://newsletter.modelica.org/submission-guidelines.html)*.
+*Dear Modelicans, I wish you a pleasant end of the year and hope we will all meet at the following Modelica Conference in Regensburg. The contributions to the Modelica newsletter are open for everyone (the posts are however moderated), so feel free to post any news regarding the Modelica, FMI and related to the following Newsletter. More information about submissions are listed at the [Submission guidelines](https://newsletter.modelica.org/submission-guidelines.html)*.
 
 *All the best,    
 Filip Ježek, newsletter editor*
