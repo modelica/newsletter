@@ -27,7 +27,7 @@ At Mitsubishi Electric Research Laboratories, two sequential workshops took plac
 
 As a personal highlight, I had the pleasure of having lunch with "il Padrino", Hilding Elmqvist, during the lunch break of this workshop. It was of course a great moment for someone like me that only joined the Modelica community 7 years ago, and I truly enjoyed discussing with Hilding about the enabling features of Modelica for cyber-physical system modeling. More on that below.
 
-Concurrently, Jiri Kofranek offered a 1 day workshop on "Introduction to Equation Based Modeling and Simulation with Modelica with a Focus on Physiological Modeling." This workshop was possible thanks to Michael Tiller's efforts and aimed at exposing physiology experts to Modelica and the dedicated libraries from Charles University developed for this purpose. Participants learned how to model the cardiovascular system dynamics using principles from the hydraulics domain, among other interesting applications!
+Concurrently, Jiri Kofranek's team from Charles University offered a 1 day workshop on "Introduction to Equation Based Modeling and Simulation with Modelica with a Focus on Physiological Modeling." This workshop was possible thanks to Michael Tiller's efforts and aimed at exposing physiology experts to Modelica and the dedicated libraries from Charles University developed for this purpose. Participants learned how to model the cardiovascular system dynamics using principles from the hydraulics domain, among other interesting applications!
 
 ## The Main Event!
 We had the pleasure of having two amazing keynotes from two unique perspectives.
