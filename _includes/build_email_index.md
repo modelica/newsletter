@@ -4,3 +4,15 @@
 {% include build_email_list_category.md section="News from libraries" category="library" %}
 {% include build_email_list_category.md section="Conferences and user meetings" category="conference" %}
 {% include build_email_list_category.md section="Education news" category="education" %}
+
+ 
+
+{% assign cats = "association,project,vendor,library,conference,education" | split:"," %}
+
+{% for page in site.[name] %}
+{% if page.index != true and hidden != true %}
+{% unless cats contains page.category %}
+ * ERROR: [{{ page.title }}]({{site.url}}/{{ name }}/index.html#{{ page.title | slugify }}) uncategorized!
+{% endunless &}
+{% endif %}
+{% endfor %}
