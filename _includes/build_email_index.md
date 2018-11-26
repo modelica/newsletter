@@ -6,17 +6,11 @@
 {% include build_email_list_category.md section="Education news" category="education" %}
     
 {% assign cats = "association,project,vendor,library,conference,education" %}
-{{ cats }} __ and __ {{ page.category }}
-
  
 {% for page in site.[name] %}
-{% if page.index != true and hidden != true and page.category != "association" and page.category != "project" and page.category != "vendor" and page.category != "library" and page.category != "conference" and page.category != "education" %}
-* ERROR: [{{ page.title }}]({{site.url}}/{{ name }}/index.html#{{ page.title | slugify }}) uncategorized!
-* sumuturhERROR: [{{ page.name }}]({{page.url}}) uncategorized!
-
+{% if page.index != true and hidden != true and page.category != "letter" %}
 {% unless cats contains page.category  %}
-sum stuff
+* ERROR: {{ page.name }} uncategorized! {{ page.category }} unknown.
 {% endunless %}
-
 {% endif %}
 {% endfor %}
