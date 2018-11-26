@@ -3,6 +3,7 @@ title: Siemens partners with Modelon
 author: "Bruno Loyer ([Siemens PLM Software](https://www.siemens.com/plm ))"
 category: "vendor"
 ---
+{::options parse_span_html="true" /}
 
 #### Siemens partners with Modelon to use OPTIMICA Compiler Toolkit as its Modelica engine starting of Simcenter&nbsp;Amesim&nbsp;17<sup>1</sup>
 
@@ -14,6 +15,6 @@ The support of [Modelon's industrial libraries](https://www.modelon.com/products
 
 ![](Amesim_Modelica.png)
 
-[1]: Available upon request in Simcenter&nbsp;Amesim&nbsp;17.
+\[1\]: Available upon request in Simcenter&nbsp;Amesim&nbsp;17.
   
 For more information on Simcenter Amesim, please visit our [website]( https://www.siemens.com/plm/simcenter-amesim ).
