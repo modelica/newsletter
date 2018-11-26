@@ -10,7 +10,7 @@
 {% for page in site.[name] %}
 {% if page.index != true and hidden != true and page.category != "letter" %}
 {% unless cats contains page.category  %}
-* ERROR: {{ page.name }} uncategorized! {{ page.category }} unknown.
+* ERROR: {{ page.path }}, {{page.url}} uncategorized! *{{ page.category }}* unknown.
 {% endunless %}
 {% endif %}
 {% endfor %}
