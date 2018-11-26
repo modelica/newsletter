@@ -7,10 +7,6 @@
 
  
 
-{% assign cats = "association,project,vendor,library,conference,education" | split:"," %}
-
-{% cats %}
-
 {% for page in site.[name] %}
 {% if page.index != true and hidden != true and page.category != "association" and page.category != "project" and page.category != "vendor" and page.category != "library" and page.category != "conference" and page.category != "education" %}
 dotdotdot
