@@ -9,10 +9,10 @@
 
 {% assign cats = "association,project,vendor,library,conference,education" | split:"," %}
 
+{% cats %}
+
 {% for page in site.[name] %}
-{% if page.index != true and hidden != true %}
-{% unless cats contains page.category %}
- * ERROR: [{{ page.title }}]({{site.url}}/{{ name }}/index.html#{{ page.title | slugify }}) uncategorized!
-{% endunless &}
+{% if page.index != true and hidden != true and page.category != "association" and page.category != "project" and page.category != "vendor" and page.category != "library" and page.category != "conference" and page.category != "education" %}
+dotdotdot
 {% endif %}
 {% endfor %}
