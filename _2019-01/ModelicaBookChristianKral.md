@@ -4,7 +4,7 @@ title: "New book on Modelica for electrical enegineers"
 author: Christian Kral
 category: "education"
 ---
-![Modelica book]()
+![Modelica book](ModelicaBookChristianKral.png)
 
 The book (written in German) has a particular focus on electrical engineers, since all examples are  related with electrical power engineering and electrical machines. After a summary of fundamental principles the first steps on creating and simulation Modelica models are provided. Each simulation example shown in the book is based on the open source library [HanserModelica](https://github.com/christiankral/HanserModelica). This library is fully tested with [OpenModelica](https://www.openmodelica.org/) so that the reader can perform all the simulation examples of the book solely on open source software.
 
