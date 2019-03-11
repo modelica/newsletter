@@ -7,7 +7,7 @@ category: "vendor"
 ![](Simcenter_Amesim.png)
 
 #### Modelon – Siemens partnership: outcome reflected in the shortly available version of Simcenter&nbsp;Amesim
-As a result of the previously announced partnership between [Siemens](https://www.siemens.com/plm ) and [Modelon](https://www.modelon.com/ ), Siemens confirms that the forthcoming release of **Simcenter&nbsp;Amesim** (expected April 2019) will be the first version to officially include [Modelon's OPTIMICA Compiler Toolkit](https://www.modelon.com/products-services/modelon-creator-suite/optimica-compiler-toolkit ) as its standard Modelica engine to create and/or reuse Modelica models within native **Simcenter&nbsp;Amesim** models. Thanks to this revamped Modelica support, it will be possible to combine the strengths of causal and acausal modeling techniques within a unique platform. 
+As a result of the previously announced partnership between [Siemens](https://www.siemens.com/plm ) and [Modelon](https://www.modelon.com/ ), Siemens confirms that the forthcoming release of **Simcenter&nbsp;Amesim** (expected April 2019) will be the first version to officially include [Modelon's OPTIMICA Compiler Toolkit](https://www.modelon.com/products-services/modelon-creator-suite/optimica-compiler-toolkit ) as its **standard Modelica engine** to create and/or reuse Modelica models within native **Simcenter&nbsp;Amesim** models. Thanks to this revamped Modelica support, it will be possible to combine the strengths of causal and acausal modeling techniques within a unique platform. 
 
 #### FMI still at the core of Siemens' product strategy
 
