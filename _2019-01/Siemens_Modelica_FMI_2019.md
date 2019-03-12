@@ -11,11 +11,11 @@ As a result of the previously announced partnership between [Siemens](https://ww
 
 #### FMI still at the core of Siemens' product strategy
 
-As since day one, [Siemens PLM Software](https://www.siemens.com/plm ) contributes to the FMI 3.0 specification and more generally to the promotion of the FMI standard to its industrial customers. In this spirit, the next release of **Simcenter&nbsp;Amesim** will bring many improvements to the FMI support. In short, these enhanced capabilities will allow for:
+As since day one, [Siemens PLM Software](https://www.siemens.com/plm ) contributes to the FMI 3.0 specification and more generally to the promotion of the FMI standard to its industrial customers. In this spirit, the up-coming release of **Simcenter&nbsp;Amesim** will bring many improvements to the FMI support. In short, these enhanced capabilities will allow for:
 * the use of **additional advanced co-simulation techniques**,
 * an **increased protection of the intellectual property contained in Simcenter&nbsp;Amesim FMUs**,
 * performing the **virtual calibration of imported FMUs** directly within the **Simcenter&nbsp;Amesim** GUI.
 
-Moreover, users will be able to export their **Simcenter&nbsp;Amesim** multiphysical models to **additional FMI compatible real-time targets**. These new capabilities will serve the needs of both the “traditional” automotive and aerospace industries as well as the emerging&mdash;and exciting&mdash;applications of **the Industrial Internet of Things (IIoT)**, in total coherence with **the Industry 4.0 vision embodied by Siemens**.   
+Moreover, users will be able to export their **Simcenter&nbsp;Amesim** multiphysical models to **additional FMI compatible real-time targets**. These new capabilities will serve the needs of the automotive, aerospace and marine industries as well as the emerging&mdash;and exciting&mdash;applications of **the Industrial Internet of Things (IIoT)**, in total coherence with **the Industry 4.0 vision embodied by Siemens**.   
 
-Stay tuned for our official launch press release, to be published in the coming days. In the meantime and for more information on **Simcenter&nbsp;Amesim**, do not hesitate to visit our [website]( https://www.siemens.com/plm/simcenter-amesim ).
+Stay tuned on the [Simcenter Blog](https://community.plm.automation.siemens.com/t5/Simcenter-Blog/bg-p/Simcenter_blog ). In the meantime and for more information on **Simcenter&nbsp;Amesim**, do not hesitate to visit our [website]( https://www.siemens.com/plm/simcenter-amesim ).
