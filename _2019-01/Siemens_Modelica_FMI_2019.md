@@ -11,7 +11,7 @@ As a result of the previously announced partnership between [Siemens](https://ww
 
 #### FMI still at the core of Siemens' product strategy
 
-As since day one, [Siemens PLM Software](https://www.siemens.com/plm ) contributes to the **FMI 3.0** specification and more generally to the promotion of the FMI standard to its industrial customers. In this spirit, the up-coming release of **Simcenter&nbsp;Amesim** will bring many improvements to the FMI support. In short, these enhanced capabilities will allow for:
+As since day one, [Siemens PLM Software](https://www.siemens.com/plm ) actively contributes to the **FMI 3.0** specification and more generally to the promotion of the FMI standard to its industrial customers. In this spirit, the up-coming release of **Simcenter&nbsp;Amesim** will bring many improvements to the FMI support. In short, these enhanced capabilities will allow for:
 * the use of **additional advanced co-simulation techniques**,
 * an **increased protection of the intellectual property contained in Simcenter&nbsp;Amesim FMUs**,
 * performing the **virtual calibration of imported FMUs** directly within the **Simcenter&nbsp;Amesim** GUI.
