@@ -7,7 +7,7 @@ category: "vendor"
 
 ### Mathematica 12
 
-Version 12 of **Mathematica** comes with built-in simulation engine of SystemModeler. This means millions of Wolfram language users world-wide can model, simulate and analyze any Modelica model and make use of all the system modeling functionality. 
+Version 12 of Mathematica comes with built-in simulation engine of SystemModeler. This means millions of Wolfram language users world-wide can model, simulate and analyze any Modelica model and make use of all the system modeling functionality. 
 
 ![alt text](SystemModeler12.jpg "Unleash Your Models with the Wolfram Language")
 
@@ -18,7 +18,7 @@ Integration with the Wolfram language makes it easier to perform complex tasks s
 
 ### SystemModeler 12
 
-The latest version of **SystemModeler** contains many new features to make your design process more efficient. Some of the significant features are:
+The latest version of SystemModeler contains many new features to make your design process more efficient. Some of the significant features are:
 - *Symbolic Linearization*–Linearize your model symbolically around any operating point and use it for your study of dynamical systems.
 - *Equation Browser*–Debug your models, understand simulation behavior and eliminate performance bottlenecks with the equation browser.
 - *Full FMI support*–Share models with any other FMI compliant tool for further analysis such as software-in-the-loop testing, CFD analysis and more.
