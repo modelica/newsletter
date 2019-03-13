@@ -3,11 +3,11 @@ title: SystemModeler and Mathematica 12-Modelica to Millions
 author: "Ankit Naik [Wolfram](http://wolfram.com/system-modeler/)"
 category: "vendor"
 ---
-*Mathematica and SystemModeler 12 will be released during spring 2019.*
+*SystemModeler and Mathematica 12 will be released during spring 2019.*
 
 ### Mathematica 12
 
-Version 12 of **Mathematica** comes with built-in simulation engine of SystemModeler. This means millions of Wolfram language users world-wide can simulate, model and analyze any Modelica model and make use of all the system modeling functionality. 
+Version 12 of **Mathematica** comes with built-in simulation engine of SystemModeler. This means millions of Wolfram language users world-wide can model, simulate and analyze any Modelica model and make use of all the system modeling functionality. 
 
 ![alt text](SystemModeler12.jpg "Unleash Your Models with the Wolfram Language")
 
