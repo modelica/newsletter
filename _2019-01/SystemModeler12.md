@@ -12,9 +12,9 @@ Version 12 of **Mathematica** comes with built-in simulation engine of SystemMod
 ![alt text](SystemModeler12.jpg "Unleash Your Models with the Wolfram Language")
 
 Integration with the Wolfram language makes it easier to perform complex tasks such as:
-- Designing and optimizing components of a system, e.g. designing guidance system of a rocket
-- Obtaining real-world data, e.g. comparing energy consumption for house heating
-- Creating custom visualization, e.g. visualizing a satellite path
+- *Designing and optimizing components of a system*, e.g. designing guidance system of a rocket
+- *Obtaining real-world data*, e.g. comparing energy consumption for house heating
+- *Creating custom visualization*, e.g. visualizing a satellite path
 
 ### SystemModeler 12
 
