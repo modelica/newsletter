@@ -7,7 +7,7 @@ Mathematica and SystemModeler 12.0 will be released during spring 2019.
 
 Version 12.0 of Mathematica comes with built-in simulation engine of SystemModeler. This means millions of Wolfram language users world-wide can simulate, model and analyze any Modelica model and make use of all the system modeling functionality. 
 
-![SystemModeler 12.0 Banner](systemmodeler-12.png "Unleash Your Models with the Wolfram Language")
+![alt text](SystemModeler12.jpg "Unleash Your Models with the Wolfram Language")
 
 Integration with the Wolfram language makes it easier to perform complex tasks such as:
 - Designing and optimizing components of a system, e.g. designing guidance system of a rocket
