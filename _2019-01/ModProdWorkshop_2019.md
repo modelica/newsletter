@@ -15,8 +15,8 @@ Charlotta Johnsson, Professor, Department of Automatic Control, Lund University.
 
 The program and the presentations are available from [modprod program](www.modprod.liu.se)
 
-![modprod Program 2019](peterandniclas.JPG 'modprodWorkshop 2019') 
-Peter Fritzson (Linköping University) (left) leaves as MODPROD director after 13 years, becomes vice director, and hands over the directorship to Niclas Fock (RISE Research Institutes of Sweden).  
+![](peterandniclas.jpg) ![](supercomputer.jpg) 
 
-![modprod Program 2019](supercomputer.JPG 'modprodWorkshop 2019') 
-Visit to the National Supercomputer Center in Linköping (www.nsc.liu.se ) where the new supercomputer TetraLith has just been installed.
+Left:Peter Fritzson (Linköping University) (left) leaves as MODPROD director after 13 years, becomes vice director, and hands over the directorship to Niclas Fock (RISE Research Institutes of Sweden).  
+
+Right:Visit to the National Supercomputer Center in Linköping (www.nsc.liu.se ) where the new supercomputer TetraLith has just been installed.

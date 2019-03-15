@@ -9,8 +9,8 @@ New results and applications regarding the OpenModelica platform were presented,
 
 The program and the 13 presentations are available from [Workshop Program](https://www.openmodelica.org/events/openmodelica-workshop/openmodelica-program-2019)
 
-![Workshop Program 2019](Chairpersons.JPG 'Workshop Program 2019') 
-Lennart Ochel and Lena Buffoni, OpenModelica workshop chairpersons (Linköping University) opening the workshop. 
+![](Chairpersons.JPG) ![](FrancescoAdrian.JPG) 
 
-![Workshop Program 2019](FrancescoAdrian.JPG 'Workshop Program 2019') 
-OpenModelica workshop, Francesco Casella and Adrian Pop making a live demo of OMEdit with the new frontend based API with an impressive 20x faster performance.
+Left:Lennart Ochel and Lena Buffoni, OpenModelica workshop chairpersons (Linköping University) opening the workshop. 
+
+Right:OpenModelica workshop, Francesco Casella and Adrian Pop making a live demo of OMEdit with the new frontend based API with an impressive 20x faster performance.
