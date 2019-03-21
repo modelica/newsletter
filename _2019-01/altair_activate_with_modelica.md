@@ -13,4 +13,4 @@ This approach also enables equation-based **0D modeling** directly, by leveragin
 
 Download your own free Basic Edition of Activate at [https://www.altair.com/mbd2019/activate](https://www.altair.com/mbd2019/activate) to discover what systems you can simulate today! 
 
-Send us an email via info@altair.com if you would like to obtain the presentation and model files associated with the informative tutorial recently provided at the 2019 International Modelica Conference titled “Connecting Separated Worlds for True Multi-disciplinary System Simulation – by Using Altair Activate”.
+Send us an email via [info@altair.com](mailto:info@altair.com) if you would like to obtain the presentation and model files associated with the informative tutorial recently provided at the 2019 International Modelica Conference titled “Connecting Separated Worlds for True Multi-disciplinary System Simulation – by Using Altair Activate”.
