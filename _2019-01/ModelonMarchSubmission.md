@@ -16,7 +16,7 @@ Follow us on [LinkedIn.](https://www.linkedin.com/company/modelon)
 
 [<img src= "WP_20190304_002.jpg" alt= "International Modelica Conference" width="400px">](https://www.modelon.com/support/webinar-integrating-carbon-capture-storage-technology-using-simulation/)
 
-Thank you to everyone who attended Modelon's vendor session, paper presentations, and visited the Modelon booth at the 13th International Modelica Conference. Proceedings from the following presentations are now available to read:
+Thank you to everyone who attended Modelon's vendor session, paper presentations, and visited the Modelon booth at the 13th International Modelica Conference. Proceedings from the following presentations are now available:
 
 ##### Model-Based Controls Development and Implementation for Hydroelectric Power System
 *By Authors Anh Nguyen and John Batteh*
@@ -36,7 +36,7 @@ Electrification of automotive systems presents significant opportunities for imp
 
 [<img src= "Webinar Header Website.jpg" alt= "CCS Webinar" width="600px">](https://www.modelon.com/support/webinar-integrating-carbon-capture-storage-technology-using-simulation/)
 
-In this free webinar, Modelon teams up with researchers from the Norwegian University of Science and Technology (NTNU) to explore Carbon Capture and Storage technology for reducing powerplant emission levels by up to 90%. Our presenters walk through their study of obuilding a scalable plant model with Modelon’s Thermal Power Library, using data from a large-scale pilot plant to validate their model, designing control structures, and effectively integrating Carbon Capture & Storage (CCS) technology with a flexible operation plant.  [Watch the webinar now.](https://www.modelon.com/support/webinar-integrating-carbon-capture-storage-technology-using-simulation/)  
+In this free webinar, Modelon teams up with researchers from the Norwegian University of Science and Technology (NTNU) to explore Carbon Capture and Storage technology for reducing powerplant emission levels by up to 90%. Our presenters walk through their study of building a scalable plant model with Modelon’s [Thermal Power Library](https://www.modelon.com/library/thermal-power-library/), using data from a large-scale pilot plant to validate their model, designing control structures, and effectively integrating Carbon Capture & Storage (CCS) technology with a flexible operation plant.  [Watch the webinar now.](https://www.modelon.com/support/webinar-integrating-carbon-capture-storage-technology-using-simulation/)  
 
 ### New Blog: Propagating Replaceable Medium Automatically
 
