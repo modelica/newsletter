@@ -1,7 +1,7 @@
 ---
 title: OpenModelica Annual Workshop 2019
 author: "Peter Fritzson ([Open Source Modelica Consortium](https://openmodelica.org))"
-category: "vendor"
+category: "conference"
 ---
 
 The 11th OpenModelica Annual Workshop organized by the Open Source Modelica Consortium was held successfully in Linköping, Sweden, on February 4, 2019.
