@@ -14,7 +14,7 @@
 {: #{{ page.title | slugify }}}
 {{ page.content | markdownify }}
 {% if page.author %}
-*This article is provided by {{ page.author }}*  
+*This article is provided by {{ page.author }}*  [#](https://github.com/modelica/newsletter/blob/master/{{ page.path }})
 {% endif %}
 
 ***
