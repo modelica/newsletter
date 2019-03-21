@@ -1,7 +1,7 @@
 ---
-title: “Modelica serves as a cornerstone for Altair’s system simulation tools”
-author: “Jim Ryan ([Altair Engineering Inc.](www.altair.com))”
-category: “vendor”
+title: "Modelica serves as a cornerstone for Altair’s system simulation tools"
+author: "Jim Ryan ([Altair Engineering Inc.](www.altair.com))"
+category: "vendor"
 ---
 ![Altair Activate with Modelica built-in](altair_activate.jpg 'Altair Activate with Modelica built-in') 
 
