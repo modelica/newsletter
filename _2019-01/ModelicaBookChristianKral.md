@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "New book on Modelica for electrical enegineers"
 author: Christian Kral
 category: "education"
