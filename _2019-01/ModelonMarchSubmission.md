@@ -4,48 +4,43 @@ author: Swati Tyagi, [Modelon](https://www.modelon.com/)
 category: "vendor"
 ---
 
-![](Modelon_Orange_400.png)
+![](Modelon_Orange_400.jpg)
 
 Modelon provides software solutions and expert services to organizations that use model-based simulation tools to design and develop technical systems. Modelon’s [libraries](https://www.modelon.com/products-services/modelon-library-suite/), [solver](https://www.modelon.com/products-services/modelon-creator-suite/),and [deployment solutions](https://www.modelon.com/products-services/modelon-deployment-suite/) are leading products available in the market today for modeling, simulation, and optimization. Our products enable companies to focus on delivering a unified picture of product system interaction and performance - from product concept to operation. 
 
-##### New Products
-###### Electrification Library 
-![Electrification Library Icon](EL_icon_flat_500.png 'Electrification Library Icon'){:width="50px"}
+Visit www.modelon.com for more information. 
 
-Modelon’s Electrification Library is used for the design, analysis, and control of electrified systems. Learn about the Electrification Library [here.](https://modelon.com/library/electrification-library/)
+Follow us on [LinkedIn](https://www.linkedin.com/company/modelon)
 
-###### Aircraft Dynamics Library 
-![Aircraft Dynamics Library Icon](ADL_icon_flat_500.png 'Aircraft Dynamics Library Icon'){:width="50px"}
+### Now Available: Modelon Authored Papers from the 13th International Modelica Conference
 
-Modelon’s Aircraft Dynamics Library is a comprehensive library for modeling and simulating full aircraft and aircraft subsystems. Learn about the Aircraft Dynamics Library [here.](https://www.modelon.com/library/aircraft-dynamics-library/)
+Thank you to everyone who attended Modelon's vendor session, paper presentations, and visited the Modelon booth at the 13th International Modelica Conference. Proceedings from the following presentations are now available to read:
 
-#### 2018.2 Release 
+##### Model-Based Controls Development and Implementation for Hydroelectric Power System
+*By Authors Anh Nguyen and John Batteh*
 
-[<img src= "Release 2018.2 Image.jpg" alt= "Modelon 2018.2 Release" width="400px">](https://www.modelon.com/modelon-announces-release-of-2018-2/)
+This paper describes the model-based control system development for a hydroelectric power plant to ensure water level control and mitigate spillage risk.  The modeling of both the flume system and prototype controls is described.  The integrated model is run over a suite of tests to verify the calibration of the control strategy.  Results from the plant commissioning are compared with the virtual tests.  The model proved capable of accurate predictions of the waterway dynamics, and the model-based calibration was successfully verified on the actual plant. 
 
-Are you using the most up-to-date Modelon software? Learn about the latest updates to products within the Modelon Library Suite, the Modelon Creator Suite, and Modelon Deployment Suite as part of our 2018.2 release [here.](https://www.modelon.com/modelon-announces-release-of-2018-2/)
- 
-#### New eBook: 4 Benefits of Incorporating the FMI Standard Into Your Modeling Workflows
+[Read the full publication here.](https://www.modelica.org/events/modelica2019/proceedings/html/papers/Modelica2019paper4A3.pdf)
 
-[<img src= "eBook Social Image.jpg" alt="FMI eBook" width="400px">](https://www.modelon.com/support/4-benefits-of-incorporating-the-fmi-standard-into-your-modeling-workflows/)
+##### Diesel Cooling System Modeling for Electrification Potential
+*By Authors John Batteh, Ashok Kumar Ravi, and Dale Pickelman
 
-How much do you know about the Functional Mock-up Interface (FMI) standard? Modelon's new eBook simplifies what the FMI standard is and outlines how it can be used to integrate models across varying simulation tools. [Download a free copy today.](https://www.modelon.com/support/4-benefits-of-incorporating-the-fmi-standard-into-your-modeling-workflows/)                                              
+Electrification of automotive systems presents significant opportunities for improvements in cooling system efficiency and performance.  This paper describes an effort to develop an analytic platform for Hanon Systems to evaluate the electrification potential for powertrain cooling systems.  The paper describes the development of a baseline diesel cooling system model based on the Ford 6.7L Power Stroke diesel. A variant of the system with electric pumps is also modeled.  Performance of the baseline conventional and electric pump system are compared on a typical automotive drive cycle to quantify potential benefits of the electric pump system and advanced controls. 
 
-#### Case Study: Rimac's Journey Towards Full Vehicle System Simulation 
+[Read the full publication here.](https://www.modelica.org/events/modelica2019/proceedings/html/papers/Modelica2019paper1D3.pdf) 
 
-[<img src ="Case Study graphic.PNG" alt="Rimac Case study" height="300px">](https://modelon.com/library/electrification-library/)
+### On-Demand Webinar: Integrating Carbon Capture & Storage Technology Using Simulation
 
-Rimac, a Croatia-based automotive technology powerhouse, needed a more efficient and flexible way to evaluate multi-physics powertrain systems. In this new case study, learn why Rimac chose Modelon’s libraries and services, including Modelon’s newest library, the [Modelon Electrification Library](https://modelon.com/library/electrification-library/), to meet their electric powertrain modeling, battery modeling, and full vehicle system simulation needs.                                                                             
-#### New Blog: Using Modelon's Hydraulics Library to Model Aircraft Hydraulic Circuit Architectures
+[<img src= "Webinar Header Website.jpg" alt= "CCS Webinar" width="400px">](https://www.modelon.com/support/webinar-integrating-carbon-capture-storage-technology-using-simulation/)
 
-[<img src="Blog - HL.png" alt="HL Blog" width="300px">](https://www.modelon.com/news-blog/)
+In this free webinar, Modelon teams up with researchers from the Norwegian University of Science and Technology (NTNU) to explore Carbon Capture and Storage technology for reducing powerplant emission levels by up to 90%. Our presenters walk through their study of obuilding a scalable plant model with Modelon’s Thermal Power Library, using data from a large-scale pilot plant to validate their model, designing control structures, and effectively integrating Carbon Capture & Storage (CCS) technology with a flexible operation plant.  [Watch the webinar now.](https://www.modelon.com/support/webinar-integrating-carbon-capture-storage-technology-using-simulation/)  
 
-Aircraft hydraulic system simulation requires a versatile tool that can handle modern and legacy concepts. This blog presents how the Modelon Hydraulics Library is applied to different architectures, specifically Electro Hydrostatic Actuation and Servo Hydraulic Actuation systems. Read it [here.](https://www.modelon.com/using-modelons-hydraulics-library-to-model-aircraft-hydraulic-circuit-architectures/) 
+### New Blog: Propagating Replaceable Medium Automatically
 
-#### Upcoming Training Courses
+Users of Modelon libraries in Dymola can activate a new feature that will automatically update the Medium in each component. Learn how to implement this new feature in our recent tips and tricks blog. 
 
-[<img src="Training3.jpg" alt="Modelon Training" width="400px">](https://www.modelon.com/support-learning/training/)
+[Read the blog.](https://www.modelon.com/propagating-replaceable-medium-automatically/)
 
-Modelon offers expert-led training courses on topics such as FMI, Modelica, multi-physics modeling, and more at varying learning levels. To view our available winter courses, check out our [training page.](https://www.modelon.com/support-learning/training/)
 
-Don't see a scheduled course that works for you? We also offer customized training. Contact our training team at training@modelon.com to find a course right for you. 
+
