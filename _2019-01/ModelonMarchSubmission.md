@@ -10,9 +10,11 @@ Modelon provides software solutions and expert services to organizations that us
 
 Visit www.modelon.com for more information. 
 
-Follow us on [LinkedIn](https://www.linkedin.com/company/modelon)
+Follow us on [LinkedIn.](https://www.linkedin.com/company/modelon)
 
 ### Now Available: Modelon Authored Papers from the 13th International Modelica Conference
+
+[<img src= "WP_20190304_002.jpg" alt= "International Modelica Conference" width="400px">](https://www.modelon.com/support/webinar-integrating-carbon-capture-storage-technology-using-simulation/)
 
 Thank you to everyone who attended Modelon's vendor session, paper presentations, and visited the Modelon booth at the 13th International Modelica Conference. Proceedings from the following presentations are now available to read:
 
@@ -24,7 +26,7 @@ This paper describes the model-based control system development for a hydroelect
 [Read the full publication here.](https://www.modelica.org/events/modelica2019/proceedings/html/papers/Modelica2019paper4A3.pdf)
 
 ##### Diesel Cooling System Modeling for Electrification Potential
-*By Authors John Batteh, Ashok Kumar Ravi, and Dale Pickelman
+*By Authors John Batteh, Ashok Kumar Ravi, and Dale Pickelman*
 
 Electrification of automotive systems presents significant opportunities for improvements in cooling system efficiency and performance.  This paper describes an effort to develop an analytic platform for Hanon Systems to evaluate the electrification potential for powertrain cooling systems.  The paper describes the development of a baseline diesel cooling system model based on the Ford 6.7L Power Stroke diesel. A variant of the system with electric pumps is also modeled.  Performance of the baseline conventional and electric pump system are compared on a typical automotive drive cycle to quantify potential benefits of the electric pump system and advanced controls. 
 
@@ -32,7 +34,7 @@ Electrification of automotive systems presents significant opportunities for imp
 
 ### On-Demand Webinar: Integrating Carbon Capture & Storage Technology Using Simulation
 
-[<img src= "Webinar Header Website.jpg" alt= "CCS Webinar" width="400px">](https://www.modelon.com/support/webinar-integrating-carbon-capture-storage-technology-using-simulation/)
+[<img src= "Webinar Header Website.jpg" alt= "CCS Webinar" width="600px">](https://www.modelon.com/support/webinar-integrating-carbon-capture-storage-technology-using-simulation/)
 
 In this free webinar, Modelon teams up with researchers from the Norwegian University of Science and Technology (NTNU) to explore Carbon Capture and Storage technology for reducing powerplant emission levels by up to 90%. Our presenters walk through their study of obuilding a scalable plant model with Modelon’s Thermal Power Library, using data from a large-scale pilot plant to validate their model, designing control structures, and effectively integrating Carbon Capture & Storage (CCS) technology with a flexible operation plant.  [Watch the webinar now.](https://www.modelon.com/support/webinar-integrating-carbon-capture-storage-technology-using-simulation/)  
 
