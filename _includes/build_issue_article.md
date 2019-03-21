@@ -1,6 +1,7 @@
 {% assign name = page.name %}
 {% assign cat = include.category %}
 {% assign section  = include.section %}
+{% assign edit = page.hidden %}
 
 {% assign cat_posts = ((site.[name] | where:"category", cat | sort:"date" | reverse %}
 
@@ -14,10 +15,9 @@
 {: #{{ page.title | slugify }}}
 {{ page.content | markdownify }}
 {% if page.author %}
-*This article is provided by {{ page.author }}*  [#](https://github.com/modelica/newsletter/blob/master/{{ page.path }})
+*This article is provided by {{ page.author }}*  {% if edit %}[# View source...](https://github.com/modelica/newsletter/blob/master/{{ page.path }}){% endif %}
 {% endif %}
 
-***
 
 {% endunless %}
 {% endfor %}
