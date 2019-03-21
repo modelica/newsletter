@@ -10,7 +10,7 @@
 {% for page in site.[name] %}
 {% if page.index != true and hidden != true and page.category != "letter" %}
 {% unless cats contains page.category  %}
-* ERROR: [{{ page.title }}](https://github.com/modelica/newsletter/blob/master/{{ page.path }}) uncategorized! *{{ page.category }}* unknown.
+* ERROR: [The page {{ page.title }}](https://github.com/modelica/newsletter/blob/master/{{ page.path }}) uncategorized! *{{ page.category }}* unknown.
 {% endunless %}
 {% endif %}
 {% endfor %}
