@@ -1,5 +1,5 @@
 ---
-title: Modelon November 2019 Updates
+title: Modelon March 2019 Updates
 author: Swati Tyagi, [Modelon](https://www.modelon.com/)
 category: "vendor"
 ---
@@ -12,7 +12,7 @@ Visit www.modelon.com for more information.
 
 Follow us on [LinkedIn.](https://www.linkedin.com/company/modelon)
 
-### Now Available: Modelon Authored Papers from the 13th International Modelica Conference
+#### Now Available: Modelon Authored Papers from the 13th International Modelica Conference
 
 [<img src= "WP_20190304_002.jpg" alt= "International Modelica Conference" width="400px">](https://www.modelon.com/support/webinar-integrating-carbon-capture-storage-technology-using-simulation/)
 
@@ -32,13 +32,13 @@ Electrification of automotive systems presents significant opportunities for imp
 
 [Read the full publication here.](https://www.modelica.org/events/modelica2019/proceedings/html/papers/Modelica2019paper1D3.pdf) 
 
-### On-Demand Webinar: Integrating Carbon Capture & Storage Technology Using Simulation
+#### On-Demand Webinar: Integrating Carbon Capture & Storage Technology Using Simulation
 
 [<img src= "Webinar Header Website.jpg" alt= "CCS Webinar" width="600px">](https://www.modelon.com/support/webinar-integrating-carbon-capture-storage-technology-using-simulation/)
 
 In this free webinar, Modelon teams up with researchers from the Norwegian University of Science and Technology (NTNU) to explore Carbon Capture and Storage technology for reducing powerplant emission levels by up to 90%. Our presenters walk through their study of building a scalable plant model with Modelon’s [Thermal Power Library](https://www.modelon.com/library/thermal-power-library/), using data from a large-scale pilot plant to validate their model, designing control structures, and effectively integrating Carbon Capture & Storage (CCS) technology with a flexible operation plant.  [Watch the webinar now.](https://www.modelon.com/support/webinar-integrating-carbon-capture-storage-technology-using-simulation/)  
 
-### New Blog: Propagating Replaceable Medium Automatically
+#### New Blog: Propagating Replaceable Medium Automatically
 
 Users of Modelon libraries in Dymola can activate a new feature that will automatically update the Medium in each component. Learn how to implement this new feature in our recent tips and tricks blog. 
 
