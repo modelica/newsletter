@@ -1,5 +1,5 @@
 ---
-title: "New book on Modelica for electrical enegineers"
+title: "New book on Modelica for electrical engineers"
 author: Christian Kral
 category: "education"
 ---
