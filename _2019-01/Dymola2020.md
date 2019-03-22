@@ -13,4 +13,4 @@ At the recent Modelica Conference, Dassault Systèmes revealed the upcoming Dymo
 
 
 
-![](Dymola2020-process.png)
+![](Dymola2020-process-newsletter.jpg)
