@@ -22,4 +22,4 @@ The next International Modelica Conference will take place in two years, most li
 If you have interesting news for the Modelica, FMI, SSP and DCP communities, please follow the [submission guidelines](https://newsletter.modelica.org/submission-guidelines.html). The deadline for articles for the next newsletter is Fr. July 12, 2019.
 
 Martin Otter on March 24, 2019    
-(Chairman of the Modelica Association 
+*Chairman of the Modelica Association*
