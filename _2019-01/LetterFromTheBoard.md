@@ -1,5 +1,7 @@
 ---
-title: "letter"
+title: Letter from the Board
+author: "Martin Otter (Modelica Association)"
+category: "letter"
 ---
 
 Dear Modelica, FMI, SSP, DCP interested,
