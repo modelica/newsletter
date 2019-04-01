@@ -2,6 +2,7 @@
 title: "New AVL Model.CONNECT 2019 R1 with FMU calibration support"
 author: "Martin Benedikt, [AVL](https://www.avl.com/)"
 category: vendor
+---
 
 ![MC visual](MC_KeyVisual.jpg)
 
