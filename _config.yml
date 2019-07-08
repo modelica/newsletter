@@ -1,15 +1,15 @@
 theme: jekyll-theme-tactile
 google_analytics: UA-114571919-1
-current-contribution-url: "https://github.com/modelica/newsletter/tree/master/_2019-01"
+current-contribution-url: "https://github.com/modelica/newsletter/tree/master/_2019-02"
 defaults:
   - scope:
       path: ""
     values:
       image: /assets/images/ModelicaLogoSq.jpg 
     author: modelica 
-contribution-open: false
-contribution-deadline: 22 June
-current-newsletter-date: 25 March
+contribution-open: true
+contribution-deadline: 12 July
+current-newsletter-date: 22 July
 baseurl: /
 url: "https://newsletter.modelica.org"
 collections:
@@ -29,3 +29,7 @@ collections:
     permalink: /:collection/:path
     title: Spring 2019 release
     output: true    
+  2019-01:
+    permalink: /:collection/:path
+    title: Summer 2019 release
+    output: true
