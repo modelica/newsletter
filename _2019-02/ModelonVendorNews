@@ -4,14 +4,16 @@ author: Swati Tyagi, [Modelon](https://www.modelon.com/)
 category: "vendor"
 ---
 
-#### New Testimonial: The Power of Modelica
+#### Modelon 2019.1 Release
 
-[<img src= "WP_20190304_002.jpg" alt= "International Modelica Conference" width="400px">](https://www.modelon.com/support/webinar-integrating-carbon-capture-storage-technology-using-simulation/)
+[<img src= "2019.1 Release 1280 x 600.jpg" alt= "Modelon 2019.1 Release" width="400px">](https://www.modelon.com/modelon-release-2019-1/)
 
-Thank you to everyone who attended Modelon's vendor session, paper presentations, and visited the Modelon booth at the 13th International Modelica Conference. Proceedings from the following presentations are now available:
+In May, Modelon released 2019.1 for products within the Modelon Library Suite and Modelon Creator Suite. To view a comprehensive list of updates made to our Modelica and FMI-based tools,[click here.](https://www.modelon.com/modelon-release-2019-1/)
 
-##### Model-Based Controls Development and Implementation for Hydroelectric Power System
-*By Authors Anh Nguyen and John Batteh*
+A special release of the [Modelon Electrification Library](https://www.modelon.com/library/electrification-library/), version 1.2, will be available August 2019. This updated release will include new Rimac-branded battery components. [View a demo of the new components here.](https://modelon.wistia.com/medias/fl8bdaxroc) To access the new release [contact our team.](https://www.modelon.com/contact-us/)  
+
+##### The Power of Modelica
+*Modelon customer finds success with Modelon*
 
 This paper describes the model-based control system development for a hydroelectric power plant to ensure water level control and mitigate spillage risk.  The modeling of both the flume system and prototype controls is described.  The integrated model is run over a suite of tests to verify the calibration of the control strategy.  Results from the plant commissioning are compared with the virtual tests.  The model proved capable of accurate predictions of the waterway dynamics, and the model-based calibration was successfully verified on the actual plant. 
 
