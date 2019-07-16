@@ -8,32 +8,37 @@ category: "vendor"
 
 [<img src= "2019.1 Release 1280 x 600.jpg" alt= "Modelon 2019.1 Release" width="400px">](https://www.modelon.com/modelon-release-2019-1/)
 
-In May, Modelon released 2019.1 for products within the Modelon Library Suite and Modelon Creator Suite. To view a comprehensive list of updates made to our Modelica and FMI-based tools,[click here.](https://www.modelon.com/modelon-release-2019-1/)
+In May, Modelon released 2019.1 for products within the Modelon Library Suite and Modelon Creator Suite. To view a comprehensive list of updates made to our Modelica and FMI-based tools,[ click here.](https://www.modelon.com/modelon-release-2019-1/)
 
-A special release of the [Modelon Electrification Library](https://www.modelon.com/library/electrification-library/), version 1.2, will be available August 2019. This updated release will include new Rimac-branded battery components. [View a demo of the new components here.](https://modelon.wistia.com/medias/fl8bdaxroc) To access the new release [contact our team.](https://www.modelon.com/contact-us/)  
+A special release of the [Modelon Electrification Library](https://www.modelon.com/library/electrification-library/), version 1.2, will be available August 2019. This updated release will include new Rimac-branded battery components. [View a demo of the new components here.](https://modelon.wistia.com/medias/fl8bdaxroc) To access the new release, [contact our team.](https://www.modelon.com/contact-us/)  
 
-##### The Power of Modelica
-*Modelon customer finds success with Modelon*
+#### The Power of Modelica
+**Modelon customer finds success with Modelon**
 
-This paper describes the model-based control system development for a hydroelectric power plant to ensure water level control and mitigate spillage risk.  The modeling of both the flume system and prototype controls is described.  The integrated model is run over a suite of tests to verify the calibration of the control strategy.  Results from the plant commissioning are compared with the virtual tests.  The model proved capable of accurate predictions of the waterway dynamics, and the model-based calibration was successfully verified on the actual plant. 
+[<img src= "Luigi Testimonial Header Image.jpg" alt= "Luigi Testimonial" width="400px">](https://www.modelon.com/modelon-customer-finds-success-with-modelica/)
 
-[Read the full publication here.](https://www.modelica.org/events/modelica2019/proceedings/html/papers/Modelica2019paper4A3.pdf)
+Professor Luigi Vanfretti began using Modelica-based technology in 2011 and he hasn't looked back since. With Modelon’s help, he advanced his power and grid simulations from low level research to technology readiness levels 3 and beyond. 
+*“I have the peace of mind to know my Modelica models will withstand the test of time and can be deployed in any environment at a fraction of the price of an enterprise level tool license.”* - Professor Vanfretti
 
-##### Diesel Cooling System Modeling for Electrification Potential
-*By Authors John Batteh, Ashok Kumar Ravi, and Dale Pickelman*
+Learn more about his Modelica journey[ here.](https://www.modelon.com/modelon-customer-finds-success-with-modelica/)
 
-Electrification of automotive systems presents significant opportunities for improvements in cooling system efficiency and performance.  This paper describes an effort to develop an analytic platform for Hanon Systems to evaluate the electrification potential for powertrain cooling systems.  The paper describes the development of a baseline diesel cooling system model based on the Ford 6.7L Power Stroke diesel. A variant of the system with electric pumps is also modeled.  Performance of the baseline conventional and electric pump system are compared on a typical automotive drive cycle to quantify potential benefits of the electric pump system and advanced controls. 
 
-[Read the full publication here.](https://www.modelica.org/events/modelica2019/proceedings/html/papers/Modelica2019paper1D3.pdf) 
+#### Technical Blog - Increase Speed of Air Conditioning Model Simulations Using Modelon's Air Conditioning Library and Vapor Cycle Library
 
-#### On-Demand Webinar: Integrating Carbon Capture & Storage Technology Using Simulation
+This blog provides an introduction of the Spline-Based Table Look-up (SBTL) method, as well as a sample use case from Ford Motor Company – who utilized the SBTL refrigerant package to speed up their air conditioning system model simulations.[ Read more.](https://www.modelon.com/increase-speed-of-air-conditioning-model-simulations-using-modelons-air-conditioning-library-and-vapor-cycle-library/)
 
-[<img src= "Webinar Header Website.jpg" alt= "CCS Webinar" width="600px">](https://www.modelon.com/support/webinar-integrating-carbon-capture-storage-technology-using-simulation/)
+#### Technical Blog - Accessing Advanced MATLAB Functions in FMI Toolbox
 
-In this free webinar, Modelon teams up with researchers from the Norwegian University of Science and Technology (NTNU) to explore Carbon Capture and Storage technology for reducing powerplant emission levels by up to 90%. Our presenters walk through their study of building a scalable plant model with Modelon’s [Thermal Power Library](https://www.modelon.com/library/thermal-power-library/), using data from a large-scale pilot plant to validate their model, designing control structures, and effectively integrating Carbon Capture & Storage (CCS) technology with a flexible operation plant.  [Watch the webinar now.](https://www.modelon.com/support/webinar-integrating-carbon-capture-storage-technology-using-simulation/)  
+Modelon’s FMI Toolbox contains a comprehensive set of MATLAB functions that allow the user to streamline workflows. In this blog, we explain the following four different workflows on accessing these functions and how they can be automated.[ Read more.](https://www.modelon.com/matlab-functions-in-fmi-toolbox/)
 
-#### New Blog: Propagating Replaceable Medium Automatically
+#### Technical Blog - Modeling Actuation System Architectures with Modelon Hydraulics Library 
 
-Users of Modelon libraries in Dymola can activate a new feature that will automatically update the Medium in each component. Learn how to implement this new feature in our recent tips and tricks blog. 
+Modelon’s newest blog series explains how to use Modelon’s Hydraulics Library for modeling full aircraft actuation systems and subsystems. In this first blog post, learn the basics of creating an actuation system architecture.[ Read more.](https://www.modelon.com/modeling-actuation-system-architectures-with-modelon-hydraulics-library/)
 
-[Read the blog.](https://www.modelon.com/propagating-replaceable-medium-automatically/)
+#### Conferences & User Meetings: Modelica Users' Conference Japan
+
+[<img src= "Final Header.jpg" alt= "Modelica Users' Conference Japan" width="400px">](https://www.modelon.com/event/modelica-users-conference-2019-japan/)
+
+The second Modelica Users’ Conference Japan will take place October 31, 2019 at the Conference Branch Ginza in Tokyo, Japan. The 2019 event will be organized by Modelon. This one-and-a-half-day conference will feature tutorials and vendor sessions. 
+
+Modelica’s multi-domain simulation technology has played a very important role in the development of “Innovation Accelerator”, represented by Digital Twin and IoT. This year’s user event will build on the previous Modelica Users’ Conference and invites attendees to learn about evolving Modelica technologies and meet like-minded users in Japan. To view the agenda and register,[ click here.](https://www.modelon.com/event/modelica-users-conference-2019-japan/)
