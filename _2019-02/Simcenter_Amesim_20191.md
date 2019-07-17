@@ -5,6 +5,11 @@ category: "vendor"
 ---
 
 ![](Simcenter_Amesim_20191.png)
+
+#### Revamped Modelica support in Simcenter&nbsp;Amesim&nbsp;2019.1
+Check out the first outcomes of the **Siemens-Modelon partnership** reflected in **Simcenter&nbsp;Amesim&nbsp;2019.1**, the first release to officially include **Modelon's 
+Optimica Compiler Toolkit [(OCT)](https://www.modelon.com/products-services/modelon-creator-suite/optimica-compiler-toolkit )** as Modelica engine. Please take a look at our [blog post](https://community.plm.automation.siemens.com/t5/Simcenter-Blog/Simcenter-Amesim-Modelica-it-s-a-match/ba-p/606047) for more info. 
+
 #### New FMI capabilities in the recently released Simcenter&nbsp;Amesim&nbsp;2019.1
 
 The recently released **Simcenter&nbsp;Amesim&nbsp;2019.1** has brought new enhancements to the support 
