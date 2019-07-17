@@ -1,5 +1,5 @@
 ---
-title: Modelon Education Updates
+title: Modelon Education News
 author: Swati Tyagi, [Modelon](https://www.modelon.com/)
 category: "education"
 ---
