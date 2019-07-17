@@ -1,5 +1,5 @@
 ---
-title: Modelon Vendor Updates
+title: Modelon Vendor News
 author: Swati Tyagi, [Modelon](https://www.modelon.com/)
 category: "vendor"
 ---
