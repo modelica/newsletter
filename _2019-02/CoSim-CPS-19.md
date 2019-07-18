@@ -1,21 +1,22 @@
-# COSIM-CPS-19: CALL FOR PAPERS 
-**Website: https://sites.google.com/view/cosimcps19**
-
-**3rd Workshop on Formal Co-Simulation of Cyber-Physical Systems**
-
+---
+title: 3rd Workshop on Formal Co-Simulation of Cyber-Physical Systems
+author: "Casper Thule ([Aarhus University](http://eng.au.dk/en/))"
+category: "conference"
+---
 **September 16-17,  2019, Oslo, Norway**
 
-**DATES**
+#### DATES
 - June 25, 2019: Abstraction submission
 - July 1, 2019: Paper submission
 - July 31, 2019: Notification
 - August 20, 2019: Camera ready submission
 - Springer LNCS post-proceedings will be published after the workshop
 
-**FORMATTING AND PAGE LIMITS**
+#### FORMATTING AND PAGE LIMITS
 - Full papers: up to 15 pages [LNCS](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) format, excluding references
 - Short papers & demos: up to 6 pages [LNCS](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) format, including references
-## AIMS
+
+#### AIMS
 This workshop focuses on the integrated application of formal methods and co-simulation technologies in the development of software for Cyber-Physical Systems.
 
 Co-simulation is an advanced simulation technique that allows developers to generate a global simulation of a complex system by orchestrating and composing the concurrent simulation of individual components or aspects of the system. Formal methods link software specifications and program code to logic theories, providing developers with means to analyze program behaviors in a way that is demonstrably exhaustive.
@@ -35,3 +36,5 @@ Topics of interest include, but are not limited to, the following:
 - Modeling and analysis of human-machine interfaces in cyber-physical systems through co-simulation
 - Modeling and analysis of security aspects of cyber-physical systems through co-simulation
 - Co-simulation of the next-generation cyber-physical systems
+
+**[Read more on website](https://sites.google.com/view/cosimcps19)**
