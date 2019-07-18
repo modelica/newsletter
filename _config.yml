@@ -29,7 +29,7 @@ collections:
     permalink: /:collection/:path
     title: Spring 2019 release
     output: true    
-  2019-01:
+  2019-02:
     permalink: /:collection/:path
     title: Summer 2019 release
     output: true
