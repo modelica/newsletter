@@ -4,7 +4,7 @@ author: "Andreas Nicolai, [TUD](https://bauklimatik-dresden.de)"
 category: vendor
 ---
 
-The co-simulation master tool *MasterSim* (https://bauklimatik-dresden.de/mastersim) 
+The co-simulation master tool *MasterSim* ([bauklimatik-dresden.de/mastersim](https://bauklimatik-dresden.de/mastersim)) 
 has reached a new important milestone - with key focus on standard compliance and ability to
 run a larger number of cross-check FMUs. 
 
@@ -15,9 +15,8 @@ For that purpose several modern co-simulation coupling algorithms
 (Gauss-Jacobi, Gauss-Seidel, Newton) are implemented, and FMI versions 1 and 2 are supported. The 
 rollback-feature of the latter is being used for the iterative algorithms. As C/C++ implementation, 
 it is implemented with performance in mind. The code is hosted on 
-https://sourceforge.net/projects/mastersim which also includes the documentation (wiki-pages). 
-The simulation engine is complemented by the equally free post-processing software *PostProc 2*
-(https://bauklimatik-dresden.de/postproc), which features run-time live updates of simulation progress.
+[sourceforge.net](https://sourceforge.net/projects/mastersim) which also includes the documentation (wiki-pages). 
+The simulation engine is complemented by the equally free post-processing software *[PostProc 2](https://bauklimatik-dresden.de/postproc)*, which features run-time live updates of simulation progress.
 
 ![MasterSim with PostProc](screenshot_mastersim_06_with_postproc.png)
 
