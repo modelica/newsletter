@@ -4,7 +4,7 @@ author: "Martin Otter ([Modelica Association](https://www.modelica.org/) and [DL
 category: "association"
 ---
 
-![symposium](symposium.jpg)
+![symposium](symposium.png)
 
 The [Modelica Association](https://www.modelica.org/), Modelica companies in Lund and
 [Lund University](https://lunduniversity.lu.se/) host a **free** jubilee symposium
