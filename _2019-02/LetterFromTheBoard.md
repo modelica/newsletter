@@ -27,19 +27,33 @@ This event is celebrated by several activities:
   
   * FMI (Functional Mock-Up Interface)
   
+  * eFMI (FMI for embedded systems; currently under development)
+  
   * DCP (Distributed Co-Simulation Protocol), including plug-fest for DCP where tools supporting the DCP standard
     are cross-checked with regards to DCP compatibility.
   
   * SSP (System Structure and Parameterization)
   
-  For more details see the [agenda and schedule](https://modelica.github.io/Symposium2019/meetings.html). Feel free to attend, 
+  Furthermore, the Modelica Association plans to establish an **Industrial Advisory Board**. 
+  The goal is to get more feedback and input from industry and align standardization activities 
+  with their needs. The “entrance barrier” for participation in this board shall be lower than
+  for full membership in the Modelica Association (for example, no Contributor License Agreement (CLA) required, 
+  which has been created for contributors to MA standards). Interested company representatives
+  are welcome to join the Kick-off-Meeting on Oct. 1, 2019, 9:00-10:30 (select during event registration)
+  and/or send an email to Modelica board board@modelica.org.  
+  
+  For more details on the Modelica Association meetings see the
+  [agenda and schedule](https://modelica.github.io/Symposium2019/meetings.html). Feel free to attend, 
   but [registration](https://www.eventbrite.com/e/jubilee-symposium-future-directions-of-system-modeling-and-simulation-registration-63187850562) is required.
 
 The **FMI** group is heavily working on the next version of the FMI standard. In case you are interested about the status, you may have a look at the [FMI 3.0 development version](https://fmi-standard.org/docs/3.0-dev/). The tool support from FMI is still growing. On the [FMI tools page](https://fmi-standard.org/tools/) now more than 130 tools are listed.
 
-The **Second American Modelica Conference** will take place March 23-25, 2020 at the University of Colorado (Boulder). The conference is jointly organized by [NAMUG](https://namug.org/) and the Modelica Association. More information will soon be distributed.
+The **Second American Modelica Conference** will take place March 23-25, 2020 at the University of Colorado (Boulder, U.S.A). The conference is jointly organized by [NAMUG](https://namug.org/) and the Modelica Association.
+The submission deadline for full paper proposals is October 1, 2019 and for presentation-only contributions December 1, 2019.
+For an overview of this event, see [this newsletter article](amc2020.htm), and
+for more details, see the [Conference web page](https://modelica.org/events/modelica2020Americas).
 
-The **9th International Workshop on Equation-Based Object-Oriented Modeling Languages and Tools (EOOLT 2019)** takes place on [November 5 in Berlin](http://eoolt.org/2019/). The submission deadline for paper proposals is August 5, 2019. All accepted papers will be published in the Scopus-indexed [ACM Digital Library](https://dl.acm.org/)
+The **9th International Workshop on Equation-Based Object-Oriented Modeling Languages and Tools** ([EOOLT 2019](http://eoolt.org/2019/)) takes place on November 5 in Berlin. The submission deadline for paper proposals is August 5, 2019. All accepted papers will be published in the Scopus-indexed [ACM Digital Library](https://dl.acm.org/)
 
 If you have interesting news for the Modelica, FMI, SSP and DCP communities, please follow the 
 [submission guidelines](https://newsletter.modelica.org/submission-guidelines.html). 
