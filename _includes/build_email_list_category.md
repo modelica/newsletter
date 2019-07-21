@@ -7,7 +7,7 @@
 ### {{ section }}
 {% endif %}
 
-{% for page in site.[name] %}
+{% for page in cat_posts %}
 {% if page.category == cat and page.index != true and hidden != true %}
 * [{{ page.title }}]({{site.url}}/{{ name }}/index.html#{{ page.title | slugify }})
 {% endif %}
