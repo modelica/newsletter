@@ -1,9 +1,8 @@
 ---
-title: Modelon Conference News
+title: Modelica Users' Conference Japan
 author: Swati Tyagi, [Modelon](https://www.modelon.com/)
 category: "conference"
 ---
-#### Conferences & User Meetings: Modelica Users' Conference Japan
 
 [<img src= "Final Header.jpg" alt= "Modelica Users' Conference Japan" width="400px">](https://www.modelon.com/event/modelica-users-conference-2019-japan/)
 
