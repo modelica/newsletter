@@ -1,6 +1,6 @@
 ---
 index: true
-hidden: true
+hidden: false
 layout: default
 title: "2019-02"
 name: "2019-02"
