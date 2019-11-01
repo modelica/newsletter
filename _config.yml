@@ -33,3 +33,7 @@ collections:
     permalink: /:collection/:path
     title: Summer 2019 release
     output: true
+  2019-03:
+    permalink: /:collection/:path
+    title: Fall 2019 release
+    output: true    
