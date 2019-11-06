@@ -16,9 +16,9 @@ These are:
 
 The following Virtual Labs libraries are now available for download from the [SystemModeler library store](https://www.wolfram.com/system-modeler/libraries/):
 
-- *[CollegeThermal](https://www.wolfram.com/system-modeler/libraries/college-thermal/): Developed in collaboration with [Politecnico di Torino](https://www.polito.it/?lang=en). Contains interactive thermal labs related to heat transfer and thermal engineering courses.*
-- *[HighSchoolBiology](https://www.wolfram.com/system-modeler/libraries/high-school-biology/): Developed in collaboration with [Linköping University](https://liu.se/) and [VicSTEM](https://www.education.vic.gov.au/about/programs/learningdev/vicstem/Pages/wolframsoftware.aspx). Contains interactive biology labs related to cell transport phenomena, population models and food metabolism.*
-- *[HighSchoolChemistry](https://www.wolfram.com/system-modeler/libraries/high-school-chemistry/): Developed in collaboration with [Linköping University](https://liu.se/). Contains interactive chemistry labs related to rate laws, homogenous reactions and heterogenous reactions.*
+- *[CollegeThermal](https://www.wolfram.com/system-modeler/libraries/college-thermal/)*: Developed in collaboration with [Politecnico di Torino](https://www.polito.it/?lang=en). Contains interactive thermal labs related to heat transfer and thermal engineering courses.
+- *[HighSchoolBiology](https://www.wolfram.com/system-modeler/libraries/high-school-biology/)*: Developed in collaboration with [Linköping University](https://liu.se/) and [VicSTEM](https://www.education.vic.gov.au/about/programs/learningdev/vicstem/Pages/wolframsoftware.aspx). Contains interactive biology labs related to cell transport phenomena, population models and food metabolism.
+- *[HighSchoolChemistry](https://www.wolfram.com/system-modeler/libraries/high-school-chemistry/)*: Developed in collaboration with [Linköping University](https://liu.se/). Contains interactive chemistry labs related to rate laws, homogenous reactions and heterogenous reactions.
 
 Stay tuned for upcoming libraries, including:
 
