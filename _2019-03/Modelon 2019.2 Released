@@ -1,0 +1,27 @@
+Title: Modelon 2019.2 Released
+Author: Jocelyn Paslowski, Modelon
+Category: Vendor
+
+Modelon’s 2019.2 release is now available for Modelica libraries within the Modelon Library Suite and OPTIMICA Compiler Toolkit within Modelon Creator Suite. A comprehensive list of release notes can be found here. 
+
+Highlights Include:
+Automotive
+•	Validated battery models based on Rimac battery test cell, including thermal aspects, limits and the battery cycler power de-rating algorithm
+•	New two-stage vapor injection compressor
+•	New user-friendly sensors visualizing the flow, enthalpy, temperature, and pressure inside components
+•	Updated truck models with the new chassis experiment
+
+Aerospace
+•	Intercontinental flight trajectory simulation capability added
+•	Improved post-processing
+•	New three-wheel-bootstrap air conditioning cycle with temperature control
+•	Added ability to scale turbine maps
+•	New fuel tank sensors measuring a fuel tank fluid level and the center of gravity
+
+Energy & Power
+•	New microgrid example including solar, wind, water reservoir production and consumer sources developed, equipped by a simple control strategy
+•	New ancillary services and control strategy developed for the coal-fired power plant
+•	A gas turbine model and control strategy added to the combined cycle power plant including mechanical and thermal stress estimation
+
+
+To access the new release, contact our team.
