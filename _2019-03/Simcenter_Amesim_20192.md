@@ -16,7 +16,7 @@ The neural network components coming from Simcenter Amesim itself or from other 
 ![](amesim_banner.png)
 
 #### Extended Modelica language support 
-The version of [Modelon's OPTIMICA Compiler Toolkit](https://www.modelon.com/products-services/modelon-creator-suite/optimica-compiler-toolkit ) used to create and/or include Modelica models within your native Simcenter Amesim models has been upgraded to version 1.12.6, providing increased stability and compatibility to Modelica users. Recognized open-source libraries such as [BuildingSystems](https://modelica-buildingsystems.de/ ) and [Buildings](https://simulationresearch.lbl.gov/modelica/ ) have been successfully tested in Simcenter&nbsp;Amesim&nbsp;2019.2 in their latest versions.    
+The version of [Modelon's OPTIMICA Compiler Toolkit](https://www.modelon.com/products-services/modelon-creator-suite/optimica-compiler-toolkit ) used to create and/or include Modelica models within your native Simcenter Amesim models has been upgraded to version 1.12.6, providing increased stability and compatibility to Modelica users. Recognized open-source libraries such as [BuildingSystems](https://modelica-buildingsystems.de/ ) and [Buildings](https://simulationresearch.lbl.gov/modelica/ ) have been successfully tested in Simcenter&nbsp;Amesim&nbsp;2019.2 in their latest versions. For more detail on our Modelica support, please check our dedicated [blog post](https://blogs.sw.siemens.com/simcenter/whats-new-in-our-modelica-editor-in-simcenter-amesim-2019-2/ ).   
 
 #### Export of hybrid models as FMUs
 
