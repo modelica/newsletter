@@ -19,7 +19,7 @@ The command interface is now ribbon-based with improved icons. All existing Dymo
 Greatly improved translation and simulation time for certain types of large real-world models, due to better equation analysis. 
 The updated code generation reduces memory requirement for the C-compilers and reduces compilation time by up to 60%.
 
-Improved handling of algebraic loops decreased  the simulation time up to 30−40 % for industrial models. 
+Improved handling of algebraic loops decreases the simulation time up to 30−40 % for industrial models. 
 
 #### FMI-Kit for Simulink
 
