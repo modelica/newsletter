@@ -1,6 +1,6 @@
 title: Asian Modelica Conference
 author: Jocelyn Paslowski, Modelon
-category: Conference and user meetings
+category: "conference"
 
 
 Previously known as the Japanese Modelica Conference, the Asian Modelica Conference 2020, will be held at Nihonbashi Takashimaya Mitsui Building, Tokyo, Japan from May 13–14, 2020.
