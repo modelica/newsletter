@@ -9,15 +9,15 @@ description: "The email version"
 
 Dear Modelica, FMI, SSP, DCP interested,
 
-the celebration of the 100th Modelica Design Meeting was a big success: On Sept. 30, 2019 the Jubilee Symposium Future Directions of System Modeling and Simulation took place with 9 invited speakers and 140 participants [more information in the article](https://newsletter.modelica.org/2019-03/index#letter-from-the-board).
+the celebration of the 100th Modelica Design Meeting was a big success: On Sept. 30, 2019 the Jubilee Symposium Future Directions of System Modeling and Simulation took place with 9 invited speakers and 140 participants [(...)](https://newsletter.modelica.org/2019-03/index#letter-from-the-board).
 
 According to the new schedule, country-specific Modelica Association conferences will take place next year outside of Europe:
 
 - The [2nd American Modelica Conference](https://www.modelica.org/events/modelica2020Americas) will be held
-at the University of Colorado in Boulder, U.S.A, from March 23-25, 2020. See also the [dedicated article](AmericanModelicaConference.html) in this newsletter.
+at the University of Colorado in Boulder, U.S.A, from March 23-25, 2020. See also the [dedicated article](#american-modelica-conference-2020) in this newsletter.
 
 - The previous two very successful Japanese Modelica Conferences are succeeded with the [Asian Modelica Conference](https://2020.asian.conference.modelica.org/) in Tokyo, Japan, from May 13-14, 2020. See also the
-[dedicated article](Asian_Modelica_Conference.html) in this newsletter.
+[dedicated article](#Asian_Modelica_Conference) in this newsletter.
 
 The **FMI** group has released the maintenance version **2.0.1** of the FMI standard. This version does not include
 new features, but about 50 fixes and clarifications. For all the details, see the
@@ -30,7 +30,7 @@ This release does not include new features but 8 smaller fixes. For all the deta
 
 Many organizations and individuals have now signed the
 [Modelica Association Contributor License Agreement (MA CLA)](https://www.modelica.org/licenses/ModelicaAssociationCLA_1.1/at_download/file).
-A few are still missing [...](https://newsletter.modelica.org/2019-03/index#letter-from-the-board).
+A few are still missing [(...)](https://newsletter.modelica.org/2019-03/index#letter-from-the-board).
 
 *[(Read the full letter from the board on the web)](https://newsletter.modelica.org/2019-03/index#letter-from-the-board)*
 
