@@ -32,7 +32,7 @@ Many organizations and individuals have now signed the
 [Modelica Association Contributor License Agreement (MA CLA)](https://www.modelica.org/licenses/ModelicaAssociationCLA_1.1/at_download/file).
 A few are still missing [...](https://newsletter.modelica.org/2019-03/index#letter-from-the-board).
 
-Read the full [letter from the board on the web](https://newsletter.modelica.org/2019-03/index#letter-from-the-board).
+*[(Read the full letter from the board on the web)](https://newsletter.modelica.org/2019-03/index#letter-from-the-board)*
 
 Martin Otter on Nov. 21, 2019    
 *Chairman of the Modelica Association*
