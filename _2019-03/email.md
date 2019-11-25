@@ -9,7 +9,7 @@ description: "The email version"
 
 Dear Modelica, FMI, SSP, DCP interested,
 
-the celebration of the 100th Modelica Design Meeting was a big success [...](https://newsletter.modelica.org/2019-03/index#letter-from-the-board).
+the celebration of the 100th Modelica Design Meeting was a big success: On Sept. 30, 2019 the Jubilee Symposium Future Directions of System Modeling and Simulation took place with 9 invited speakers and 140 participants [more information in the article](https://newsletter.modelica.org/2019-03/index#letter-from-the-board).
 
 According to the new schedule, country-specific Modelica Association conferences will take place next year outside of Europe:
 
