@@ -1,7 +1,7 @@
 ---
 Title: American Modelica Conference 2020
 Author: Hubertus Tummescheit, [North American Modelica Users Group](https://www.modelica.org/users-groups)
-Category: association
+category: "association"
 ---
 
 The American Modelica Conference 2020 will be held at the University of Colorado in Boulder, Colorado, the United States of America from March 23 - 25, 2020. It is organized by the Modelica Association and the North American Modelica User Group NAMUG. 
