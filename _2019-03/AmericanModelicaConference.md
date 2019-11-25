@@ -1,6 +1,6 @@
 ---
 Title: American Modelica Conference 2020
-Author: Hubertus Tummescheit, [North American Modelica Users Group](https://www.modelica.org/users-groups)
+Author: "Hubertus Tummescheit, [North American Modelica Users Group](https://www.modelica.org/users-groups)"
 category: "association"
 ---
 
