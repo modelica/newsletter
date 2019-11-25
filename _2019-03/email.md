@@ -14,10 +14,10 @@ the celebration of the 100th Modelica Design Meeting was a big success: On Sept.
 According to the new schedule, country-specific Modelica Association conferences will take place next year outside of Europe:
 
 - The [2nd American Modelica Conference](https://www.modelica.org/events/modelica2020Americas) will be held
-at the University of Colorado in Boulder, U.S.A, from March 23-25, 2020. See also the [dedicated article](#american-modelica-conference-2020) in this newsletter.
+at the University of Colorado in Boulder, U.S.A, from March 23-25, 2020. See also the [dedicated article](https://newsletter.modelica.org/2019-03/index.html#american-modelica-conference-2020) in this newsletter.
 
 - The previous two very successful Japanese Modelica Conferences are succeeded with the [Asian Modelica Conference](https://2020.asian.conference.modelica.org/) in Tokyo, Japan, from May 13-14, 2020. See also the
-[dedicated article](#Asian_Modelica_Conference) in this newsletter.
+[dedicated article](https://newsletter.modelica.org/2019-03/index.html#asian-modelica-conference) in this newsletter.
 
 The **FMI** group has released the maintenance version **2.0.1** of the FMI standard. This version does not include
 new features, but about 50 fixes and clarifications. For all the details, see the
