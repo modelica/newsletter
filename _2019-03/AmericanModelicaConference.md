@@ -1,6 +1,8 @@
+---
 Title: American Modelica Conference 2020
-Author: Hubertus Tummescheit, North American Modelica Users Group
+Author: Hubertus Tummescheit, [North American Modelica Users Group](https://www.modelica.org/users-groups)
 Category: association
+---
 
 The American Modelica Conference 2020 will be held at the University of Colorado in Boulder, Colorado, the United States of America from March 23 - 25, 2020. It is organized by the Modelica Association and the North American Modelica User Group NAMUG. 
 
@@ -14,4 +16,4 @@ We are looking forward to seeing you in Boulder, CO.
 
 Dr. Michael Tiller and Associate Professor Luigi Vanfretti, PhD
 
-General Chair (Xogeny) and Program Chair (Rensselaer Polytechnical Institute)
+General Chair ([Ricardo](https://ricardo.com/)) and Program Chair ([Rensselaer Polytechnical Institute](https://www.rpi.edu/))
