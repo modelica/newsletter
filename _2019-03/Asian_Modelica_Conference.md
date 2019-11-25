@@ -1,6 +1,6 @@
 ---
-title: Asian Modelica Conference
-author: [Jocelyn Paslowski, Modelon](https://www.modelon.com/)
+title: "Asian Modelica Conference"
+author: "[Jocelyn Paslowski, Modelon](https://www.modelon.com/)"
 category: "conference"
 ---
 
