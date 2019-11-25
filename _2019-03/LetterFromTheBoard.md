@@ -8,21 +8,19 @@ Dear Modelica, FMI, SSP, DCP interested,
 
 the celebration of the 100th Modelica Design Meeting was a big success: On Sept. 30, 2019 the Jubilee Symposium
 *Future Directions of System Modeling and Simulation* took place with 9 invited speakers and 140 participants
-(more information in the [article](symposium.html)). On Oct. 1-2, Modelica Association meetings for most
-Modelica Association Projects, including of course the 100th meeting of the Modelica language group, allowed an
-intensive exchange between the projects.
+(more information in the [article](#future-directions-of-system-modeling-and-simulation)). On Oct. 1-2, Modelica Association meetings for most Modelica Association Projects, including of course the 100th meeting of the Modelica language group, allowed an intensive exchange between the projects.
 
 According to the new schedule, country-specific Modelica Association conferences will take place next year outside of Europe:
 
 - The [2nd American Modelica Conference](https://www.modelica.org/events/modelica2020Americas) will be held
 at the University of Colorado in Boulder, U.S.A, from March 23-25, 2020. Currently, the submitted papers are reviewed.
 Note, the Early Bird registration ends on January 31, 2020. 
-See also the [dedicated article](AmericanModelicaConference.html) in this newsletter.
+See also the [dedicated article](#american-modelica-conference-2020) in this newsletter.
 
 - The previous two very successful Japanese Modelica Conferences are succeeded with the [Asian Modelica Conference](https://2020.asian.conference.modelica.org/) in Tokyo, Japan, from May 13-14, 2020.
 The intention is to organize this conference in the following years alternatively also in Korea and China.
 The Call-for-Papers already started and you can submit proposals until January 31, 2020. See also the
-[dedicated article](Asian_Modelica_Conference.html) in this newsletter.
+[dedicated article](#asian-modelica-conference) in this newsletter.
 
 The **FMI** group has released the maintenance version **2.0.1** of the FMI standard. This version does not include
 new features, but about 50 fixes and clarifications. For all the details, see the
