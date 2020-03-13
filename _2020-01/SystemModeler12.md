@@ -24,6 +24,6 @@ The following new Virtual Labs’ library is now available for download from the
 
 [CollegeBiology](https://www.wolfram.com/system-modeler/libraries/college-biology/): Developed in collaboration with [Linköping university](https://liu.se/) contains interactive biology labs related to PCR, electrophoresis and autosomal recessive disease.
 
-The labs are developed using Mathematica notebooks with Modelica models running in the background. For more information please read the [this blog](https://blog.wolfram.com/2019/10/08/powering-engineering-education-with-wolfram-virtual-labs/).
+The labs are developed using Mathematica notebooks with Modelica models running in the background. For more information please read [this blog](https://blog.wolfram.com/2019/10/08/powering-engineering-education-with-wolfram-virtual-labs/).
 
 [Click here](https://www.wolfram.com/system-modeler/what-is-new/) to read the latest System Modeler news.
