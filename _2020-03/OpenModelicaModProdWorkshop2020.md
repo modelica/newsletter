@@ -4,7 +4,7 @@ author: "Peter Fritzson [Open Source Modelica Consortium](https://www.openmodeli
 category: "vendor"
 ---
 
-The 14th international MODPROD Workshop on Model-Based Cyber-Physical Product Development, organized by the MODPROD competence center at Linköping University, was successfully held atLinköping University, Linköping, Sweden, February 4-5, 2020.
+The 14th international MODPROD Workshop on Model-Based Cyber-Physical Product Development, organized by the MODPROD competence center at Linköping University, was successfully held at Linköping University, Linköping, Sweden, February 4-5, 2020.
 
 Three tutorials were held in the morning the first day on the topics: Introduction to Modelica modeling, debugging, optimization/sensitivity analysis; FMI for composite modeling, co-simulation and model-exchange; Modeling and simulation of Power Systems with OpenModelica and the PowerGrids library.
 
@@ -27,4 +27,3 @@ Right: Peter Gorm Larsen (Aarhus University) gives his keynote on a cloud-based 
 
 Left: Technical visit to the Road and Traffic Institute showing the project regarding self-driving buses at Linköping University campus.  
 Right: Gunnar Cedersund (Linköping University) presents his keynote including the new digital twin healthcare revolution – Mechanistic, Multi-level, Multi-timescale, Multi-species models.
-
