@@ -17,13 +17,13 @@ Four keynotes were given:
 
 The program and the presentations are available at [MODPROD website](http://www.modprod.liu.se).
 
-![](robertandingo.png) ![](petergromlarsen.png) 
+![](robertandingo.png){:width="45%"} ![](petergromlarsen.png){:width="45%"} 
 
-Left: Robert Braun and Ingo Staack (Linköping University), chairpersons. 
-Right: Peter Gorm Larsen (Aarhus University) gives his keynote on a cloud-based collaborative platform for CPS,including examples of digital twins. 
+**Left:** Robert Braun and Ingo Staack (Linköping University), chairpersons.  
+**Right:** Peter Gorm Larsen (Aarhus University) gives his keynote on a cloud-based collaborative platform for CPS,including examples of digital twins.  
 
 
-![](selfdrivingbus.png) ![](gunnarcedersund.png) 
+![](selfdrivingbus.png){:width="45%"} ![](gunnarcedersund.png){:width="45%"} 
 
-Left: Technical visit to the Road and Traffic Institute showing the project regarding self-driving buses at Linköping University campus.  
-Right: Gunnar Cedersund (Linköping University) presents his keynote including the new digital twin healthcare revolution – Mechanistic, Multi-level, Multi-timescale, Multi-species models.
+**Left:** Technical visit to the Road and Traffic Institute showing the project regarding self-driving buses at Linköping University campus.  
+**Right:** Gunnar Cedersund (Linköping University) presents his keynote including the new digital twin healthcare revolution – Mechanistic, Multi-level, Multi-timescale, Multi-species models.
