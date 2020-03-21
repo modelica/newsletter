@@ -7,9 +7,9 @@ defaults:
     values:
       image: /assets/images/ModelicaLogoSq.jpg 
     author: modelica 
-contribution-open: true
-contribution-deadline: 13 March
-current-newsletter-date: 23 March
+contribution-open: false
+contribution-deadline: 10 July
+current-newsletter-date: 20 July
 baseurl: /
 url: "https://newsletter.modelica.org"
 collections:
@@ -36,8 +36,8 @@ collections:
   2019-03:
     permalink: /:collection/:path
     title: Fall 2019 release
-    output: true    
+    output: true
   2020-01:
     permalink: /:collection/:path
     title: Winter 2020 release
-    output: true    
+    output: true
