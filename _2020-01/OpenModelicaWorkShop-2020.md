@@ -8,7 +8,7 @@ The 12th OpenModelica Annual Workshop organized by the Open Source Modelica Cons
 
 The program and the 13 presentations are available from [openmodelica.org/events/openmodelica-workshop/openmodelica-program-2020](https://www.openmodelica.org/events/openmodelica-workshop/openmodelica-program-2020)  
 
-![](adrianandmartin.png) ![](rudiger.png) 
+![](adrianandmartin.png){:width="45%"} ![](rudiger.png){:width="45%"}
 
-Left: Adrian Pop and Martin Sjölund, OpenModelica workshop chairpersons (Linköping University) opening the workshop. 
-Right: Rüdiger Franke, OSMC Chairman (ABB AG) presenting how digital technologies are driving new innovations in industrial markets.
+**Left:** Adrian Pop and Martin Sjölund, OpenModelica workshop chairpersons (Linköping University) opening the workshop.  
+**Right:** Rüdiger Franke, OSMC Chairman (ABB AG) presenting how digital technologies are driving new innovations in industrial markets.  
