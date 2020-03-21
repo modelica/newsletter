@@ -7,6 +7,15 @@ name: "2020-01"
 description: "email version - again"
 ---
 
+Dear Modelica, FMI, SSP, DCP interested,
+
+the worldwide Coronavirus epidemic influences also the operation of the Modelica Association and results in postponing of the [2nd American Modelica Conference](https://www.modelica.org/events/modelica2020Americas) and [Asian Modelica Conference 2020](https://2020.asian.conference.modelica.org/). The next Modelica Design Meeting planned for May 26-28, and the Annual Modelica Association Meeting planned for May 27, will most likely also be postponed.  
+[Read more ...](https://newsletter.modelica.org/2020-01/)
+  
+Martin Otter on March 20, 2020
+Chairman of the Modelica Association
+
+
 {% include build_email_index.md %}
 
 ## Editor's note
