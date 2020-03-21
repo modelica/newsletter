@@ -1,5 +1,5 @@
 ---
-title: System Modeler and Mathematica 12.1-Released!
+title: System Modeler and Mathematica 12.1 Released!
 author: Ankit Naik [Wolfram](http://wolfram.com/system-modeler/)
 category: "vendor"
 ---
@@ -16,6 +16,11 @@ The latest version of System Modeler contains many new features to make your des
 
 Read more about the [latest updates and download a trial here](https://www.wolfram.com/system-modeler/what-is-new/).
 
+---
+title: Wolfram Virtual Labs
+author: Ankit Naik [Wolfram](http://wolfram.com/system-modeler/)
+category: "education"
+---
 *Powering Engineering Education with Wolfram Virtual Labs*
 
 ![alt text](SystemModeler-VirtualLabs.jpg "Powering Education with Wolfram Virtual Labs")
