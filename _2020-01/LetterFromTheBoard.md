@@ -14,7 +14,8 @@ the worldwide Coronavirus epidemic influences also the operation of the Modelica
   at least 2 months in advance.
 
 - The [Asian Modelica Conference 2020](https://2020.asian.conference.modelica.org/) in Tokyo, 
-  May 13-14, will most likely also be postponed. More information will be sent by the organizers in the
+  May 13-14, will also be postponed. You will be informed about the new date of the event,
+  at least 2 months in advance. More information will be sent by the organizers in the
   near future.
   
 - The next Modelica Design Meeting planned for May 26-28, and the Annual Modelica Association Meeting
