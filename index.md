@@ -4,7 +4,7 @@ layout: default
 mainpage: true
 ---
 
-The [Modelica Association](http://modelica.org) newsletter informs the audience about all topics covered by the Modelica Association (Modelica language, FMI, SSP), libraries, related projects and tools and news in education (courses, books and related materials). You can [subscribe](http://eepurl.com/dpvVdH) to receive the newsletter as well.
+The [Modelica Association](http://modelica.org) newsletter informs the audience about all topics covered by the Modelica Association and its projects([language, Standard libraries, FMI, SSP, DCP etc.](https://www.modelica.org/projects)), libraries, tools and news in education (courses, books and related materials). You can [subscribe](http://eepurl.com/dpvVdH) to receive the newsletter as well.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
