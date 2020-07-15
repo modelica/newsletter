@@ -1,15 +1,15 @@
 theme: jekyll-theme-tactile
 google_analytics: UA-114571919-1
-current-contribution-url: "https://github.com/modelica/newsletter/tree/master/_2020-01"
+current-contribution-url: "https://github.com/modelica/newsletter/tree/master/_2020-02"
 defaults:
   - scope:
       path: ""
     values:
       image: /assets/images/ModelicaLogoSq.jpg 
     author: modelica 
-contribution-open: false
-contribution-deadline: 10 July
-current-newsletter-date: 20 July
+contribution-open: true
+contribution-deadline: 24 July
+current-newsletter-date: 27 July
 baseurl: /
 url: "https://newsletter.modelica.org"
 collections:
