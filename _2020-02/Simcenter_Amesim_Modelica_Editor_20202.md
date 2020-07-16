@@ -6,7 +6,7 @@ category: "vendor"
 
 
 [Siemens Digital Industries Software](https://www.sw.siemens.com/ ) is proud to announce the 
-recent release of Simcenter Amesim 2020.2. The key new feature on Modelica Editor being **the exposed variables selection from Modelica Editor**.  
+recent release of Simcenter Amesim 2020.2. The key new feature on Modelica Editor being **the exposed variables selection**.  
 Additional new capabilities include:
 * Blackbox button
 * Internal variables filter button
