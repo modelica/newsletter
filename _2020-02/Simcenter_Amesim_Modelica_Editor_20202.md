@@ -1,19 +1,19 @@
 ---
-title: Simcenter Amesim 2020.1 released
+title: Simcenter Amesim 2020.2 released
 authors: "Karim Besbes([Siemens Digital Industries Software](https://www.sw.siemens.com/ ))"
 category: "vendor"
 ---
 
 
 [Siemens Digital Industries Software](https://www.sw.siemens.com/ ) is proud to announce the 
-recent release of Simcenter Amesim 2020.1. The key new feature being **the exposed variables selection from Modelica Editor**.  
+recent release of Simcenter Amesim 2020.2. The key new feature on Modelica Editor being **the exposed variables selection from Modelica Editor**.  
 Additional new capabilities include:
 * Blackbox button
 * Internal variables filter button
 
 
 #### Exposed variables selection from Modelica Editor
-On the Modelica editor of Simcenter Amesim, when a Modelica model is compiled, by default all the component's parameters and variables are exposed for the simulation. However, two options from the toolbar allow to define which parameters and variables are visible in Simcenter Amesim after the Modelica component is compiled: the Black-box button and the Filter button. Of course, some variables cannot be filtered which are the input and output variables, the state variables and the runtime option parameters.
+On the Modelica editor of Simcenter Amesim, when a model is compiled, by default all the component's parameters and variables are exposed for the simulation. However, two options from the toolbar allow to define which parameters and variables are visible in Simcenter Amesim after the Modelica component is compiled: the Black-box button and the Filter button. Of course, some variables cannot be filtered which are the input and output variables, the state variables and the runtime option parameters.
 
 With the Black-box button you can hide all the internal variables, useful for example for confidentiality issues with a customer.
 
