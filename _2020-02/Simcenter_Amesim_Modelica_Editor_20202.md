@@ -25,4 +25,4 @@ As an example below a screenshot showing how a Modelica model coming from the Bu
 
 ![Example of exposed variables selection](Simcenter_Amesim_Modelica_Editor_20202_example.png 'Example of exposed variables selection')
 
-For more information on Simcenter Amesim, please visit our [website](https://www.plm.automation.siemens.com/global/fr/products/simcenter/simcenter-amesim.html).
+For more information on Simcenter Amesim, please visit our [website](https://www.plm.automation.siemens.com/global/en/products/simcenter/simcenter-amesim.html).
