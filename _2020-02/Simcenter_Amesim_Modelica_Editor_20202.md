@@ -16,7 +16,7 @@ In Simcenter Amesim's built-in Modelica edition tool, when a model is compiled, 
 
 With the Black-box button you can hide all your internal variables, thus avoiding to reveal your intellectual property or know-how.
 
-With the internal variables filter button you can write directly the pattern of the variables to be exposed in accordance with the GLOB patterns specification. For example if you type <i>name*</i> in the dedicated text field, all the variables beginning with "name" will be exposed for the simulation phase. If you type <i>x* y*</i>, all the internal variables beginning with <i>x</i> or <i>y</i> will be exposed.
+With the internal variables filter button you can write directly the pattern of the variables to be exposed in accordance with the GLOB patterns specification. For example if you type <i>name*</i> in the dedicated text field, all the variables beginning with <i>name</i> will be exposed for the simulation phase. If you type <i>x* y*</i>, all the internal variables beginning with <i>x</i> or <i>y</i> will be exposed.
 
 See the below example showing how a Modelica model made with the BuildSysPro library has been filtered by using the following pattern: <i>ParoiNord*</i> <i>ParoiSud*</i>
 
