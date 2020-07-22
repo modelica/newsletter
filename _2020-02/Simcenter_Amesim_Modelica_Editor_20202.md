@@ -9,6 +9,7 @@ category: "vendor"
 Additional new capabilities include:
 * A blackbox button
 * An internal variables filter button
+
 This buttons allow to quickly activate/deactivate user-defined filters. 
 
 #### Exposed variables selection from the Modelica Editor
