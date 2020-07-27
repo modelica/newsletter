@@ -1,5 +1,5 @@
 ---
-title: Claytex technical blog
+title: Claytex technical blog - UAV Dynamics library
 author: "Mahdieh Mehrabi ([Claytex](https://www.claytex.com/))"
 category: "education"
 ---
