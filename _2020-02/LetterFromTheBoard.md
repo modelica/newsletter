@@ -24,10 +24,16 @@ the worldwide Coronavirus epidemic influences also the operation of the Modelica
   postponed, most likely to September 2021. It will most likely also organized as a nmixed
   standard/online conference.
 
+Even if an online conference has drawbacks, it gives new opportunites. For example, I am currently
+joining a conference that has typically several hundreds of participants. For the online conference
+this year about 10000 people have registered, so many people took the chance to join. 
+
 The next major version of the Modelica Standard Library, version 4.0.0, was released on June 4, 2020
 (see [release notes](https://github.com/modelica/ModelicaStandardLibrary/releases/tag/v4.0.0)).
 Many thanks for the extensive and excellent work of the project leader Thomas Beutlich and the 
 deputy project leader Dietmar Winkler.
+
+The FMI group is working hard on **FMI version 3.0**. Yesterday, version [3.0-alpha.5](https://github.com/modelica/fmi-standard) was released.
 
 If you have interesting news for the Modelica, FMI, SSP and DCP communities,
 please follow the [submission guidelines](https://newsletter.modelica.org/submission-guidelines.html).
