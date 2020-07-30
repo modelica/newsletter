@@ -21,7 +21,7 @@ the worldwide Coronavirus epidemic influences also the operation of the Modelica
   online services.
 
 - The International Modelica Conference that was planned in March 2021 in Linköping, Sweden, will also be
-  postponed, most likely to September 2021. It will most likely also organized as a nmixed
+  postponed, most likely to September 2021. It will most likely also be organized as a mixed
   standard/online conference.
 
 Even if an online conference has drawbacks, it gives new opportunites. For example, I am currently
