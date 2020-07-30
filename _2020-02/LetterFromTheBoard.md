@@ -10,7 +10,7 @@ the worldwide Coronavirus epidemic influences also the operation of the Modelica
 
 - The [2nd American Modelica Conference](https://www.modelica.org/events/modelica2020Americas)
   is now organized as an online conference **September 22-24**, 2020. The tickets for online participation are $25 only,
-  registration is open at https://www.eventbrite.com/e/american-modelica-conference-2020-tickets-64989712981.
+  [registration is open](https://www.eventbrite.com/e/american-modelica-conference-2020-tickets-64989712981).
   Note that registrations for the pre-conference workshops are currently closed, but will be reopened next week.
   The conference organizers are still looking for organizations sponsoring the conference.
   The online conference format gives the unique opportunity to attend the conference,
