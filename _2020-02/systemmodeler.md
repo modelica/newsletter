@@ -5,7 +5,7 @@ category: "education"
 ---
 *Powering Engineering Education with Wolfram Virtual Labs*
 
-![alt text](SystemModeler-VirtualLabs.jpg "Powering Education with Wolfram Virtual Labs")
+![alt text](SystemModeler-VirtualLabs.png "Powering Education with Wolfram Virtual Labs")
 
 The following new Virtual Labs’ library is now available for download from the [System Modeler library store](https://www.wolfram.com/system-modeler/libraries/):
 
