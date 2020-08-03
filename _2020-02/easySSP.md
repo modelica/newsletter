@@ -1,10 +1,10 @@
 ---
-title: orchideo | easySSP is now available! 
+title: orchideo \| easySSP is now available! 
 author: Gregor Hermann, Peter Lobner [eXXcellent solutions](https://www.exxcellent.de/)
 category: "vendor"
 ---
-![alt text](easySSP-screenshot.png 'orchideo | easySSP is available now')
-The first version of the SSP modeling tool **orchideo | easySSP** is now freely available for the community at [easy-ssp.com](https://easy-ssp.com). 
+![alt text](easySSP-screenshot.png 'orchideo \| easySSP is available now')
+The first version of the SSP modeling tool **orchideo \| easySSP** is now freely available for the community at [easy-ssp.com](https://easy-ssp.com). 
 
 #### SSP – Much more than an exchange format
 
@@ -14,7 +14,7 @@ SSP is the foundation and the enabler of a simple, transparent and fast simulati
 
 #### Get started with SSP
 
-The current version of [orchideo | easySSP](https://easy-ssp.com) focuses on the modeling of hierarchical systems and their components, as well as the definitions of their dependencies via connectors and connections. This is a teaser of the coming features that we are consistently developing.
+The current version of [orchideo \| easySSP](https://easy-ssp.com) focuses on the modeling of hierarchical systems and their components, as well as the definitions of their dependencies via connectors and connections. This is a teaser of the coming features that we are consistently developing.
 
 Utilize the benefits of SSP! Check out [easy-ssp.com](https://easy-ssp.com) and start now.
 
