@@ -30,9 +30,9 @@ Even if an online conference has drawbacks, it gives new opportunites. For examp
 joining a conference that has typically several hundreds of participants. For the online conference
 this year about 10000 people have registered, so many people took the chance to join. 
 
-The next major version of the Modelica Standard Library, version 4.0.0, was released on June 4, 2020
+A new major version of the Modelica Standard Library, **MSL version 4.0.0**, was released on June 4, 2020
 (see [release notes](https://github.com/modelica/ModelicaStandardLibrary/releases/tag/v4.0.0)).
-Many thanks for the extensive and excellent work of the project leader Thomas Beutlich and the 
+Many thanks for the extensive and excellent work of the former project leader Thomas Beutlich and the former 
 deputy project leader Dietmar Winkler.
 
 The FMI group is working hard on **FMI version 3.0**. Version [3.0-alpha.5](https://github.com/modelica/fmi-standard) was 
