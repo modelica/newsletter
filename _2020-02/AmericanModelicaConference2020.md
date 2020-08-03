@@ -1,7 +1,7 @@
 ---
 title: American Modelica Conference 2020 going virtual!
 author: "Hubertus Tummescheit ([Modelica Association](https://www.modelica.org/)) and ([North American Modelica Users Group](https://namug.org/))"
-category: "letter"
+category: "conference"
 ---
 
 Due to the COVID-19 situation, the American Modelica Conference 2020 had to be postponed and converted to a virtual event. 
