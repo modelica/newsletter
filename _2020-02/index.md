@@ -2,7 +2,7 @@
 index: true
 hidden: false
 layout: default
-title: "Summer 2020 edition of the Modelica Association newsletter"
+title: "2020-02"
 name: "2020-02"
 date: 2020-08-03
 description: "Summer 2020 edition of the Modelica Association newsletter"
