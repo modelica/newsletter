@@ -11,7 +11,7 @@ much more global audience. We have come up with the following format to support 
   * Registration for participants is very cheap at $25 per person only and open at ([Eventbrite](https://www.eventbrite.com/e/american-modelica-conference-2020-tickets-64989712981)). Please note that workshop registration is currently closed, but will be reopened soon. 
   * All presentations will be pre-recorded and will be available to registered participants between the 22nd and 24th of September to watch at any time.
   * There will also be a live, virtual Q&A session, as well as live, virtual "Birds-of-a-feather" sessions, starting from 9 am US Mountain time. 
-  * You can access the ([conference schedule] (https://modelica.org/events/modelica2020Americas/program-outline)) online.
+  * You can access the ([conference schedule](https://modelica.org/events/modelica2020Americas/program-outline)) online.
   * All participants can interact with one another through a conference web-app using the ([Whova](https://whova.com/)), exchange business 
   cards and discuss Modelica-related topics. 
   * Registration for Gold and Silver sponsors is still available. You can interact with participants through the web-app, which also supports registering leads. 
