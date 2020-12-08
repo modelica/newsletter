@@ -11,7 +11,7 @@ We are delighted to announce that Dymola 2021x is available. [Latest Release](ht
 
 Importing FMU code modules is common. It is now possible to precisely control which FMU signals should be exposed or hidden, making the interface easier to use. When drawing diagrams, connections can be automatically routed to avoid existing components. On popular request, Dymola can be run in “dark” mode for a more sophisticated experience.
 
-![](Dymola2021x-darkmode.png)
+![Dymola in dark mode](Dymola2021x-darkmode.png)
 
 #### Simulation
 
