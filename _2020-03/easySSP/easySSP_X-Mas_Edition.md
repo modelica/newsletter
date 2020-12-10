@@ -1,5 +1,5 @@
 ---
-title: orchideo | easySSP X-Mas Edition
+title: orchideo \| easySSP X-Mas Edition
 author: Gregor Hermann, Peter Lobner [eXXcellent solutions](https://www.exxcellent.de/)
 category: "vendor"
 ---
