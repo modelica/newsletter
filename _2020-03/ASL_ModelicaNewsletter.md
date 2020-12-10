@@ -10,8 +10,8 @@ In this first release, two main topics are covered:
  - Full dynamics of multi-copter drones (rotating-wing) including the control system for mission planning and design of the propulsion system
 The two areas share common models like propulsion or landing gear systems.  Components of the electric drive are structured in a reasonable way to allow replacing by custom drive systems from other libraries:
 
-![Propulsion System](https://vm-sdl3-dsy.ux.dsone.3ds.com/SCT/LibDocs/raw/master/ASL/18_ModelicaNewsletter/2020-12/propulsion.png "Propulsion System"){:width="623px"}
+![Propulsion System](propulsion.png "Propulsion System"){:width="623px"}
 
 The aerodynamic forces of wings or propeller blades are calculated by table-based profile polar curves. Geometrical arrangement of the aerodynamic objects to model an aircraft is conducted in the Modelica MultiBody environment. A simple tire model allows take-off from ground and landing:
 
-![Aircraft](https://vm-sdl3-dsy.ux.dsone.3ds.com/SCT/LibDocs/raw/master/ASL/18_ModelicaNewsletter/2020-12/aircraft.png "Aircraft"){:width="623px"}
+![Aircraft](aircraft.png "Aircraft"){:width="623px"}
