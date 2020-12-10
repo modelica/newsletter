@@ -8,7 +8,7 @@ category: "vendor"
 [Siemens Digital Industries Software](https://www.sw.siemens.com/ ) is proud to announce the recent release of [Simcenter Amesim 2020.2](https://www.youtube.com/watch?v=URHoN-yy_bk ), as part of its system simulation solutions. Among the key features introduced in this release, we can highlight the FMI and Modelica related improvements below.
 
 # Modelica updates
-As announced in the previous issue of this newsletter, the Modelica Editor has been extended with the following capabilties:
+As announced in the previous issue of this newsletter, the Modelica Editor has been extended with the following capabilities:
 * Modelica Compiler (Modelon's [Optimica Compiler Toolkit](https://www.modelon.com/products-services/modelon-creator-suite/optimica-compiler-toolkit/ )) upgraded to version 1.18
 * Extended variable filtering capabilities for the simulation: black-box and GLOB patterns support
 * Increased translation logging usability 
