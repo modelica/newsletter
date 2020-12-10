@@ -29,7 +29,7 @@ A new ONNX to FMI conversion tool has been introduced. It allows exporting FMUs 
 
 This new tool represents a first step towards the deployment of highly portable lightweight but accurate representations of physical models&nbsp;&mdash;&nbsp;executable digital twins&nbsp;&mdash;&nbsp;on a wide variety of targets (e.g. IIoT, Edge Computing or Cloud platforms), to serve various kinds of simulation contexts and purposes.
 
-More will come in the next Simcenter&nbsp;Amesim releases with the end of the [EMPHYSIS](https://itea3.org/project/emphysis.html ) European projet from which [Siemens Digital Industries Software](https://www.sw.siemens.com/ ) is a member, and with the future release of FMI 3.0 to which Siemens also actively contributes.   
+More will come in the next Simcenter&nbsp;Amesim releases with the end of the [EMPHYSIS](https://itea3.org/project/emphysis.html ) European project from which [Siemens Digital Industries Software](https://www.sw.siemens.com/ ) is a member, and with the future release of FMI 3.0 to which Siemens also actively contributes.   
 
 
 ![](amesim_banner_2020_2.png)
