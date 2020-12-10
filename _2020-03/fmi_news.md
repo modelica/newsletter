@@ -5,6 +5,14 @@ category: association
 ---
 
 
+{::options parse_block_html="true" /}
+
+<div style="float: right">
+![fmi-logo](fmi_logo.png)
+</div>
+
+
+
 #### Updated Cross-Check-Rules
 
 The FMI Steering Committee has passed an [updated version 4.1 on the FMI Cross-Check Rules](https://github.com/modelica/fmi-cross-check/blob/master/FMI-CROSS-CHECK-RULES.md), which includes the following changes:
