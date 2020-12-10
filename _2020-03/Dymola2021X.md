@@ -5,7 +5,7 @@ author: "Dag Brück ([Dassault Systemes](http://www.3ds.com/dymola))"
 category: "vendor"
 ---
 
-We are delighted to announce that Dymola 2021x is available. [Latest Release](https://www.3ds.com/products-services/catia/products/dymola/latest-release/)
+We are delighted to announce that Dymola 2021x is available. [Find presentation and release notes here](https://www.3ds.com/products-services/catia/products/dymola/latest-release/)
 
 #### Editing and user interface
 
