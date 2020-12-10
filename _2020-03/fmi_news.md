@@ -22,7 +22,7 @@ The FMI Steering Committee has passed an [updated version 4.1 on the FMI Cross-C
 
 #### Online FMU Checker
 
-There is prototype of a new online check of FMUs available, see https://fmu-check.herokuapp.com/
+There is a prototype of a new online check of FMUs available, see https://fmi-standard.org/fmu-check/.
 FMU Check performs a static analysis of the FMU that validates the following aspects:
 
 - validity of the modelDescription.xml w.r.t. the XML schema
@@ -44,9 +44,9 @@ The online FMU checker complements the checking of FMUs with FMPy or the [FMU Co
 
 #### Maintenance release FMI 2.0.2
 
-Coming maintenance release FMI 2.0.2 with bugfixes and introducing the /extra directory in FMI 2.0 (already there in SSP, and to come in FMI3.0).
+The FMI project is planning a maintenance release FMI 2.0.2 with bugfixes and introducing the /extra directory in FMI 2.0 (already there in SSP, and to come in FMI3.0).
 The release process has started, voting in the FMI Steering Committee and Modelica Association has been initiated.
-The release candidate is and the released version will be available [here](https://github.com/modelica/fmi-standard), where also the chnanges are listed.
+The release candidate is and the released version will be available [here](https://github.com/modelica/fmi-standard), where also the changes are listed.
 
 #### FMI 3.0
 
