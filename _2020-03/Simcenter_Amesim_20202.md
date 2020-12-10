@@ -10,7 +10,7 @@ category: "vendor"
 # Modelica updates
 As announced in the previous issue of this newsletter, the Modelica Editor has been extended with the following capabilities:
 * Modelica Compiler (Modelon's [Optimica Compiler Toolkit](https://www.modelon.com/products-services/modelon-creator-suite/optimica-compiler-toolkit/ )) upgraded to version 1.18
-* Extended variable filtering capabilities for the simulation: black-box and GLOB patterns support
+* Extended variable filtering capabilities for the simulation: black-box and support for wildcard characters
 * Increased translation logging usability 
 
 # FMI updates
