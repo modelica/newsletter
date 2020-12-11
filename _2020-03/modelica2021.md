@@ -22,9 +22,12 @@ We are looking forward to seeing you in Linköping.
 
 For general questions, please send an email to: **[modelica2021@groups.liu.se](mailto:modelica2021@groups.liu.se)**
 
-#### Local Organization
+#### Conference Chairs
 
 - Main contact: Lena Buffoni, Linköping University
+- Lennart Ochel, RISE Research Institutes of Sweden AB
+
+#### Program Chairs
 - Martin Sjölund, Linköping University
 - Adrian Pop, Linköping University
-- Lennart Ochel, RISE Research Institutes of Sweden AB
+
