@@ -6,10 +6,14 @@ category: "education"
 
 ![Claytex logo](https://www.claytex.com/wp-content/uploads/2016/04/claytex-logo.png "Claytex logo")
 
-Claytex publishes a [technical blog]( https://www.claytex.com/blog/) covering all things Modelica and Dymola.  
+Claytex publishes a [technical blog]( https://www.claytex.com/blog/) covering all things Modelica and Dymola. Selecting from the latest posts:
 
-Reducing Non-Linear Systems with Filters
-
-When viewed from the user's perspective, simulation models should always run faster than they currently do. There is no model on the planet that runs too fast! Read the complete article [here]( https://www.claytex.com/tech-blog/reducing-non-linear-systems-with-filters/)
-
-![UAV Dynamics library]( https://www.claytex.com/wp-content/uploads/2020/12/Modelica-NL_Dec20_Reducing-Non-Linear-Systems-with-Filters.png " Reducing Non-Linear Systems with Filters ")
+- [Stability of explicit Euler solvers](https://www.claytex.com/tech-blog/stability-of-explicit-euler-solvers/)
+- [A few more Dymola translation modifiers](https://www.claytex.com/tech-blog/a-few-more-dymola-translation-modifiers/)
+- [Dymola Python Training](https://www.claytex.com/tech-blog/dymola-python-training/)
+- [Effective Modelica Library Development](https://www.claytex.com/tech-blog/effective-modelica-library-development/)
+- [Reducing Non-Linear Systems with Filters](https://www.claytex.com/tech-blog/reducing-non-linear-systems-with-filters/)
+- [Modifying evaluated parameters in multiple simulations](https://www.claytex.com/blog/methods/modifying-evaluated-parameters-in-multiple-simulations/)
+- [License free deployment](https://www.claytex.com/blog/license-free-deployment/)
+- [Supplying an inverse to a function](https://www.claytex.com/tech-blog/supplying-an-inverse-to-a-function/)
+- [The Dymola Translation Log](https://www.claytex.com/blog/the-dymola-translation-log/)
