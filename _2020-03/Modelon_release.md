@@ -8,7 +8,7 @@ category: "vendor"
 
 Modelon is pleased to announce the 2020.2 release is now available for Modelica libraries within the Modelon Library Suite. As part of our multi-platform strategy, select Modelon technology is available in an expanding list of platforms. View the complete list [here](https://www.modelon.com/products-services/modelon-inside/). 
 
-####2020.2 Highlights Include:
+#### 2020.2 Highlights
 
 Automotive
 
