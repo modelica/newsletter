@@ -13,4 +13,4 @@ Left: Turn on the menu choice. Right: List of variables directly influencing the
 
 The new functionality allows the user to perform a “backward” trace of which variables or equations that directly influence a chosen variable (see figure). This can be useful to understand the dependencies causing a faulty variable value.
 
-See www.openmodelica.org for download.
+See [www.openmodelica.org](https://www.openmodelica.org/) for download.
