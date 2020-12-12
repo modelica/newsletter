@@ -10,6 +10,6 @@ Modelon Impact is an open, cloud-ready, collaboration-friendly multi-domain mode
 
 Learn more: [www.modelon.com/modelon-impact-introduction/](https://www.modelon.com/modelon-impact-introduction/)
 
-Modelon also offers [free on-demand webinar](https://www.modelon.com/support/modelon-impact-webinar-2020/) providing an overview and demonstration of Modelon Impact. 
+Modelon also offers a free on-demand webinar *[Modelon Impact Introduction](https://www.modelon.com/support/modelon-impact-webinar-2020/)* providing an overview and demonstration of Modelon Impact. 
 
-The second [on-demand webinar](https://www.modelon.com/support/aerospace-system-design-webinar-on-demand/) offers an overview and demonstration of Modelon Impact as the solution for implementing model-based design methods and digital thread. 
+The second on-demand webinar *[Aerospace System Design with Modelon Impact](https://www.modelon.com/support/aerospace-system-design-webinar-on-demand/)* offers an overview and demonstration of Modelon Impact as the solution for implementing model-based design methods and digital thread. 
