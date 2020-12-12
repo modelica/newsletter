@@ -1,4 +1,3 @@
-
 ---
 title: Dymola 2021x
 author: "Dag Brück ([Dassault Systemes](http://www.3ds.com/dymola))"
