@@ -1,4 +1,3 @@
-
 ---
 title: 3DExperience Systems Simulation Designer
 author: "Alexandre Cortina ([Dassault Systemes](https://my.3dexperience.3ds.com/welcome/))"
