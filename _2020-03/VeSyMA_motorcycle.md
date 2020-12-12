@@ -1,7 +1,7 @@
 ---
 title: New Motorbike module added to VeSyMA suite
 author: "Mahdieh Mehrabi ([Claytex](https://www.claytex.com/))"
-category: "vendor"
+category: "library"
 ---
 
 ![Claytex logo](https://www.claytex.com/wp-content/uploads/2016/04/claytex-logo.png "Claytex logo")
