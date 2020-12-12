@@ -24,4 +24,4 @@ Keynotes for MODPROD2021 Workshop:
 -	Richard Romano, Professor at University of Leeds, Chair in Driving Simulation. "Model based design of Automated Vehicles"
 -	Claes Nord, Senior Visitor Experience Specialist at AB Sandvik Coromant. Title to be announced.
 
-For more information, registration and previous workshops see [www.modprod.se](http:\\www.modprod.se) and [www.openmodelica.org](https:\\www.openmodelica.org).
+For more information, registration and previous workshops see [www.modprod.se](http://www.modprod.se/) and [www.openmodelica.org](https://www.openmodelica.org/).
