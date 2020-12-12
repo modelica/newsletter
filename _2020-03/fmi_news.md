@@ -22,7 +22,7 @@ The FMI Steering Committee has passed an [updated version 4.1 on the FMI Cross-C
 
 #### Online FMU Checker
 
-There is a prototype of a new online check of FMUs available, see https://fmi-standard.org/fmu-check/.
+There is a prototype of a new online check of FMUs available, see [fmi-standard.org/fmu-check/](https://fmi-standard.org/fmu-check/).
 FMU Check performs a static analysis of the FMU that validates the following aspects:
 
 - validity of the modelDescription.xml w.r.t. the XML schema
@@ -39,7 +39,7 @@ It does not check the following aspects:
 - any non-standard files inside the FMU
 - execution of the binaries / simulation of the FMU
 
-This new online FMU Check is based on FMPy, a Python library by Dassault Systèmes to validate and simulate FMUs that has a graphical user interface, compiles C code FMUs and generates CMake projects for debugging, see https://github.com/CATIA-Systems/FMPy
+This new online FMU Check is based on FMPy, a Python library by Dassault Systèmes to validate and simulate FMUs that has a graphical user interface, compiles C code FMUs and generates CMake projects for debugging, see [github.com/CATIA-Systems/FMPy](https://github.com/CATIA-Systems/FMPy)
 The online FMU checker complements the checking of FMUs with FMPy or the [FMU Compliance Checker](https://github.com/modelica-tools/FMUComplianceChecker), a command line tool based on the FMI Library developed by Modelon AB to validate and execute FMUs.
 
 #### Maintenance release FMI 2.0.2
