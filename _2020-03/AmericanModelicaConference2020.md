@@ -1,6 +1,6 @@
 ---
-title: American Modelica Conference 2020: Virtual Edition
-author: "Chris Laughman ([Mitsubishi Electric Research Laboratories]())
+title: Report from American Modelica Conference 2020
+author: "Chris Laughman ([Mitsubishi Electric Research Laboratories](https://www.merl.com/))
 category: conference
 ---
 
