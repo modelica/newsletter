@@ -1,7 +1,7 @@
 ---
 title: Report from American Modelica Conference 2020
-author: "Chris Laughman ([Mitsubishi Electric Research Laboratories](https://www.merl.com/))
-category: conference
+author: "Chris Laughman ([Mitsubishi Electric Research Laboratories](https://www.merl.com/))"
+category: "conference"
 ---
 
 The **American Modelica Conference 2020** was held in a virtual format from September 22-24, 2020 and was a distinct success as the first virtual Modelica conference.  Twenty two papers and fifteen user presentations were delivered at the conference on a variety of theoretical and applied topics, ranging from the Modelica language and tools to mechanical, power, thermofluid, and aerospace applications.  Mark Jennings from Ford and Chris Gearhart from the U.S. National Renewable Energy Laboratory (NREL) provided keynote addresses related to model-based development for automotive applications, and the virtual format also provided a venue to hold new "Birds-of-a-feather" sessions in which the conference attendees could participate in roundtable discussions about a variety of forward-looking topics relating to the Modelica language and FMI.  Six free online workshops on a variety of subjects related to Modelica were also provided on dates either immediately before or after the conference, and were uniformly well-attended. 
