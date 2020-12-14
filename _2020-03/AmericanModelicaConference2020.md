@@ -10,5 +10,5 @@ Perhaps most significantly, the new virtual format provided a new means for the 
 
 We are grateful for your participation in the conference, and look forward to seeing you at the next conference in 2022!
 
-- Chris Laughman, on behalf of the board of the North America Modelica Users' Group
+*Chris Laughman, on behalf of the board of the North America Modelica Users' Group*
 
