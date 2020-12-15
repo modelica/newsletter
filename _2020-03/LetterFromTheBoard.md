@@ -34,7 +34,7 @@ Note, you can follow the development of Modelica Association activities on
 in particular for the [Modelica language - version 3.5](https://github.com/modelica/ModelicaSpecification), 
 and for [FMI - version 3.0](https://github.com/modelica/fmi-standard). 
 
-Despite the worldwide Coronavirus epidemic, it was possible to organize
+Despite the worldwide Coronavirus pandemic, it was possible to organize
 two Modelica Conferences in 2020, both as pure online conferences:
 
 - The American Modelica Conference 2020
@@ -53,7 +53,7 @@ Web-tools.
 In 2021, the [International Modelica Conference will take place in Linköping, Sweden
 on Sept. 20-22](https://2021.international.conference.modelica.org/). The conference is planned as a 
 hybrid event - so both presenters as well as participants can either join physically, or remotely. Depending on the situation of the
-Coronavirus epidemic, the conference might also be changed to a pure online conference, if
+Coronavirus pandemic, the conference might also be changed to a pure online conference, if
 this is necessary. Note, the [call-for-papers page](https://2021.international.conference.modelica.org/call2021.html) is open and you are encouraged to
 submit **full scientific papers** and/or **extended abstracts for industrial user presentations**.
 Final deadline for the submissions is **April 26, 2021**.
