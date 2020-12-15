@@ -51,3 +51,8 @@ The release candidate is and the released version will be available [here](https
 #### FMI 3.0
 
 You can follow the development of FMI 3.0 on [Github](https://github.com/modelica/fmi-standard) and inspect the latest development version [here](https://fmi-standard.org/docs/3.0-dev/).
+
+#### FMI User Meeting at the International Modelica Conference 2021
+
+At the [International Modelica Conference in Linköping, Sweden
+on Sept. 20-22](https://2021.international.conference.modelica.org/), there will be an [FMI user meeting](https://2021.international.conference.modelica.org/fmi-user-meeting.html), as part of the Industrial User Presentations on the first day. If you are interested to give a presentation, please find more information in the [Call for Industrial User Presentations](https://2021.international.conference.modelica.org/call2021.html).
