@@ -9,7 +9,7 @@ defaults:
     author: modelica 
 contribution-open: true
 contribution-deadline: 16 April
-current-newsletter-date: 14 December
+current-newsletter-date: 19 April
 baseurl: /
 url: "https://newsletter.modelica.org"
 collections:
