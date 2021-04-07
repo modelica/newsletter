@@ -8,7 +8,7 @@ defaults:
       image: /assets/images/ModelicaLogoSq.jpg 
     author: modelica 
 contribution-open: true
-contribution-deadline: 19 April
+contribution-deadline: 16 April
 current-newsletter-date: 14 December
 baseurl: /
 url: "https://newsletter.modelica.org"
