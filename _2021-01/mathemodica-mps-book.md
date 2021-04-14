@@ -32,7 +32,7 @@ the book ["Modelica by Examples"](https://mbe.modelica.university/) from Dr. Mic
 #### Features of the first version V1.0: 
 
 - Available for free
-- To be actualized on a regular basis
+- Hopefully to be actualized on a regular basis 
 - To enable arbitrary but serious, valuable and coincise contributions from interested individuals and parties  
 
  #####  Pre-order (through gumroad) for 
@@ -44,5 +44,3 @@ the book ["Modelica by Examples"](https://mbe.modelica.university/) from Dr. Mic
  
  Accelerate similar future initiatives by
  - A (recognizable) [sponsorship](https://gum.co/mathemodica-powsys-sponsorship) 
-
-
