@@ -4,6 +4,8 @@ author: "Atiyah Elsheikh ([Mathemodica.com](http://mathemodica.com/))"
 category: "education"
 ---
 
+![Mathemodica logo](Mathemodica-logo-50.png)
+
 #### About
 
 ![The (E-)book Cover](mathemodica-MPSCover0.3_50.png) The Modelica langauge has clearly attracted a portion of the power system modeling community. Every year there are dozens of works in Modelica addressing modern aspects in power system modeling applications. These applications are facilitated by great capabilities and potentials of the Modelica language. Unfortunately, the majority of interested parties and individuals won't be aware about all such conducted works. Thus, there is always an increasing demand for an educational community-driven up-to-date (e-)book that gathers these works in a well-organized and an entertaining manner. 
