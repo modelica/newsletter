@@ -8,7 +8,7 @@ category: "project"
 
 #### MAP eFMI Launched
 
-The Modelica Association project _Functional Mock-up Language for embedded systems_ (MAP eFMI) has been officially launched. Its mission is to publish, maintain, further improve and promote the eFMI standard, a new _physics modeling to embedded software bridge_ successfully developed and tested in the now finished [ITEA3 research project EMPHYSIS](https://itea3.org/project/emphysis.html).
+The Modelica Association project _Functional Mock-up Interface for embedded systems_ (MAP eFMI) has been officially launched. Its mission is to publish, maintain, further improve and promote the eFMI standard, a new _physics modeling to embedded software bridge_ successfully developed and tested in the now finished [ITEA3 research project EMPHYSIS](https://itea3.org/project/emphysis.html).
 
 An overview of EMPHYSIS results, developed tooling, an alpha draft of the eFMI standard and an example eFMU can be found on the [EMPHYSIS webpage](https://emphysis.github.io/); it also provides a [comprehensive set of final review slides](https://emphysis.github.io/pages/downloads/emphysis-itea3-review-slides-excerpt.pdf), motivating eFMI and summarizing the tooling maturity and demonstrators achieved in the EMPHYSIS project.
 
