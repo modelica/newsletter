@@ -29,3 +29,5 @@ The Advisory Committee members are (in alphabetic order): Elektronische Fahrwerk
 #### Call for Members
 
 The project is open for further membership applications. If you think your organization should be part of standardizing and leveraging on the _physics modeling to embedded software bridge_ of the Modelica Association, please contact the project leader or deputy project leader.
+
+**In any case, [check the eFMI overview slides](https://emphysis.github.io/pages/downloads/emphysis-itea3-review-slides-excerpt.pdf)!**
