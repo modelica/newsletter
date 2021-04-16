@@ -26,14 +26,9 @@ This book serves as a comprehensive but a compact guideline for any
 - Power system modeler desiring a power-system oriented introduction to the Modelica language starting from the big picture up to tiniest modeling implementation details    
 - Modelicans aiming at a quick understanding of the potentials of the Modelica langauge for modern challenging aspects of power system modeling applications  
 
- ##### Mathemodica.com & Education 
-
-Free educational contents on modeling applications with Modelica is quite lacking. Mathemodica.com wants to fill-in this gap through crowdfunding initiatives inspired by 
-the book ["Modelica by Examples"](https://mbe.modelica.university/) from Dr. Michael Tiller. 
-
 #### Features of the first version V1.0: 
 
-- Available for free
+- Available for free 
 - Hopefully to be actualized on a regular basis 
 - To enable arbitrary but serious, valuable and concise contributions from interested individuals and parties  
 
@@ -44,5 +39,5 @@ the book ["Modelica by Examples"](https://mbe.modelica.university/) from Dr. Mic
  
  #####  Get an actual version through Sponsorship 
  
- Accelerate similar future initiatives by
+ Encourage and accelerate similar future initiatives by
  - A (recognizable) [sponsorship](https://gum.co/mathemodica-powsys-sponsorship) 
