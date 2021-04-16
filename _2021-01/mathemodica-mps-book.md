@@ -37,7 +37,7 @@ This book serves as a comprehensive but a compact guideline for any
   - [free](https://gum.co/mathemodica-powsys-free) 
   - [as much as you think this book deserves](https://gum.co/mathemodica-powsys) 
  
- #####  Get an actual version through Sponsorship 
+ #####  Get an actual version through sponsorsing the first author
  
  Encourage and accelerate similar future initiatives by
  - A (recognizable) [sponsorship](https://gum.co/mathemodica-powsys-sponsorship) 
