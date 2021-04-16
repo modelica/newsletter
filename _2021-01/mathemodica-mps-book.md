@@ -28,16 +28,11 @@ This book serves as a comprehensive but a compact guideline for any
 
 #### Features of the first version V1.0: 
 
-- Available for free 
+- Available both for free 
+- Also available for as-much-as-you-think=this-book-deserve (in the hope to support and encourage similar future initiatives)
 - Hopefully to be actualized on a regular basis 
 - To enable arbitrary but serious, valuable and concise contributions from interested individuals and parties  
 
- #####  Pre-order (through gumroad) for 
+#####  Pre-order version 1.0 or Get actual version & Sponsorship 
  
-  - [free](https://gum.co/mathemodica-powsys-free) 
-  - [as much as you think this book deserves](https://gum.co/mathemodica-powsys) 
- 
- #####  Get an actual version through sponsorsing the first author
- 
- Encourage and accelerate similar future initiatives by
- - A (recognizable) [sponsorship](https://gum.co/mathemodica-powsys-sponsorship) 
+More detais on the project website on [github](https://github.com/Mathemodica/ModelicaPowerSystemBook/)
