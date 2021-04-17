@@ -1,5 +1,5 @@
 ---
-title: Starting a crowdfunding campaign for an E-book (Modelica by Application -- Power Systems V0.3)
+title: An E-book (Modelica by Application -- Power Systems V0.3)
 author: "Atiyah Elsheikh ([Mathemodica.com](http://mathemodica.com/))"
 category: "education"
 ---
@@ -28,11 +28,11 @@ This book serves as a comprehensive but a compact guideline for any
 
 #### Features of the first version V1.0: 
 
-- Available both for free 
-- Also available for as-much-as-you-think=this-book-deserve (in the hope to support and encourage similar future initiatives)
+- Available both for free and
+- for as-much-as-you-think=this-book-deserves (as encouragement for supporting similar future initiatives)
 - Hopefully to be actualized on a regular basis 
 - To enable arbitrary but serious, valuable and concise contributions from interested individuals and parties  
 
 #####  Pre-order version 1.0 or Get actual version & Sponsorship 
  
-More detais on the project website on [github](https://github.com/Mathemodica/ModelicaPowerSystemBook/)
+More detais are on the project website on [github](https://github.com/Mathemodica/ModelicaPowerSystemBook/)
