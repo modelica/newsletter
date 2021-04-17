@@ -28,7 +28,7 @@ significantly reduce cost and time for the software development of
 **physics-based advanced control and diagnosis functions on embedded devices**.
 More details are given in the [eFMI article below](map-efmi.md). 
 
-The [Modelica Contributor License Agreement is now publicly on github](https://github.com/modelica/ModelicaAssociationCLA)
+The [Modelica Association Contributor License Agreement is now publicly on GitHub](https://github.com/modelica/ModelicaAssociationCLA)
 in markdown format. The release contains the [pdf-version](https://github.com/modelica/ModelicaAssociationCLA/releases/download/1.1.1/ModelicaAssociationCLA_1.1.1.pdf)
 that was automatically generated from the markdown version. In case, you think improvements/changes are needed,
 submit an issue or pull request.
