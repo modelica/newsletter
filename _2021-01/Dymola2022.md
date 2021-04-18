@@ -1,4 +1,3 @@
-
 ---
 title: Announcing Dymola 2022
 author: "Dag Brück ([Dassault Systemes](http://www.3ds.com/dymola))"
