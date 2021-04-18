@@ -16,16 +16,16 @@ presentations should be related to existing or planned Modelica Association stan
 Final deadline for scientific papers submissions is **April 26, 2021** and for industrial user presentations **June 15, 2021**.
 Note, the conference will be financed solely via **sponsoring**. So, please consider to contribute.
 
-The Modelica Association Project **eFMI** (FMI for embedded systems) has been accepted as new Modelica Association Project. 
+The new Modelica Association Project **eFMI** (FMI for embedded systems) has been accepted by the Modelica Association members. 
 This exciting new project is orthogonal to FMI, by standardizing various interfaces for tool chains to
 transform physics-based models (say, a Modelica model) to production code on embedded systems, in particular
 on automotive electronic control units. An alpha release of eFMI was developed in the 
 [ITEA3 project EMPHYSIS](https://emphysis.github.io/), together with 13 tool prototypes.
-The tool chains have been tested with 200 MISRA-C compliant eFMI C-Codes generated from 
+The tool chains have been tested with 200 [MISRA-C](https://www.misra.org.uk/) compliant C-Codes generated from 
 40 Modelica/Amesim models and evaluated with 11 industrial use cases. Once eFMI is released and
 eFMI compliant tools are available, there will be the great opportunity to 
 significantly reduce cost and time for the software development of
-**physics-based advanced control and diagnosis functions on embedded devices**.
+**advanced, physics-based control and diagnosis functions on embedded devices**.
 More details are given in the [eFMI article below](map-efmi.md). 
 
 The [Modelica Association Contributor License Agreement is now publicly on GitHub](https://github.com/modelica/ModelicaAssociationCLA)
