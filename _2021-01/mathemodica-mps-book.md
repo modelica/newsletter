@@ -3,14 +3,11 @@ title: An E-book (Modelica by Application -- Power Systems V0.3)
 author: "Atiyah Elsheikh ([Mathemodica.com](http://mathemodica.com/))"
 category: "education"
 ---
+The Modelica langauge has clearly attracted a portion of the power system modeling community. Every year there are dozens of works in Modelica addressing modern aspects in power system modeling applications. These applications are facilitated by great capabilities and potentials of the Modelica language. Unfortunately, the majority of interested parties and individuals won't be aware about all such conducted works. Thus, there is always an increasing demand on an educational community-driven up-to-date (e-)book that gathers these works in a well-organized and an entertaining manner. 
 
-![Mathemodica logo](Mathemodica-logo-50.png)
+![The (E-)book Cover](mathemodica-MPSCover0.3_50.png) 
 
-#### About
-
-![The (E-)book Cover](mathemodica-MPSCover0.3_50.png) The Modelica langauge has clearly attracted a portion of the power system modeling community. Every year there are dozens of works in Modelica addressing modern aspects in power system modeling applications. These applications are facilitated by great capabilities and potentials of the Modelica language. Unfortunately, the majority of interested parties and individuals won't be aware about all such conducted works. Thus, there is always an increasing demand on an educational community-driven up-to-date (e-)book that gathers these works in a well-organized and an entertaining manner. 
-
-#### First release V 1.0 
+#### First release v1.0 
 
 To appear on the 1st of September 2021
 
@@ -34,5 +31,7 @@ This book serves as a comprehensive but a compact guideline for any
 - To enable arbitrary but serious, valuable and concise contributions from interested individuals and parties  
 
 #####  Pre-order version 1.0 or Get actual version & Sponsorship 
- 
+
 More detais are on the project website on [github](https://github.com/Mathemodica/ModelicaPowerSystemBook/)
+
+![Mathemodica logo](Mathemodica-logo-50.png)
