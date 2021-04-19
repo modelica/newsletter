@@ -26,7 +26,7 @@ The tool chains have been tested with 200 [MISRA-C](https://www.misra.org.uk/) c
 eFMI compliant tools are available, there will be the great opportunity to 
 significantly reduce cost and time for the software development of
 **advanced, physics-based control and diagnosis functions on embedded devices**.
-More details are given in the [eFMI article below](map-efmi.md). 
+More details are given in the [eFMI article below](#map-efmi-kickoff). 
 
 The [Modelica Association Contributor License Agreement is now publicly on GitHub](https://github.com/modelica/ModelicaAssociationCLA)
 in markdown format. The release contains the [pdf-version](https://github.com/modelica/ModelicaAssociationCLA/releases/download/1.1.1/ModelicaAssociationCLA_1.1.1.pdf)
