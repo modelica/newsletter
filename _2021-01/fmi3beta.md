@@ -1,7 +1,7 @@
 ---
 title: "FMI 3.0beta.1 pre-release"
 author: "[MAP FMI](https://fmi-standard.org/)"
-category: association
+category: project
 ---
 
 
