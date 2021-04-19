@@ -1,6 +1,6 @@
 ---
 title: OpenModelica 1.17.0 released
-author: Francesco Casella
+author: "[Francesco Casella](https://openmodelica.org/)"
 category: "vendor"
 ---
 We are happy to announce that OpenModelica 1.17.0 was released on 23 March 2021.
