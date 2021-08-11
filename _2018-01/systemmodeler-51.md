@@ -15,8 +15,7 @@ Some key features include:
 - Ready your models for exploration and analysis with new tools to develop high-quality, flexible and easy-to-share models.
 - Deploy to millions of Wolfram Language users with the new built-in system modeling functionality
 
-Read more about the release here:
-http://blog.wolfram.com/2018/03/21/unleash-your-models-with-systemmodeler-5-1/
+Read more about the release here 
+[blog.wolfram.com/2018/03/21/unleash-your-models-with-systemmodeler-5-1](http://blog.wolfram.com/2018/03/21/unleash-your-models-with-systemmodeler-5-1/)
 
-For more details and the latest news, visit:
-http://www.wolfram.com/system-modeler/what-is-new
+For more details and the latest news, visit [wolfram.com/system-modeler/what-is-new](http://www.wolfram.com/system-modeler/what-is-new)

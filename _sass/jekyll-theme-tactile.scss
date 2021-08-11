@@ -161,21 +161,21 @@ code, pre {
 
 code {
   padding: 0 3px;
-  background-color: #f2f2f2;
+  background-color: #eee;
   border: solid 1px #ddd;
 }
 
 pre {
   padding: 20px;
   overflow: auto;
-  color: #f2f2f2;
+  color: #333;
   text-shadow: none;
-  background: #303030;
+  background: #eee;
 }
 pre code {
   padding: 0;
-  color: #f2f2f2;
-  background-color: #303030;
+  color: #333;
+  background-color: #eee;
   border: none;
 }
 
@@ -188,7 +188,7 @@ ul, ol, dl {
 
 hr {
 	background-color: lightgray;
-padding-bottom:Qpx;
+padding-bottom:1px;
   margin-top: 1em;
  border:none;
 }
@@ -247,7 +247,7 @@ margin: 0;
 hr {
 border: 0;
 height: 1px;
-margin: 0.1em 0 1em 0;
+margin: 0.1em 0 3em 0;
 }
 h1, h2, h3, h4, h5, h6 {
 color: Black;

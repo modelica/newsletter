@@ -1,9 +1,9 @@
 ---
 title: New version 3.9 of ESI’s SimulationX released
-author: Thomas Hofmann, [SimulationX](https://www.simulationx.com/)
-category: “vendor”
+author: Thomas Hofmann ([ESI ITI](https://www.simulationx.com/))
+category: "vendor"
 ---
-![](simulationx.jpg)
+![](SimulationX.png)
 
 SimulationX 3.9 comes with a multitude of new features and libraries both for Modelica® experts and for those new to the Modelica world, enabling an easy access to system simulation.
 
