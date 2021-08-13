@@ -18,7 +18,7 @@ The improvements introduced in Modelica Editor 2021.1 since the last release are
 
 This new Modelica package contains 2 different interfaces to consider the causalities of the Thermal Hydraulic submodels. With these interfaces, it is now possible to connect for instance a Modelica-based heat exchanger to a Simcenter Amesim native closed loop cooling system.
 
-![Hybrid modelling example](Simcenter_Amesim_Modelica_Editor_20211_example.png 'Application example of Simcenter Amesim')
+![Hybrid modelling example](Simcenter_Amesim_Modelica_Editor_20211.png 'Application example of Simcenter Amesim')
 
 And thanks to the media property assistant provided in the **Thermal Hydraulic library**, the media used in Simcenter Amesim can be adjusted according to the properties described in Modelica, thus obtaining continuous thermodynamic properties between both worlds.
 
