@@ -30,7 +30,7 @@ for control synthesis and validation, or as predictive models inside Model Predi
 * **Simulation speed-up**: reduced models can for instance replace some participant models within large co-simulations, which helps reduce the overall CPU time.
 * **Optimization speed-up**: promising regions of the design space can be quickly identified during a first exploration phase while the results can be refined on the original models.
 * **Real-time capability**: reduced order models can help comply with deterministic numbers of iterations (e.g., fixed-step solvers) and simulations that run faster than the wall clock time. 
-* **Embedded models / Hardware-in-the-Loop**: reduced order models can be exported to a wide variety of hardware systems including EDGE computing platforms.
+* **Embedded models / Hardware-in-the-Loop**: reduced order models can be exported to a wide variety of hardware systems including edge computing platforms.
 * **IP protection**: a reduced model is a functional, mathematical representation of a model with no direct exposure of know-how or physical equations.
 
 **Please take a look at this first &ldquo;HowTo&rdquo; [video](https://www.youtube.com/watch?v=ub-rdZPi9Y4 ) to discover the capabilities of the Simcenter ROM Builder**.
