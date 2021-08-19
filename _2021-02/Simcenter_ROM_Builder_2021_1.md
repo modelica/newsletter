@@ -5,7 +5,7 @@ category: "vendor"
 ---
 
 
-Along with the recent release of [Simcenter Amesim 2021.1](https://www.youtube.com/watch?v=E5GRfV49PWY ), [Siemens Digital Industries Software](https://www.sw.siemens.com/ )  
+With the recent release of [Simcenter Amesim 2021.1](https://www.youtube.com/watch?v=E5GRfV49PWY ), [Siemens Digital Industries Software](https://www.sw.siemens.com/ )  
 has introduced a new product, called [Simcenter ROM Builder](https://www.plm.automation.siemens.com/global/en/products/simulation-test/rom-builder.html ), that can typically be leveraged 
 as a powerful companion tool to Simcenter Amesim.
 
