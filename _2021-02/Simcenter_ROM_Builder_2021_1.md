@@ -36,7 +36,5 @@ for control synthesis and validation, or as predictive models inside Model Predi
 **Please take a look at this first &ldquo;HowTo&rdquo; [video](https://www.youtube.com/watch?v=ub-rdZPi9Y4 ) to discover the capabilities of the Simcenter ROM Builder**.
 More will come in the forthcoming 2021.2 release. Stay tuned. 
 
-![](amesim_banner_2021_1.png)
-
 For more information on Simcenter Amesim and on the Simcenter ROM Builder, 
 please visit our [website](https://www.plm.automation.siemens.com/global/en/products/simcenter/ ).
