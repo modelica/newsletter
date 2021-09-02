@@ -1,4 +1,3 @@
-
 ---
 title: Claytex technical blog
 author: "Mahdieh Mehrabi ([Claytex](https://www.claytex.com/))"
