@@ -1,7 +1,7 @@
 ---
 title: Modelon News and Blog 
 authors: "Kenzie Maurice, ([Modelon](https://www.modelon.com/ ))"
-category: "Education"
+category: "education"
 ---
 #### Case Study: ENGIE Collaborates With Modelon to Build Solar PV Plant Digital Twin 
 ![Modelon pic](Modelon_Social_Engie_1200_627_v2.jpg)
