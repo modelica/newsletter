@@ -13,11 +13,11 @@ category: association
 #### FMI Industrial User Meeting – Industrial Usage of FMI and Companion Standards SSP / DCP/ eFMI at the International Modelica Conference 2021
 
 At the [International Modelica Conference in Linköping, Sweden
-on Sept. 20-24](https://2021.international.conference.modelica.org/), there will be an FMI Industrial User Meeting – Industrial Usage of FMI and Companion Standards SSP / DCP/ eFMI on Thursday 23.9.2021, 13:30-17:15.
+on Sept. 20-24](https://2021.international.conference.modelica.org/), there will be an FMI Industrial User Meeting – Industrial Usage of FMI and Companion Standards SSP / DCP/ eFMI on **Thursday 23.9.2021, 13:30-17:15.**
 
 For participation please [register for the Modelica Conference](https://www.trippus.se/web/registration/Registration.aspx?view=registration&idcategory=AB0ILBBscfgVo6ZZ4O5u-Bx5_XkKg9Y5J_hMAXgfFYWRClh6asLWnZ_P6iGC5e3_zu9Z7Hyb5Hv_&ln=eng)
 
-##### Preliminary Agenda
+##### Preliminary Agenda:
 
 * Welcome, Overview on FMI / SSP / DCP / eFMI Standards  (5 Min.)
 * Industrial user talks
