@@ -29,9 +29,9 @@ For participation please [register for the Modelica Conference](https://www.trip
 *	Short Break (10 Min)
 *	Status and outlook SSP Standard (5 Min, Jochen Köhler)
 * Industrial user talks
-  *	Use of SSP, FMI and OSI for Simulation-based Testing of an Automated Vehicle (15 Min., Jochen Koehler, Heinz Sachsenweger, Arun Das, Markus Deppe and Hans-Martin Heinkel)
-  * Model-based development of a traction control unit with SSP and FMI  (15Min., Nicolas Ochoa Lleras, Hasan Esen, Pierre Mai, Klaus Mai and Hiroshi Tashiro)
-  * SSP Traceability Demonstrator (15 Min,  Dag Brück, Hans-Martin Heinkel, Peter Lobner and Pierre Mai)
+   * Use of SSP, FMI and OSI for Simulation-based Testing of an Automated Vehicle (15 Min., Jochen Koehler, Heinz Sachsenweger, Arun Das, Markus Deppe and Hans-Martin Heinkel)
+   * Model-based development of a traction control unit with SSP and FMI  (15Min., Nicolas Ochoa Lleras, Hasan Esen, Pierre Mai, Klaus Mai and Hiroshi Tashiro)
+   * SSP Traceability Demonstrator (15 Min, Dag Brück, Hans-Martin Heinkel, Peter Lobner and Pierre Mai)
 *	Status and Outlook DCP Standard (15 Min, Martin Krammer)
 *	Status and Outlook eFMI Standard (15 Min, Christoff Bürger)
 *	General Q&A + End
