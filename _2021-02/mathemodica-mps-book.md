@@ -7,7 +7,7 @@ category: "education"
 
 #### Significant updates since last announcement release 0.3 include:
 
-* Major contents and formatting improvment 
+* Major content and formatting improvment 
 * A new chapter with the title "A Short History of System Modeling" 
 * An initial draft of a section with the title "Commercial Libraries" 
 * So many sections of topic-related open questions 
