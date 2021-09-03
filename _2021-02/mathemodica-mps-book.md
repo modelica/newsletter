@@ -16,7 +16,7 @@ category: "education"
 
 In the previous chapter, we have gone from classical problems in modeling applications of power systems to modern challenging aspects. 
 Analogously, in this and the next chapter, we start from the early modern age of modeling and simulation approaches up to the modeling concepts behind Modelica, leaving the reader to conclude himself after reading this (e-)book, whether and how far both lines are ultimately converging together.  
-... 
+...
 
 
 #####  Outline and Ordering details 
