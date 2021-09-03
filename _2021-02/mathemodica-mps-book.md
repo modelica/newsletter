@@ -5,10 +5,9 @@ category: "education"
 ---
 <img src="mathemodica-MPSCover1.0.png" width="250">
 
-The E-book is available as a PDF. The latex source is available on the collaborative online-latex editor platform overleaf.com. 
- 
 #### Significant updates since last announcement release 0.3 include:
 
+* Major contents and formatting improvment 
 * A new chapter with the title "A Short History of System Modeling" 
 * An initial draft of a section with the title "Commercial Libraries" 
 * So many sections of topic-related open questions 
