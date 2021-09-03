@@ -5,7 +5,7 @@ category: "education"
 ---
 <img src="mathemodica-MPSCover1.0.png" width="250">
 
-#### Significant updates since last announcement release 0.3 include:
+#### Significant updates include:
 
 * Major content and formatting improvment 
 * A new chapter with the title "A Short History of System Modeling" 
