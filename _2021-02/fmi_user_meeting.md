@@ -25,7 +25,7 @@ For participation please [register for the Modelica Conference](https://www.trip
   * FMI-based simulation workflows based on open source and commercial tools (15 Min., Christian Bertsch, Fabian Jansen, Andreas Babucke and Torsten Sommer)
   * Open Simulation Platform - Towards a maritime ecosystem for efficient co-simulation (15 Min., Lars Tandle Kylinngstad)
 *	FMI3 development (Status, roadmap, layered standards) (15 Min., Andreas Junghanns)
-*	Demo of FMI3 support in tool prototypes (60 Min.; a list participating tool list will be provided)
+*	Demo of FMI3 support in tool prototypes (60 Min.; a list of participating tools will be provided)
 *	Short Break (10 Min.)
 *	Status and outlook SSP Standard (5 Min, Jochen Köhler)
 * Industrial user talks
@@ -34,4 +34,4 @@ For participation please [register for the Modelica Conference](https://www.trip
    * SSP Traceability Demonstrator (15 Min., Dag Brück, Hans-Martin Heinkel, Peter Lobner and Pierre Mai)
 *	Status and Outlook DCP Standard (15 Min., Martin Krammer)
 *	Status and Outlook eFMI Standard (15 Min., Christoff Bürger)
-*	General Q&A + End 
+*	General Q&A + End
