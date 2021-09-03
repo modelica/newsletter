@@ -10,7 +10,7 @@ category: "education"
 * Major content and formatting improvment 
 * A new chapter with the title "A Short History of System Modeling" 
 * An initial draft of a section with the title "Commercial Libraries" 
-* So many sections of topic-related open questions 
+* Most chapters are ended with topic-related open questions
 
 #####  Outline and Ordering details 
 
