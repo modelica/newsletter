@@ -1,7 +1,7 @@
 ---
-title: An E-book (Modelica by Application: Power Systems V1.0)
-author: "Atiyah Elsheikh ([Mathemodica.com](http://mathemodica.com/))"
-category: "education"
+title: 'An E-book (Modelica by Application: Power Systems V1.0)'
+author: 'Atiyah Elsheikh ([Mathemodica.com](http://mathemodica.com/))'
+category: 'education'
 ---
 <img src="mathemodica-MPSCover1.0.png" width="250">
 
