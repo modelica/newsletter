@@ -4,7 +4,7 @@ hidden: false
 layout: default
 title: "2021-02"
 name: "2021-02"
-date: 2021-08-16
+date: 2021-09-08
 description: "Summer 2021 edition of the Modelica Association newsletter"
 ---
 
