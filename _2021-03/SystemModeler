@@ -1,26 +1,24 @@
 ---
-title: SystemModeler and Mathematica 12-Modelica to Millions
+title: System Modeler and Mathematica 13-Modelica to Millions
 author: "Ankit Naik [Wolfram](http://wolfram.com/system-modeler/)"
 category: "vendor"
 ---
-*SystemModeler and Mathematica 12 will be released during spring 2019.*
+*System Modeler and Mathematica 13 was released earlier this month.*
 
-#### Mathematica 12
+#### Mathematica 13
 
-Version 12 of Mathematica comes with built-in simulation engine of SystemModeler. This means millions of Wolfram language users world-wide can model, simulate and analyze any Modelica model and make use of all the system modeling functionality. 
-
-![alt text](SystemModeler12.jpg "Unleash Your Models with the Wolfram Language")
+Version 13 of Mathematica comes with many new functions.
 
 Integration with the Wolfram language makes it easier to perform complex tasks such as:
-- *Designing and optimizing components of a system*, e.g. designing guidance system of a rocket
+- *Designing of control systems*, e.g. designing tracking controllers for a submarine
 - *Obtaining real-world data*, e.g. comparing energy consumption for house heating
 - *Creating custom visualization*, e.g. visualizing a satellite path
 
-#### SystemModeler 12
+#### System Modeler 13
 
-The latest version of SystemModeler contains many new features to make your design process more efficient. Some of the significant features are:
-- *Symbolic Linearization*–Linearize your model symbolically around any operating point and use it for your study of dynamical systems.
-- *Equation Browser*–Debug your models, understand simulation behavior and eliminate performance bottlenecks with the equation browser.
-- *Full FMI support*–Share models with any other FMI compliant tool for further analysis such as software-in-the-loop testing, CFD analysis and more.
+The latest version of System Modeler contains many new features. Some of the significant features are:
+- *Complete support for thermo-fluid systems*–Model your 1D thermo-fluid systems using the fluid library.
+- *Fully customizable model plots*–Customize everything in your model plots and share it with customers and colleagues.
+- *System modeling in the cloud*–Share your analysis with anyone using the system modeleing functions in the Wolfram cloud.
 
-[Click here](http://www.wolfram.com/system-modeler/what-is-new) to read the latest SystemModeler news.
+[Click here](http://www.wolfram.com/system-modeler/what-is-new) to read the latest System Modeler news.
