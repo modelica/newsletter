@@ -1,0 +1,32 @@
+---
+title: Modelon 2019.2 Released
+author: "Jocelyn Paslowski, [Modelon](https://www.modelon.com/)"
+category: "vendor"
+---
+
+![2019 2 Release Notes](https://user-images.githubusercontent.com/37085155/68780008-91435900-0603-11ea-94d7-de1d8a316be5.jpg)
+
+Modelon is pleased to announce the release of 2019.2. Updates to the Modelica libraries within the [Modelon Library Suite](https://www.modelon.com/products-services/modelon-library-suite-modelica-libraries/), and OPTIMICA Compiler Toolkit within [Modelon Creator Suite](https://www.modelon.com/products-services/modelon-creator-suite/) are now available. A comprehensive list of release notes can be found [here. ](https://www.modelon.com/modelon-release-2019-2/)
+
+To access the new release, [contact our team.](https://www.modelon.com/contact-us/)
+
+### **Highlights Include:**
+
+**Automotive**
+- Validated battery models based on Rimac battery test cell, including thermal aspects, limits and the battery cycler power de-rating algorithm
+- New two-stage vapor injection compressor
+- New user-friendly sensors visualizing the flow, enthalpy, temperature, and pressure inside components
+- Updated truck models with the new chassis experiment
+
+**Aerospace**
+- Intercontinental flight trajectory simulation capability added
+- Improved post-processing
+- New three-wheel-bootstrap air conditioning cycle with temperature control
+- Added ability to scale turbine maps
+- New fuel tank sensors measuring a fuel tank fluid level and the center of gravity
+
+**Energy & Power**
+- New microgrid example including solar, wind, water reservoir production and consumer sources developed, equipped by a simple control strategy
+- New ancillary services and control strategy developed for the coal-fired power plant
+- A gas turbine model and control strategy added to the combined cycle power plant including mechanical and thermal stress estimation
+
