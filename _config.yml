@@ -60,4 +60,4 @@ collections:
 2021-03:
     permalink: /:collection/:path
     title: Fall 2021 release
-    output: false       
+    output: true       
