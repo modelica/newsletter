@@ -1,6 +1,6 @@
 theme: jekyll-theme-tactile
 google_analytics: UA-114571919-1
-current-contribution-url: "https://github.com/modelica/newsletter/tree/master/_2021-01"
+current-contribution-url: "https://github.com/modelica/newsletter/tree/master/_2021-03"
 defaults:
   - scope:
       path: ""
@@ -8,8 +8,8 @@ defaults:
       image: /assets/images/ModelicaLogoSq.jpg 
     author: modelica 
 contribution-open: true
-contribution-deadline: 3rd September
-current-newsletter-date: 6th Semptember
+contribution-deadline: 17th December
+current-newsletter-date: 20th December
 baseurl: /
 url: "https://newsletter.modelica.org"
 collections:
@@ -57,3 +57,7 @@ collections:
     permalink: /:collection/:path
     title: Summer 2021 release
     output: true   
+2021-03:
+    permalink: /:collection/:path
+    title: Fall 2021 release
+    output: false       
