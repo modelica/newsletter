@@ -1,6 +1,7 @@
 ---
 title: Business Simulation Library v2.0 released!
 author: "Ankit Naik [Wolfram](http://wolfram.com/system-modeler/)"
+author: "Guido Wolf Reichert"
 category: "vendor"
 ---
 *Business Simulation Library v2.0 was released earlier this month.*
