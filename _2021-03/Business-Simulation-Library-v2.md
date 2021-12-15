@@ -1,7 +1,7 @@
 ---
-title: Business Simulation Library v2.0 released!
-author: "Guido Wolf Reichert [BSL MANAGEMENT SUPPORT]"
-category: "vendor"
+title: Business Simulation Library v2.0 Released
+author: "Guido Wolf Reichert [BSL MANAGEMENT SUPPORT](https://bsl-support.de/) & Ankit Naik[Wolfram](https://www.wolfram.com/system-modeler/graphical-system-modeling/)"
+category: "library"
 ---
 The free Business Simulation Library (BSL) supports modeling & simulation of dynamical systems in the social sciences, e.g., business, economics, and ecology using the System Dynamics metaphor. Unlike the well known System Dynamics library the BSL makes use of *acausal* connectors so that mutiple flows will automatically add up when connected to a stock and mass balance requirements will not be violated when making connections across subsystems in a model. The *potential* variable within an acausal connection is used to transmit the amount contained in a connected stock making diagrams less cluttered and modeling faster\[LongDash]see the *word of mouth* interaction between potential customers and customers in the model diagram below, which is an example that ships with the library.
 
