@@ -6,7 +6,6 @@ name: "2018-01"
 date: 2018-04-02
 description: "First release of the restarted MA newsletter"
 ---
-
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -27,6 +26,5 @@ description: "First release of the restarted MA newsletter"
 </div>
 
 <!--End mc_embed_signup-->
-
 
 {% include build_issue_index.md %}
