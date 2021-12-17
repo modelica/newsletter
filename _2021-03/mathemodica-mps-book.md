@@ -1,5 +1,5 @@
 ---
-title: 'New Release V1.1 of the E-book (Modelica by Application: Power Systems)'
+title: 'New Release V1.1 of the online accessible E-book: *Modelica by Application: Power Systems*'
 author: 'Atiyah Elsheikh ([Mathemodica.com](http://mathemodica.com/))'
 category: 'education'
 ---
@@ -7,13 +7,17 @@ category: 'education'
 
 #### Significant updates include:
 
-* Announcing the project's scientific platform of the e-book on [ResearchGate](https://www.researchgate.net/project/Book-Modelica-By-Application-Power-Systems) serving as a transparent public platform for reporting related publications, discussing the contents and providing feedback
-* Major enhancements majorly based on publications of the last Modelica conference 2021 and recent journals 
-    * (1 New chapter, major changes in 4 chapters, minor changes in 4 chapters, +16 pages, +~ 50 references)
-* A new chapter with the title *"Promising Methods and Technologies"*
+* Major enhancements mostly based on publications of the last Modelica conference 2021 and recent journal papers  
+    * (1 New chapter, major enhancements in 4 chapters, minor enhancements in 4 chapters, +16 pages, +~ 50 references) 
 * Many chapters are ended with a subsection for *suggested reading*   
 
-####  Outline & Ordering details 
+#### New Chapter Promising Methods & Technologies 
+
+This chapter demonstrates a sample of activities for speeding-up the convergance of a fully satisfiable operation of Modelica-based tools in power system applications.
+
+**Keywords**: Model reduction techniques, Dynawo compiler and simulator & Julia language  
+
+####  Outline & Further details 
 
 View the project website on [github](https://github.com/Mathemodica/ModelicaPowerSystemBook/)
 
