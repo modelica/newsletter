@@ -15,7 +15,7 @@
 {: #{{ page.title | slugify }}}
 {{ page.content | markdownify }}
 {% if page.author %}
-*This article is provided by {{ page.author }}*  {% if edit %}[# View source...](https://github.com/modelica/newsletter/blob/master/{{ page.path }}){% endif %}
+*This article is provided by {{ page.author }}*  {% if edit %}[# View source...](https://github.com/modelica/newsletter/blob/main/{{ page.path }}){% endif %}
 {% endif %}
 
 
