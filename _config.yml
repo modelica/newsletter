@@ -57,3 +57,7 @@ collections:
     permalink: /:collection/:path
     title: Summer 2021 release
     output: true   
+  2021-03:
+    permalink: /:collection/:path
+    title: Fall 2021 release
+    output: true   
