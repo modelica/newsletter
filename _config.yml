@@ -1,6 +1,6 @@
 theme: jekyll-theme-tactile
 google_analytics: UA-114571919-1
-current-contribution-url: "https://github.com/modelica/newsletter/tree/main/_2021-03"
+current-contribution-url: "https://github.com/modelica/newsletter/tree/main/_2022-01"
 defaults:
   - scope:
       path: ""
@@ -60,4 +60,8 @@ collections:
   2021-03:
     permalink: /:collection/:path
     title: Fall 2021 release
+    output: true   
+  2022-01:
+    permalink: /:collection/:path
+    title: Winter 2022 release
     output: true   
