@@ -8,3 +8,5 @@ description: "email version - again"
 ---
 
 This is a text here.
+
+{% include build_issue_index.md %}
