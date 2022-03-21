@@ -11,13 +11,13 @@ category: association
 ![fmi-logo](fmi_logo.png)
 </div>
 
-#### FMI 3.0 Release plan
+#### FMI 3.0 Release Plan
 
 The FMI 3.0 standard is currently in beta.5 stage. 
-A release candididate RC1 is in preparation and shall be published this week.
+The release candididate RC1 is in preparation and shall be published this week.
 
-Everyone is encouraged to perform a final inspection the current version of the FMI3 standard (see https://github.com/modelica/fmi-standard) and report findings NOW.
+Everyone is encouraged to perform a final inspection to the current version of the FMI 3.0 standard (see https://github.com/modelica/fmi-standard) and report findings NOW.
 
-In a (seventh and last) FMI3 plugfest on April 5/6 final tests of protoype implementations shall be performed. Tool vendors very welcome to participate.
+In a (7th and last) FMI 3.0 plugfest on April 5th/6th final tests of protoype implementations will be performed. Tool vendors are very welcome to participate.
 
-A release of FMI3.0 is planned for May 2022.
+The release of FMI 3.0 is planned for May 2022.
