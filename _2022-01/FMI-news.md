@@ -16,7 +16,7 @@ category: association
 The FMI 3.0 standard is currently in beta.5 stage. 
 A release candididate RC1 is in preparation and shall be published this week.
 
-Everyone is encouraged to perform a final inspection the current version of the FMI3 standard and report findings NOW.
+Everyone is encouraged to perform a final inspection the current version of the FMI3 standard (see https://github.com/modelica/fmi-standard) and report findings NOW.
 
 In a (seventh and last) FMI3 plugfest on April 5/6 final tests of protoype implementations shall be performed. Tool vendors very welcome to participate.
 
