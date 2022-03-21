@@ -1,5 +1,5 @@
 ---
-title: Modelon blog: Aircraft fuel systems
+title: "Modelon blog: Aircraft fuel systems"
 author: "Kenzie Maurice ([Modelon](https://www.modelon.com/))"
 category: "Education"
 ---
