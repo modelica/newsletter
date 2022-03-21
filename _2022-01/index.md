@@ -8,4 +8,4 @@ date: "2022-03-28"
 description: "Winter 2022 edition of the Modelica Association newsletter"
 ---
 
-{% include build_issue_index.md %}
+This is a text here.
