@@ -13,8 +13,8 @@ category: association
 
 #### FMI 3.0 Release Plan
 
-The FMI 3.0 standard is currently in beta.5 stage. 
-The release candididate RC1 is in preparation and shall be published this week.
+The FMI 3.0 standard is currently in Beta.5 stage. 
+The release candididate RC.1 is in preparation and shall be published this week.
 
 Everyone is encouraged to perform a final inspection to the current version of the FMI 3.0 standard (see https://github.com/modelica/fmi-standard) and report findings NOW.
 
