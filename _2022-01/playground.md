@@ -7,7 +7,7 @@ category: "Education"
 
 #### Modelica Playground on the Web
 
-Many languages feature a web-based "playground" where peopple
+Many languages provide a web-based "playground" where peopple
 can try out the language, see some examples or find explanations
 of various languages features...so why not Modelica?
 
@@ -23,6 +23,9 @@ of how to use the application and even [a guide on how to create your own
 content](https://playground.modelica.university/?toc=howto.json)
 (both individual examples or entire collections of examples).  An example
 is this ["tour" of various Modelica related features](https://playground.modelica.university/?toc=tour.json).
+Because all the "work" is captured in the URL, students could even work
+out solutions to homework problems and submit them by just copying the URL
+into an email.
 
 While exploring the content on this site, you'll see that this application supports
 some interesting post-processing possibilities which includes things like embedded
