@@ -1,13 +1,4 @@
 ---
-index: true
-hidden: true
-layout: default
-title: "The Fall of 2021"
-name: "2021-03"
-description: "email version - again"
----
-
----
 title: Letter from the Board
 author: "Martin Otter ([Modelica Association](https://www.modelica.org/))"
 category: "letter"
@@ -31,16 +22,3 @@ The deadline for articles for the next newsletter is Fr. March 25, 2022.
 Martin Otter on December 17, 2021
 
 Chairperson of the Modelica Association
-
-[Read the Letter from the board on the web](https://newsletter.modelica.org/2021-03/#letter-from-the-board)
-
-# Contents
-{% include build_email_index.md %}
-
-## Editor's note
-*Dear Modelicans, I would like to thank to all contributors and for any feedback on this issue. I am also looking forward for your contributions to the next newsletter, which is planned on 28th March.* 
-
-*The deadline for articles for the next newsletter is **Fr. March 25, 2022**.. See the [submission guidelines](https://newsletter.modelica.org/submission-guidelines.html) for any news regarding the next release.*
-
-*All the best,    
-[Filip Ježek](mailto:filip.jezek@creativeconnections.cz), newsletter editor*
