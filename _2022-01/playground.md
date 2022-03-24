@@ -28,4 +28,4 @@ While exploring the content on this site, you'll see that this application suppo
 some interesting post-processing possibilities which includes things like embedded
 LaTeX equations, plots, tables and animations (both 2D and 3d).
 
-![Tour of Modelica](tour_screenshot.png)
+[![Tour of Modelica](tour_screenshot.png)](https://playground.modelica.university/?lesson=9&toc=tour.json)
