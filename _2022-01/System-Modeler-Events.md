@@ -13,7 +13,7 @@ Get inspired from customer journeys, learn from experts and interact with the pr
 
 Join the European Wolfram Technology Conference to explore how computation can empower you and your organisation in research, development, deployment&mdash;and progress. This conference will showcase how you can unify your workflows, including Modelica workflows, with computation to deliver quicker and smarter results.
 
-- Date: 13th and 14th June
+- Date: June 13-14
 
 - Location: Frankfurt, Germany
 
@@ -21,7 +21,7 @@ Join the European Wolfram Technology Conference to explore how computation can e
 
 It is an annual conference for System Dynamics and systems thinking practitioners. The objective of the conference is to introduce newcomers to the field and keep practitioners aware of current developments. The Modelica based Business Simulation Library will be presented as an alternative to Vensim.
 
-- Date: 18th to 22nd July
+- Date: July 18-22
 
 - Location: Frankfurt & Online
 
@@ -29,7 +29,7 @@ It is an annual conference for System Dynamics and systems thinking practitioner
 
 Learn about Wolfram's ever expanding technology stack for the building of digital twins, large-scale optimization, embedded systems and the high-level modeling of multi-physics systems.
 
-- Date: 18th to 22nd October
+- Date: October 18-21
 
 - Location: Champaign, IL, USA
 
