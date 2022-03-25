@@ -4,7 +4,7 @@ author: "Roland Kossel [TLK-Thermo GmbH](https://www.tlk-thermo.com/)"
 category: "vendor"
 ---
 
-DaVE is a visualization and FMI-based simulation environment for both the post-processing and the online display of dynamic data sets. It is specifically suitable to analyse and compare simulation results of Modelica models.
+DaVE is a visualization and an FMI-based simulation environment for both the post-processing and the online display of dynamic data sets. It is specifically suitable to analyse and compare simulation results of Modelica models.
 
 Besides standard plot instruments, such as 2D-plot, vector plots or bar charts, DaVE includes various thermodynamic state diagrams, as for instance Pressure-enthalpy (ph) or Temperature-enthalpy (Th) diagrams of refrigerants, but also hx-charts for moist air. The cycle points from Modelica simulations can automatically be loaded into the diagrams, which makes DaVE specifically suitable to analyse refrigeration and heat pump systems.
 
