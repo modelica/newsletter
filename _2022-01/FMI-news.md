@@ -14,7 +14,7 @@ category: association
 #### FMI 3.0 Release Plan
 
 The FMI 3.0 standard is currently in Beta.5 stage. 
-The release candididate RC.1 is in preparation and shall be published this week.
+The release candididate RC.1 is in preparation and shall be published beginning of April 2022.
 
 Everyone is encouraged to perform a final inspection to the current version of the FMI 3.0 standard (see https://github.com/modelica/fmi-standard) and report findings NOW.
 
