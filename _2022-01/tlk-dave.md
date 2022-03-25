@@ -10,7 +10,10 @@ Besides standard plot instruments, such as 2D-plot, vector plots or bar charts, 
 
 DaVE supports the creation of P&I flow diagrams. The connecting lines between the individual symbols can be linked with variables and thus dynamically change their width and direction. Furthermore, the connecting lines can be (de)activated, which is for instance suitable to analyse reversible heat pump systems.
 
-![Example of a reversible heat pump configuration in DaVE](tlk-dave-22-01.jpg 'Example of a reversible heat pump configuration in DaVE')
+**Example of a reversible heat pump configuration in DaVE**
+
+![Example of a reversible heat pump configuration in DaVE](tlk-dave-22-01.jpg)
+
 
 The new version 2.5 of DaVE include the following new features:
  - Comfort zones of summer and winter can be added to hx-Chart
