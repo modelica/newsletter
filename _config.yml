@@ -8,8 +8,8 @@ defaults:
       image: /assets/images/ModelicaLogoSq.jpg 
     author: modelica 
 contribution-open: true
-contribution-deadline: 16 April
-current-newsletter-date: 19 April
+contribution-deadline: 3rd September
+current-newsletter-date: 6th Semptember
 baseurl: /
 url: "https://newsletter.modelica.org"
 collections:
@@ -52,4 +52,12 @@ collections:
   2021-01:
     permalink: /:collection/:path
     title: Spring 2021 release
+    output: true   
+  2021-02:
+    permalink: /:collection/:path
+    title: Summer 2021 release
+    output: true   
+  2021-03:
+    permalink: /:collection/:path
+    title: Fall 2021 release
     output: true   
