@@ -19,7 +19,7 @@ Join the European Wolfram Technology Conference to explore how computation can e
 
 ### *[International System Dynamics Conference](https://systemdynamics.org/conference/)*
 
-It is an annual conference for System Dynamics and systems thinking practitioners. The objective of the conference is to introduce newcomers to the field and keep practitioners aware of current developments. The Modelica based Business Simulation Library will be presented as an alternative to Vensim.
+Learn about the current trends in System Dynamics and get introduced to systems thinking. The Modelica based [Business Simulation Library](https://www.wolfram.com/system-modeler/libraries/business-simulation/) will be presented as an alternative to Vensim.
 
 - Date: July 18-22
 
