@@ -1,5 +1,5 @@
 ---
-title: Wolfram System Modeler: Upcoming Events
+title: "Wolfram System Modeler: Upcoming Events"
 author: "Ankit Naik [Wolfram](https://wolfram.com/system-modeler/)"
 category: "vendor"
 ---
