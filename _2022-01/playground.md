@@ -1,7 +1,7 @@
 ---
 title: "Modelica Playground"
 author: "Michael Tiller"
-category: "Education"
+category: "education"
 ---
 
 
