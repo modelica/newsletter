@@ -1,7 +1,7 @@
 ---
 title: Bouncing Ball Physics app based on Modelica language
 author: "Elisabetta Tintori ([Dofware srl](https://en.dofware.com/))"
-category: "association"
+category: "vendor"
 ---
 
 ![App Home](https://github.com/dofware/newsletter/new/main/newsletter/_2022-01/MobileApp-logo.png "AppEntryPage")
