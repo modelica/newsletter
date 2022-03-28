@@ -19,7 +19,7 @@ In case the COVID-19 restriction is lifted, the organizers try to keep an option
 for a hybrid conference by adding one or half a day on-site workshop/tutorials before the conference
 at Sophia University in Tokyo, Japan. More information will follow soon.
 
-The Modelica Association is planning to release a [Compliance and anti trust statement](https://github.com/modelica/MA-Bylaws/pull/7/files/85143d4ec67c3ae3ce50300897d9c052cab94545) 
+The Modelica Association is planning to vote on a [Compliance and anti trust statement](https://github.com/modelica/MA-Bylaws/pull/7/files/85143d4ec67c3ae3ce50300897d9c052cab94545) 
 (based on corresponding guidelines in the ISO standards development process ) at the Annual Modelica Association meeting
 on May 10, 2022. Feel free to inspect and comment the [pull request #7](https://github.com/modelica/MA-Bylaws/pull/7). 
 
