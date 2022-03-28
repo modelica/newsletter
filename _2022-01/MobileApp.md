@@ -4,7 +4,7 @@ author: "Elisabetta Tintori ([Dofware srl](https://en.dofware.com/))"
 category: "vendor"
 ---
 
-![App Home](https://github.com/dofware/newsletter/new/main/newsletter/_2022-01/MobileApp-logo.png "AppEntryPage")
+![App Home](MobileApp-logo.png "AppEntryPage")
 
 Dofware has released a mobile app exploiting Modelica features. It is named Bouncing Ball Physics and reproduces the physics governing the behavior of a bouncing ball. Once defined the properties of the ball and of the ground, and after stating the starting conditions of the ball, the user can follow its dynamic behavior.
 
