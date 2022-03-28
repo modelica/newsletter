@@ -1,5 +1,5 @@
 ---
-title: FMI news
+title: FMI 3.0 Release Plan
 author: MAP FMI
 category: association
 ---
@@ -10,8 +10,6 @@ category: association
 <div style="float: right">
 ![fmi-logo](fmi_logo.png)
 </div>
-
-#### FMI 3.0 Release Plan
 
 The FMI 3.0 standard is currently in Beta.5 stage. 
 The release candididate RC.1 is in preparation and shall be published beginning of April 2022.
