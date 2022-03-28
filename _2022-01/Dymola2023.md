@@ -4,7 +4,7 @@ author: "Dag Brück ([Dassault Systemes](http://www.3ds.com/dymola))"
 category: "vendor"
 ---
 
-We are pleased to announce that Dymola 2022 will be available in May 2022. 
+We are pleased to announce that Dymola 2023 will be available in May 2022. 
 
 #### Simulation
 
