@@ -1,8 +1,9 @@
 ---
-title: "orchideo \| easySSP V1.0 now available"
+title: "orchideo | easySSP V1.0 now available"
 author: "Gregor Hermann, Peter Lobner [eXXcellent solutions](https://www.exxcellent.de/)"
 category: "vendor"
 ---
+
 ![alt text](easySSP-newsletter.png 'orchideo | easySSP X-Mas Edition')
 **orchideo | easySSP** V1.0 now available
 
