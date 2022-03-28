@@ -12,7 +12,7 @@ Note, the Modelica Association Backoffice can provide technical support, especia
 
 The **[American Modelica Conference 2022](https://2022.american.conference.modelica.org/)** will take place in Dallas, U.S.A., 
 **Oct. 26-28, 2022** as a **hybrid** conference event. Full papers to be reviewed should be sent by **May 1, 2022**.
-For more details, see the [article in this newsletter](#amc_2022).
+For more details, see the [article in this newsletter](https://newsletter.modelica.org/2022-01/index#american-modelica-conference-2022).
 
 The **Asian Modelica Conference 2022** will take place as an **online** conference **Nov. 24-25, 2022**.
 In case the COVID-19 restriction is lifted, the organizers try to keep an option
@@ -20,7 +20,7 @@ for a hybrid conference by adding one or half a day on-site workshop/tutorials b
 at Sophia University in Tokyo, Japan. More information will follow soon.
 
 The release of **FMI 3.0**, with its many [new features](https://github.com/modelica/fmi-standard/blob/master/docs/1___overview.adoc), 
-is planned for **May 2022**. For more details, see the [FMI 3.0 Release Plan](#FMI-news) in this newsletter.
+is planned for **May 2022**. For more details, see the [FMI 3.0 Release Plan](https://newsletter.modelica.org/2022-01/index#fmi-3-0-release-plan) in this newsletter.
 
 The Modelica Association is planning to vote on a [Compliance and anti trust statement](https://github.com/modelica/MA-Bylaws/pull/7/files/85143d4ec67c3ae3ce50300897d9c052cab94545) 
 (based on corresponding guidelines in the ISO standards development process) at the Annual Modelica Association meeting
