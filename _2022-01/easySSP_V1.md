@@ -4,17 +4,17 @@ author: "Gregor Hermann, Peter Lobner [eXXcellent solutions](https://www.exxcell
 category: "vendor"
 ---
 
-![alt text](easySSP-newsletter.png 'orchideo | easySSP X-Mas Edition')
-**orchideo | easySSP** V1.0 now available
+![alt text](easySSP-newsletter.png 'orchideo  easySSP X-Mas Edition')
+**orchideo \| easySSP** V1.0 now available
 
-#### orchideo | easySSP v1.0
+#### orchideo \| easySSP v1.0
 
-orchideo | easySSP v1.0 is now available. 
+orchideo \| easySSP v1.0 is now available. 
 Besides the well known easy simulation architecture modeling, orchideo | easySSP now provides cloud-based simulation and support for traceable & credible simulation processes.
 
 
 #### Cloud-based simulation
-orchideo | easySSP now offers cloud-based simulation. 
+orchideo \| easySSP now offers cloud-based simulation. 
 Simulate your SSP & FMI models with flexible hardware resource options in parallel in the cloud with no load on your computer and compare and export the results in the integrated simulation results view.
 This feature is most powerful when using several parameter variants which have to be simulated in parallel.
 
