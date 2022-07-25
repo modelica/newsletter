@@ -69,4 +69,3 @@ collections:
     permalink: /:collection/:path
     title: Summer 2022 release prepared
     output: true 
- 
