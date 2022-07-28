@@ -5,7 +5,7 @@ category: "vendor"
 ---
 *Participate and meet us in person during the Wolfram Technology Conference.*
 
-![Alt text](System-Modeler-Events.png 'Wolfram Technology Conference 2022')
+![Alt text](Wolfram-conference.png 'Wolfram Technology Conference 2022')
 
 Learn about Wolfram's ever-expanding technology stack for the building of digital twins, large-scale optimization, embedded systems and the high-level modeling of multiphysics systems.
 
