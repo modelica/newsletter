@@ -13,8 +13,8 @@ Modelica Editor is an integrated development application dedicated to editing Mo
 The improvements introduced in Modelica Editor 2022.1 are the following:
 * Modelica Compiler (Modelon’s Optimica Compiler Toolkit) upgraded to version 1.32.
 * The Modelica Standard Library 4.0.0 in now supported, with an exception for the **Clocked** package.
-* The standardized **SimcenterAmesim** Modelica library has been upgraded to the version 1.1, containing now the **array** interfaces, **Thermal Hydraulic** interfaces and new demos to show how connect these two worlds via standardized physical interfaces.
-* A new filter button in the toolbar helping the user to expose only the parameters and variables of the top layers of his models.
+* The standardized **SimcenterAmesim** Modelica library has been upgraded to the version 1.1, containing now the **array** interfaces, **Thermal Hydraulic** interfaces and new demos to show how to connect these two worlds via standardized physical interfaces.
+* A new filter button in the toolbar helping the user to expose only the parameters and variables of the model top layers.
 * Improved translation logs that now provide clearer messages with hyperlinks for easy diagnosis.
 
 ![Hybrid modelling example](Simcenter_Amesim_Modelica_Editor_20221.png)
