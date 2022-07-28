@@ -7,9 +7,7 @@ category: "vendor"
 
 ![Alt text](Wolfram-conference.png 'Wolfram Technology Conference 2022')
 
-Join the Wolfram Technology Conference to explore how System Modeler can empower you and your organization in research, development, deployment—and progress. This conference will showcase how you can unify your workflows, including Modelica workflows, with computation to deliver quicker and smarter results.
-
-Moreover, you would also learn about Wolfram's ever-expanding technology stack for the building of digital twins, large-scale optimization, embedded systems and the high-level modeling of multiphysics systems.
+Join the Wolfram Technology Conference to explore how System Modeler as well as Wolfram's technology stack can empower you and your organization in research, development, deployment—and progress. This conference will showcase how you can unify your workflows, including Modelica workflows, with computation to deliver quicker and smarter results.
 
 Get inspired by customer journeys, learn from experts and interact with presenters during the Q&As. Schedule a one-on-one meeting with our experts to get your questions answered.
 
