@@ -4,7 +4,7 @@ author: Kenzie Maurice, [Modelon](https://modelon.com)
 category: "vendor"
 ---
 
-![[](Modelon_Orange_400.jpg)](https://modelon.com/)
+![](Modelon_Orange_400.jpg)
 
 Modelon is revolutionizing the engineering design industry by offering technologies and services that enable customers to leverage system simulation. Modelon’s flagship product, [Modelon Impact](https://modelon.com/modelon-impact/), is a cloud system simulation platform that helps engineers virtually design, analyze, and simulate physical systems.
 
