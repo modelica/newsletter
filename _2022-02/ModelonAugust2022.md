@@ -1,6 +1,6 @@
 ---
 title: Modelon August 2022 Updates
-author: Kenzie Maurice, [Modelon](https://modelon.com)
+author: Kenzie Maurice, Modelon (https://modelon.com)
 category: "vendor"
 ---
 
