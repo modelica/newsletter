@@ -3,7 +3,7 @@ title: "orchideo | easySSP V1.1 now available"
 author: Gregor Hermann, Peter Lobner [eXXcellent solutions](https://www.exxcellent.de/)
 category: "vendor"
 ---
-![alt text](easySSP-newsletter.png 'orchideo | easySSP v1.1 released.')
+![alt text](easySSP-newsletter.png 'orchideo easySSP v1.1 released.')
 
 orchideo \| easySSP v1.1 is now available, offering improved simulation component integration and process traceability based on open standards like FMI, SSP and SSP Traceability.
 
