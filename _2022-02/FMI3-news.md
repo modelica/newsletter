@@ -1,5 +1,5 @@
 ---
-title: FMI Nes
+title: FMI 3.0 and 2.0.4 RC1 released, new FMI project leader and deputy
 author: MAP FMI
 category: association
 ---
