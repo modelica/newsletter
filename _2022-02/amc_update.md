@@ -4,7 +4,7 @@ author: "Chris Laughman"
 category: "conference"
 ---
 
-#### American Modelica Conference 2022
+![AMC 2020 Logo](https://2022.american.conference.modelica.org/images/ConferenceLogoSmall.png)
 
 We would like to invite you to the American Modelica Conference 2022, which will take place at the University of Texas in Dallas at the [Davidson-Gundy Alumni Center](https://davidson-gundy.utdallas.edu/davidson-gundy/spaces/) from October 26–28, 2022.  It is organized by [NAMUG](https://namug.org/), the North American Modelica Users Group, in cooperation with the [Modelica Association](https://modelica.org/association).  We are excited about this first opportunity since 2019 to meet our Modelica colleagues in person; if you are unable to attend physically, we will also provide the ability to watch streamed talks from the conference virtually for a reduced virtual conference admission fee.
 
@@ -18,5 +18,3 @@ More information about the conference can be found in [this announcement](https:
 **Early bird registration** is currently open [on our EventBrite page](https://www.eventbrite.com/e/american-modelica-conference-2022-tickets-193515990537), and the deadline for this reduced registration fee has been extended to August 22, 2022.  This year's Platinum Sponsor is [Ricardo Software](https://software.ricardo.com/), but Gold and Silver sponsorships are also still available.
 
 We look forward to seeing you in Texas!
-
-![AMC 2020 Logo](https://2022.american.conference.modelica.org/images/ConferenceLogoSmall.png)
