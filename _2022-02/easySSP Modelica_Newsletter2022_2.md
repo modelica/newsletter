@@ -1,5 +1,5 @@
 ---
-title: orchideo | easySSP V1.1 now available
+title: "orchideo | easySSP V1.1 now available"
 author: Gregor Hermann, Peter Lobner [eXXcellent solutions](https://www.exxcellent.de/)
 category: "vendor"
 ---
