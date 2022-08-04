@@ -32,7 +32,7 @@ We inform you when more details are available.
 
 If you have interesting news for the Modelica, FMI, SSP, DCP, eFMI communities,
 please follow the [submission guidelines](https://newsletter.modelica.org/submission-guidelines.html).
-The deadline for articles for the next newsletter is Tuesday, November 15, 2022.
+The deadline for articles for the next newsletter is Friday, November 18, 2022.
 
 Martin Otter on August 2, 2022
 
