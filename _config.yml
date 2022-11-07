@@ -69,3 +69,7 @@ collections:
     permalink: /:collection/:path
     title: Summer 2022 release prepared
     output: true 
+  2022-03:
+    permalink: /:collection/:path
+    title: Fall 2022 release prepared
+    output: true 
