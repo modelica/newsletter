@@ -3,7 +3,7 @@ title: Simcenter Amesim 2210 FMI improvements
 author: "Bruno Loyer ([Siemens Digital Industries Software](https://www.sw.siemens.com/ ))"
 category: "vendor"
 ---
-[Siemens Digital Industries Software](https://www.sw.siemens.com/ ) is proud to announce the recent release of [Simcenter Amesim 2210](https://www.youtube.com/watch?v=URHoN-yy_bk ), as part of its system simulation solutions. Among the key features introduced in this release, we can highlight the FMI improvements below.
+[Siemens Digital Industries Software](https://www.sw.siemens.com/ ) is proud to announce the recent release of [Simcenter Amesim 2210](https://blogs.sw.siemens.com/simcenter/whats-new-in-simcenter-system-simulation-2210/ ), as part of its system simulation solutions. Among the key features introduced in this release, we can highlight the FMI improvements below.
 ![](amesim_banner_2210.png)
 ## Leveraging Windows to Linux cross-compilation using FMI
 With Simcenter Amesim 2210, you can create and share components with Linux users directly, from a 100% Windows ecosystem, without revealing any source code. To achieve this, neither Linux itself, nor any Linux virtual machine, nor even the Windows Subsystem from Linux (WSL) is required. Most of the time indeed, these “heavy” solutions are rejected by IT departments. To enable compiling for Linux, Simcenter Amesim 2210 simply needs to be installed on your Windows machine, which doesn't require any specific elevation of privilege. The secret behind this is a Windows to Linux cross-compiler that is now distributed as standard with Simcenter Amesim. Moreover, as FMI plays a central role in interoperability, this technical solution has been conveniently combined with FMI to offer the model deployment capabilities described hereafter.
