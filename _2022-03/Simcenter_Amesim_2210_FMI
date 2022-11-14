@@ -4,6 +4,7 @@ author: "Bruno Loyer ([Siemens Digital Industries Software](https://www.sw.sieme
 category: "vendor"
 ---
 [Siemens Digital Industries Software](https://www.sw.siemens.com/ ) is proud to announce the recent release of [Simcenter Amesim 2210](https://blogs.sw.siemens.com/simcenter/whats-new-in-simcenter-system-simulation-2210/ ), as part of its system simulation solutions. Among the key features introduced in this release, we can highlight the FMI improvements below.
+
 ![](amesim_banner_2210.png)
 
 ## Leveraging Windows to Linux cross-compilation using FMI
@@ -26,10 +27,12 @@ As a second benefit, from now on, the FMUs generated under Windows for any of th
 
 ### Support of NI Linux Real Time OS (Intel x64) via FMI
 The above-mentioned capability also enables the support of the recent [NI Linux Real Time OS](https://www.ni.com/en-us/shop/linux/introduction-to-ni-linux-real-time.html ), for which source-code FMUs are not suitable. These systems from NI progressively replace their older ones based on Phar Lap RT. They are typically used on NI [PXI](https://www.ni.com/en-us/shop/pxi.html ) or [CompactRIO](https://www.ni.com/en-us/shop/compactrio.html ) hardware. With Simcenter Amesim 2210, Windows users can now export their real-time capable models as binary FMUs for these systems directly. Under Linux, these FMUs are compiled using the local GCC.  
+
 ![](amesim_rt_fmu.png)
 
 ## Export of FMUs via a dedicated Python script
 A new Python script allows exporting FMUs “offline” i.e., without having to open the Simcenter Amesim GUI. This script is functionally equivalent to the FMU Export Assistant GUI. It is thus capable to manage all kinds of FMUs that can be exported by Simcenter Amesim. Such an automated generation of executable digital twins can for instance be leveraged by [Simcenter Studio](https://www.plm.automation.siemens.com/global/en/products/simcenter/studio.html ) for reinforcement learning.    
+
 ![](amesim_FMU_scripting.png)
 
 ## Improved support of units and non-Latin titles
