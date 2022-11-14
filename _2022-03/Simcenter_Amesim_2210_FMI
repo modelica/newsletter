@@ -12,7 +12,9 @@ With Simcenter Amesim 2210, you can create and share components with Linux users
 
 ### Direct export, from Windows, of FMUs usable under Linux 64-bit
 A first clear benefit of the Windows to Linux cross-compiler now provided with Simcenter Amesim 2210 is the export of FMUs containing a Linux 64-bit binary now made possible under Windows in a few clicks. This allows creating highly portable cross-platform FMUs containing up to three different binaries (win32, win64 and linux64). This feature is designed to validate then deploy models to various Linux platforms, including Edge Computing, Cloud Computing, IIoT or HPC platforms.
+
 ![](amesim_multiplatform_fmu.png)
+
 Thanks to this increased portability, it is for instance possible to use a Simcenter Amesim FMU exported under Windows:
 * to define the boundary conditions of a [Simcenter STAR-CCM+](https://www.plm.automation.siemens.com/global/en/products/simcenter/STAR-CCM.html ) CFD model, or any model from an FMI compatible CFD tool, running on a Linux HPC cluster.
 * as a high-fidelity “ego” vehicle model running in a [Simcenter Prescan](https://www.plm.automation.siemens.com/global/en/products/simcenter/prescan.html ) ADAS environment under Linux.
