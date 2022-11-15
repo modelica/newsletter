@@ -1,5 +1,6 @@
 theme: jekyll-theme-tactile
 google_analytics: UA-114571919-1
+future: true
 current-contribution-url: "https://github.com/modelica/newsletter/tree/main/_2022-02"
 defaults:
   - scope:
