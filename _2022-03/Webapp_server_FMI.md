@@ -1,6 +1,6 @@
 ---
 title: Spread your knowledge with FMU based engineering webapps for everyone
-author: "Romain Gonard [Siemens Digital Industries Software](https://www.sw.siemens.com/ )"
+author: "Romain Gonard (Siemens Digital Industries Software)"
 category: "vendor"
 ---	
 
