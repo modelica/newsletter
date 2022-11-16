@@ -4,7 +4,7 @@ author: "Bruno Loyer ([Siemens Digital Industries Software](https://www.sw.sieme
 category: "vendor"
 ---
 
-[Siemens Digital Industries Software](https://www.sw.siemens.com/ ) is proud to announce the recent release of [Simcenter Amesim 2210](https://blogs.sw.siemens.com/simcenter/whats-new-in-simcenter-system-simulation-2210/ ), as part of its system simulation solutions. Among the key features introduced in this release, we can highlight the FMI improvements below.
+[Siemens Digital Industries Software](https://www.sw.siemens.com/ ) is proud to announce the recent release of [Simcenter Amesim 2210](https://www.plm.automation.siemens.com/global/en/products/simcenter/simcenter-amesim.html ), as part of its [system simulation solutions](https://www.youtube.com/watch?v=PNvEug8pcDM ). Among the key features introduced in this release, we can highlight the FMI improvements below.
 
 ![](amesim_banner_2210.png)
 
@@ -44,4 +44,4 @@ For an improved handling of exported FMUs, the units are now automatically decla
 ## Towards FMI 3.0
 In addition to the [“FMI terminals”](https://newsletter.modelica.org/2021-03/index#fmi-physical-terminals-between-simcenter-amesim-and-simcenter-flomaster ) feature, already supported by [Simcenter Amesim](https://www.plm.automation.siemens.com/global/fr/products/simcenter/simcenter-amesim.html ) and [Simcenter Flomaster](https://www.plm.automation.siemens.com/global/en/products/simcenter/flomaster.html ), [Siemens Digital Industries Software](https://www.sw.siemens.com/ ) plans to implement the support of FMI 3.0 in the forthcoming releases of its system simulation solutions. Stay tuned!
 
-For more information on Simcenter Amesim, please visit our [website](https://www.plm.automation.siemens.com/global/en/products/simcenter/simcenter-amesim.html ).
+For more information on Simcenter Amesim, please check this [blog post](https://blogs.sw.siemens.com/simcenter/whats-new-in-simcenter-system-simulation-2210/ ).
