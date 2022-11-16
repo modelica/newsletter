@@ -9,7 +9,7 @@ Since release 2022.1 it is possible to create engineering webapps from a Functio
 * Other system simulation tools like [Simcenter Flomaster](https://www.plm.automation.siemens.com/global/en/products/simcenter/flomaster.html )
 * 3D simulation tools, such as [Simcenter Star-CCM+](https://www.plm.automation.siemens.com/global/en/products/simcenter/STAR-CCM.html )
 * The [Simcenter ROM builder](https://www.plm.automation.siemens.com/global/en/products/simulation-test/rom-builder.html ) that creates an FMU based on your model or experimental results
-* All third-party tools that can create a tool independent co-simulation FMU according to the FMI v2 standard.
+* All third-party tools that can create a tool independent co-simulation FMU according to the FMI 2.0 standard.
 
 ## The value of knowledge is in accessibility 
 The time and knowledge you’ve invested in creating your models is of high value, not everybody can do the same and many important decisions rely on them. Many of your colleagues or other connections would be glad to leverage your expertise even if they’re not an engineer themselves. With Simcenter Webapp Server you can spread your knowledge and support them with easy and safe access, which means: 
