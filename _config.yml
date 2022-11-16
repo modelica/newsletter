@@ -1,5 +1,6 @@
 theme: jekyll-theme-tactile
 google_analytics: UA-114571919-1
+future: true
 current-contribution-url: "https://github.com/modelica/newsletter/tree/main/_2022-02"
 defaults:
   - scope:
@@ -68,4 +69,8 @@ collections:
   2022-02:
     permalink: /:collection/:path
     title: Summer 2022 release prepared
-    output: true 
+    output: true   
+  2022-03:
+    permalink: /:collection/:path
+    title: Fall 2022 release
+    output: true   
