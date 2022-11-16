@@ -5,7 +5,7 @@ category: "vendor"
 ---
 
 We are pleased to announce that Dymola 2023x will be available in November 25, 2022. 
-![Dymola-2023x](https://user-images.githubusercontent.com/24527575/202169690-29848b37-2de7-4583-91ee-184d2ca5288b.png)
+![Dymola 2023x](Dymola-2023x.png)
 
 ### Model editing
 
