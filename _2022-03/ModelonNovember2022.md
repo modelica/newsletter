@@ -46,7 +46,7 @@ In our new case study, learn how Siemens Energy integrated its advanced energy s
 
 #### Saab and Modelon: Modernizing Fighter Aircraft with Open-Standard Technology 
 
-[<img src= "Modelon_Saab_1200_627_v6_1.jpg" alt= "Modelon and Saab Case Study" width="600px">](https://modelon.com/support/heat-pump-technology-adapting-to-the-future-with-system-simulation/)
+[<img src= "Modelon_Saab_1200_627_v6_1.jpg" alt= "Modelon and Saab Case Study" width="600px">](https://modelon.com/support/modernizing-fighter-aircraft-with-open-standard-technology/))
 
 In 1988, Saab made history with the Gripen - the first multirole fighter aircraft developed in Sweden to take flight. Since its initial development, Saab has been tasked with making iterations of the Gripen, which are each more powerful and technologically advanced than before. 
  
