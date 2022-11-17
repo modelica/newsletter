@@ -14,7 +14,7 @@ Follow us on [LinkedIn.](https://www.linkedin.com/company/modelon)
 
 ### You're Invited to the Asian Modelica Conference! 
 
-[<img src= "Modelon_Asian-Modelica-Conference_1200_627_v2.jpg" alt= "Asian Modelica Conference" width="600px">](https://2022.asian.conference.modelica.org/)
+[<img src= "Modelon_Asian-Modelica-Conference_1200_627_v3.jpg" alt= "Asian Modelica Conference" width="600px">](https://2022.asian.conference.modelica.org/)
 
 Modelica Conferences are events for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to all of the system simulation standards developed and maintained by the Modelica Association, in particular Modelica, the Functional Mockup Interface (FMI), the System Structure and Parameterization (SSP) standard and the The Distributed Co-simulation Protocol (DCP) standard and the Functional Mock-up Interface for embedded systems (eFMI) standard. The program will cover modeling of complex physical and cyber-physical systems, as well as tools, for a wide range of research and industrial applications.
 
