@@ -12,6 +12,15 @@ Visit [https://modelon.com](https://modelon.com/) for more information.
 
 Follow us on [LinkedIn.](https://www.linkedin.com/company/modelon)
 
+### You're Invited to the Asian Modelica Conference! 
+
+[<img src= "Modelon_Asian-Modelica-Conference_1200_627_v2.jpg" alt= "Asian Modelica Conference" width="600px">](https://2022.asian.conference.modelica.org/)
+
+The Modelica Conference is an event event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to all of the system simulation standards developed and maintained by the Modelica Association, in particular Modelica, the Functional Mockup Interface (FMI), the System Structure and Parameterization (SSP) standard and the The Distributed Co-simulation Protocol (DCP) standard and the Functional Mock-up Interface for embedded systems (eFMI) standard. The program will cover modeling of complex physical and cyber-physical systems, as well as tools, for a wide range of research and industrial applications.
+
+This year's conference is held on November 24-25th and will be a hybrid event, with in-person attendance in Tokyo, Japan. The organizers of this event include the Modelica Association, Sofia University, and Modelon K.K. To register for this event for online or in-person attendance, please visit the [conference page.](https://2022.asian.conference.modelica.org/) 
+
+
 ### Modelon Impact 2022.2 Release Now Available 
 
 [<img src= "Modelon_1200_627_Impact_Release_2022_2_v4.jpg" alt= "Modelon Impact 2022.2 Release" width="600px">](https://modelon.com/modelon-2022-2-release-system-simulation-on-the-cloud-has-arrived/)
