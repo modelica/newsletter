@@ -3,7 +3,7 @@ title: Free Interactive Animations for your College Mechanical Engineering Class
 author: "Ankit Naik [Wolfram](https://wolfram.com/system-modeler/)"
 category: "education"
 ---
-The College Mechanical Engineering library contains labs for mechanics courses. After completing the labs, you will be able to understand the benefits of coordinate transformation, dynamics of a camera stabilization system and vibrations in a washing machine. Finally, you will learn to create and test your mechanical models with 3D animations.
+Learn and teach mechanics courses using the labs from the College Mechanical Engineering library. Simulate things such as a stunt jump, camera stabilization system, and washing machine to understand mechanical engineering concepts such as coordinate transformation, kinematics, and dynamics. You will also learn to create and test models with 3D animations.
 
 ![Alt text](college-mechanical-engineering-image.png 'college mechanical engineering')
 
