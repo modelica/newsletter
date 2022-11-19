@@ -10,13 +10,13 @@ category: "vendor"
 
 ![](ModelicaEditorBanner.png)
 
-### Automatic generation of iteration variables and their guess values
+#### Automatic generation of iteration variables and their guess values
 
 As of Simcenter Amesim 2210, the **Modelica editor** provides a new toolbar button allowing to automatically generate the iteration variables of a selected model during compilation. As shown in the following figure, the iteration variables are defined in a <i> record </i> and automatically added to the model code to be reused directly from the Simcenter Amesim parameters panel.
 
 ![](Editor2210.png)
 
-### Modelica Editor's new capabilities
+#### Modelica Editor's new capabilities
 
 The latest version of Modelica Editor contains other new features, the most important of which are:
 * A new option now available in the Modelica preferences, enabling **parameter evaluation** as a means to reduce significantly the simulation time.
