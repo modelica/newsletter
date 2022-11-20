@@ -1,6 +1,6 @@
 ---
 title:  Simcenter Amesim 2210
-author: "Karim Besbes ([Siemens Digital Industries Software](https://www.sw.siemens.com/)"
+author: "Karim Besbes and Bruno Loyer ([Siemens Digital Industries Software](https://www.sw.siemens.com/)"
 category: "vendor"
 ---
 
