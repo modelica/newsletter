@@ -24,7 +24,7 @@ see [playlists](https://www.youtube.com/@modelicaassociation/playlists).
 
 Modelica Association has now a [Spreadshirt Shop](https://ma-merch.myspreadshop.de/) where you find T-Shirts, hoodies, coffee cups and stickers with various logos from the Modelica Association and its standards.
 
-If you have interesting news for the Modelica, FMI, SSP, DCP, eFMI communities, please follow the submission guidelines. The deadline for articles for the next newsletter is Friday, March 3, 2023.
+If you have interesting news for the Modelica, FMI, SSP, DCP, eFMI communities, please follow the [submission guidelines](https://newsletter.modelica.org/submission-guidelines.html). The deadline for articles for the next newsletter is Friday, March 3, 2023.
 
 Martin Otter on Nov. 21, 2022
 
