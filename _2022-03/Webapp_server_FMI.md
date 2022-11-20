@@ -11,13 +11,13 @@ Since release 2022.1 it is possible to create engineering webapps from a Functio
 * The [Simcenter ROM builder](https://www.plm.automation.siemens.com/global/en/products/simulation-test/rom-builder.html ) that creates an FMU based on your model or experimental results
 * All third-party tools that can create a tool independent co-simulation FMU according to the FMI 2.0 standard.
 
-## The value of knowledge is in accessibility 
+#### The value of knowledge is in accessibility 
 The time and knowledge you’ve invested in creating your models is of high value, not everybody can do the same and many important decisions rely on them. Many of your colleagues or other connections would be glad to leverage your expertise even if they’re not an engineer themselves. With Simcenter Webapp Server you can spread your knowledge and support them with easy and safe access, which means: 
 * No tool installation for end-users, the engineering webapps are available within a web browser.
 * You can make sure that everyone is using the right version of the webapp and the FMU at any time, no versioning headache anymore. 
 * It protects your IP. Since you centralize all simulations on a server there’s no direct access to model IP. 
 * You control the permissions and can manage user access at every moment.
 
-How to create an engineering webapp from my models? The Simcenter Webapp Server is an easy to deploy and easy to use tool, [these few steps show how to create your engineering webapps](webapps_server_details.html).  
+How to create an engineering webapp from my models? The Simcenter Webapp Server is an easy to deploy and easy to use tool, [these few steps show how to create your engineering webapps](webapp_server_details.html).  
 
 For more information on Simcenter Amesim, please visit our [website](https://www.plm.automation.siemens.com/global/en/products/simcenter/simcenter-webapp-server.html ).
