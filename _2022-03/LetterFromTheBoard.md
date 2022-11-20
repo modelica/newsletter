@@ -9,7 +9,7 @@ Dear Modelica, FMI, SSP, DCP, eFMI interested,
 The [Asian Modelica Conference 2022](https://2022.asian.conference.modelica.org/) will take place next week on Thurs. **Nov. 24 - Friday Nov. 25, 2022** at Sophia University Tokyo, Japan, as a **hybrid** conference.
 
 The [International Modelica Conference 2023](https://2023.international.conference.modelica.org/) will take place **Mo. Oct. 9 - Wed. Oct. 11, 2023, in Aachen, Germany**, as a **face-to-face conference**.
-For more details, see [article](ModelicaConference2023.html).
+For more details, see [article](#15th-international-modelica-conference-2023).
 
 At the end of November 2022, a new backwards compatible [FMI version 2.0.4](https://github.com/modelica/fmi-standard/releases) will be released. Most important, this *orthogonal release*  to the other FMI 2.0 features will backport very useful FMI 3.0 features to FMI 2.0:
 
