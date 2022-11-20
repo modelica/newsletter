@@ -11,10 +11,12 @@ description: "email version - again"
 Dear Modelica, FMI, SSP, DCP, eFMI interested,
 
 The [Asian Modelica Conference 2022](https://2022.asian.conference.modelica.org/) will take place next week on Thurs. **Nov. 24 - Friday Nov. 25, 2022** at Sophia University Tokyo, Japan, as a **hybrid** conference. We are also announcing The International Modelica Conference 2023 [... read more](https://newsletter.modelica.org/2022-03/)
-At the end of November 2022, a new backwards compatible [FMI version 2.0.4](https://github.com/modelica/fmi-standard/releases) will be released [... read more](https://newsletter.modelica.org/2022-03/)
-Modelica Association now has a new [YouTube channel](https://youtube.com/@modelicaassociation) and Modelica merchandise
 
-[Read the whole Letter from the Board](https://newsletter.modelica.org/2022-03/))
+At the end of November 2022, a new backwards compatible [FMI version 2.0.4](https://github.com/modelica/fmi-standard/releases) will be released [... read more](https://newsletter.modelica.org/2022-03/)
+
+Modelica Association now has a new [YouTube channel](https://youtube.com/@modelicaassociation) and Modelica related merchandise.
+
+*[Read the whole Letter from the Board](https://newsletter.modelica.org/2022-03/))*
 
 Martin Otter on Nov. 21, 2022
 
