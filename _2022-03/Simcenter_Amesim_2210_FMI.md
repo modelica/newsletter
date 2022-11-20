@@ -9,12 +9,12 @@ hidden:true
 
 ![](amesim_banner_2210.png)
 
-- **Leveraging Windows to Linux cross-compilation using FMI** With Simcenter Amesim 2210, you can create and share components with Linux users directly, from a 100% Windows ecosystem, without revealing any source code. [More details](amesim_details.html)
+- **Leveraging Windows to Linux cross-compilation using FMI:** with Simcenter Amesim 2210, you can create and share components with Linux users directly, from a 100% Windows ecosystem, without revealing any source code. [More details](amesim_details.html).
   - Direct export, from Windows, of FMUs usable under Linux 64-bit
   - Improved workflow for FMI based Linux 64-bit real-time targets
   - Support of NI Linux Real Time OS (Intel x64) via FMI
-- **Export of FMUs via a dedicated Python script** A new Python script allows exporting FMUs “offline” i.e., without having to open the Simcenter Amesim GUI. [More details](amesim_details.html)
-- **Improved support of units and non-Latin titles** For an improved handling of exported FMUs, the units are now automatically declared and converted to the International System of Units. [More details](amesim_details.html)
+- **Export of FMUs via a dedicated Python script:** a new Python script allows exporting FMUs “offline” i.e., without having to open the Simcenter Amesim GUI. [More details](amesim_details.html).
+- **Improved support of units and non-Latin titles:** for an improved handling of exported FMUs, the units are now automatically declared and converted to the International System of Units. [More details](amesim_details.html).
 - **Towards FMI 3.0**
 In addition to the [“FMI terminals”](https://newsletter.modelica.org/2021-03/index#fmi-physical-terminals-between-simcenter-amesim-and-simcenter-flomaster ) feature, already supported by [Simcenter Amesim](https://www.plm.automation.siemens.com/global/fr/products/simcenter/simcenter-amesim.html ) and [Simcenter Flomaster](https://www.plm.automation.siemens.com/global/en/products/simcenter/flomaster.html ), [Siemens Digital Industries Software](https://www.sw.siemens.com/ ) plans to implement the support of FMI 3.0 in the forthcoming releases of its system simulation solutions. Stay tuned!
 
