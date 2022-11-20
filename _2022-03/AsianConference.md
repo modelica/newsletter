@@ -2,6 +2,7 @@
 title: Asian Modelica Conference coming soon
 author: "Kenzie Maurice, Modelon (https://modelon.com)"
 category: "conference"
+date: 2022-11-01
 ---
 
 [![AsMC 2020 Logo](../2022-02/AsianModelicaConfLogo2022.jpg)](https://2022.asian.conference.modelica.org/)
