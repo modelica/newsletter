@@ -2,6 +2,7 @@
 title: Announcing Dymola 2023x
 author: "Dag Brück ([Dassault Systemes](http://www.3ds.com/dymola))"
 category: "vendor"
+date: 2022-11-01
 ---
 
 We are pleased to announce that Dymola 2023x will be available in November 25, 2022. 
