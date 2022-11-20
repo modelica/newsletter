@@ -2,6 +2,7 @@
 title: Simcenter Amesim 2210 FMI improvements
 author: "Bruno Loyer ([Siemens Digital Industries Software](https://www.sw.siemens.com/ ))"
 category: "vendor"
+hidden:true
 ---
 
 [Siemens Digital Industries Software](https://www.sw.siemens.com/ ) is proud to announce the recent release of [Simcenter Amesim 2210](https://www.plm.automation.siemens.com/global/en/products/simcenter/simcenter-amesim.html ), as part of its [system simulation solutions](https://www.youtube.com/watch?v=PNvEug8pcDM ). Among the key features introduced in this release, we can highlight the FMI improvements below.
