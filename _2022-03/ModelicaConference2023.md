@@ -1,6 +1,6 @@
 ---
 title: "15th International Modelica Conference 2019 "
-author: "Martin Otter"
+author: "Martin Otter ([Modelica Association](https://www.modelica.org/))"
 category: "association"
 ---
 
