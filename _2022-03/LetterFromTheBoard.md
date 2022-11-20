@@ -11,14 +11,14 @@ The [Asian Modelica Conference 2022](https://2022.asian.conference.modelica.org/
 The [International Modelica Conference 2023](https://2023.international.conference.modelica.org/) will take place **Mo. Oct. 9 - Wed. Oct. 11, 2023, in Aachen, Germany**, as a **face-to-face conference**.
 For more details, see [article](ModelicaConference2023.html).
 
-End of November 2022, a new backwards compatible [FMI version 2.0.4](https://github.com/modelica/fmi-standard/releases) will be released. Most important, this *orthogonal release*  to the other FMI 2.0 features will backport very useful FMI 3.0 features to FMI 2.0:
+At the end of November 2022, a new backwards compatible [FMI version 2.0.4](https://github.com/modelica/fmi-standard/releases) will be released. Most important, this *orthogonal release*  to the other FMI 2.0 features will backport very useful FMI 3.0 features to FMI 2.0:
 
 - [Terminals and Icons](https://fmi-standard.org/docs/3.0/#fmiTerminalsAndIcons)
 - [Build Configuration](https://fmi-standard.org/docs/3.0/#fmiTerminalsAndIcons)
 
 <img align="right" src="ma-t-shirt.png">
 
-Modelica Association has now a new [YouTube channel](https://youtube.com/@modelicaassociation). There are for example videos
+Modelica Association now has a new [YouTube channel](https://youtube.com/@modelicaassociation). There are for example videos
 of the last Modelica Association conferences and of the Modelica Jubilee Symposium 2019,
 see [playlists](https://www.youtube.com/@modelicaassociation/playlists).
 
