@@ -4,7 +4,7 @@ author: "Kenzie Maurice, Modelon (https://modelon.com)"
 category: "conference"
 ---
 
-[![AsMC 2020 Logo](../_2022-02/AsianModelicaConfLogo2022.jpg)](https://2022.asian.conference.modelica.org/)
+[![AsMC 2020 Logo](../2022-02/AsianModelicaConfLogo2022.jpg)](https://2022.asian.conference.modelica.org/)
 
 Modelica Conferences are events for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to all of the system simulation standards developed and maintained by the Modelica Association, in particular Modelica, the Functional Mockup Interface (FMI), the System Structure and Parameterization (SSP) standard and the The Distributed Co-simulation Protocol (DCP) standard and the Functional Mock-up Interface for embedded systems (eFMI) standard. The program will cover modeling of complex physical and cyber-physical systems, as well as tools, for a wide range of research and industrial applications.
 
