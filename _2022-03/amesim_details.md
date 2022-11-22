@@ -2,6 +2,7 @@
 title: Simcenter Amesim 2210 FMI improvements details
 author: "Bruno Loyer ([Siemens Digital Industries Software](https://www.sw.siemens.com/ ))"
 category: "vendor"
+layout: default
 hidden: true
 ---
 
