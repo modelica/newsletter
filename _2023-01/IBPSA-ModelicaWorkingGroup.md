@@ -4,7 +4,7 @@ author: "Michael Wetter ([Lawrence Berkeley National Laboratory](https://www.lbl
 category: "project"
 ---
 
-![IBPSA Logo](https://xxxx.png "IBPSA logo"){:width="250px"}
+![IBPSA Logo](IBPSA-logo-text.png "IBPSA logo"){:width="250px"}
 
 The [International Building Performance Simulation Association (IBPSA)](http://www.ibpsa.org/) approved on January 25, 2023, the
 formation of the *IBPSA Modelica Working Group*.
