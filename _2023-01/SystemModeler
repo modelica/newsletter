@@ -3,7 +3,7 @@ title: Model Aircraft Dynamics Using the New Aircraft Library (Free)
 author: "Ankit Naik [Wolfram](https://wolfram.com/system-modeler/)"
 category: "vendor"
 ---
-![Alt text](System-Modeler-V13-2-Image.png 'Aircraft library')
+![Alt text](SystemModeler_Aircraft.png 'Aircraft library')
 
 The library allows you to model an aircraft design and simulate its flight through air for a given flight mission. You can test your design for its flight mechanics, controllability and performance (when it comes to fuel efficiency and maneuverability).
 
