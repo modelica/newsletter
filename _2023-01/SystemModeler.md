@@ -10,6 +10,6 @@ The library allows you to model an aircraft design and simulate its flight throu
 Some of the key features are:
 - Built-in weight estimation method to set up new aircraft models from a small set of parameters
 - Numerous example models that show the wide variety of scenarios that can be modeled with the library, such as aircraft failures, electric aircraft performance and launch of a towed glider
-- Built-in animation of all models, providing an easy visual check of your modeling process
+- Quickly configurable aircraft components
 
 [Click here](https://www.wolfram.com/system-modeler/libraries/aircraft/) to download the library.
