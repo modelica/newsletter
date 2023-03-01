@@ -1,7 +1,7 @@
 ---
 title: New System Modeler Blogs
 author: "Ankit Naik [Wolfram](https://wolfram.com/system-modeler/)"
-category: "vendor"
+category: "education"
 ---
 
 #### Develop a Growth Strategy for a SaaS Company
