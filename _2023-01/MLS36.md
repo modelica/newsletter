@@ -12,9 +12,9 @@ It provides three main new highlights to ease the development of Modelica models
 https://specification.modelica.org/master/modelica-revision-history.html#main-changes-in-modelica-3-6
 
 The following is a short description of those features, but each comes with a rationale giving more details and additional uses.
-* [https://specification.modelica.org/master/inheritance-modification-and-redeclaration.html#removing-modifiers-break](Undefined modification) - this allows making a parameter undefined, e.g., to force users of the model to explicitly set it.
-* [https://specification.modelica.org/master/inheritance-modification-and-redeclaration.html#selective-model-extension](Selective Model Extension) - this allows inheriting a model and removing some parts, e.g., to replace simple connections by filtering. See also the [https://ep.liu.se/en/conference-article.aspx?series=ecp&issue=157&Article_No=29](conference paper).
-* [https://specification.modelica.org/master/packages.html#multilingual-descriptions](Multilingual support of Modelica) - this allows providing for instance a German translation of a Modelica Library without changing the Library itself.
+* [Undefined modification](https://specification.modelica.org/master/inheritance-modification-and-redeclaration.html#removing-modifiers-break) - this allows making a parameter undefined, e.g., to force users of the model to explicitly set it.
+* [Selective Model Extension](https://specification.modelica.org/master/inheritance-modification-and-redeclaration.html#selective-model-extension) - this allows inheriting a model and removing some parts, e.g., to replace simple connections by filtering. See also the [conference paper](https://ep.liu.se/en/conference-article.aspx?series=ecp&issue=157&Article_No=29).
+* [Multilingual support of Modelica](https://specification.modelica.org/master/packages.html#multilingual-descriptions) - this allows providing for instance a German translation of a Modelica Library without changing the Library itself.
 
 Several tools have already developed full implementations or protypes for these features, including the user experience (e.g., making modifiers undefined or deselecting components in the user interface).
 
@@ -22,4 +22,4 @@ The Multilingual support in the language is intended as a first step to allow li
 
 ##### Modelica Assocation Project Language
 
-Webpage: [https://github.com/modelica/ModelicaSpecification](https://github.com/modelica/ModelicaSpecification).
+Webpage: [Github page](https://github.com/modelica/ModelicaSpecification).
