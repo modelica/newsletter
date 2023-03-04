@@ -21,10 +21,10 @@ It has been developed jointly by the prostep ivip Smart Systems Engineering proj
 The FMI 3.0 Implementers' Guide provides best practice recommendations to implementers of FMI, focusing on FMI 3.0, derived from the industrial experience of the prostep Smart Systems Engineering project members and the FMI community in employing FMI.
 
 The overarching goal of the recommendations is to aid interoperability of FMI implementations and ensure good ease-of-use for end users in employing FMI. 
-The FMI 3.0 implementer’s is intended for simulation tool vendors planning to support FMI in their products, for importing FMUs and exporting FMUs.
+The FMI 3.0 Implementers' Guide is intended for tool vendors planning to support FMI in their products, for importing and exporting FMUs.
 It assumes a technical audience familiar with the specification documents and tries to give further information and hints in areas where either the relevant specification documents have been found less clear than expected or where user expectations are relevant to implementation choices.
-It also considers errors and bugs encountered in the practical use of existing FMI implementations and guides to avoid common pitfalls.  
-It shall be a living document and will be maintained and expanded over time as new issues or needs for clarification appear.
+It also considers errors and bugs encountered in the practical use of existing FMI implementations and guides to avoid common pitfalls.
+It is intended as a living document and will be maintained and expanded over time as new issues or needs for clarification appear.
 All of the content is to be considered non-normative and shall not be considered to supplant any normative statement in the FMI 3.0 standard.
 
 Releases and issues can be found on [github.com/modelica/fmi-guides](https://github.com/modelica/fmi-guides/tree/main/fmi-guide).
