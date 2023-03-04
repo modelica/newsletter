@@ -21,7 +21,8 @@ The MA (Modelica Association) board has finally decided to base the MA web pages
 
 Recall that Modelica Association has now a [Spreadshirt Shop](https://ma-merch.myspreadshop.de/) where you find T-Shirts, hoodies, coffee cups and stickers with various logos from the Modelica Association and its standards.
 
-If you have interesting news for the Modelica, FMI, SSP, DCP, eFMI communities, please follow the [submission guidelines](https://newsletter.modelica.org/submission-guidelines.html). The deadline for articles for the next newsletter is Friday, July 7, 2023.
+If you have interesting news for the Modelica, FMI, SSP, DCP, eFMI communities, please follow the [submission guidelines](https://newsletter.modelica.org/submission-guidelines.html). Consider also providing articles on how Modelica Association standards, associated tools and libraries are helping to address the **climate and energy crisis** to reduce net greenhouse gas emissions and to exploit energy savings in areas that used to be ignored due to low energy prices in the past. We see a large increase of using Modelica Association standards, tools and libraries for this purpose (e.g., optimizing energy production, production plants, green hydrogen production/submission, heat pumps, electrical cars). For example, see ABB's online optimization tool chain [OPTIMAX](https://new.abb.com/power-generation/energy-management/optimax-solution-suite/optimax-for-green-hydrogen)&reg;  which is based on *the Modelica language, FMI, OpenModelica* and helps improving energy production and reducing greenhouse gas emissions world-wide in large scale. Also, *Modelica language and Modelons Impact* is helping Honda Motor Company to [transition automotive production plants to be carbon neutral](https://modelon.com/support/becoming-carbon-neutral-with-system-simulation-honda/). \
+The deadline for articles for the next newsletter is Friday, July 7, 2023.
 
 Martin Otter on March 3, 2023
 
