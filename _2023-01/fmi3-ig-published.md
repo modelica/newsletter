@@ -14,7 +14,7 @@ category: association
 ![prostep-logo](prostep_logo.svg)
 </div>
 
-#### FMI 3.0 implementer’s guide jointly published by prostep ivip and Modelica Association Project FMI
+#### FMI 3.0 Implementers' Guide jointly published by prostep ivip and Modelica Association Project FMI
 
 The [FMI 3.0 Implementers' Guide](https://modelica.github.io/fmi-guides/main/fmi-guide/) is a free resource intended to give non-normative recommendations and guidance to implementers of the Functional Mock-up Interface (FMI) standard version 3.0.
 It has been developed jointly by prostep ivip and the Modelica Association Project FMI.
