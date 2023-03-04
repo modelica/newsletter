@@ -35,6 +35,8 @@ Webpage: [https://fmi-standard.org/](https://fmi-standard.org/),  Email: contact
 
 #### About prostep ivip and the Smart Systems Engineering project
 
-The prostep ivip Association is an international association committed to the development of innovative approaches to solving problems and modern standards for product data management and virtual product creation. It bundles the interests of manufacturers and suppliers in manufacturing industry as well as IT vendors, in close cooperation with research and science institutes, to provide its members with the long-term competitive advantages that more efficient processes, methods and systems provide. The prostep ivip Smart Systems Engineering develops recommendations for process design, promotes technical standards for the cooperative development of complex mechatronic systems, and supports the creation of transparency with regard to systems engineering objects both within and across companies.
+The prostep ivip association is an international association committed to the development of innovative approaches to solving problems and modern standards for product data management and virtual product creation.
+It bundles the interests of manufacturers and suppliers in manufacturing industry as well as IT vendors, in close cooperation with research and science institutes, to provide its members with the long-term competitive advantages that more efficient processes, methods and systems provide.
+The prostep ivip Smart Systems Engineering project develops recommendations for process design, promotes technical standards for the cooperative development of complex mechatronic systems, and supports the creation of transparency with regard to systems engineering objects both within and across companies.
 
 Webpage: prostep ivip association: [http://prostep.org](https://www.prostep.org/), Smart Systems Engineering Project: https://www.prostep.org/projekte/smart-systems-engineering/
