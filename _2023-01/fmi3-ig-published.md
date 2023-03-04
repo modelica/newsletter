@@ -18,7 +18,7 @@ category: association
 
 The [FMI 3.0 Implementers' Guide](https://modelica.github.io/fmi-guides/main/fmi-guide/) is a free resource intended to give non-normative recommendations and guidance to implementers of the Functional Mock-up Interface (FMI) standard version 3.0.
 It has been developed jointly by the prostep ivip Smart Systems Engineering project and the Modelica Association Project FMI.
-The FMI 3.0 implementer’s guide provides best practice recommendations to implementers of FMI, focusing on FMI 3.0, derived from the industrial experience of the prostep Smart Systems Engineering project members and the FMI community in employing FMI.
+The FMI 3.0 Implementers' Guide provides best practice recommendations to implementers of FMI, focusing on FMI 3.0, derived from the industrial experience of the prostep Smart Systems Engineering project members and the FMI community in employing FMI.
 
 The overarching goal of the recommendations is to aid interoperability of FMI implementations and ensure good ease-of-use for end users in employing FMI. 
 The FMI 3.0 implementer’s is intended for simulation tool vendors planning to support FMI in their products, for importing FMUs and exporting FMUs.
