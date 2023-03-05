@@ -77,4 +77,8 @@ collections:
   2023-01:
     permalink: /:collection/:path
     title: Spring 2023 release
-    output: false   
+    output: true   
+  2023-02:
+    permalink: /:collection/:path
+    title: Summer 2023 release
+    output: true
