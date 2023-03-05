@@ -8,10 +8,10 @@ The 15th OpenModelica Annual Workshop organized by the Open Source Modelica Cons
 
 The program and the presentations are available [here](https://openmodelica.org/events/openmodelica-workshop/2023/)
 
-![](casella.png)
+[![](casella_s.png)](casella.png)
 
 Francesco Casella, OSMC director presents new results on simulation of large-scale Modelica Models with array-preserving technology using OpenModelica.
 
-![](lennart.png)
+[![](lennart_s.png)](lennart.png)
 
 Lennart Ochel (VTI), workshop chairperson, presents directions and usage of OpenModelica technology for driving simulators at the Swedish Road and Traffic Institute (VTI).
