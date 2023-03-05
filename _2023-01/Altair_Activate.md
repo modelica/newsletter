@@ -1,9 +1,15 @@
+---
+title: Altair Activate is going to support FMI 3.0
+author: Masoud Najafi [Altair](https://altair.com/activate)
+category: "vendor"
+---
+
 Altair is pleased to announce FMI 3.0 support in the next release of the system simulation software Activate (version 2022.3) as part of its Model Based Design product solution. 
 This release will be the first to introduce the import and the export of FMUs for Model Exchange and Co-Simulation supporting the new FMI-3.0 specification. 
 
 All features supported for FMI-2.0 import/export in previous Activate releases will also be supported in FMI-3.0 import/export.
 
-##FMI-3.0 for ModelExchange, Co-Simulation, and source code
+#### FMI-3.0 for ModelExchange, Co-Simulation, and source code
 With Altair Activate 2022.3, continuous-time and clocked based models can be exported as 3.0 FMUs for ModelExchange and Co-Simulation, as well as the source code. 
 
 The following 3.0 specific features will be supported:
