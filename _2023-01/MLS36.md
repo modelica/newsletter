@@ -20,6 +20,6 @@ Several tools have already developed full implementations or protypes for these 
 
 The Multilingual support in the language is intended as a first step to allow library developers to provide translations in a tool-independent way.
 
-##### Modelica Assocation Project Language
+#### Modelica Assocation Project Language
 
 Webpage: [Github page](https://github.com/modelica/ModelicaSpecification).
