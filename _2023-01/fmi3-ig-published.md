@@ -1,6 +1,6 @@
 ---
-title: FMI 3.0 Implementers' Guide jointly published by prostep ivip and Modelica Association Project FMI
-author: [MAP FMI](https://fmi-standard.org/)
+title: "FMI 3.0 Implementers Guide jointly published by prostep ivip and Modelica Association Project FMI"
+author: "[MAP FMI](https://fmi-standard.org/)"
 category: association
 ---
 
