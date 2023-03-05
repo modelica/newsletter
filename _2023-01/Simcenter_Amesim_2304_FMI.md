@@ -8,7 +8,7 @@ This release will be the first to introduce the export of FMUs for co-simulation
 
 ![](amesim_banner_2304.png)
 
-## Introducing 3.0 FMUs for co-simulation
+#### Introducing 3.0 FMUs for co-simulation
 With Simcenter Amesim 2304, users will be able to export their models as 3.0 FMUs for co-simulation. 
 As before, in addition to native Simcenter Amesim components, models can be hybridized with Modelica blocks, pretrained neural networks, Statecharts or previously imported Simulink models. 
 The following 3.0 specific features will be supported:
