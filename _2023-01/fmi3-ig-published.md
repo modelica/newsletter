@@ -31,7 +31,7 @@ Releases and issues can be found on [github.com/modelica/fmi-guides](https://git
 
 ##### Modelica Assocation Project FMI 
 
-Webpage: [https://fmi-standard.org/](https://fmi-standard.org/),  Email: contact@fmi-standard.org
+Webpage: [https://fmi-standard.org/](https://fmi-standard.org/),  Email: [contact@fmi-standard.org](mailto:contact@fmi-standard.org)
 
 #### About prostep ivip and the Smart Systems Engineering project
 
@@ -39,4 +39,4 @@ The prostep ivip association is an international association committed to the de
 It bundles the interests of manufacturers and suppliers in manufacturing industry as well as IT vendors, in close cooperation with research and science institutes, to provide its members with the long-term competitive advantages that more efficient processes, methods and systems provide.
 The prostep ivip Smart Systems Engineering project develops recommendations for process design, promotes technical standards for the cooperative development of complex mechatronic systems, and supports the creation of transparency with regard to systems engineering objects both within and across companies.
 
-Webpage: prostep ivip association: [http://prostep.org](https://www.prostep.org/), Smart Systems Engineering Project: https://www.prostep.org/projekte/smart-systems-engineering/
+Webpage: prostep ivip association: [http://prostep.org](https://www.prostep.org/), Smart Systems Engineering Project: [www.prostep.org/projekte/smart-systems-engineering/](https://www.prostep.org/projekte/smart-systems-engineering/)
