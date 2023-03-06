@@ -15,7 +15,7 @@ The **[FMI 3.0 implementers' guide](https://modelica.github.io/fmi-guides/main/f
 
 The MAP (Modelica Association Project) FMI currently works mainly on **layered standards** for certain extensions of FMI 3.0, e.g., for simulation of network communication. Also, [eFMI](https://efmi-standard.org/) can be seen as an extremly powerful layered standard extension of FMI. Layered standards are a concept first introduced in the SSP standard, and then adopted to FMI. See [FMI 3.0, section 2.6]( https://fmi-standard.org/docs/3.0/#VersioningLayered) for more information. It allows to perform open source and commercial extensions of the FMI standard in a backwards compatible way, in particular also by third parties that have no relation to MAP FMI.
 
-<img align="right" src="../_2022-03/ma-t-shirt.png">
+<img align="right" src="ma-t-shirt.png">
 
 The MA (Modelica Association) board has finally decided to base the MA web pages technically on the static site generator [Hugo](https://gohugo.io/) using the [fmi-standard.org](https://fmi-standard.org/) web page as a template. Hugo has the advantage that it is simple to use (just download and run the executable for your platform; provide content especially with markdown files), has a modern layout and is actively maintained. For more info, see the [sources of the fmi-standard.org website](https://github.com/modelica/fmi-standard.org) and the [ma-hugo-theme](https://github.com/modelica/ma-hugo-theme). In the near future, all other MAPs and the MA entry web page will be based on Hugo.
 
