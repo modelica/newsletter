@@ -70,14 +70,14 @@ For release notes on all Modelon libraries, please visit the [Help Center](https
 
 #### Modelon Blogs 
 
-[<img src= "Modelon_Siemens_Quote_1200_627_v1.jpg" alt= "Modelon and Siemens Energy Case Study" width="600px">](https://modelon.com/support/heat-pump-technology-adapting-to-the-future-with-system-simulation/)
+[<img src= "Modelon_Blog_CCS_Combined_Power_Plant_1200_v2.jpg" alt= "Blog CCS with Natural Gas Combined Cycle Power Plants" width="600px">]([https://modelon.com/support/heat-pump-technology-adapting-to-the-future-with-system-simulation/](https://modelon.com/blog/carbon-capture-sequestration-and-natural-gas-combined-cycle-power-plant-integration/))
 
 ##### Integrating Carbon Capture and Sequestration (CCS) with Natural Gas Combined Cycle Power Plants 
 In this blog, learn how the role of a natural gas combined cycle power plant with carbon capture and sequestration can reduce global emissions of greenhouse gas. [Read the blog](https://modelon.com/blog/carbon-capture-sequestration-and-natural-gas-combined-cycle-power-plant-integration/).  
 
 #### Modelon Events
 
-[<img src= "Modelon_Saab_1200_627_v6_1.jpg" alt= "Modelon and Saab Case Study" width="600px">](https://modelon.com/support/modernizing-fighter-aircraft-with-open-standard-technology/))
+[<img src= "Modelon_KK_Seminar_ENG_1200_v4.jpg" alt= "Modelon K.K. Seminar" width="600px">]([https://modelon.com/support/modernizing-fighter-aircraft-with-open-standard-technology/](https://modelon.com/model-based-development-workshop-series-2023/))
 
 ##### Model-Based Development Seminar Series with Modelon Impact 
 In this in-person seminar series organized by Modelon K.K, Dr. Yutaka Hirano will provide step-by-step explanations and hands-on practice using Modelica fundamentals and application methods, details of the Modelica grammar, an overview of Modelica processing systems, and examples of Modelica applications to model-based development and system design. [Learn more and register here](https://modelon.com/model-based-development-workshop-series-2023/).  
