@@ -14,59 +14,71 @@ Visit [https://modelon.com](https://modelon.com/) for more information.
 Follow us on [LinkedIn.](https://www.linkedin.com/company/modelon)
 
 
-#### Modelon Impact 2022.2 Release Now Available 
+#### Modelon Library Updates 
 
-[<img src= "Modelon_1200_627_Impact_Release_2022_2_v4.jpg" alt= "Modelon Impact 2022.2 Release" width="600px">](https://modelon.com/modelon-2022-2-release-system-simulation-on-the-cloud-has-arrived/)
+As part of Modelon’s 2023.2 release, Modelon has made significant updates to its set Modelica libraries. The highlights below correspond to individual [Modelica libraries](https://modelon.com/modelon-library-suite-modelica-libraries/) that Modelon offers as part of Modelon Impact.  
 
-We’re happy to announce one of our biggest releases – Modelon Impact Cloud, our system simulation platform accessible via public cloud. 
-Read the full release announcement [here.](https://modelon.com/modelon-2022-2-release-system-simulation-on-the-cloud-has-arrived/)
-Watch the Modelon Impact explainer video [here.](https://www.youtube.com/watch?v=bRPqP9H07co&t=2s)
+##### Thermal Power Library
 
-#### Modelon Case Studies
+###### One-factor Scaling of Combined Cycle Plant Models 
+Users will now be able to adapt the size of their combined cycle plant models within a single parameter. Because every plant is unique, this capability eliminates the need for system modelers to recreate a system model. A user can simply manipulate the size of a pre-existing system model while ensuring that the resized plant matches important variables such as the temperature and pressure of the relevant plant. In turn, users are able to get relatively accurate answers within minutes. 
 
-##### Lightyear and Modelon: Fast-Tracking All-Electric Solar Driving With System Simulation 
+###### Hydrogen Blending of a Combined Cycle Gas Turbines 
+This capability allows you to replace natural gas with hydrogen gas in a combined cycle gas turbine. This is especially useful for users who’d like to evaluate design architectures such as controls design and HRSG design with the integration of hydrogen fuel. Performance studies and carbon dioxide reduction studies are also possible with this capability. 
 
-[<img src= "Modelon_Lightyear_1200_627_new_v1_2.jpg" alt= "Modelon and Lightyear Case Study" width="600px">](https://modelon.com/support/lightyear-solar-vehicle-system-simulation/)
+###### Integrated Carbon Capture Plant with Combined Cycle Plant Model 
+This model includes a carbon capture plant and combined cycle plant integrated together. This integrated approach allows for complete optimization and flexibility of plants that are designed accordingly.  
 
-Time is valuable, especially for a company such as Lightyear to build and bring to market a cutting-edge solar-electric vehicle. With Modelon Impact, Lightyear reduced its overall system design and simulation time while making smarter development decisions along the way. [Read the case study.](https://modelon.com/support/lightyear-solar-vehicle-system-simulation/) 
+##### Vapor Cycle Library
 
-##### Siemens Energy and Modelon: Adapting to the Future of Energy Technology with System Simulation 
+###### Air-to-Air Source Heat Pump Model 
+An air-to-air heat pump model is now available as part of the Vapor Cycle Library. This allows users to model and simulate applications related to the design and operation of residential heat pumps.  
+
+###### Stacking with Fin-on-Tube Heat Exchanger 
+The existing fin-on-tube heat exchanger model within the Vapor Cycle Library has been improved to allow stacking and multi-circuit modeling. This is particularly useful for users using Modelon Impact for HVAC applications.  
+
+###### Hydrogen Storage Tank Model Package for Aircraft 
+Modelon offers a pre-built hydrogen storage tank model in Vapor Cycle Library for hydrogen aircraft applications. This package includes a subpackage dedicated for tank sizing, which uses methodologies that take into consideration mechanical strength, structural design, heat transfer and dormancy. This package also includes example models that use the hydrogen tank for dynamic simulation. These example models comprise of a detailed tank filling experiment, a sealed tank experiment, and an evaporation of liquid cryogenic hydrogen experiment with a heat exchanger. 
+
+##### Air Conditioning Library
+
+###### Automatic Summation of Refrigerant Volumes and Mass 
+A new capability to automatically sum refrigerant volumes and masses has been introduced.  This fully automatic capability streamlines the process for running fixed charge simulations and monitoring charge in the system. 
+
+###### Non-Ideal Sensors 
+A package of non-ideal sensor models is now included with the library to support model-based controls development.  The non-ideal sensors can flexibly add sensor dynamics, failure, and analog-to-digital conversion effects to sensor outputs to more accurately mimic real sensor signals.  An example experiment showing the various non-ideal effects is also included. 
+
+##### Vehicle Dynamics Library 
+
+###### Support for rFpro HD TERRAIN SERVER 
+Modelon’s Vehicle Dynamics Library now supports rFpro’s TERRAIN SERVER detailed road surface model.  This allows for high-definition surface scan data (such as LiDAR) to be used directly by the vehicle model for tire and chassis contacts. 
+
+##### Electrification Library
+
+###### New Fuel Cell Example 
+A new example showing how to couple a fuel cell with Modelon’s Electrification Library is included.  This first example illustrates coupling principles with the Electrification Library using a simplified fuel cell representation. 
+
+###### Getting Started Guides and Training 
+A number of improvements and enhancements have been made to the Getting Started guides in the library.  In addition, a one-day formal training for Modelon’s Electrification Library is now available.   
+
+##### Other Highlights
+
+###### Tabular Media for Refrigerant Mixtures 
+Modelon Impact users and Modelon library users will now have access to a wider range of refrigerant mixtures that can be used with Modelon’s Vapor Cycle Library, Heat Exchanger Library, Air Conditioning Library, and Thermal Power Library. With the ability to generate mixtures specific to a customer’s use case, users will be able to run simulations up to four times faster than current simulation speeds. 
+
+For release notes on all Modelon libraries, please visit the [Help Center](https://help.modelon.com/latest/). For information on Modelon’s libraries, [click here](https://modelon.com/modelon-library-suite-modelica-libraries/).  
+
+#### Modelon Blogs 
 
 [<img src= "Modelon_Siemens_Quote_1200_627_v1.jpg" alt= "Modelon and Siemens Energy Case Study" width="600px">](https://modelon.com/support/heat-pump-technology-adapting-to-the-future-with-system-simulation/)
 
-Siemens Energy needed to improve and further develop its heat pumps to ensure the performance and design of the integrated systems worked efficiently before moving forward with deployment. 
-In our new case study, learn how Siemens Energy integrated its advanced energy systems with its existing heat pump technology using Modelon Impact. [Read the case study.](https://modelon.com/support/heat-pump-technology-adapting-to-the-future-with-system-simulation/) 
+##### Integrating Carbon Capture and Sequestration (CCS) with Natural Gas Combined Cycle Power Plants 
+In this blog, learn how the role of a natural gas combined cycle power plant with carbon capture and sequestration can reduce global emissions of greenhouse gas. [Read the blog](https://modelon.com/blog/carbon-capture-sequestration-and-natural-gas-combined-cycle-power-plant-integration/).  
 
-##### Saab and Modelon: Modernizing Fighter Aircraft with Open-Standard Technology 
+#### Modelon Events
 
 [<img src= "Modelon_Saab_1200_627_v6_1.jpg" alt= "Modelon and Saab Case Study" width="600px">](https://modelon.com/support/modernizing-fighter-aircraft-with-open-standard-technology/))
 
-In 1988, Saab made history with the Gripen - the first multirole fighter aircraft developed in Sweden to take flight. Since its initial development, Saab has been tasked with making iterations of the Gripen, which are each more powerful and technologically advanced than before. 
- 
-This case study explains how Saab worked with Modelon to incorporate MBSE and greatly enhance the Gripen without overextending its in-house resources. [Read the case study.](https://modelon.com/support/modernizing-fighter-aircraft-with-open-standard-technology/)
+##### Model-Based Development Seminar Series with Modelon Impact 
+In this in-person seminar series organized by Modelon K.K, Dr. Yutaka Hirano will provide step-by-step explanations and hands-on practice using Modelica fundamentals and application methods, details of the Modelica grammar, an overview of Modelica processing systems, and examples of Modelica applications to model-based development and system design. [Learn more and register here](https://modelon.com/model-based-development-workshop-series-2023/).  
 
-#### New Training Content in Modelon Help Center
-
-[<img src= "Help Center.png" alt= "Modelon Help Center" width="600px">](https://help.modelon.com/latest/)
-
-The Modelon Help Center is a public resource for Modelon Impact users, simulation and modeling professionals, Modelica modelers, and students to leverage the expertise that Modelon’s experts have to offer. Access guides and material for Modelon Impact and Modelon libraries within the energy & process, automotive, aerospace, and industrial equipment industries. 
-
-We’ve now [released training material](https://help.modelon.com/latest/landing_pages/modelon_innovate_content_page/) from our most recent global conference, Modelon Innovate. From learning how to use advanced workflows to simulating industry-specific applications, Modelon Help Center users can now access all the latest content from the conference. 
-
-#### Blogs
-
-##### Trends in Energy Technology for 2022 
-
-This blog describes the trends and observations of innovative energy technologies in 2022 and beyond. With over 20 years of experience in model-based engineering, Modelon’s Energy and Process Industry Director, Stéphane Velut, shares his views on energy technologies trends, observations & insights – with a focus on what he is seeing in the industry and how simulation software is enabling world-leading organizations to get ahead. [Read the blog.](https://modelon.com/energy-technologies-trends-2022/)
-
-##### What is Physical System Simulation? 
-
-Physical system simulation is an elusive concept –yet on your journey to virtualize the product design process, there is no way around it. In the first blog of the Success with Simulation series, PieterDermont, Modelon’s Senior Business Development Director, covers what physical system simulation is, what it is not (hint, it is not “systems engineering”), and what it can do for your organization. [Read the blog.](https://modelon.com/system-simulation-what-is-physical-system-simulation/)
-
-##### Hybrid Electric Propulsion Systems: Modeling the Backbone of Electric Aircraft 
-
-Part one of the Sustainable Aviation Blog Series. Developing technologies to enable more sustainable aviation for the aerospace industry is a crucial challenge that engineers are trying to overcome. This blog focuses on modeling and simulating fuel savings and increased flight range which is powered by hybrid electric propulsion systems. [Read the blog.](https://modelon.com/hybrid-electric-propulsion-systems/)
-
-##### Direct Air Capture: Seizing Emissions to Achieve Climate Targets 
-
-Direct Air Capture (DAC) is a technology that captures and scrubs carbon dioxide from the atmosphere. In this blog, learn the DAC process step-by-step and how this technology can be integrated into current systems by simulating prebuilt model examples in Modelon Impact. [Read the blog.](https://modelon.com/direct-air-capture-seizing-emissions-to-achieve-climate-targets/)  
