@@ -24,7 +24,7 @@ As part of Modelon’s 2023.2 release, Modelon has made significant updates to i
 Users will now be able to adapt the size of their combined cycle plant models within a single parameter. Because every plant is unique, this capability eliminates the need for system modelers to recreate a system model. A user can simply manipulate the size of a pre-existing system model while ensuring that the resized plant matches important variables such as the temperature and pressure of the relevant plant. In turn, users are able to get relatively accurate answers within minutes. 
 
 ###### Hydrogen Blending of a Combined Cycle Gas Turbines 
-This capability allows you to replace natural gas with hydrogen gas in a combined cycle gas turbine. This is especially useful for users who’d like to evaluate design architectures such as controls design and HRSG design with the integration of hydrogen fuel. Performance studies and carbon dioxide reduction studies are also possible with this capability. 
+This capability allows you to replace natural gas with hydrogen gas in a combined cycle gas turbine. This is especially useful for users who’d like to evaluate design architectures such as controls design and heat recovery steam generator design with the integration of hydrogen fuel. Performance studies and carbon dioxide reduction studies are also possible with this capability. 
 
 ###### Integrated Carbon Capture Plant with Combined Cycle Plant Model 
 This model includes a carbon capture plant and combined cycle plant integrated together. This integrated approach allows for complete optimization and flexibility of plants that are designed accordingly.  
