@@ -1,7 +1,7 @@
 ---
 title: Modelon Updates
-author: Kenzie Maurice, Modelon (https://modelon.com)
-category: "vendor"
+author: Swati Tyagi, Modelon (https://modelon.com)
+category: "Vendor"
 ---
 
 
