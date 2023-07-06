@@ -10,23 +10,27 @@ category: "project"
 
 The [official website](https://www.efmi-standard.org/) of the Modelica Association project _Functional Mock-up Interface for embedded systems_ (MAP eFMI) is finally on air. Besides drafts of the upcoming standard, it provides a good overview of the eFMI technology, motivation, available tooling, documentation and introductory material, example eFMUs and a project organization overview.
 
+The project now also provides a new public mailing list, `efmi-info@googlegroups.com`, to help newcomers to get in contact with us and started with eFMI.
+
 #### First Commercial Tool Releases
 
-The first commercial tools with support for eFMI are officially released and available on the market. Most are already well-known and established tooling in the physics modeling or embedded software domain, giving professionals a chance to plug-and-play with eFMI. Together, the now available commerical tooling covers the complete eFMI workflow from physics modelling in Modelica down to production code on dedicated embedded platforms. The interoperability has been extensively tested using the [cross-check test suite provided by MAP eFMI](https://github.com/modelica/efmi-testcases). 
+The first commercial tools with support for eFMI are officially released and available on the market. Most are already well-known and established tooling in the physics modeling or embedded software domain, giving professionals a chance to plug-and-play with eFMI. Together, the now available commercial tooling covers the complete eFMI workflow from physics modeling in Modelica down to production code on dedicated embedded platforms. The interoperability has been extensively tested using the [cross-check test suite provided by MAP eFMI](https://github.com/modelica/efmi-testcases). 
 
-The available tools, and their interaction along the eFMI workflow, are summarized in the following figure (in alphabetic order):
+The now available tools, and their interaction along the eFMI workflow, are summarized in the following figure:
 
 ![eFMI Commercial Tools](MAP-eFMI-tools.png "eFMI Commercial Tools"){:width="620px"}
 
- - **AUTOSAR Builder** by [Dassault Systèmes](https://www.3ds.com/): IDE for modeling, testing and validation of in-vehicle embedded systems for the [AUTOSAR Classic and Adaptive Platforms](https://www.autosar.org/), facilitating seamless integration with other AUTOSAR compliant tools based on the [AUTOSAR Tool Platform (Artop)](https://www.artop.org/). Enables the application of eFMI Production Codes in AUTOSAR environments.
+The newly released eFMI tools are (in alphabetic order):
 
- - **CATIA ESP** by [Dassault Systèmes](https://www.3ds.com/): Embedded source code producer (ESP) on the [3DEXPERIENCE® platform](https://www.3ds.com/3dexperience), providing high quality code generation facilities for embedded, safety-critical and realtime capable platforms from eFMI Algorithm Codes.
+ - **AUTOSAR Builder** by [Dassault Systèmes](https://www.3ds.com/): IDE for modeling, testing and validation of in-vehicle embedded systems for the [AUTOSAR Classic and Adaptive Platforms](https://www.autosar.org/), facilitating seamless integration with other AUTOSAR compliant tools based on the [AUTOSAR Tool Platform (Artop)](https://www.artop.org/). Enables the application of eFMI Production Code containers in AUTOSAR environments.
 
- - **Dymola** by [Dassault Systèmes](https://www.3ds.com/): Modelica IDE for the acausal, equation-based modeling and simulation of complex multi-domain physics. Enables the generation of eFMI Algorithm Codes (i.e., causal/algorithmic solutions) form acausal controller and virtual sensor models in Modelica.
+ - **CATIA ESP** by [Dassault Systèmes](https://www.3ds.com/): Embedded source code producer (ESP) on the [3DEXPERIENCE® platform](https://www.3ds.com/3dexperience), enabling the generation of eFMI Production Code containers with safety-critical, realtime capable, [MISRA C:2012](https://www.misra.org.uk/) conforming C code from eFMI Algorithm Code containers.
 
- - **TargetLink** by [dSPACE](https://www.dspace.com/): Production code generator for highly efficient C code straight from MathWorks® [Simulink®](https://www.mathworks.com/products/simulink.html)/[Stateflow®](https://www.mathworks.com/products/stateflow.html) models, supporting early verification through built-in simulation and testing, certified for ISO 26262, ISO 25119 and IEC 61508, and with support for the [AUTOSAR Classic and Adaptive Platforms](https://www.autosar.org/). Enables the generation of embedded, safety-critical and realtime capable code from eFMI Algorithm Codes.
+ - **Dymola** by [Dassault Systèmes](https://www.3ds.com/): Modelica IDE for the acausal, equation-based modeling and simulation of complex multi-domain physics. Enables the generation of eFMI Algorithm Code containers (i.e., causal/algorithmic solutions) from acausal controller and virtual sensor models in Modelica.
 
- - **TPT** by [PikeTec](https://piketec.com/): IDE for testing ECU software and embedded control systems in all development phases such as model-in-the-loop (MiL testing), software-in-the-loop (SiL testing), processor-in-the-loop (PiL testing), hardware-in-the-loop (HiL testing), ECU testing and vehicle testing, supporting relevant safety standards, such as ISO 26262, and test assessment, reporting, management and requirements traceability. Enables the testing of eFMI Production Codes with eFMI Behavioral Models in many well-known embedded execution environments.
+ - **TargetLink** by [dSPACE](https://www.dspace.com/): Production code generator for highly efficient C code straight from MathWorks® [Simulink®](https://www.mathworks.com/products/simulink.html)/[Stateflow®](https://www.mathworks.com/products/stateflow.html) models, supporting early verification through built-in simulation and testing, certified for ISO 26262, ISO 25119 and IEC 61508, and with support for the [AUTOSAR Classic and Adaptive Platforms](https://www.autosar.org/). Enables the generation of eFMI Production Code containers with safety-critical, realtime capable, [MISRA C:2012](https://www.misra.org.uk/) conforming C code from eFMI Algorithm Code containers.
+
+ - **TPT** by [PikeTec](https://piketec.com/): IDE for testing ECU software and embedded control systems in all development phases such as model-in-the-loop (MiL testing), software-in-the-loop (SiL testing), processor-in-the-loop (PiL testing), hardware-in-the-loop (HiL testing), ECU testing and vehicle testing, supporting relevant safety standards, such as ISO 26262, and test assessment, reporting, management and requirements traceability. Enables the testing of eFMI Production Code containers with eFMI Behavioral Model containers in many well-known embedded execution environments.
 
 #### MAP eFMI Tool Releases
 
@@ -42,4 +46,4 @@ Since its kickoff in 2021 with eleven founding members, four new organizations j
 
 The project is open for further membership applications. If you think your organization should be part of standardizing and leveraging on the _physics modeling to embedded software bridge_ of the Modelica Association, please check our [membership application guidelines](https://www.efmi-standard.org/media/resources/MAP-eFMI-application.pdf).
 
-**In any case, [check the new eFMI website](https://efmi-standard.org)!**
+**In any case, [check the new eFMI website](https://efmi-standard.org) or contact us on our new public mailing list `efmi-info@googlegroups.com`!**
