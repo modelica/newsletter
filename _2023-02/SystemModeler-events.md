@@ -7,7 +7,7 @@ category: "vendor"
 
 ![Alt text](Wolfram-conference.png 'Wolfram Virtual Technology Conference 2023')
 
-Join the Wolfram Virtual Technology Conference to explore how System Modeler as well as Wolfram's technology stack can empower your organization's research, development and deployment. In this conference new Modelica libraries will be presented. Furthermore, you will learn how to easily publish your Modelica models, automatically calibrate model parameters and gamify your simulation experiments.
+Join the Wolfram Virtual Technology Conference to explore how System Modeler and the rest of Wolfram's technology stack can empower your organization's research, development and deployment. At this conference, new Modelica libraries will be presented.
 
 Learn from users, presenters and developers. Schedule a one-on-one meeting with our experts to get your questions answered.
 
