@@ -13,7 +13,13 @@ category: association
 
 #### Maintenance release FMI 3.0.1
 
-The FMI project has published a maintenance release FMI 2.0.3 with bugfixes and clarifications, see [here](https://github.com/modelica/fmi-standard/releases/)
+The FMI project has published a maintenance release FMI 3.0.1 with bugfixes and clarifications, see [here](https://github.com/modelica/fmi-standard/releases/)
+
+#### FMI Validation tools
+
+On the FMI Webpage an overview of free validation tools for FMUs is available:
+https://fmi-standard.org/validation/
+
 
 #### FMI Compatibility Information
 
@@ -24,3 +30,5 @@ Tool vendors that provide this information will be marked with a yellow star and
 ![](FMI_tools_page.png)
 
 (This replaces the [FMI Cross Check](https://fmi-standard.org/tools/), which was very successful to improve the maturity of FMI supporting tools, but exploded in complexity due to the number of participating tools)
+
+
