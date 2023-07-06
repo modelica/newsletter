@@ -3,7 +3,7 @@ title: "Wolfram Virtual Technology Conference 2023"
 author: "Ankit Naik [Wolfram](https://wolfram.com/system-modeler/)"
 category: "vendor"
 ---
-*Participate and meet us virtually during the Wolfram Technology Conference.*
+*Participate and meet us during the Wolfram Virtual Technology Conference.*
 
 ![Alt text](Wolfram-conference.png 'Wolfram Virtual Technology Conference 2023')
 
