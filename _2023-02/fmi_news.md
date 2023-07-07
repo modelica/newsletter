@@ -8,18 +8,16 @@ category: association
 {::options parse_block_html="true" /}
 
 <div style="float: right">
-![fmi-logo](fmi_logo.png)
+![fmi-logo](fmi_logo_horizontal.svg)
 </div>
 
 #### Maintenance release FMI 3.0.1
 
-The FMI project has published a maintenance release FMI 3.0.1 with bugfixes and clarifications, see [here](https://github.com/modelica/fmi-standard/releases/)
+A maintenance release FMI 3.0.1 with bugfixes and clarifications has been released, see https://github.com/modelica/fmi-standard/releases/. It is backwards compatible and does not intrduce new features.
 
-#### FMI Validation tools
+#### FMI Validation webpage
 
-On the FMI Webpage an overview of free validation tools for FMUs is available:
-https://fmi-standard.org/validation/
-
+On the FMI Webpage an overview of free validation tools for FMUs is available, see https://fmi-standard.org/validation/.
 
 #### FMI Compatibility Information
 
@@ -29,6 +27,6 @@ Tool vendors that provide this information will be marked with a yellow star and
 
 ![](FMI_tools_page.png)
 
-(This replaces the [FMI Cross Check](https://fmi-standard.org/tools/), which was very successful to improve the maturity of FMI supporting tools, but exploded in complexity due to the number of participating tools)
+(This replaces the [FMI Cross Check](https://github.com/modelica/fmi-cross-check), which has been archived)
 
 
