@@ -1,8 +1,9 @@
 ---
-title: Just released: System Modeler 13.3!
+title: "Just released: System Modeler 13.3!"
 author: "Ankit Naik [Wolfram](https://wolfram.com/system-modeler/)"
 category: "vendor"
 ---
+
 ![Alt text](SystemModeler13-3.png 'System Modeler 13.3')
 
 The new version comes with features that will accelerate your model development workflows. Some of the key features are:
