@@ -1,7 +1,7 @@
 ---
 title: Multi-Domain Drone Modeling with the New Open Source Drone Library (Free)
 author: "Luigi Vanfretti [Rensselaer Polytechnic Institute](https://alsetlab.github.io)"
-category: "Library"
+category: "library"
 ---
 ![Alt text](DronePackage.png 'Drone Library')
 
