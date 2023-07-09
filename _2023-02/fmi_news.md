@@ -4,7 +4,6 @@ author: MAP FMI
 category: association
 ---
 
-
 {::options parse_block_html="true" /}
 
 <div style="float: right">
