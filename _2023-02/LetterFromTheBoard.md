@@ -22,7 +22,7 @@ It contains new features such as [multilingual descriptions](https://specificati
 and 100+ minor improvements.
 For all the details see the [release notes](https://specification.modelica.org/master/modelica-revision-history.html#main-changes-in-modelica-3-6).
 
-Article **[FMI News](fmi_news.html)** provides latest news about FMI. In particular,
+Article **[FMI News](https://newsletter.modelica.org/2023-02/#fmi-news)** provides latest news about FMI. In particular,
 a maintenance release [FMI 3.0.1](https://github.com/modelica/fmi-standard/releases/) with bugfixes and clarifications will soon be released.
 
 The project web pages 

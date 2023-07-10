@@ -10,7 +10,7 @@ category: "project"
 
 The [official website](https://www.efmi-standard.org/) of the Modelica Association project _Functional Mock-up Interface for embedded systems_ (MAP eFMI) is finally on air. Besides drafts of the upcoming standard, it provides a good overview of the eFMI technology, motivation, available tooling, documentation and introductory material, example eFMUs and a project organization overview.
 
-The project now also provides a new public mailing list, `efmi-info@googlegroups.com`, to help newcomers to get in contact with us and started with eFMI.
+The project now also provides a new public mailing list, [`efmi-info@googlegroups.com`](https://groups.google.com/g/efmi-info) (Google account required to join), to help newcomers to get in contact with us and started with eFMI.
 
 #### First Commercial Tool Releases
 
@@ -46,4 +46,4 @@ Since its kickoff in 2021 with eleven founding members, four new organizations j
 
 The project is open for further membership applications. If you think your organization should be part of standardizing and leveraging on the _physics modeling to embedded software bridge_ of the Modelica Association, please check our [membership application guidelines](https://www.efmi-standard.org/media/resources/MAP-eFMI-application.pdf).
 
-**In any case, [check the new eFMI website](https://efmi-standard.org) or contact us on our new public mailing list `efmi-info@googlegroups.com`!**
+**In any case, [check the new eFMI website](https://efmi-standard.org) or contact us on our new public mailing list [`efmi-info@googlegroups.com`](https://groups.google.com/g/efmi-info)!**
