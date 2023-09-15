@@ -6,7 +6,7 @@ category: "vendor"
 
 ![TLK Energy Logo](TLK_Energy_Logo.jpg "TLK Energy")
 
-This year [TLK Energy GmbH](https://tlk-energy.de/) is Silver Sponsor of the Modelica Conference in Aachen.
+This year [TLK Energy GmbH](https://tlk-energy.de/) is Silver Sponsor of the Modelica Conference in Aachen.<br>
 Yann Pellny will give a presentation on "Balance of Plant Simulation for Electrolyzers". He will present TLK's work in collaboration with Neuman & Esser on the highly topical issue of hydrogen production.
 In general, the efficiency and power density of Proton Exchange Membrane (PEM) electrolyzers depend on several factors, such as the membrane itself, the liquid distribution, its design and the resulting heat and mass transfer.<br>
 To ensure safe and efficient operation under transient conditions, various parameters such as stack temperature and membrane moisture must be controlled.
