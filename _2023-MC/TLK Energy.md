@@ -4,7 +4,7 @@ author: "Lina Rosenthal ([TLK Energy GmbH](https://tlk-energy.de/))"
 category: "vendor"
 ---
 
-![TLK Energy Logo](TLK Energy Logo.jpg "TLK Energy")
+![TLK Energy Logo](TLK_Energy_Logo.jpg "TLK Energy")
 
 This year TLK Energy is Silver Sponsor of the Modelica Conference in Aachen.
 Yann Pellny will give a presentation on "Balance of Plant Simulation for Electrolyzers". He will present TLK's work in collaboration with Neuman & Esser on the highly topical issue of hydrogen production.
