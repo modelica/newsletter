@@ -19,4 +19,4 @@ Yann will present a simulation model, that uses two simulation libraries:
 When? October 10, 2023, approx. 3:45pm - 4:15pm<br>
 Where? Room Carbon
 
-Visit us at the conference for a face-to-face meeting. We look forward to discussing your use cases and demonstrating our tools
+Visit us at the conference for a face-to-face meeting. We look forward to discussing your use cases and demonstrating our tools.
