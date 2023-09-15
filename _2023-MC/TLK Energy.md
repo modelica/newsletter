@@ -1,6 +1,6 @@
 ---
 title: TLK Energy at the Modelica Conference 2023
-author: "Lina Rosenthal [TLK Energy GmbH](https://tlk-energy.de/)"
+author: "Lina Rosenthal ([TLK Energy GmbH](https://tlk-energy.de/))"
 category: "vendor"
 ---
 
