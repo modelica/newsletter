@@ -29,32 +29,34 @@ Not less than 3 XRG talks have made it to the program:
 The colleagues will be happy to answer your questions during the discussion.
 
 #### Our Product NEWS
-
- ![XRG Coarse Grid CFD Tool-Chain](https://www.xrg-simulation.de/sites/default/files/inline-images/ScoreLite900.png 'XRG Coarse Grid Tool-Chain using FREE Score lite')
+### XRG HumanComfort und FluidDynamics Library
 
 XRG offers two unique Modelica libraries that enable Navier-Stokes-based CFD coarse grid simulations in Dymola and Modelica. Profit from seamless coupling with system models and less computational effort for transient simulations.
 
 Pre-processing and post-processing is provided by our **Score lite** Application which is a complementary feature of [HumanComfort](https://www.xrg-simulation.de/en/products/xrg-library/humancomfort) and [FluidDynamics Library](https://www.xrg-simulation.de/index.php/en/products/xrg-library/fluiddynamics). If you already hold licenses of one or both libraries and do not have Score yet: Get in touch with us and [request](mailto:humancomfort@xrg-simulation.de?subject=Request%20for%20Score%20lite) your FREE license of Score lite today!
 
- 
- ![HVAC Library 3.0.0](https://www.xrg-simulation.de/sites/default/files/styles/max_2600x2600/public/2023-07/HVAC_scope.jpg?itok=g6h3EmDq 'HVAC Library 3.0.0 offers multi-tool support')
+ ![XRG Coarse Grid CFD Tool-Chain](https://www.xrg-simulation.de/sites/default/files/inline-images/ScoreLite900.png 'XRG Coarse Grid Tool-Chain using FREE Score lite')
+
+### XRG HVAC Library
 
 The newest version 3.0.0 of our [HVAC Library](https://www.xrg-simulation.de/en/products/xrg-library/xrg-hvac-library), offering the fastest HVAC simulations on the market, is now available for 
 
  - Dymola (Dassault Systèmes)
  - OpenModelica
  - Impact (Modelon)
+ 
+ ![HVAC Library 3.0.0](https://www.xrg-simulation.de/sites/default/files/styles/max_2600x2600/public/2023-07/HVAC_scope.jpg?itok=g6h3EmDq 'HVAC Library 3.0.0 offers multi-tool support')
 
-The HVAC Library includes components to model conventional energy systems with gas or oil boilers, as well as sustainable, CO2-neutral systems with heat pumps, 
-solar thermal collectors, photovoltaics and storage units. 
-By using a pressure-free modelling approach, simulation results can be delivered very fast, even for complex systems. 
-This makes the models ideal for annual simulations and automated optimization techniques.
+The HVAC Library includes components to model conventional energy systems with gas or oil boilers, as well as sustainable, CO2-neutral systems with heat pumps, solar thermal collectors, photovoltaics and storage units. 
+By using a pressure-free modelling approach, simulation results can be delivered very fast, even for complex systems. This makes the models ideal for annual simulations and automated optimization techniques.
 
 The new version 3.1.0 of the HVAC Library got a comprehensive update and improvement of many component models which will be presented in the XRG vendor session on Mon., 9th (see above).
 
- ![XRG Score Add-in](https://www.xrg-simulation.de/sites/default/files/2018-05/XRG-Grafik-Score-Kompatibilitaet-e-20180514.png 'XRG Score interaction with Excel and Dymola or FMU')
+### XRG Score Application
 
-XRG Score executes parallel Dymola or FMU simulations, imports **large** Dymola or OpenModelica result files and lets you filter and interpolate them. Our Score Application allows you to define and save all your simulation settings, model parameters and any results you require in a workbook and directly share them with others. You can run, import and report on any number of simulations over one of these workbooks. You can automatically transfer the results in Excel spreadsheet templates along with integrated charts and formulas.
+[XRG Score](https://www.xrg-simulation.de/en/products/applications/score) executes parallel Dymola or FMU simulations, imports **large** Dymola or OpenModelica result files and lets you filter and interpolate them. Our Score Application allows you to define and save all your simulation settings, model parameters and any results you require in a workbook and directly share them with others. You can run, import and report on any number of simulations over one of these workbooks. You can automatically transfer the results in Excel spreadsheet templates along with integrated charts and formulas.
+
+ ![XRG Score Add-in](https://www.xrg-simulation.de/sites/default/files/2018-05/XRG-Grafik-Score-Kompatibilitaet-e-20180514.png 'XRG Score interaction with Excel and Dymola or FMU')
 
 More technical features of Score:
   - **Multi-Threading** (parameter sweeps on multiple CPU cores) of Dymola or FMU simulations
@@ -65,6 +67,8 @@ More technical features of Score:
   - Broad support of MS Office versions through COM add-in
   
 The new version 1.9 incorporates some interesting features about post-processing of HumanComfort and FluidDynamics CFD results and more. Please attend the XRG vendor session on Mon., 9th (see above).
+
+#### ClaRaPlus
 
  ![ClarRa 1.7.1](ClaRaPlusInfoHeader171.png 'Advanced power plant simulation')
 
@@ -85,9 +89,9 @@ Some of the key features are:
 
 #### XRG's open-source products
 
-  ![Our Open-Source Products on GITHUB](XRGGithub.jpg 'Our Open-Source Products on GITHUB')
- 
  We have moved all our current open-source products to [Github](https://github.com/xrg-simulation). **You are welcome to start collaborating today!**
+
+  ![Our Open-Source Products on GITHUB](XRGGithub.jpg 'Our Open-Source Products on GITHUB')
 
 **SMARTIInt**<br>
 SMARTIInt provides a user-friendly interface between Modelica and data-based AI models. With its first release the SMARTIInt Modelica library provides integration of TensorFlow neural networks (feed forward and recurrent) as Modelica functions. SMARTIInt can be found on [Github](https://github.com/xrg-simulation/SMArtIInt). 
