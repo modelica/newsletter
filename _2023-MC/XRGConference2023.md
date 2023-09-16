@@ -83,7 +83,7 @@ Some of the key features are:
 - **Support for AI** (see SMARTIInt Library)
 - Validated against literature and measurement data
 
-- #### XRG's open-source products
+#### XRG's open-source products
 
   ![Our Open-Source Products on GITHUB](XRGGithub.jpg 'Our Open-Source Products on GITHUB')
  
