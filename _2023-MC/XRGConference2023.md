@@ -4,21 +4,21 @@ author: "Stefan Wischhusen [XRG Simulation GmbH](https://www.xrg-simulation.de/e
 category: "vendor"
 ---
 
-![](XRG_Logo_2015_4c_400px.png)
+![XRG Logo](XRG_Logo_2015_4c_400px.png 'XRG Logo')
 
 On the Modelica Conference 2023 XRG will be present with a booth, informative vendor session and three scientific talks about machine learning, zero-mass flow analysis and complex energy system modelling. If you haven't registered yet: **Do it now!**
 
-#### Our Booth
+### Our Booth
 
 Annika Kuhlmann and [Stefan Wischhusen](mailto:wischhusen@xrg-simulation.de?subject=Meeting%20request) are looking forward to meeting you at our booth in the exhibition area. Sneak around for an eye-2-eye conversation at any time.
 
-#### Our Vendor Presentation: Welcome to the world of XRG!
+### Our Vendor Presentation: Welcome to the world of XRG!
 
 In this presentation given in Room Silver, we will introduce you to our latest advancements and special features in Modelica libraries and tools, showcasing the extremely enhanced capabilities of our [HumanComfort Library](https://www.xrg-simulation.de/en/products/xrg-library/humancomfort), [HVAC Library](https://www.xrg-simulation.de/index.php/en/products/xrg-library/xrg-hvac-library), [ClaRaPlus Library](https://www.claralib.com/index.php?lang=en) and our very efficient [Score Excel AddIn](https://www.xrg-simulation.de/index.php/en/products/applications/score) enabling simulations for everyone.
 
 Discover how these multi simulation platform solutions empower you to efficiently simulate and model diverse scenarios, optimize thermal behavior, analyze HVAC systems, simulate power plants, and remotely control FMUs or Dymola from the familiar Excel interface. 
 
-#### Our Talks
+### Our Talks
 
 Not less than 3 XRG talks have made it to the program:
 
@@ -28,8 +28,8 @@ Not less than 3 XRG talks have made it to the program:
  
 The colleagues will be happy to answer your questions during the discussion.
 
-#### Our Product NEWS
-### XRG HumanComfort und FluidDynamics Library
+### Our Product NEWS
+#### XRG HumanComfort und FluidDynamics Library
 
 XRG offers two unique Modelica libraries that enable Navier-Stokes-based CFD coarse grid simulations in Dymola and Modelica. Profit from seamless coupling with system models and less computational effort for transient simulations.
 
@@ -37,7 +37,7 @@ Pre-processing and post-processing is provided by our **Score lite** Application
 
  ![XRG Coarse Grid CFD Tool-Chain](https://www.xrg-simulation.de/sites/default/files/inline-images/ScoreLite900.png 'XRG Coarse Grid Tool-Chain using FREE Score lite')
 
-### XRG HVAC Library
+#### XRG HVAC Library
 
 The newest version 3.0.0 of our [HVAC Library](https://www.xrg-simulation.de/en/products/xrg-library/xrg-hvac-library), offering the fastest HVAC simulations on the market, is now available for 
 
@@ -52,7 +52,7 @@ By using a pressure-free modelling approach, simulation results can be delivered
 
 The new version 3.1.0 of the HVAC Library got a comprehensive update and improvement of many component models which will be presented in the XRG vendor session on Mon., 9th (see above).
 
-### XRG Score Application
+#### XRG Score Application
 
 [XRG Score](https://www.xrg-simulation.de/en/products/applications/score) executes parallel Dymola or FMU simulations, imports **large** Dymola or OpenModelica result files and lets you filter and interpolate them. Our Score Application allows you to define and save all your simulation settings, model parameters and any results you require in a workbook and directly share them with others. You can run, import and report on any number of simulations over one of these workbooks. You can automatically transfer the results in Excel spreadsheet templates along with integrated charts and formulas.
 
@@ -68,7 +68,7 @@ More technical features of Score:
   
 The new version 1.9 incorporates some interesting features about post-processing of HumanComfort and FluidDynamics CFD results and more. Please attend the XRG vendor session on Mon., 9th (see above).
 
-#### ClaRaPlus
+#### ClaRaPlus Library
 
  ![ClarRa 1.7.1](ClaRaPlusInfoHeader171.png 'Advanced power plant simulation')
 
