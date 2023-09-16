@@ -4,7 +4,7 @@ author: "Stefan Wischhusen [XRG Simulation GmbH](https://www.xrg-simulation.de/e
 category: "vendor"
 ---
 
-![XRG Logo](XRG_Logo_2015_4c_400px.jpg 'XRG Logo')
+![XRG Logo](XRG_Logo_2015_4c_400px_neu.jpg 'XRG Logo')
 
 On the Modelica Conference 2023 XRG will be present with a booth, informative vendor session and three scientific talks about machine learning, zero-mass flow analysis and complex energy system modelling. If you haven't registered yet: **Do it now!**
 
