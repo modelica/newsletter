@@ -83,7 +83,9 @@ Some of the key features are:
 - **Support for AI** (see SMARTIInt Library)
 - Validated against literature and measurement data
 
-  ![Our Open Source Products on GITHUB](XRGGithub.jpg 'Our Open-Source Products on GITHUB')
+- #### XRG's open-source products
+
+  ![Our Open-Source Products on GITHUB](XRGGithub.jpg 'Our Open-Source Products on GITHUB')
  
  We have moved all our current open-source products to [Github](https://github.com/xrg-simulation). **You are welcome to start collaborating today!**
 
