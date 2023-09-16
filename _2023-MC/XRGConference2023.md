@@ -30,7 +30,7 @@ The colleagues will be happy to answer your questions during the discussion.
 
 #### Our Product NEWS
 
- ![XRG's Coarse Grid CFD Tool-Chain](https://www.xrg-simulation.de/sites/default/files/inline-images/ScoreLite900.png 'XRG's Coarse Grid Tool-Chain using FREE Score lite')
+ ![XRG Coarse Grid CFD Tool-Chain](https://www.xrg-simulation.de/sites/default/files/inline-images/ScoreLite900.png 'XRG Coarse Grid Tool-Chain using FREE Score lite')
 
 XRG offers two unique Modelica libraries that enable Navier-Stokes-based CFD coarse grid simulations in Dymola and Modelica. Profit from seamless coupling with system models and less computational effort for transient simulations.
 
