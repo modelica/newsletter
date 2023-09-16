@@ -33,7 +33,7 @@ The colleagues will be happy to answer your questions during the discussion.
 
 XRG offers two unique Modelica libraries that enable Navier-Stokes-based CFD coarse grid simulations in Dymola and Modelica. Profit from seamless coupling with system models and less computational effort for transient simulations.
 
-Pre-processing and post-processing is provided by our **Score lite** Application which is a complementary feature of [HumanComfort](https://www.xrg-simulation.de/en/products/xrg-library/humancomfort) and [FluidDynamics Library](https://www.xrg-simulation.de/index.php/en/products/xrg-library/fluiddynamics). If you already hold licenses of one or both libraries and do not have Score yet: Get in touch with us and [request](mailto:humancomfort@xrg-simulation.de?subject=Request%20for%20Score%20lite) your FREE license of Score lite today!
+Pre-processing and post-processing is provided by our **Score lite** Application which is a complementary feature of [HumanComfort](https://www.xrg-simulation.de/en/products/xrg-library/humancomfort) and [FluidDynamics Library](https://www.xrg-simulation.de/index.php/en/products/xrg-library/fluiddynamics). If you already hold licenses of one or both libraries and do not have Score yet: Get in touch with us and [request](mailto:humancomfort@xrg-simulation.de?subject=Request%20for%20Score%20lite) your **free** license of Score lite today.
 
  ![XRG Coarse Grid CFD Tool-Chain](https://www.xrg-simulation.de/sites/default/files/inline-images/ScoreLite900.png 'XRG Coarse Grid Tool-Chain using FREE Score lite')
 
@@ -45,7 +45,7 @@ The newest version 3.0.0 of our [HVAC Library](https://www.xrg-simulation.de/en/
  - OpenModelica
  - Impact (Modelon)
  
- ![HVAC Library 3.0.0](https://www.xrg-simulation.de/sites/default/files/styles/max_2600x2600/public/2023-07/HVAC_scope.jpg?itok=g6h3EmDq 'HVAC Library 3.0.0 offers multi-tool support')
+ ![HVAC Library 3.0.0](HVAC_3.jpg 'HVAC Library 3.0.0 offers multi-tool support')
 
 The HVAC Library includes components to model conventional energy systems with gas or oil boilers, as well as sustainable, CO2-neutral systems with heat pumps, solar thermal collectors, photovoltaics and storage units. 
 By using a pressure-free modelling approach, simulation results can be delivered very fast, even for complex systems. This makes the models ideal for annual simulations and automated optimization techniques.
