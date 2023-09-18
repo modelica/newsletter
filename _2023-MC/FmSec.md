@@ -1,7 +1,7 @@
 ---
 title: "Exchanging FMUs in a secure manner"
 author: "Christian Wolf ([EKS InTec GmbH](https://www.eks-intec.de))"
-category: "conference"
+category: "excluded"
 ---
 
 The current FMI standard is mainly created from research groups in cooperation with industry partners.
