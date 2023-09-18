@@ -1,7 +1,7 @@
 ---
 title: IBPSA Modelica Working Group
 author: "Michael Wetter ([Berkeley Lab](https://www.lbl.gov/))"
-category: "letter"
+category: "conference"
 ---
 
 ![IBPSA Modelica Group Logo](IBPSA-modelica-working-group.png)
@@ -19,7 +19,7 @@ For the agenda, visit https://github.com/ibpsa/modelica-working-group/wiki/2023-
 
 Registration is open until 30th of September via the conference web site: https://2023.international.conference.modelica.org/.
 
-*Who should attend?*
+####Who should attend?####
 
 Attendees are expected to have contributed to the IBPSA Modelica Working Group, or plan to make contributions to the group.
 These expert meetings are used to coordinate the work. Therefore, participation by people who work on the IBPSA Modelica Working Group is important.

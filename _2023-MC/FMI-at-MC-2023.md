@@ -1,7 +1,7 @@
 ---
 title: FMI at the Modelica Conference
 author: MAP FMI
-category: association
+category: conference
 ---
 
 {::options parse_block_html="true" /}

@@ -2,7 +2,6 @@
 title: LTX at the Modelica Conference 2023
 author: "Leo Gall ([LTX Simulation GmbH](https://ltx.de/))"
 category: "vendor"
-
 ---
 
 ![LTX Logo](LTX Simulation GmbH_Logo_4c_500px.png "LTX logo"){:width="250px"}

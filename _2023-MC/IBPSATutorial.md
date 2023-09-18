@@ -1,7 +1,7 @@
 ---
 title: Modelica IBPSA Tutorial
 author: "Michael Wetter ([Berkeley Lab](https://www.lbl.gov/))"
-category: "letter"
+category: "conference"
 ---
 
 ![IBPSA Modelica Image](IBPSAModelicaLibrary.png)
