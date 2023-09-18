@@ -15,7 +15,7 @@ The Modelica IBPSA Library is a free open-source library with around 1000 models
 [IDEAS](https://github.com/open-ideas/IDEAS) libraries.
 
 
-For the agenda, visit https://github.com/ibpsa/modelica-working-group/wiki/2023-10-12-Expert-Meeting-Agenda.
+For the agenda, visit our [Github wiki](https://github.com/ibpsa/modelica-working-group/wiki/2023-10-12-Expert-Meeting-Agenda).
 
 Registration is open until 30th of September via the [conference web site](https://2023.international.conference.modelica.org/).
 
