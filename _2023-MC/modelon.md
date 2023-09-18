@@ -1,6 +1,6 @@
 ---
 title: "Modelon"
-author: "Swati Tyagi ([Modelon](https://www.3ds.com))"
+author: "Swati Tyagi ([Modelon](https://www.modelon.com))"
 category: "vendor"
 ---
 
