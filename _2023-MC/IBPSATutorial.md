@@ -15,7 +15,7 @@ The workshop is targeted to new users.
 Participants will conduct hands-on exercises using OMEdit and the Modelica IBPSA Library.
 The workshop will close with an overview of the four libraries that use the Modelica IBPSA Library as their core.
 
-*About the Modelica IBPSA Library*
+#### About the Modelica IBPSA Library
 
 The Modelica IBPSA Library is a free open-source library that is used as the core of the Modelica
 [AixLib](https://ebc-tools.eonerc.rwth-aachen.de/en/aixlib),
@@ -25,8 +25,8 @@ The Modelica IBPSA Library is a free open-source library that is used as the cor
 The Modelica IBPSA Library has been developed over the past decade, from 2012-17 as part of [IEA EBC Annex 60](https://www.iea-annex60.org/), from 2017-22 as part of [IBPSA Project 1](https://ibpsa.github.io/project1/)
 and since 2022 as part of the [IBPSA Modelica Working Group](https://ibpsa.github.io/modelica-working-group/).
 
-*Agenda and Registration*
+#### Agenda and Registration
 
-For workshop agenda, visit https://github.com/ibpsa/modelica-working-group/wiki/2023-10-09-Tutorial-Aachen
+For workshop agenda, visit [our github wiki](https://github.com/ibpsa/modelica-working-group/wiki/2023-10-09-Tutorial-Aachen).
 
 Registration for the workshop is done through the [conference registration](https://2023.international.conference.modelica.org/registration.html).

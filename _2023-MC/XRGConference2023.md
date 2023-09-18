@@ -1,5 +1,5 @@
 ---
-title: XRG Product News and Contributions to the International Modelica Conference 2023
+title: XRG Contributions to the International Modelica Conference 2023
 author: "Stefan Wischhusen [XRG Simulation GmbH](https://www.xrg-simulation.de/en)"
 category: "vendor"
 ---

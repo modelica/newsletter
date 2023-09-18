@@ -17,9 +17,9 @@ The Modelica IBPSA Library is a free open-source library with around 1000 models
 
 For the agenda, visit https://github.com/ibpsa/modelica-working-group/wiki/2023-10-12-Expert-Meeting-Agenda.
 
-Registration is open until 30th of September via the conference web site: https://2023.international.conference.modelica.org/.
+Registration is open until 30th of September via the [conference web site](https://2023.international.conference.modelica.org/).
 
-####Who should attend?####
+#### Who should attend?
 
 Attendees are expected to have contributed to the IBPSA Modelica Working Group, or plan to make contributions to the group.
 These expert meetings are used to coordinate the work. Therefore, participation by people who work on the IBPSA Modelica Working Group is important.

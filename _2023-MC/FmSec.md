@@ -19,4 +19,4 @@ The solutions shown are focused on a decentralized structure to avoid single poi
 Accountability is guaranteed by state-of-the-art cryptography methods.
 Extensions (like custom licensing and expiry date) can be implemented as well.
 
-More information can will be presented at our contribution at the Modelica conference.
+More information can will be presented at [our contribution at the Modelica conference](https://www.conftool.com/modelica2023/index.php?page=browseSessions&form_session=39#paperID184).
