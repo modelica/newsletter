@@ -1,6 +1,6 @@
 ---
-title: Sponsor Vendor Presentation - Maplesoft's MapleSim 2023
-author: "Thomas Richard [Maplesoft]"
+title: Maplesoft's MapleSim 2023
+author: "Thomas Richard [Maplesoft](https://www.maplesoft.com/)"
 category: "vendor"
 ---
 ![MapleSim image](https://www.maplesoft.com/images2023/maplesim/maplesim-small-image.jpg "MapleSim Image")
