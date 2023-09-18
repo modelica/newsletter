@@ -1,0 +1,8 @@
+---
+title: "MWORKS 2023"
+author: "Fanli Zhou[Suzhou Tongyuan Software & Control Technology Co., Ltd.](https://en.tongyuan.cc)"
+category: "vendor"
+---
+*Attend vendor session at the Modelica conference to learn about the next-generation scientific computing and system modeling simulation platform MWORKS*
+
+After 15 years of development, MWORKS has evolved from a simple Modelica modeling and simulation environment into a next-generation scientific computing and system modeling simulation platform. Based on Modelica, MWORKS.Sysplorer offers a multi-paradigm integrated modeling and simulation environment including physical modeling, block diagram modeling, and state machines. Built on Julia, MWORKS.Syslab provides an integrated scientific computing development environment. Syslab seamlessly integrates with Sysplorer. Additionally, MWORKS offers cloud versions of Sysplorer and Syslab, known as MoHub. 
