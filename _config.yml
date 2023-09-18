@@ -86,7 +86,7 @@ collections:
     permalink: /:collection/:path
     title: Fall 2023 release
     output: true 
-2023-MC:
+  2023-MC:
     permalink: /:collection/:path
     title: Fall 2023 release
     output: true     
