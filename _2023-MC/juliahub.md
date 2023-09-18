@@ -1,7 +1,7 @@
 ---
 title: "JuliaSim"
 author: "Michael Tiller ([JuliaHub](https://juliahub.com/))"
-category: "conference"
+category: "vendor"
 ---
 
 At the [International Modelica Conference
