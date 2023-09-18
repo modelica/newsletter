@@ -10,7 +10,7 @@ category: "vendor"
 LTX is sponsoring the conference in Aachen as a
 platinum sponsor. The main motivation is to give back some of the funds we charge for operating Modelica Association Backoffice. 
 
-We are looking forward to talk to you at our booth, if your are interested in
+We are looking forward to talk to you at our booth, if you are are interested in
 
 - Info about **Dymola licenses & Dymola features**
   (especially for German speaking market)
@@ -20,7 +20,7 @@ We are looking forward to talk to you at our booth, if your are interested in
 
 - **Modelica Association Clothing**: We won‘t sell merch
   because we don‘t know which sizes to order in advance. But, you can try on all
-  T-Shirt sizes in to find the right fit for you. Orders can be placed in the [MA merch shop]()https://ma-merch.myspreadshop.de/)
+  T-Shirt sizes in to find the right fit for you. Orders can be placed in the [MA merch shop](https://ma-merch.myspreadshop.de/)
 
 - **Research on Modelica Technology**. Matthias Schäfer contributed the  [ScalableTranslationStatistics Library](https://ltx.de/download/ModelicaLibraries/ScalableTranslationStatistics) (available on Github) to the presentation <br>[Accelerating the simulation of equation-based models by replacing non-linear algebraic loops with error-controlled machine learning surrogates](https://www.conftool.com/modelica2023/index.php?page=browseSessions&form_session=28#paperID181) by Heuermann et. al. on Tuesday, October 10, 2023, 15:30 in Room Silver
 
