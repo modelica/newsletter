@@ -1,7 +1,7 @@
 ---
 title: "eFMI® Tutorial - JuliaSim"
 author: "Christoff Bürger ([Dassault Systèmes](https://www.3ds.com))"
-category: "conference"
+category: "excluded"
 ---
 
 At the [International Modelica Conference
