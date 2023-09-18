@@ -61,9 +61,10 @@ Chairperson of the Modelica Association
 
 *This article was provided by Martin Otter [Modelica](https://www.modelica.org/)*
 
-### Invitation from local organizers
+## Invitation from local organizers
 
 ![Conference Logo](ModelicaConference2023.png "Modelica Conference 2023"){:width="400px"}
+
 We, the local organizers of this year's Modelica conference are looking forward welcoming you in Aachen. We managed to book [Das Liebig](https://dasliebig.de/) as conference venue, a former industrial building, which was recently renovated and is now one of the most modern conference sites in Aachen.
 With valuable input by the Modelica community, we did compile a diverse [Conference Program](https://www.conftool.com/modelica2023/index.php?page=browseSessions), which includes interactive Tutorials, Vendor Presentations, as well as scientific posters and sessions.
 
@@ -76,7 +77,7 @@ In addition to the main consideration of buildings, vehicle interiors are also i
 The work of the institute is based on comprehensive test equipment and advanced simulation methods, as well as the coupling of simulation and real hardware using hardware-in-the-loop and FMI.
 The institute developed and maintains the open-source Modelica libraries [AixLib](https://github.com/RWTH-EBC/AixLib) and [BESMod](https://github.com/RWTH-EBC/BESMod), and uses Modelica as the central simulation method.
 
-#### (Institute for Automation of Complex Power Systems)[https://www.acs.eonerc.rwth-aachen.de/cms/~dlkd/E-ON-ERC-ACS/lidx/1/]
+#### [Institute for Automation of Complex Power Systems](https://www.acs.eonerc.rwth-aachen.de/cms/~dlkd/E-ON-ERC-ACS/lidx/1/)
 The goal of ACS is to implement a multidisciplinary research approach able to capture the most recent advances in ICT to support the solution of the most advanced problems in the area of grid dynamics and automation.
 
 In order to achieve this vision the research in ACS is organized around three main pillars:
@@ -100,6 +101,6 @@ ACS constantly develops and expands an advanced testing facility, a research top
 - power hardware in the loop testing,
 - mixed power, control and communication simulation.
 
-#### (Institute of Energy and Climate Research (IEK) - Energy Systems Engineering (IEK-10)](https://www.fz-juelich.de/en/iek/iek-10)
+#### [Institute of Energy and Climate Research (IEK) - Energy Systems Engineering (IEK-10)](https://www.fz-juelich.de/en/iek/iek-10)
 IEK-10 develops models and algorithms for the simulation, optimization and control of energy systems, which are characterized by a high spatial and temporal variability of energy supply and demand, an increasing degree of intersectoral dependencies as well as an increasing digitalization. The focus is on multi-physical energy grids, industrial energy systems, and buildings and districts. A major goal of the research is to provide scalable and faster-than-real-time capable methods and tools that enable energy-optimal, cost-efficient and safe design and operation of these future energy systems. For this purpose, physical-technical system descriptions are combined with machine learning methods and customized simulation and optimization methods are developed especially for multicore, cluster and high-performance computers, which enable the handling of large-scale problems. With the help of the Reallabor "Living Lab Energy Campus" as well as a "Hardware-in-the-loop" laboratory, these innovative solution approaches for future energy systems are tested and validated under almost realistic conditions.
 
