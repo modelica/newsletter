@@ -9,6 +9,15 @@ category: "education"
 Claytex publishes a [technical blog](https://www.linkedin.com/showcase/our-technical-blog/) covering all things Modelica and Dymola.  
 
 
+**Join our webinar: 'Thermal Management in Buildings | Dymola' - 15th November - 14:00 - 15:00 GMT**
+
+Gain an overview of how the acausal systems modeling language Modelica can be fully taken advantage of through Dymola to build multi-purpose physics models of complete buildings, in our live workshop. We'll show how the process of a house decarbonization can start from an excel document spread sheet which will then configure a detailed systems model of the same house for the user.
+
+![Real-time Image0]( https://www.claytex.com/wp-content/uploads/2023/11/SIMIF-2023-Dymola-Thermal-Management-in-Buildings.png " SIMIF 2023 Dymola Image0")
+
+Register [here](https://www.technia.com/events/simif-2023-series-dymola/)
+
+
 **Removing events from models to improve real-time performance**
 
 When running a model as part of Hardware in the Loop (HIL) testing, it is important that the model simulates fast enough so that overruns do not occur. Unfortunately, when events occur this can cause a model to run significantly slower for that simulation time. A workaround is to remove events from the model. This post looks at different ways this can be done.
@@ -27,9 +36,9 @@ The vehicle models in our VeSyMA suite of libraries are multibody models, so whe
 Read the complete article [here]( https://www.claytex.com/tech-blog/resolving-between-multibody-frames/)
 
 
-**Claytex Sponsor The 15th International Modelica Conference – 9th to 11th October 2023**
+**Claytex Sponsored The 15th International Modelica Conference – 9th to 11th October 2023**
 
-We exhibit and present at the 15th International Modelica Conference, organized by the Institute for Energy Efficient Buildings and Indoor Climate, RWTH Aachen University, in collaboration with the Modelica Association. 
+We exhibited and presented at the 15th International Modelica Conference, organized by the Institute for Energy Efficient Buildings and Indoor Climate, RWTH Aachen University, in collaboration with the Modelica Association. 
 
 **Paper title:** Race Car Cooling System Model for Real Time use in a Driving Simulator
 
@@ -37,4 +46,4 @@ We exhibit and present at the 15th International Modelica Conference, organized 
 
 ![Dallara Image 3]( https://www.claytex.com/wp-content/uploads/2023/09/Claytex-Paper-Racecar-Cooling-System-Model-for-RealTime-use-in-a-Driving-Simulator.png "Dallara Image3")
 
-Learn more about our paper [here]( https://www.claytex.com/news-and-events/the-15th-international-modelica-conference-9th-to-11th-october-2023-aachen-germany/)
+Learn more [here]( https://www.claytex.com/news-and-events/the-15th-international-modelica-conference-9th-to-11th-october-2023-aachen-germany/)
