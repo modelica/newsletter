@@ -7,6 +7,8 @@ category: "vendor"
 
 ![](amesim_banner_2310.png)
 
+![](amesim_features_2310.png)
+
 ## Improved capabilities of exported FMUs
 With **Simcenter&nbsp;Amesim&nbsp;2310**, the capabilities of exported FMUs have been improved, which is especially useful for Hardware-in-the-Loop (HiL) but also for the overall robustness of FMI based simulations and workflows. 
 * **A deployed FMU model can now be reinitialized during the simulation (&ldquo;hot reinit&rdquo;)**, optionally with new parameter values applied, without having to unload it. This allows calibration engineers to chain maneuvers or scenarios easily within their test sequencing software and/or on their real-time systems (e.g. successfully tested on [dSPACE&nbsp;SCALEXIO]( https://www.dspace.com/en/ltd/home/products/hw/simulator_hardware/scalexio.cfm) with 2.0 and 3.0 FMUs).
@@ -15,7 +17,5 @@ With **Simcenter&nbsp;Amesim&nbsp;2310**, the capabilities of exported FMUs have
 
 ## Easier reduction and/or hybridization of physical models with AI
 In addition to the improved capabilities of exported FMUs, **Simcenter&nbsp;Amesim 2310 tightens the links between the Open Neural Network Exchange ([ONNX]( https://onnx.ai/)) and the Functional Mock-up Interface ([FMI]( https://fmi-standard.org/)) standards**. Thanks to the support of additional ONNX nodes that make sense for system simulation applications (35 nodes currently supported), the handling of pretrained neural networks is more robust for model reduction and/or hybridization purposes: users can either replace CPU time-consuming parts of their physical models by pretrained neural networks, or convert these Reduced Order Models (ROMs) directly as lightweight FMUs for reuse. They benefit from a higher compatibility with other recognized ONNX compatible software, such as [Simcenter Reduced Order Modeling]( https://plm.sw.siemens.com/en-US/simcenter/integration-solutions/reduced-order-modeling/), [Tensorflow]( https://www.tensorflow.org/), [PyTorch]( https://pytorch.org/) or [Julia]( https://julialang.org/). More will come in future releases. Stay tuned! 
-
-![](amesim_features_2310.png)
 
 For more information on Simcenter Amesim, please visit our [website](https://www.plm.automation.siemens.com/global/en/products/simcenter/simcenter-amesim.html ).
