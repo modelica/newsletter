@@ -1,6 +1,8 @@
+---
 title: Modelon News
 author: "Swati Tyagi ([Modelon](https://www.modelon.com/ ))"
 category: "vendor"
+---
 
  ## Cogeneration Power Plants: Improving Operations in Complex Conditions
  
