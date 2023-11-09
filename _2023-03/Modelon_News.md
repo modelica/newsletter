@@ -7,7 +7,7 @@ category: "vendor"
  ## Cogeneration Power Plants: Improving Operations in Complex Conditions
  
 Designing and implementing cogeneration power plants is inherently complex. Not only do engineers need to consider varying load changes over time, but, also, the cost to keep up this technology. Modelon explores 
-the promise of model-based systems engineering to design [flexible and cost-efficient cogeneration power plants](https://modelon.com/blog/cogeneration-power-plants-improving-operations-in-complex-conditions/). 
+the promise of model-based systems engineering to design [flexible and cost-efficient cogeneration power plants](https://modelon.com/blog/cogeneration-power-plants-improving-operations-in-complex-conditions/) using [Modelon Impact](https://modelon.com/modelon-impact/).
  
 ## Modelon Impact for Heat Pump Design
 
