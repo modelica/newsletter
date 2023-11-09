@@ -27,6 +27,7 @@ the promise of model-based systems engineering to design [flexible and cost-effi
 
  
 Watch the demo to see how Modelon Impact can help you design and improve residential heat pump systems: Modelon Impact Demo for the [Design of Residential Heat Pump Systems](https://www.youtube.com/watch?v=u3fvxqAmipU)
+
 ![](heatpumpdesign.png)
 
 To get an understanding of the Modelica-based libraries and resources that Modelon Impact comes equipped with for residential heat pump design, download our [application brochure](https://modelon.com/support/revolutionizing-residential-heat-pump-design-brochure/)
