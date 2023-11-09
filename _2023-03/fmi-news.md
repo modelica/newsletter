@@ -36,7 +36,8 @@ https://www.conftool.com/modelica2023/sessions.php
 
 ![](fmi-design-23-sindelfingen.jpg)
 
-FMI developers from Akkodis, AVL, Bosch, Dassault Systems, dSPACE, EKS-INTEC, ESI, ETAS, PMSF, Synopsys and Wolfram MathCore participated. Thanks to #Akkodis for the great hospitality!
+FMI developers from Akkodis, AVL, Bosch, Dassault Systems, dSPACE, EKS-INTEC, ESI, ETAS, PMSF, Synopsys and Wolfram MathCore participated. Thanks to Akkodis for the great hospitality!
+
 We focused on layered standards to FMI 3.0
 - [FMI-LS-XCP](https://github.com/modelica/fmi-ls-xcp) for XCP support (v1.0RC2 in preparation)
 - [FMI-LS-BUS](https://github.com/modelica/fmi-ls-bus) for network communication (v1.0alpha in preparation)
