@@ -29,10 +29,6 @@ They document how the tool vendors have tested their FMU import and export capab
 Exporting tools also provide example FMUs, that can be tested by other importing tools.
 This information is provided on an external webpage or repository in the responsibility of the tool vendors.
 
-### FMI Design Meeting with guests after the Modelica Conference 2023 in Aachen, Germany
-
-https://www.conftool.com/modelica2023/sessions.php
-
 ### FMI Design Meeting in Nov 2023 in Sindelfingen, Stuttgart
 
 ![FMI Design Meeting Sindelfingen](fmi-design-23-sindelfingen.jpg)
