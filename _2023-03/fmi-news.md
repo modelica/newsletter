@@ -13,12 +13,12 @@ category: association
 It was great to meet the FMI users and developers again in person at the Modelica Conference in Aachen!
 The papers are avaialable as preprints in the [conference session overview](https://www.conftool.com/modelica2023/sessions.php).
 
-### FMI Beginners' tutorial available
+### FMI Beginners' Tutorial available
 
 Watch the recording of the "FMI Beginners' tutorial" from the Modelica Conference 2023 in Aachen [on YouTube](https://www.youtube.com/watch?v=RlAafdCKCHU), material available [here](https://github.com/modelica/fmi-beginners-tutorial-2023). 
 Thanks to Cinzia Bernardeschi, Christian Bertsch, Cláudio Gomes, Maurizio Palmieri, Torsten Sommer for jointly preparing and holding this tutorial!
 
-### FMI Compatibility Information provided in the FMI Tools list
+### FMI Compatibility Information provided in the FMI Tools List
 
 ![FMI tools page](FMI_tools_page.png)
 
@@ -54,7 +54,7 @@ So, if you face efficiency problems in the simulation of FMUs that can be traced
 
 More generally, **if you have problems w.r.t. model exchange and co-simulation that cannot yet be solved well with FMI 3.0**, please describe and send them either in the form of an [Github issue](https://github.com/modelica/fmi-standard/issues) or via e-mail to [contact@fmi-standard.org](contact@fmi-standard.org).
 
-#### Other resources and discussion forums for FMI related questions
+#### Other Resources and Discussion Forums for FMI related Questions
 
 - Join the [LinkedIn FMI community](https://www.linkedin.com/groups/7477473/) to get the latsted news on FMI, FMI supporting tools and discussions within the user community.
 - Follow the [Modelica Association on LinkedIn](https://www.linkedin.com/company/modelica-association?originalSubdomain=se) to keep up to date w.r.t. the Modelica language and libraries, and the #FMI, #SSP, #DCP and #eFMI standards.
