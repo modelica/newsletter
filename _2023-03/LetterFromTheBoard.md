@@ -16,7 +16,7 @@ More information about the conference is provided [here](xxx).
 The scientific papers of the conference are available from the [conference tool](https://www.conftool.com/modelica2023/sessions.php) 
 by scrolling down and clicking on a particular session.
 
-The slides of the **Modelica Association News** session are available [here](https://github.com/modelica/newsletter/blob/main/_2023-03/MA-News_ModelicaConference2023.pdf) providing
+The slides of the **Modelica Association News** session are available [here](https://2023.international.conference.modelica.org/Documents/MA-News_Modelica2023.pdf) providing
 information about the status of the Modelica Association projects, coming Modelica Association conferences,
 large research projects in the Modelica Association community and the [Modelica Association Spreadshirt Shop](https://ma-merch.myspreadshop.de/).
 
