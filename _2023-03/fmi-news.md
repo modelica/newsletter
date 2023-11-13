@@ -8,17 +8,17 @@ category: association
 
 ![FMI](FMI.png)
 
-### FMI at the Modelica Conference
+#### FMI at the Modelica Conference
 
 It was great to meet the FMI users and developers again in person at the Modelica Conference in Aachen!
 The papers are avaialable as preprints in the [conference session overview](https://www.conftool.com/modelica2023/sessions.php).
 
-### FMI Beginners' Tutorial available
+#### FMI Beginners' Tutorial available
 
 Watch the recording of the "FMI Beginners' tutorial" from the Modelica Conference 2023 in Aachen [on YouTube](https://www.youtube.com/watch?v=RlAafdCKCHU), material available [here](https://github.com/modelica/fmi-beginners-tutorial-2023). 
 Thanks to Cinzia Bernardeschi, Christian Bertsch, Cláudio Gomes, Maurizio Palmieri, Torsten Sommer for jointly preparing and holding this tutorial!
 
-### FMI Compatibility Information provided in the FMI Tools List
+#### FMI Compatibility Information provided in the FMI Tools List
 
 ![FMI tools page](FMI_tools_page.png)
 
@@ -29,7 +29,7 @@ They document how the tool vendors have tested their FMU import and export capab
 Exporting tools also provide example FMUs, that can be tested by other importing tools.
 This information is provided on an external webpage or repository in the responsibility of the tool vendors.
 
-### FMI Design Meeting in Nov 2023 in Sindelfingen, Stuttgart
+#### FMI Design Meeting in Nov 2023 in Sindelfingen, Stuttgart
 
 ![FMI Design Meeting Sindelfingen](fmi-design-23-sindelfingen.jpg)
 
@@ -45,7 +45,7 @@ We focused on layered standards to FMI 3.0
 
 Additionally we discussed possible efficiency optimizations for data transfer and access that can be addressed in FMI 3.1 (see also next paragraph).
 
-### Call for Problems 
+#### Call for Problems 
 
 Currently the FMI project starts working on FMI 3.1 and would like the to ask the FMI user community to **report their current pain points and ideas for future development**.
 We currrently have the idea to work on efficiency: we have identified that for FMUs that handle a large amount of data communication compared to internal calculations, the current desig of FMI leads to overhead due to copy operation of data. 
@@ -54,7 +54,7 @@ So, if you face efficiency problems in the simulation of FMUs that can be traced
 
 More generally, **if you have problems w.r.t. model exchange and co-simulation that cannot yet be solved well with FMI 3.0**, please describe and send them either in the form of an [Github issue](https://github.com/modelica/fmi-standard/issues) or via e-mail to [contact@fmi-standard.org](contact@fmi-standard.org).
 
-#### Other Resources and Discussion Forums for FMI related Questions
+##### Other Resources and Discussion Forums for FMI related Questions
 
 - Join the [LinkedIn FMI community](https://www.linkedin.com/groups/7477473/) to get the latsted news on FMI, FMI supporting tools and discussions within the user community.
 - Follow the [Modelica Association on LinkedIn](https://www.linkedin.com/company/modelica-association?originalSubdomain=se) to keep up to date w.r.t. the Modelica language and libraries, and the #FMI, #SSP, #DCP and #eFMI standards.
