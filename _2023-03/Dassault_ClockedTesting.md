@@ -1,5 +1,5 @@
 ---
-title: Testing Library 1.7.0: Introducing clocked tests
+title: "Testing Library 1.7.0: Introducing clocked tests"
 author: "Marco Keßler ([Dassault Systèmes Austria GmbH](https://www.3ds.com/))"
 category: "library"
 ---
