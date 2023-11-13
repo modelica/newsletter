@@ -1,7 +1,7 @@
 ---
 title: "eFMI® Tutorial"
 author: "Christoff Bürger ([Dassault Systèmes](https://www.3ds.com))"
-category: "conference"
+category: "education"
 ---
 
 ![eFMI® Tutorial](eFMI-tutorial.png "eFMI® Tutorial")
