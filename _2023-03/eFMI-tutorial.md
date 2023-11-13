@@ -1,5 +1,5 @@
 ---
-title: "eFMI® Tutorial"
+title: "eFMI® Tutorial from Modelica Conference available"
 author: "Christoff Bürger ([Dassault Systèmes](https://www.3ds.com))"
 category: "education"
 ---
