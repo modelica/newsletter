@@ -17,7 +17,7 @@ The scientific papers of the conference are available from the [conference tool]
 by scrolling down and clicking on a particular session.
 
 The slides of the **Modelica Association News** session are available [here](https://2023.international.conference.modelica.org/Documents/MA-News_Modelica2023.pdf) providing
-information about the status of the Modelica Association projects, coming Modelica Association conferences,
+information about the status of the Modelica Association projects, 
 large research projects in the Modelica Association community and the [Modelica Association Spreadshirt Shop](https://ma-merch.myspreadshop.de/).
 
 **Upcoming Modelica Conferences**
