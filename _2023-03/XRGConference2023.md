@@ -4,8 +4,8 @@ author: "Stefan Wischhusen [XRG Simulation GmbH](https://www.xrg-simulation.de/e
 category: "vendor"
 ---
 
-### Our Product NEWS
-#### XRG HumanComfort und FluidDynamics Library
+#### Our Product NEWS
+##### XRG HumanComfort and FluidDynamics Library
 
 XRG offers two unique Modelica libraries that enable Navier-Stokes-based CFD coarse grid simulations in Dymola and Modelica. Profit from seamless coupling with system models and less computational effort for transient simulations.
 
@@ -13,7 +13,7 @@ Pre-processing and post-processing is provided by our **Score lite** Application
 
  ![XRG Coarse Grid CFD Tool-Chain](https://www.xrg-simulation.de/sites/default/files/inline-images/ScoreLite900.png 'XRG Coarse Grid Tool-Chain using FREE Score lite')
 
-#### XRG HVAC Library
+##### XRG HVAC Library
 
 The newest version 3.0.0 of our [HVAC Library](https://www.xrg-simulation.de/en/products/xrg-library/xrg-hvac-library), offering the fastest HVAC simulations on the market, is now available for 
 
@@ -28,7 +28,7 @@ By using a pressure-free modelling approach, simulation results can be delivered
 
 The new version 3.1.0 of the HVAC Library got a comprehensive update and improvement of many component models which will be presented in the XRG vendor session on Mon., 9th (see above).
 
-#### XRG Score Application
+##### XRG Score Application
 
 [XRG Score](https://www.xrg-simulation.de/en/products/applications/score) executes parallel Dymola or FMU simulations, imports **large** Dymola or OpenModelica result files and lets you filter and interpolate them. Our Score Application allows you to define and save all your simulation settings, model parameters and any results you require in a workbook and directly share them with others. You can run, import and report on any number of simulations over one of these workbooks. You can automatically transfer the results in Excel spreadsheet templates along with integrated charts and formulas.
 
@@ -44,9 +44,7 @@ More technical features of Score:
   
 The new version 1.9 incorporates some interesting features about post-processing of HumanComfort and FluidDynamics CFD results and more. Please attend the XRG vendor session on Mon., 9th (see above).
 
-#### ClaRaPlus Library
-
- ![ClarRa 1.7.1](ClaRaPlusInfoHeader171.png 'Advanced power plant simulation')
+##### ClaRaPlus Library
 
 Well established [ClaRaPlus Modelica library](https://www.claralib.com/index.php?lang=en) provides its users with the capability to proficiently tackle tasks in the disciplines of thermal hydraulics, instrumentation and control pertaining to power plants and other kind of energy systems. Based on the needs of steadily growing community of ClaRaPlus users community, it has broadened its scope over the years of its development, transcending the original focus on conventional power plants to encompass renewable power plants, waste heat utilization, general process plants, refrigeration cycles, heat pumps and beyond.
 
@@ -63,7 +61,7 @@ Some of the key features are:
 - **Support for AI** (see SMARTIInt Library)
 - Validated against literature and measurement data
 
-#### XRG's open-source products
+##### XRG's open-source products
 
  We have moved all our current open-source products to [Github](https://github.com/xrg-simulation). **You are welcome to start collaborating today!**
 

@@ -9,8 +9,8 @@ defaults:
       image: /assets/images/ModelicaLogoSq.jpg 
     author: modelica 
 contribution-open: true
-contribution-deadline: November 10, 2023
-current-newsletter-date: September 18, 2023
+contribution-deadline: February 9, 2024
+current-newsletter-date: November 14, 2023
 baseurl: /
 url: "https://newsletter.modelica.org"
 collections:
@@ -88,5 +88,5 @@ collections:
     output: true 
   2023-MC:
     permalink: /:collection/:path
-    title: Fall 2023 release
+    title: Modelica conference release
     output: true     
