@@ -6,7 +6,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/images/ModelicaLogoSq.jpg 
+      image: /assets/images/Modelica_Association.png
     author: modelica 
 contribution-open: true
 contribution-deadline: February 9, 2024
