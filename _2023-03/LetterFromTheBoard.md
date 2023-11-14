@@ -11,7 +11,6 @@ took place on Mo. Oct. 9 - Wed. Oct. 11, 2023, in Aachen, Germany, as a face-to-
 It was a pleasure to meet many of you in person again, exchange ideas and getting a lot of information.
 The local organizers from [RWTH Aachen University](https://www.ebc.eonerc.rwth-aachen.de/cms/E-ON-ERC-EBC/~dnac/Das-Institut/?lidx=1)
 provided a perfectly organized event in a nice, spacious conference center.
-More information about the conference is provided [here](xxx).
 
 The scientific papers of the conference are available from the [conference tool](https://www.conftool.com/modelica2023/sessions.php) 
 by scrolling down and clicking on a particular session.
