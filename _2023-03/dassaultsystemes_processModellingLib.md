@@ -1,12 +1,7 @@
-
 ---
-
 title: ProcessModelling library
-
 author: "Maren Titze ([Dassault Systemes Deutschland GmbH](https://www.3ds.com/))"
-
 category: "library"
-
 ---
 The library is designed to model separation processes with backflow streams, evaporation, condensation and control. The library provides rectification columns, tanks, pipes, pumps, units or gravitational separation tanks. Develop an integrated digital twin for design, simulation, training, and operations. The Process Modelling and Engineering Library includes dynamic models for separation processes. The PME library uses the Multiflash® software by [KBC](https://www.kbc.global/software/advanced-thermodynamics/) to calculate phase equilibrium of multi-phase multi-component fluids. The Thermodynamics Connector library is used as an interface between the PME library and Multiflash®.
 
