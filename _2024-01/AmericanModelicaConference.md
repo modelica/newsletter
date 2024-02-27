@@ -6,7 +6,7 @@ category: "conference"
 
 We would like to announce the [American Modelica Conference 2024](https://modelica.org/events/american2024/), which will be an in-person conference event, with an option to watch presentations streamed online for a reduced conference admission fee.
 
-The conference will take place at the **University of Connecticut in Storrs** in the [Innovation Partnership Building](https://techpark.uconn.edu/) from **October 14–16, 2024**. It is organized by [NAMUG](https://namug.org/), the North American Modelica Users Group, in cooperation with the [Modelica Association](/association/). Join us in person in Storrs or from the comfort of your own home.
+The conference will take place at the **University of Connecticut in Storrs** in the [Innovation Partnership Building](https://techpark.uconn.edu/) from **October 14–16, 2024**. It is organized by [NAMUG](https://namug.org/), the North American Modelica Users' Group, in cooperation with the [Modelica Association](/association/). Join us in person in Storrs or from the comfort of your own home.
 
 ![](UConn-Innovation-Partnership-1920x800.jpg)
 
@@ -14,7 +14,7 @@ The conference will take place at the **University of Connecticut in Storrs** in
 As part of the conferences promoted by the [Modelica Association](/association/), the [American Modelica Conference 2024](https://modelica.org/events/american2024/) is the main event in North America for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to [Modelica](https://modelica.org/), [FMI](https://fmi-standard.org/), [SSP](https://ssp-standard.org/), [eFMI](http://efmi-standard.org/) and [DCP](https://dcp-standard.org/).
 The program will cover processes and tools for the modeling of complex physical and cyber-physical systems as applied to a wide range of research and industrial applications.
 
-In addition to paper presentations, the conference features several Modelica tutorials for beginners and advanced users, as well as industrial user presentations, vendor sessions, and an exhibition.  The previous [American Modelica conference in 2022](https://2022.american.conference.modelica.org/) was also streamed, giving many Modelicans in Europe the opportunity to watch presentations on the latest updates on Modelica-related research and innovation.  In this version of the conference, we want to combine the ease of attendance by remote participants from other continents with the stimulating environment of an in person event with lively discussions in the breaks and an in-person conference dinner! 
+In addition to paper presentations, the conference features several Modelica tutorials for beginners and advanced users, as well as industrial user presentations, vendor sessions, and an exhibition.  The previous [American Modelica conference in 2022](https://2022.american.conference.modelica.org/) was also streamed, giving many Modelicans in other continents the opportunity to watch presentations on the latest updates on Modelica-related research and innovation.  In this version of the conference, we want to combine the ease of attendance by remote participants from other continents with the stimulating environment of an in person event with lively discussions in the breaks and an in-person conference dinner! 
 
 Please note that **full paper presentations are required to be in person**, while industrial user presentations can be given remotely.
 
