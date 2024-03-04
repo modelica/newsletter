@@ -4,6 +4,8 @@ author: "Swati Tyagi ([Modelon](https://www.modelon.com/ ))"
 category: "vendor"
 ---
 
+![](Modelon_Flat_RGB_300.png)
+
 ### New and Updated Features in Modelon Impact
 
 We’ve been hard at work making significant enhancements to Modelon Impact. Here are a few of the product highlights from the [recent 2024.1 release.](https://help.modelon.com/latest/release_notes/impact_2024_1/)   
