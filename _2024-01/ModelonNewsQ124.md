@@ -44,7 +44,7 @@ Modelon’s Aerospace Industry Director, Michael Sielemann, sees three essential
 
 ### Upcoming Events
 
-![](Innovate Hero.png)
+![](Modelon_Innovate_2024_EmailBanner.jpg)
 
 #### Modelon Innovate 2024
 Modelon Innovate is an international event focused on system simulation for innovation and product design within commercial industries. This event consists of two days – a conference day and a workshop day. The conference day consists of insightful presentations by speakers utilizing system simulation at their organizations. The workshop day consists of hands-on, instructor-led classes to help Modelon users improve their capabilities with Modelon technology.  
