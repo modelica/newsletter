@@ -23,4 +23,4 @@ Project members are divided into three groups with a hierarchy of duties and rig
 The FMI Advisory Committee will be strengthened to get more input and feedback from the industry. It is planned to have two FMI Advisory Committee meetings per year.
 The membership in the FMI Advisory Committee is now possible after approval by the FMI Steering Committee without signing the Contributors' License Agreement (CLA).
 
-If your organization of company is interested in joining the FMI Project as a contributing member or become part of Advisory Committee, please write to contact@fmi-standard.org.
+If your organization or company is interested in joining the FMI Project as a contributing member or become part of Advisory Committee, please write to contact@fmi-standard.org.
