@@ -13,7 +13,10 @@ The releases contains following improvements:
   - Bug fixes in the OMEdit GUI.
   - Issues related to the replaceable components and classes in the parameters
     window.
+  - Support for final and each modifiers.
   - FMI Export
+
+![OMEdit replaceable support](omedit-replaceable.png "OMEdit replaceable support")
 
 For complete list of bug fixes see milestones
 [1.22.1](https://github.com/OpenModelica/OpenModelica/milestone/48?closed=1),
