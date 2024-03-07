@@ -12,7 +12,7 @@ category: association
 
 #### Update of FMI Project rules - clarifying MAP FMI Project membership
 
-The FMI Steering Committee has approved [new rules](/about/#project-rules) for the FMI Project that clarify the different rights and duties of project members. 
+The FMI Steering Committee has approved [new rules](https://fmi-standard.org/about/#project-rules) for the FMI Project that clarify the different rights and duties of project members. 
 
 Project members are divided into three groups with a hierarchy of duties and rights:  
 
