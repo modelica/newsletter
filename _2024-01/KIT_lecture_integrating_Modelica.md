@@ -1,6 +1,6 @@
 ---
 title: New university lecture integrating Modelica at KIT
-author: "Linus Witucki ([Karlsruher Institut für Technologie](https://www.kit.edu/))"
+author: "Linus Witucki ([Karlsruhe Institute of Technology](https://www.kit.edu/))"
 category: "education"
 ---
 
