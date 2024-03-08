@@ -1,5 +1,5 @@
 ---
-title: New university lecture integrating Modelica at KIT
+title: New Master-Level Modelica-Seminar at the KIT-Institute of Control Systems
 author: "Linus Witucki ([Karlsruhe Institute of Technology](https://www.kit.edu/))"
 category: "education"
 ---
