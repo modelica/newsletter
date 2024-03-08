@@ -9,6 +9,7 @@ The Rotating Machinery library allows you to test novel designs or identify faul
 
 Some of the key features are:
 - Quickly configure detailed bearings using readily available catalog data from manufacturers like SKF, NSK, KOYO, TIMKEN, and FAG.
+- Quickly configure detailed gears by defining properties like the gear tooth profile, material data and gear dimensions.
 - Simulate contact forces between spur gears based on the Hertzian Contact theory.
 - Flexible components enabling you to observe deformations.
 - Fully compatible with Modelica MultiBody library with the same connectors.
