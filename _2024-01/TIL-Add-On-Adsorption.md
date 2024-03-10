@@ -18,6 +18,6 @@ The [TIL Adsorption](https://tlk-energy.de/en/software/til-suite/adsorption) mod
 ![System](TSA_System.jpg " System")
 
 To learn more about the basis of modeling adsorption read the blog article:
-<https://tlk-energy.de/blog-en/simulation-adsorption-processes-modeling-basics>
+[TIL Adsorption](https://tlk-energy.de/blog-en/simulation-adsorption-processes-modeling-basics)
 
-Feel free to contact us for a test license at <info@tlk-energy.de>
+Feel free to contact us for a test license at [info@tlk-energy.de](mailto:info@tlk-energy.de)
