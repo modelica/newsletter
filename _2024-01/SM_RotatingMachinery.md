@@ -1,7 +1,7 @@
 ---
 title: Announcing Wolfram System Modeler's Rotating Machinery Library (Free)!
 author: "Ankit Naik [Wolfram](https://wolfram.com/system-modeler/)"
-category: "vendor"
+category: "library"
 ---
 ![Alt text](SystemModeler_RotatingMachinery.png 'Rotating Machinery library')
 
