@@ -92,5 +92,5 @@ collections:
     output: true     
   2024-01:
     permalink: /:collection/:path
-    title: Spring 2024 release
+    title: Winter 2024 release
     output: true     

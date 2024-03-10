@@ -15,7 +15,7 @@ Summary of the technical details:
 
 The [TIL Adsorption](https://tlk-energy.de/en/software/til-suite/adsorption) model library can be used to perform comprehensive plant simulations like **temperature swing adsorption**:
 
-![System](TSA_System.jpg " System")
+![System](TIL-Add-On-Adsorption-TSA_System.jpg "System")
 
 To learn more about the basis of modeling adsorption read the blog article:
 [TIL Adsorption](https://tlk-energy.de/blog-en/simulation-adsorption-processes-modeling-basics)
