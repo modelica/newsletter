@@ -1,10 +1,10 @@
 ---
-title: orchideo | easySSP v1.2.11 now available
+title: "orchideo | easySSP v1.2.11 now available"
 author: Gregor Hermann, Peter Lobner [eXXcellent solutions](https://www.exxcellent.de/)
 category: "vendor"
 ---
-![alt text](easySSP-newsletter.png 'orchideo | easySSP v1.2.11')
-orchideo | easySSP v1.2.11 is now available with a new look, dark mode and other new features.
+![alt text](easySSP-newsletter.png 'orchideo \| easySSP v1.2.11')
+orchideo \| easySSP v1.2.11 is now available with a new look, dark mode and other new features.
 
 ####  New Styling and Dark Mode
 The new version comes with an updated user interface styling. A new navigation bar enables seamless switching between easySSP's model editor, simulation and traceability module.
