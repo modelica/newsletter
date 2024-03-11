@@ -6,7 +6,7 @@ Its a pleasure to announce that the date and location of the International Model
 
 In 2024, the following Modelica Conferences will take place:
  - The American Modelica Conference 2024 will be held October 14-16 2024 in Storrs, Connecticut, organized by the North American Modelica Modelica Users Group NAMUG, The University of Connecticut and the Modelica Association. For more details see the [article below](AmericanModelicaConference.html).
- - The Asian Modelica Conference 2024 will be held November 21-22 2024 in Seoul, South Korea, and is organized by the Institute of Vehicle Engineering, iVH and the Modelica Association.
+ - The Asian Modelica Conference 2024 will be held November 21-22 2024 in Seoul, South Korea, and is organized by the Institute of Vehicle Engineering, iVH and the Modelica Association. For details, please check the [conference website](https://modelica.org/events/asian2024/).
 
 A first Beta of the upcoming version 4.1.0 of the Modelica Standard Library has been [released](https://github.com/modelica/ModelicaStandardLibrary/releases/tag/v4.1.0-beta.1) containing about 400 fixed issues. For details, see the [release notes](https://github.com/modelica/ModelicaStandardLibrary/releases/download/v4.1.0-beta.1/ResolvedGitHubIssues.pdf). With this version also an improved process has been established by the MA Backoffice with nightly, automatic tests.
 
