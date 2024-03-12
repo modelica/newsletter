@@ -1,8 +1,8 @@
---
+---
 title: "Claytex technical blog"
 author: "Mahdieh Mehrabi ([Claytex](https://www.claytex.com/))"
 category: "Education"
---
+---
 
 ![Claytex logo]( https://www.claytex.com/wp-content/uploads/2022/05/Claytex-TECHNIA-COMPANY-RGB-217-90.png "Claytex logo")
 
