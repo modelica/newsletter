@@ -1,3 +1,10 @@
+---
+title: Letter from the Board
+author: "Martin Otter ([Modelica Association](https://www.modelica.org/))"
+category: "letter"
+---
+
+
 Dear Modelica, FMI, SSP, DCP, eFMI interested,
 
 the proceedings of the [International Modelica Conference 2023](https://2023.international.conference.modelica.org/) are available from [Linköping University Press](https://ecp.ep.liu.se/index.php/modelica/issue/view/83) (one pdf-file with all papers, as well as an individual pdf-file for every paper; **DOI:** [https://doi.org/10.3384/ecp204](https://doi.org/10.3384/ecp204)). 
