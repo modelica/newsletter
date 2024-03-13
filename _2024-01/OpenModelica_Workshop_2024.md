@@ -13,8 +13,8 @@ Technical overview of OpenModelica status, Status of the new Backend, CI/CD with
 
 The program and the presentations are available [here](https://openmodelica.org/events/openmodelica-workshop/2024/)
 
-[![](OpenModelica_Workshop_2024_francesco_s.jpg)](OpenModelica_Workshop_2024_francesco.png)
+[![](OpenModelica_Workshop_2024_francesco_s.jpg)](OpenModelica_Workshop_2024_francesco.jpg "Francesco" target="_blank")
 Francesco Casella, OSMC director presents OpenModelica ongoing work and future plans.
 
-[![](OpenModelica_Workshop_2024_adrian_s.jpg)](OpenModelica_Workshop_2024_adrian.png)
+[![](OpenModelica_Workshop_2024_adrian_s.jpg)](OpenModelica_Workshop_2024_adrian.jpg "Francesco" target="_blank")
 Adrian Pop, OSMC technical coordinator and workshop chairperson, presents the current status and planned future developments of OpenModelica.
