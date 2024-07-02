@@ -4,7 +4,7 @@ author: "Swati Tyagi ([Modelon](https://www.modelon.com/ ))"
 category: "vendor"
 ---
 
-![](Modelon_Flat_RGB_300.png)
+![](JH torso.jpg)
 
 #### New and Updated Features in Modelon Impact
 
