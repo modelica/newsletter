@@ -22,16 +22,12 @@ This information is provided on an external webpage or repository in the respons
 We see an acceleration in the adoption of FMI 3.0, with 41 tools already supporting it.
 
 #### FMI Design Meeting in May 2024 in Munich
+
 ![FMI Design Meeting Munich](fmi-design-24-munich.jpg)
 
 FMI developers from Altair, AVL, Bosch, Dassault Systems, dSPACE, EKS-INTEC, LTX, Modelon, PMSF, Synopsys, and Wolfram MathCore participated at the 3 day FMI Design Meeting in Munich.
 Thanks to Dassault Systèmes for the great hospitality!
 We made good progress, especially on layered standards to FMI 3.0:
-
-    LS-XCP for XCP support
-    LS-Bus for network communication
-    LS-Struct for maps and structuring of variables
-    LS-Ref for the description of basic validation experiments and other files attached to an FMU
 
 - [FMI-LS-XCP](https://github.com/modelica/fmi-ls-xcp) for XCP support (to be released soon)
 - [FMI-LS-BUS](https://github.com/modelica/fmi-ls-bus) for network communication (v1.0.0-beta.1 available)
@@ -62,6 +58,6 @@ You can watch a recording of the "FMI Beginners' tutorial" from the Modelica Con
 
 #### Other Resources and Discussion Forums for FMI related Questions
 
-- Join he [LinkedIn FMI community](https://www.linkedin.com/groups/7477473/) to get the latsted news on FMI, FMI supporting tools and discussions within the user community.
+- Join the [LinkedIn FMI community](https://www.linkedin.com/groups/7477473/) to get the latsted news on FMI, FMI supporting tools and discussions within the user community.
 - Ask technical questions and discuss topics on the usage of FMI on [Stackoverflow tagged "FMI"](https://stackoverflow.com/questions/tagged/fmi).
-- Report problems of the standard itself or suggestions for new features in form of issues on on [fmi-standard.org](https://github.com/modelica/fmi-standard/issues).
+- Report problems of the standard itself or suggestions for new features in form of issues on [fmi-standard.org](https://github.com/modelica/fmi-standard/issues).
