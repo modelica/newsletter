@@ -4,11 +4,13 @@ author: "Matt Bourland ([Modelon](https://www.modelon.com/ ))"
 category: "vendor"
 ---
 
-![]()
+![](Modelon-Flat-RGB-300.png)
 #### News and Updates from Modelon
 In Q2, we released a new library, published a comprehensive eBook, and continued preparing for our international system modeling and simulation conference in October.
 
 #### New: Energy Systems Library
+![](Modelon-ESL-Banner-338-190.png)
+
 Energy Systems Library (ESL) is designed to plan and optimize industrial to utility-scale energy systems (electricity/heat/hydrogen). The variety of pre-configured models, detailed customization capabilities, and interface to set boundary conditions enable holistic system analyses for energy system engineers working on decarbonization and green energy. ESL allows users to perform techno-economic optimizations, including the production, storage, and consumption (purchase and sale) of electricity, heat, water, CO2, hydrogen, and other fuels. 
 
 [Learn more about the Energy Systems Library.](https://modelon.com/library/energy-systems-library/) 
@@ -19,6 +21,8 @@ Many engineers believe in-house system simulation tools are the most accurate an
 [See the eBook.](https://modelon.com/wp-content/uploads/2024/06/eBook-Modelon-Impact-vs.-In-House-Tools.pdf)
 
 #### Upcoming Event: Modelon Innovate 2024
+![](Modelon-Innovate-2024-Email.jpg)
+
 Are you interested in meeting some of the brightest minds in system simulation and Modelica? This October 10-11th in Copenhagen, engineers from around the world will share insights about system modeling and simulation technology at Modelon Innovate 2024. 
 
 [Learn more about Modelon Innovate.](https://modelon.com/innovate2024/)
