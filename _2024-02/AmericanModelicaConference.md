@@ -4,7 +4,7 @@ author: "Michael Wetter, [North American Modelica Users Group](https://modelica.
 category: "conference"
 ---
 
-We hope you can join the [American Modelica Conference 2024](https://modelica.org/events/american2024/), which will be an in-person conference event, with an option to watch presentations streamed online for a reduced conference admission fee.
+Join the [American Modelica Conference 2024](https://modelica.org/events/american2024/), which will be an in-person conference event, with an option to watch presentations streamed online for a reduced conference admission fee.
 Registration is now open at [Eventbrite](https://www.eventbrite.com/e/american-modelica-conference-2024-tickets-794519207337?aff=oddtdtcreator).
 Take advantage of the early bird registration until August 10, 2024.
 
