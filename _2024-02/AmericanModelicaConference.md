@@ -24,13 +24,13 @@ Please note that **full paper presentations are required to be in person**, whil
 
 We are proud to announce our keynote speakers and the titles of their presentations:
 
-### Tuesday, October 15th:
+##### Tuesday, October 15th:
 
 ![](Swami_small.jpg) **Swaminathan Gopalswamy**, Director, Connected Autonomous Safe Technologies (CAST) Lab
 
 *Modeling, Simulation, and Autonomous Vehicles: the challenges and opportunities.*
 
-### Wednesday, October 16th:
+##### Wednesday, October 16th:
 
 ![](ClasJacobson_small.jpg) **Clas A. Jacobson**, Senior Fellow, Systems Engineering at Carrier
 
