@@ -1,13 +1,13 @@
 ---
 index: true
-hidden: true
+hidden: false
 layout: default
-title: "2023-02"
-name: "2023-02"
-date: "2020-03-06"
-description: "The Summer 2023 edition of the Modelica Association newsletter"
+title: "2023-03"
+name: "2023-03"
+date: "2023-11-13"
+description: "The Fall 2023 edition of the Modelica Association newsletter"
 ---
 
-![Modelica newsletter 2023-02 logo](Modelica.svg)
+![Modelica newsletter 2023-03 logo](Modelica.svg)
 
 {% include build_issue_index.md %}

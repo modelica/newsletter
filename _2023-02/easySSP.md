@@ -1,9 +1,9 @@
 ---
-title: orchideo &#124; easySSP v1.2.6 now available
-author: Gregor Hermann, Peter Lobner [eXXcellent solutions](https://www.exxcellent.de/)
+title: "orchideo &#124; easySSP v1.2.6 now available"
+author: "Gregor Hermann, Peter Lobner [eXXcellent solutions](https://www.exxcellent.de/)"
 category: "vendor"
 ---
-![alt text](easySSP-newsletter.png 'orchideo &#124; easySSP v1.2.6')
+![alt text](easySSP-1_2_8.png 'orchideo &#124; easySSP v1.2.6')
 orchideo &#124; easySSP v1.2.6 is now available and comes with an updated UI for Parameter editing and new Simulation features.
 
 #### Enhanced Parameterization and Modelling Suggestions
