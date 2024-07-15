@@ -36,7 +36,7 @@ This will be the first visit of our conference tour to Switzerland. The Swiss ec
 Further growth in advisory members is spurred by the FMI group and communicated in the corresponding FMI news. 
 
 If you have interesting news for the Modelica, FMI, SSP, DCP, eFMI communities, please 
-follow the [submission guidelines](https://newsletter.modelica.org/submission-guidelines.html). The deadline for articles for the next newsletter is WEEKDAY, MONTH DD, 2024.
+follow the [submission guidelines](https://newsletter.modelica.org/submission-guidelines.html). The deadline for articles for the next newsletter is Friday, November 15, 2024.
 
 
 Dirk Zimmer on July 11, 2024
