@@ -26,13 +26,13 @@ We are proud to announce our keynote speakers and the titles of their presentati
 
 ##### Tuesday, October 15th:
 
-![](Swami_small.jpg) **Swaminathan Gopalswamy**, Director, Connected Autonomous Safe Technologies (CAST) Lab
+![](Swami_small.jpg){: style="float: left; margin-right: 1em;"} **Swaminathan Gopalswamy**, Director, Connected Autonomous Safe Technologies (CAST) Lab
 
 *Modeling, Simulation, and Autonomous Vehicles: the challenges and opportunities.*
 
 ##### Wednesday, October 16th:
 
-![](ClasJacobson_small.jpg) **Clas A. Jacobson**, Senior Fellow, Systems Engineering at Carrier
+![](ClasJacobson_small.jpg){: style="float: left; margin-right: 1em;"} **Clas A. Jacobson**, Senior Fellow, Systems Engineering at Carrier
 
 *Energy Urgency, Computation and Role of “Systems” Methods & Tools.*
 

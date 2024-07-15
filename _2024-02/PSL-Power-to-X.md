@@ -17,5 +17,3 @@ Adjusting the incoming mass flow controls the temperature rise, ensuring ΔTmax 
 A suitable control strategy helps maintain this optimal temperature rise dynamically. The PSL provides a simulation-ready example model that accounts for all these parameters, aiding in developing an appropriate operation for individual applications.
 
 If you are wondering if PSL is suitable for your process and would like to know more or get a trial license, please contact us: [info@tlk-energy.de](mailto:info@tlk-energy.de)
-
-This article is provided by Yann Pellny (TLK Energy).
