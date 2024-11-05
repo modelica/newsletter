@@ -31,4 +31,4 @@ for example with models coming from Lawrence Berkeley's open-source [Buildings L
 ## Fast-running exported co-simulation FMUs
 Obviously, the above-mentioned solver improvements for native or hybridized **Simenceter&nbsp;Amesim** models are automatically reflected&nbsp;&mdash;&nbsp;<i>embedded</i>&nbsp;&mdash;&nbsp; in exported 1.0, 2.0 or 3.0 FMUs for co-simulation. Combined with the optimized discontinuity handling introduced in release 2304, the speedup is further maximized in this context since at each co-simulation &ldquo;rendez-vous&rdquo; point, the solver's current pace is kept unchanged whenever possible. A typical use case is when the **Simcenter&nbsp;Amesim** FMU is connected to a controller model whose outputs may have changed little or not at all during a co-simulation time step. 
 
-For more information on Simcenter Amesim, please visit our [website](https://www.plm.automation.siemens.com/global/en/products/simcenter/simcenter-amesim.html ).
+For more information on **Simcenter&nbsp;Amesim**, please visit our [website](https://www.plm.automation.siemens.com/global/en/products/simcenter/simcenter-amesim.html ).
