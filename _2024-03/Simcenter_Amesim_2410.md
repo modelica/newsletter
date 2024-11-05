@@ -8,21 +8,21 @@ category: "vendor"
 
 ## Accelerated simulations
 While the original aim was to speed up the simulation of Pseudo-Two-Dimensional (P2D) battery models 
-&mdash;&nbsp;achieved with a speedup factor of about&nbsp;9&nbsp;&mdash;, two <i>generic</i> solver enhancements 
+&mdash;&nbsp;achieved with a speedup factor of about&nbsp;9 compared to release 2404&nbsp;&mdash;, two <i>generic</i> solver enhancements 
 have been implemented which have immediate tangible positive consequences on all kinds of &ldquo;large&rdquo; 
 models, which includes **Simcenter&nbsp;Amesim** native models but notably also Modelica models and imported Model Exchange FMUs, as soon as the &mdash;&nbsp;default&nbsp;&mdash; variable step solver is selected. 
 These enhancements, activated by default, are:
 
 * A new heuristic for optimized calculations of Jacobian matrices,
-* An optimization to handle sparse linear systems storage and solving.
+* An optimized handling of sparse linear systems.
 
 ## Improved code generation for Modelica and imported FMUs
 On top of that, the code generation performed behind the scenes when creating a Modelica 
 model, importing an FMU, a pre-trained neural network ([ONNX](https://onnx.ai/ ) file) or a response surface, 
 has been significantly upgraded to &ldquo;V2&rdquo;, featuring lightweight and more efficient code. 
 For Modelica and FMI, the direct 
-outcome is a more robust coupled simulation with &ldquo;large&rdquo; models (<i>i.e.</i> with numerous inputs/outputs,
-state variables, internal variables and/or parameters). For highly-hierachical Modelica
+outcome is a more robust coupled simulation with &ldquo;large&rdquo; models (<i>i.e.</i> involving fine-grained spatial discretizations, numerous inputs/outputs,
+state variables, internal variables and/or parameters) which are a strong trend, for example to serve electrification. For highly-hierachical Modelica
 models, the result is outstanding with compilation and simulation times that compete with 100% Modelica-based tools,
 for example with models coming from Lawrence Berkeley's open-source [Buildings Library v11.0.0](https://simulationresearch.lbl.gov/modelica/ ). 
 
