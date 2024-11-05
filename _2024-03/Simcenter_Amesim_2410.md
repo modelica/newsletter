@@ -9,26 +9,25 @@ category: "vendor"
 ## Accelerated simulations
 While the original aim was to speed up the simulation of Pseudo-Two-Dimensional (P2D) battery models 
 &mdash;&nbsp;achieved with a speedup factor of about&nbsp;9 compared to release 2404&nbsp;&mdash;, two <i>generic</i> solver enhancements 
-have been implemented which have immediate tangible positive consequences on all kinds of &ldquo;large&rdquo; 
-models, which includes **Simcenter&nbsp;Amesim** native models but notably also Modelica models and imported Model Exchange FMUs, as soon as the &mdash;&nbsp;default&nbsp;&mdash; variable step solver is selected. 
-These enhancements, activated by default, are:
+have been implemented which have tangible positive consequences on all kinds of &ldquo;large&rdquo; 
+models, which means native models but also Modelica models and imported Model Exchange FMUs, as soon as the &mdash;&nbsp;default&nbsp;&mdash; variable step solver is selected. These enhancements, activated by default, are:
 
 * A new heuristic for optimized calculations of Jacobian matrices,
 * An optimized handling of sparse linear systems.
 
 ## Improved code generation for Modelica and imported FMUs
-On top of that, the code generation performed behind the scenes when creating a Modelica 
+On top of that, the code generation performed when creating a Modelica 
 model, importing an FMU, a pre-trained neural network ([ONNX](https://onnx.ai/ ) file) or a response surface, 
-has been significantly upgraded to &ldquo;V2&rdquo;, featuring lightweight and more efficient code. 
-For Modelica and FMI, the direct 
+has been upgraded to &ldquo;V2&rdquo;, featuring lightweight and more CPU-efficient code. 
+For Modelica and FMI, the 
 outcome is a more robust coupled simulation with &ldquo;large&rdquo; models (<i>i.e.</i> involving fine-grained spatial discretizations, numerous inputs/outputs,
 state variables, internal variables and/or parameters) which are a strong trend, for example to serve electrification. For highly-hierachical Modelica
-models, the result is outstanding with compilation and simulation times that compete with 100% Modelica-based tools,
+models, this results in compilation and simulation times that compete with 100% Modelica-based tools,
 for example with models coming from Lawrence Berkeley's open-source [Buildings Library v11.0.0](https://simulationresearch.lbl.gov/modelica/ ). 
 
 ![](amesim_modelica_2410.png)
 
 ## Fast-running exported co-simulation FMUs
-Obviously, the above-mentioned solver improvements for native or hybridized **Simenceter&nbsp;Amesim** models are automatically reflected&nbsp;&mdash;&nbsp;<i>embedded</i>&nbsp;&mdash;&nbsp; in exported 1.0, 2.0 or 3.0 FMUs for co-simulation. Combined with the optimized discontinuity handling introduced in release 2304, the speedup is further maximized in this context since at each co-simulation &ldquo;rendez-vous&rdquo; point, the solver's current pace is kept unchanged whenever possible. A typical use case is when the **Simcenter&nbsp;Amesim** FMU is connected to a controller model whose outputs may have changed little or not at all during a co-simulation time step. 
+Obviously, the above-mentioned solver improvements for native or hybridized models are automatically reflected&nbsp;&mdash;&nbsp;<i>embedded</i>&nbsp;&mdash;&nbsp; in exported FMUs for co-simulation. Combined with the optimized discontinuity handling introduced in release 2304, the speedup is further maximized in this context since at each co-simulation &ldquo;rendez-vous&rdquo; point, the solver's current pace is kept unchanged whenever possible. A typical use case is when the **Simcenter&nbsp;Amesim** FMU is connected to a controller model whose outputs may have changed little or not at all during a co-simulation time step. 
 
 For more information on **Simcenter&nbsp;Amesim**, please visit our [website](https://www.plm.automation.siemens.com/global/en/products/simcenter/simcenter-amesim.html ).
