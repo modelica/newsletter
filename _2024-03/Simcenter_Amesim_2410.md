@@ -11,10 +11,10 @@ While the original aim was to speed up the simulation of Pseudo-Two-Dimensional 
 &mdash;&nbsp;achieved with a speedup factor of about&nbsp;9&nbsp;&mdash;, two <i>generic</i> solver enhancements 
 have been implemented which have immediate tangible positive consequences on all kinds of &ldquo;large&rdquo; 
 models, which includes **Simcenter&nbsp;Amesim** native models but notably also Modelica models and imported Model Exchange FMUs, as soon as the &mdash;&nbsp;default&nbsp;&mdash; variable step solver is selected. 
-These enhancements are:
+These enhancements, activated by default, are:
 
 * A new heuristic for optimized calculations of Jacobian matrices,
-* An interface with the industry-standard [SuiteSparse KLU library](https://github.com/DrTimothyAldenDavis/SuiteSparse/tree/dev/KLU ).
+* An optimization to handle sparse linear systems storage and solving.
 
 ## Improved code generation for Modelica and imported FMUs
 On top of that, the code generation performed behind the scenes when creating a Modelica 
