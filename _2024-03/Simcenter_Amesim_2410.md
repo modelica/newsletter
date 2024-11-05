@@ -3,7 +3,7 @@ title: Simcenter Amesim 2410 released
 author: "Bruno Loyer ([Siemens Digital Industries Software](https://www.sw.siemens.com/ ))"
 category: "vendor"
 ---
-[Siemens Digital Industries Software](https://www.sw.siemens.com/ ) is pleased to announce the recent release of **Simcenter&nbsp;Amesim&nbsp;2410** as part of its [system simulation solutions]( https://blogs.sw.siemens.com/simcenter/whats-new-in-simcenter-systems-2410/). This release brings remarkable performance improvements to the solver and code generation, which it combines advantageously with previous optimizations such as those related to so-called &ldquo;0-flow&rdquo; problems or to discontinuity handling in a co-simulation context. 
+[Siemens Digital Industries Software](https://www.sw.siemens.com/ ) is pleased to announce the recent release of **Simcenter&nbsp;Amesim&nbsp;2410** as part of its [system simulation solutions]( https://blogs.sw.siemens.com/simcenter/whats-new-in-simcenter-systems-simulation-2410/). This release brings remarkable performance improvements to the solver and code generation, which it combines advantageously with previous optimizations such as those related to so-called &ldquo;0-flow&rdquo; problems or to discontinuity handling in a co-simulation context. 
 ![](amesim_banner_2410.png)
 
 ## Accelerated simulations
