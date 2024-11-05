@@ -21,7 +21,7 @@ On top of that, the code generation performed behind the scenes when creating a 
 model, importing an FMU, a pre-trained neural network ([ONNX](https://onnx.ai/ ) file) or a response surface, 
 has been significantly upgraded to &ldquo;V2&rdquo;, featuring lightweight and more efficient code. 
 For Modelica and FMI, the direct 
-outcome is a more robust coupled simulation with &ldquo;large&rdquo; models (numerous inputs/outputs,
+outcome is a more robust coupled simulation with &ldquo;large&rdquo; models (<i>i.e.</i>numerous inputs/outputs,
 state variables, internal variables and/or parameters). For highly-hierachical Modelica
 models, the result is outstanding with compilation and simulation times that compete with 100% Modelica-based tools,
 for example with models coming from Lawrence Berkeley's open-source [Buildings Library v11.0.0](https://simulationresearch.lbl.gov/modelica/ ). 
