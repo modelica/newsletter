@@ -15,13 +15,14 @@ models, which means native models but also Modelica models and imported Model Ex
 * A new heuristic for optimized calculations of Jacobian matrices,
 * An optimized handling of sparse linear systems.
 
+&ldquo;Large&rdquo; models are a strong trend even for system simulation, for example to serve electrification. They typically involve fine-grained spatial discretizations, numerous inputs/outputs, state variables, internal variables and/or parameters. 
+
 ## Improved code generation for Modelica and imported FMUs
 On top of that, the code generation performed when creating a Modelica 
 model, importing an FMU, a pre-trained neural network ([ONNX](https://onnx.ai/ ) file) or a response surface, 
 has been upgraded to &ldquo;V2&rdquo;, featuring lightweight and more CPU-efficient code. 
 For Modelica and FMI, the 
-outcome is a more robust coupled simulation with &ldquo;large&rdquo; models (<i>i.e.</i> involving fine-grained spatial discretizations, numerous inputs/outputs,
-state variables, internal variables and/or parameters) which are a strong trend, for example to serve electrification. For highly-hierachical Modelica
+outcome is a more robust coupled simulation with &ldquo;large&rdquo; models. For highly-hierachical Modelica
 models, this results in compilation and simulation times that compete with 100% Modelica-based tools,
 for example with models coming from Lawrence Berkeley's open-source [Buildings Library v11.0.0](https://simulationresearch.lbl.gov/modelica/ ). 
 
