@@ -4,6 +4,7 @@ author: "Bruno Loyer ([Siemens Digital Industries Software](https://www.sw.sieme
 category: "vendor"
 ---
 [Siemens Digital Industries Software](https://www.sw.siemens.com/ ) is pleased to announce the recent release of **Simcenter&nbsp;Amesim&nbsp;2410** as part of its [system simulation solutions]( https://blogs.sw.siemens.com/simcenter/whats-new-in-simcenter-systems-simulation-2410/). This release brings remarkable performance improvements to the solver and code generation that combine well with previous optimizations such as those related to so-called &ldquo;0-flow&rdquo; problems or to discontinuity handling in a co-simulation context. These improvements have a positive impact on the support of FMI and Modelica.
+
 ![](amesim_banner_2410.png)
 
 ## Accelerated simulations
