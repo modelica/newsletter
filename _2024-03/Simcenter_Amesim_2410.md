@@ -10,7 +10,7 @@ category: "vendor"
 While the original aim was to speed up the simulation of Pseudo-Two-Dimensional (P2D) battery models 
 &mdash;&nbsp;achieved with a speedup factor of about&nbsp;9 compared to release 2404&nbsp;&mdash;, two <i>generic</i> solver enhancements 
 have been implemented which have tangible positive consequences on all kinds of &ldquo;large&rdquo; 
-models, which means native models but also Modelica models and imported Model Exchange FMUs, as soon as the &mdash;&nbsp;default&nbsp;&mdash; variable step solver is selected. These enhancements, activated by default, are:
+models, including native models but also Modelica models and imported Model Exchange FMUs, as soon as the &mdash;&nbsp;default&nbsp;&mdash; variable step solver is selected. These enhancements, activated by default, are:
 
 * A new heuristic for optimized calculations of Jacobian matrices,
 * An optimized handling of sparse linear systems.
