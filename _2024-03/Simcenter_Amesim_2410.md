@@ -16,7 +16,7 @@ models, including native models but also Modelica models and imported Model Exch
 * A new heuristic for optimized calculations of Jacobian matrices,
 * An optimized handling of sparse linear systems.
 
-&ldquo;Large&rdquo; models are a strong trend even for system simulation, for example to serve electrification. They typically involve fine-grained spatial discretizations, numerous inputs/outputs, state variables, internal variables and/or parameters. 
+&ldquo;Large&rdquo; models represent a strong trend for system simulation across all industries, for example to serve electrification. They typically involve fine-grained spatial discretizations, numerous inputs/outputs, state variables, internal variables and/or parameters. 
 
 ## Improved code generation for Modelica and imported FMUs
 On top of that, the code generation performed when creating a Modelica 
