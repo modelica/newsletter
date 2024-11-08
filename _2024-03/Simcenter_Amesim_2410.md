@@ -1,5 +1,5 @@
 ---
-title: Simcenter Amesim 2410 released
+title: Simcenter Amesim 2410
 author: "Bruno Loyer ([Siemens Digital Industries Software](https://www.sw.siemens.com/ ))"
 category: "vendor"
 ---
@@ -30,6 +30,7 @@ for example with models coming from Lawrence Berkeley's open-source [Buildings L
 ![](amesim_modelica_2410.png)
 
 ## Fast-running exported co-simulation FMUs
-Obviously, the above-mentioned solver improvements for native or hybridized models are automatically reflected&nbsp;&mdash;&nbsp;*embedded*&nbsp;&mdash;&nbsp; in exported FMUs for co-simulation, for the deployment of performant *plant models*. Combined with the optimized discontinuity handling introduced in release 2304, the speedup is further maximized in this context since at each co-simulation *rendez-vous* point, the solver's current pace is kept unchanged whenever possible. A typical use case is when the **Simcenter&nbsp;Amesim** FMU is connected to a controller model whose outputs may have changed little or not at all during a co-simulation time step. 
+Obviously, the above-mentioned solver improvements for native or hybridized models are automatically reflected&nbsp;&mdash;&nbsp;*embedded*&nbsp;&mdash;&nbsp; in exported FMUs for co-simulation, for the deployment of performant *plant models*. Combined with the optimized discontinuity handling introduced in release 2304, the speedup is further maximized in this context since at each co-simulation *rendez-vous* point, the solver's current pace is kept unchanged whenever possible. 
+This strategy is effective independently of the chosen import tool. A typical use case is when the **Simcenter&nbsp;Amesim** FMU is connected to a controller model whose outputs may have changed little or not at all during a co-simulation time step. 
 
 For more information on **Simcenter&nbsp;Amesim**, please visit our [website](https://www.plm.automation.siemens.com/global/en/products/simcenter/simcenter-amesim.html ).
