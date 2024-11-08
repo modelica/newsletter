@@ -9,6 +9,6 @@ As a founding member of the member of the Modelica Asssociation, and co-founder 
 
 With my unique experience of being from Europe, but US-based, my goal is to introduce the European-based standards and solutions Modelica, FMI, eFMI and SSP to the US market. I will do this as an independent consultant, and also as a partner of the companies from the European Ecosystem of Modelica Association solutions, helping to find the best fit .  
 
-Interested? Please contact me by subscribing to my newsletter via the sign-up form at https://modelbased.cloud/. You can also contact me directly via firstname.lastname[at]modelbased.cloud
+Interested? Please contact me by subscribing to my newsletter via the sign-up form at https://modelbased.cloud/. You can also contact me directly via firstname.lastname[at]modelbased.cloud, I'm looking forward to discussing your needs with you!
 
 Hubertus Tummescheit, Founder and President, Model Based Innovation LLC
