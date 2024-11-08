@@ -2,7 +2,7 @@
 
 
 
-![](HTHeadshot.jpg){: style="float: left; margin-right: 1em;"} **Hubertus Tummescheit**, Founder, Model Based Innovation LLC
+![](headshot_small.jpg){: style="float: left; margin-right: 1em;"} **Hubertus Tummescheit**, Founder, Model Based Innovation LLC
  
 As a long time member of the Modelica community It is my pleasure to announce my newly openend company: Model Based Innovation LLC, based in West Hartford, Connecticut. 
 
