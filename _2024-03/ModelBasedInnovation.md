@@ -2,8 +2,7 @@
 
 
 
-![](headshot_small.png){: style="float: left; margin-right: 1em;"} **Hubertus Tummescheit**, Founder, Model Based Innovation LLC
- 
+![](headshot_small.png){: style="float: left; margin-right: 1em;"} **Hubertus Tummescheit**, Founder, Model Based Innovation LLC  
 As a long time member of the Modelica community It is my pleasure to announce my newly openend company: Model Based Innovation LLC, based in West Hartford, Connecticut. 
 
 As a founding member of the member of the Modelica Asssociation, and co-founder of Modelon, I have now started a new venture that will again be fully focused on the open standards of the Modelica Association, and combine that in-depth knowledge with process consulting to help companies speed up their journey towards efficient model based design, and model based systems engineering. 
