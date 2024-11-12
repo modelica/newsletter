@@ -4,7 +4,7 @@ author: "Matt Bourland ([Modelon](https://www.modelon.com/ ))"
 category: "vendor"
 ---
 
-![Modelon_Flat_RGB_300](https://github.com/user-attachments/assets/f62c1c8d-35d6-4e29-aefb-95fa3c1ba47e)
+![Modelon](https://github.com/modelonmatt/newsletter/blob/7fbd2e2c1c0fcda9eec8bd072cbf3d4a84ad3fac/_2024-03/Modelon_Flat_RGB_300.png)
 
 ### New and Updated Features in Modelon Impact
 
