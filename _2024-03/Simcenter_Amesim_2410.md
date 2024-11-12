@@ -19,7 +19,7 @@ models, including native models but also Modelica models and imported Model Exch
 &ldquo;Large&rdquo; models represent a strong trend for system simulation across all industries, for example to serve electrification. They typically involve fine-grained spatial discretizations, numerous inputs/outputs, state variables, internal variables and/or parameters. 
 
 ## Improved code generation for Modelica and imported FMUs
-On top of that, the code generation performed when creating a Modelica 
+Aside from accelerated simulations, the code generation performed when creating a Modelica 
 model, importing an FMU, a pre-trained neural network ([ONNX](https://onnx.ai/ ) file) or a response surface, 
 has been upgraded to &ldquo;V2&rdquo;, featuring lightweight and more CPU-efficient code. 
 For Modelica and FMI, the 
