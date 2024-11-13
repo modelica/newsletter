@@ -43,9 +43,8 @@ Already successfully tested in Altair Activate by Masoud Najafi (Thanks!).
 
 ![Synchronous-clocks](Synchronous-clocks.png)
 
-#### Current development of layered standards
+#### FMI Layered Standard for for Network Communication (FMI-LS-BUS) 
 
-FMI Layered Standard for for Network Communication (FMI-LS-BUS) making progress!
 The version v1.0.0 for CAN, CAN FD, CAN XL is in beta testing currently, and will be demonstrated at the International ASAM Conference in Munich in December.
 And in parallel we made progress on the Flexray support and are happy that we could tag v1.1.0alpha.
 Thanks to all contributors! Stay tuned!
