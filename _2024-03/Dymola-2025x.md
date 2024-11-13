@@ -4,8 +4,6 @@ author: "Dag Brück ([Dassault Systèmes](https://www.dymola.com/))"
 category: "vendor"
 ---
 
-![TIL Suite](Dymola-2025x-TIL.png)
-
 Dymola 2025x will be released on November 29, 2024.    
 
 #### Parameter arrays
@@ -35,6 +33,9 @@ Furthermore, a predictor compensation gives better error estimates.
 #### TIL-Suite libraries
 The existing ThermalSystems library is replaced by TIL-Suite from TLK-Thermo.
 This change will offer more complete range of libraries and extended functionality.
+
+![TIL Suite](Dymola-2025x-TIL.png)
+
 It is divided into four library products at Dassault Systèmes:
 -	TIL Base Library
 -	TIL Mobile Air Conditioning Library
