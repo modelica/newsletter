@@ -13,7 +13,7 @@ category: association
 After the clarification of FMI Project membership roles, the and Project hosted the first FMI Advisory Committee meeting on Nov 5th 2025.
  We received very valuable feedback, ideas and feature requests!
 Thanks to the 70 participants for their contributions and participation!
-(Participating Companies: Akkodis, Ansys, AVL, Beckhoff, Boeing, Bosch, Claytex, COMSOL, DassaultSystems, dSpace, EKSINTEC, GMMotorsports, KEB, KnorrBremse, LBL, LTX, MachineWare, MapleSoft, Mathworks, ModelbasedCloud, Modelon, NVIDIA, PMSF, PrincipiaMBS, Renault, SamaresEngineering, Siemens, Synopsys, Volkswagen, VolvoAutonomousSolutions)
+(Participating Companies: Akkodis, Ansys, AVL, Beckhoff, Boeing, Bosch, Claytex, COMSOL, DassaultSystems, dSPACE, EKSINTEC, GMMotorsports, KEB, KnorrBremse, LBL, LTX, MachineWare, MapleSoft, Mathworks, ModelbasedCloud, Modelon, NVIDIA, PMSF, PrincipiaMBS, Renault, SamaresEngineering, Siemens, Synopsys, Volkswagen, VolvoAutonomousSolutions)
 
 Some of the topics that were discussed: 
 
@@ -38,16 +38,16 @@ In case of any findings, please open an issue https://github.com/modelica/fmi-st
 #### Examples of SynchronousClocked FMUs available
 
 As more and more modelling and simulation tools extend their support for FMI 3.0, now advanced features such as synchronous clocks get more into the focus. 
-Thanks to Cláudio Gomes for providing a very instructive example with several FMUs on Github (https://github.com/clagms/synchronous-clock-fmus), that can be used to understand the concept and validate the synchronous clock support if importing tools. 
+Thanks to Cláudio Gomes for providing a very instructive example with several FMUs on Github (https://github.com/clagms/synchronous-clock-fmus), that can be used to understand the concept and validate the synchronous clock support in importing tools. 
 Already successfully tested in Altair Activate by Masoud Najafi (Thanks!).
 
-![Synchronous-clocls](Synchronous-clocks.png)
+![Synchronous-clocks](Synchronous-clocks.png)
 
 #### Current development of layered standards
 
 FMI Layered Standard for for Network Communication (FMI-LS-BUS) making progress!
-The version v1.0.0 for CAN, CAN FD, CAN XL is in beta testing currently, and will be demonstrated at the InternationASAMConference in Munich in December.
-And in parallel we made progress on the Flexray support and are happy that tody we could tag v1.1.0alpha 
+The version v1.0.0 for CAN, CAN FD, CAN XL is in beta testing currently, and will be demonstrated at the International ASAM Conference in Munich in December.
+And in parallel we made progress on the Flexray support and are happy that we could tag v1.1.0alpha.
 Thanks to all contributors! Stay tuned!
 
 ![FMI-LS-BUS-Roadmap](1730807979224.jpg)
@@ -60,7 +60,7 @@ We will work on layered standards to the FMI standard and future improvements.
 
 #### ASAM Conference in Munich Dec 4-5 2024
 
-The FMI Projekt will present "FMI, Layered Standards and ASAM Standards - Enabling Seamless SiL Simulation of Virtual ECUs" at the coming International ASAM Conference in Munich. 
+The FMI Project will present "FMI, Layered Standards and ASAM Standards - Enabling Seamless SiL Simulation of Virtual ECUs" at the coming International ASAM Conference in Munich. 
 You can meet us also at the Modelica Association booth there!
 
 We present three new layered standards for simulating virtual ECUs with FMI 3.0:
@@ -82,6 +82,6 @@ We are are happy to invite you to the coming https://modelica.org/events/modelic
 
 #### Other Resources and Discussion Forums for FMI related Questions
 
-* Join the [LinkedIn FMI community](https://www.linkedin.com/groups/7477473/) to get the latsted news on FMI, FMI supporting tools and discussions within the user community.
+* Join the [LinkedIn FMI community](https://www.linkedin.com/groups/7477473/) to get the latest news on FMI, FMI supporting tools and discussions within the user community.
 * Ask technical questions and discuss topics on the usage of FMI on [Stackoverflow tagged "FMI"](https://stackoverflow.com/questions/tagged/fmi).
 * Report problems of the standard itself or suggestions for new features in form of issues on [fmi-standard.org](https://github.com/modelica/fmi-standard/issues).
