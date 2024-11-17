@@ -8,7 +8,7 @@ category: association
 
 ![FMI](FMI.png)
 
-#### First FMI Advisory Committee meetting
+#### First FMI Advisory Committee meeting
 
 After the clarification of the FMI Project membership roles, the FMI Project hosted the first FMI Advisory Committee meeting on Nov 5, 2025.
 We received very valuable feedback, ideas, and feature requests.
