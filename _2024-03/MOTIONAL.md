@@ -1,7 +1,7 @@
 ---
 title: "FMI-based Digital Twins in European Projects on Railways"
-author: "Andreas Heckmann (DLR), Alex Meierhofer (VIF), Blas Blanco Mula (CAF)"
-category: "association"
+author: "Andreas Heckmann ([DLR](https://www.dlr.de/)), Alex Meierhofer ([VIF](https://www.virtual-vehicle.at/)), Blas Blanco Mula ([CAF](https://www.cafmobility.com/))"
+category: "project"
 ---
 
 ![MAP eFMI®](MAP-eFMI.png "MAP eFMI®")
