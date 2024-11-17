@@ -1,6 +1,9 @@
-# Model Based Innovation LLC Opens for Business
-
-
+---
+title: "Model Based Innovation LLC Opens for Business"
+author: "Hubertus Tummescheit, [Model Based Innovation](at https://modelbased.cloud/)"
+category: "vendor"
+---
+#### 
 
 ![](headshot_small.png){: style="float: left; margin-right: 1em;"} **Hubertus Tummescheit**, Founder, Model Based Innovation LLC  
 As a long time member of the Modelica community It is my pleasure to announce my newly openend company: Model Based Innovation LLC, based in West Hartford, Connecticut. 
