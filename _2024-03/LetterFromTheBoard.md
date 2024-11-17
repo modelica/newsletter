@@ -16,13 +16,13 @@ The four most important results of this discussion were:
 
 I want to thank Airbus Operations GmbH for hosting this event and Oliver Lenord (Project Leader of [ITEA OpenScaling](https://itea4.org/project/openscaling.html)) for enabling this to be adjunct to the OpenScaling workshop.  This meeting was a first step and further coordination is planned:  a virtual online meeting is scheduled for January 31 in 2025 and another in-person meeting will be organized in spring 2025, likely to be in Hamburg again. Invitation will be sent out to all Modelica Association members via email.
 
-### Update on our conferences
+#### Update on our conferences
 
 The last quarter of 2024 is all about our conferences in the USA and Asia. The [American conference](https://modelica.org/events/american2024/) was a very successful event and its [proceedings](https://modelica.org/events/american2024/271463_Modelica_Storrs_Proceedings_v3_SinglePages.pdf) are now available. I want to sincerely thank the very experienced local organization team for all their hard work and also for bringing a wonderful community together. I am also looking forward to participate in the [Asian Modelica Conference](https://modelica.org/events/asian2024/) in South Korea this December.
 
 Furthermore, I am happy to announce the annual [ModProd and OpenModelica Workshop](https://modprodblog.wordpress.com/) in Linköping, taking place at February 3-5.
 
-Last but certainly not least: Preparation for the [16th International Modelica & FMI Conference](https://modelica.org/events/modelica2025/) in beautiful Lucernce, Switzerland are now speeding up.  Of highest interest are of course the most important dates:
+Last but certainly not least: Preparation for the [16th International Modelica & FMI Conference](https://modelica.org/events/modelica2025/) in beautiful Lucerne, Switzerland are now speeding up.  Of highest interest are of course the most important dates:
 
 - April 17, 2025: Deadline for submissions
 - June 1, 2025:	Deadline for Workshops and Tutorials, and Vendor Presentations
