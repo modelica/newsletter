@@ -4,13 +4,13 @@ author: "Matt Bourland ([Modelon](https://www.modelon.com/ ))"
 category: "vendor"
 ---
 
-![Modelon](https://github.com/modelonmatt/newsletter/blob/7fbd2e2c1c0fcda9eec8bd072cbf3d4a84ad3fac/_2024-03/Modelon_Flat_RGB_300.png)
+![Modelon](Modelon_Flat_RGB_300.png)
 
-### New and Updated Features in Modelon Impact
+#### New and Updated Features in Modelon Impact
 
 We’ve been hard at work making significant enhancements to Modelon Impact. Here are a few of the product highlights from the recent [2024.2 release.](https://modelon.com/blog/2024-2-release/)
 
-#### Analysis View
+##### Analysis View
 
 We now have a dedicated space for data visualization in Modelon Impact. While users can still configure graphs in the model view, they can now configure multiple plots and graphs simultaneously for comparative analysis. 
 
@@ -18,13 +18,13 @@ Analysis View includes a histogram chart, stacked chart options, and the existin
 
 Users can also view the results for a single simulation or a customizable set of multiple simulations. This helps users zero in on the desired results, even when performing batch simulations.
 
-#### Experiment Setup
+##### Experiment Setup
 
 Multi-run simulations in Modelon Impact just got more powerful. Users can now easily set up multiple simulations with parameter sweeps, making comparing configurations such as controller types and initialization options easier. 
 
 Users can also execute a Design of Experiments by specifying the number of cases they want to run and the distribution parameters.
 
-#### Native Calibration Workflow
+##### Native Calibration Workflow
 
 We’ve now built an out-of-the-box custom workflow for calibrating a model against a dataset. This calibration workflow package includes calibration examples and a customizable web application for data visualization. 
 
@@ -34,9 +34,9 @@ We’ve also made significant additions to our libraries regarding Hydrogen-Powe
 
 [Read the full release notes here.](https://help.modelon.com/latest/release_notes/latest/)
 
-### New Case Study
+#### New Case Study
 
-#### MAN Energy Solutions: Creating a Virtual Test Bed for Next-Gen Industrial Heat Pumps
+##### MAN Energy Solutions: Creating a Virtual Test Bed for Next-Gen Industrial Heat Pumps
 
 MAN ES has been researching and developing large-scale industrial heat pumps, which are vital for creating sustainable heating solutions for industries and municipalities. 
 
@@ -44,9 +44,9 @@ Dynamic models for transient simulation are integral to their design, validation
 
 [Learn how MAN Energy Solutions built and validated their virtual test bed using Modelon Impact and our Thermal Power Library.](https://modelon.com/support/creating-a-virtual-test-bed-for-next-gen-industrial-heat-pumps/)
 
-### Event Recap
+#### Event Recap
 
-#### Modelon Innovate 2024
+##### Modelon Innovate 2024
 
 Modelon Innovate 2024 took place on October 10-11th in Copenhagen. The two-day event brought together over one hundred system modeling and simulation experts from fifteen countries. The event featured insightful presentations on system simulation and hands-on workshops to enhance attendees’ skills in developing innovative physical systems in commercial industries. 
 
