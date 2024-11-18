@@ -8,7 +8,7 @@ category: association
 
 ![FMI](FMI.png)
 
-#### First FMI Advisory Committee meetting
+#### First FMI Advisory Committee Meeting
 
 After the clarification of the FMI Project membership roles, the FMI Project hosted the first FMI Advisory Committee meeting on Nov 5, 2025.
 We received very valuable feedback, ideas, and feature requests.
@@ -46,7 +46,7 @@ It has already been tested successfully in Altair Activate by Masoud Najafi.
 #### FMI Layered Standard for for Network Communication (FMI-LS-BUS) 
 
 The version v1.0.0 for CAN, CAN FD, CAN XL is in beta testing currently, and will be demonstrated at the International ASAM Conference in Munich in December.
-In parallel we made progress on the Flexray support and are happy that we could tag [v1.1.0-alpha.1](https://github.com/modelica/fmi-ls-bus/releases/tag/v1.1.0-alpha.1).
+In parallel we made progress on the FlexRay support and are happy that we could tag [v1.1.0-alpha.1](https://github.com/modelica/fmi-ls-bus/releases/tag/v1.1.0-alpha.1).
 Thanks to all contributors and stay tuned.
 
 ![FMI-LS-BUS-Roadmap](1730807979224.jpg)
