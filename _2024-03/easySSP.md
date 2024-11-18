@@ -3,8 +3,7 @@ title: "orchideo | easySSP v1.3.8 now available"
 author: "Gregor Hermann, Peter Lobner [eXXcellent solutions](https://www.exxcellent.de/)"
 category: "vendor"
 ---
-![alt text](easySSP-logo.png 'orchideo \| easySSP v1.3.8')
-orchideo \| easySSP v1.3.8 is now available with workflows, SSP 2.0 support and enhanced model parameterization.
+![orchideo \| easySSP v1.3.8 is now available with workflows, SSP 2.0 support and enhanced model parameterization](easySSP-logo.png 'orchideo \| easySSP v1.3.8')
 
 The latest easySSP update brings workflows, SSP 2.0 support and enhanced model parameterization:
 
