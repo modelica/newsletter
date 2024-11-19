@@ -7,7 +7,7 @@ category: "vendor"
 
 ![](amesim_banner_2410.png)
 
-## Accelerated simulations
+#### Accelerated simulations
 While the original aim was to speed up the simulation of Pseudo-Two-Dimensional (P2D) battery models 
 &mdash;&nbsp;achieved with a speedup factor of about&nbsp;9 compared to release 2404&nbsp;&mdash;, two *generic* solver enhancements 
 have been implemented which have tangible positive consequences on all kinds of &ldquo;large&rdquo; 
@@ -18,7 +18,7 @@ models, including native models but also Modelica models and imported Model Exch
 
 &ldquo;Large&rdquo; models represent a strong trend for system simulation across all industries, for example to serve electrification. They typically involve fine-grained spatial discretizations, numerous inputs/outputs, state variables, internal variables and/or parameters. 
 
-## Improved code generation for Modelica and imported FMUs
+#### Improved code generation for Modelica and imported FMUs
 Aside from accelerated simulations, the code generation performed when creating a Modelica 
 model, importing an FMU, a pre-trained neural network ([ONNX](https://onnx.ai/ ) file) or a response surface, 
 has been upgraded to &ldquo;V2&rdquo;, featuring lightweight and more CPU-efficient code. 
@@ -29,7 +29,7 @@ for example with models coming from Lawrence Berkeley's open-source [Buildings L
 
 ![](amesim_modelica_2410.png)
 
-## Fast-running exported co-simulation FMUs
+#### Fast-running exported co-simulation FMUs
 Obviously, the above-mentioned solver improvements for native or hybridized models are automatically reflected&nbsp;&mdash;&nbsp;*embedded*&nbsp;&mdash;&nbsp; in exported FMUs for co-simulation, for the deployment of performant *plant models*. Combined with the optimized discontinuity handling introduced in release 2304, the speedup is further maximized in this context since at each co-simulation *rendez-vous* point, the solver's current pace is kept unchanged whenever possible. 
 This strategy is in place independently of the chosen import tool. A typical use case is when the **Simcenter&nbsp;Amesim** FMU is connected to a controller model whose outputs may have changed little or not at all during a co-simulation time step. 
 
