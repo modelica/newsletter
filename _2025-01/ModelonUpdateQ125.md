@@ -6,7 +6,7 @@ category: "vendor"
 
 ![Modelon](Modelon_Flat_RGB_300.png)
 
-### Modelon Celerbates Twenty Years of Excellence in System Simulation
+### Modelon Celebrates Twenty Years of Excellence in System Simulation
 
 Two decades ago, Modelon was founded with a bold vision: to revolutionize system simulation by embracing an open standard for modeling and simulation—Modelica!
  
@@ -31,11 +31,11 @@ We now have a dedicated space for data visualization in Modelon Impact. While us
 
 ##### Babcock Power: Enhancing Design and System Performance for Direct Combustion Boilers
 
-Babcock Power chooses Modelon Impact to predict and improve utility-scale boiler performance in a changing energy landscape, including incorporating new fuels and renewable energy sources. 
+Babcock Power chooses Modelon Impact to predict and improve utility-scale boiler performance in a changing energy landscape, incorporating new fuels and renewable energy sources. 
  
 Michael Johnson, Senior Engineer from Babcock Power, said, “Doing transient analysis of the model in Modelon Impact gives us insights to share with our customers and increases their confidence in our offering. Our collaboration with Modelon helps us stay at the forefront of our industry.” 
 
-[Read the case studu.](https://modelon.com/support/enhancing-design-and-system-performance-for-direct-combustion-boilers/)
+[Read the case study.](https://modelon.com/support/enhancing-design-and-system-performance-for-direct-combustion-boilers/)
 
 ### New Blog
 
