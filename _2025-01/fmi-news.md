@@ -15,7 +15,7 @@ FMUs created according to FMI 3.0.2 are valid FMUs according to FMI 3.0 and FMI 
 
 All releases are available on the [FMI website](fmi-standard.org). For a detailed list of changes see the [releases page on Github](https://github.com/modelica/fmi-standard/releases).
 
-#### Layered standards (pre-)releases by the FMI Project
+### Layered standards (pre-)releases by the FMI Project
 
 The FMI Project is proud to announce the progress in the definition of layered standards on top of the FMI standard! (Layered standards are exentions to the core FMI standard for special applications.)
 
@@ -25,23 +25,31 @@ The FMI Project is proud to announce the progress in the definition of layered s
 
 Another layered standard, [FMI-LS-REF](https://github.com/modelica/fmi-ls-ref) is in an earlier development stage. It will allow for the inclusion of related files into an FMU. This includes parameter sets, reference stimuli and results, which can be used in additional experiments, as well as other relevant files to the FMU, like the model sources, requirements, or specifications.
 
-#### "The Functional Mock-up Interface (FMI), Layered Standards and ASAM standards - Enabling Seamless SiL Simulation of V-ECUs": Slides and recording of our presentation at the ASAM Conference 2024 available
+### Slides and recording of our presentation at the ASAM Conference 2024 available
 
-Representatives from the FMI Project gave this presentation at the International ASAM Conference 2025 in Munich.
+![Presenation on Layered Standards at the ASAM Conference](FMI-LS-ASAM_small.png)
+
+Representatives from the FMI Project presented "The Functional Mock-up Interface (FMI), Layered Standards and ASAM standards - Enabling Seamless SiL Simulation of V-ECUs" at the International ASAM Conference 2025 in Munich.
 The three new layered standards mentioned in the paragraph above were used for simulating virtual ECUs with FMI 3.0 means. A demo from tool vendors Akkodis, Altair, AVL, Bosch, dSPACE, PMSF and SYNOPSYS  illustrates the interoperability of these layered standards.
 
 The slides are available [on the FMI website](https://fmi-standard.org/assets/literature/FMI-LS-ASAM_2024.pdf), and the video is available [on Youtube](https://www.youtube.com/watch?v=KzzKRa3jORs).
 
-### 16th Internation Modelica and _FMI_ Conference!
+### 16th Internation Modelica and _FMI_ Conference Sept 8-10 2025 in Lucerne, Switzerland
 
-We are are happy to invite you to the coming [16th International Modelica & FMI Conference](https://modelica.org/events/modelica2025/) in Lucerne, where the importance of FMI is now also reflected in the conference title.
+![Modelica and FMI Conference](Modelica_and_FMI_Confernce_Logo.png)
 
-We will make sure, that this will be the most attractive conference for participants mainly interested in FMI by creating a program where you can select sesssions focussed on FMI from the beginning to the end of the conference 
+We are are happy to invite you to the coming [16th International Modelica & FMI Conference](https://modelica.org/events/modelica2025/) in Lucerne, where the importance of FMI is now also reflected in the conference title!
+
+We will make sure, that this will be the most attractive conference also for participants mainly interested in FMI by creating a program where you can select sesssions focussed on FMI from the beginning to the end of the conference by providing
 
 - tutorials on FMI
+- keynotes with a general scope
 - scientific sessions on FMI
 - industrial user sessions on FMI
-- sessions on neighbouring standards SSP, eFMI, DCP
+- Modelica-related sessions that also involve the usage of FMI
+- sessions on FMI's "sister" standards SSP, eFMI, DCP
+
+Looking forward to meet you in Lucerne!
 
 ### FMI Advisory Committee meetings
 
@@ -52,10 +60,11 @@ After a very successfull first advisory committee meeting on Nov 5th 2025, we ha
 - a Webmeeting on April 29th
 - an in-person-meeting the day after the Modelica Conference in Lucerne. Meet the FMI community!
 
-If you have a topic suggestion or your company or oragnization wants to apply for membership in the FMI Advisory Commitee, please contact contact@fmi-standard.org.
+If you have a topic suggestion, want to join as a guest, or want to apply for membership in the FMI Advisory Commitee, please contact contact@fmi-standard.org.
 
 ### Other Resources and Discussion Forums for FMI-related Questions
 
+* Visit the [FMI tools page](https://fmi-standard.org/tools) listing 230+ tools supporting FMI!
 * Join the [LinkedIn FMI community](https://www.linkedin.com/groups/7477473/) to get the latest news on FMI, FMI supporting tools and discussions within the user community.
 * Ask technical questions and discuss topics on the usage of FMI on [Stackoverflow tagged "FMI"](https://stackoverflow.com/questions/tagged/fmi).
 * Report problems of the standard itself or suggestions for new features in form of issues or discussions on [fmi-standard.org](https://github.com/modelica/fmi-standard)
