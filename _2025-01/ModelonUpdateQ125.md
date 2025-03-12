@@ -6,7 +6,7 @@ category: "vendor"
 
 ![Modelon](Modelon_Flat_RGB_300.png)
 
-#### Modelon Celerbates Twenty Years of Excellence in System Simulation
+### Modelon Celerbates Twenty Years of Excellence in System Simulation
 
 Two decades ago, Modelon was founded with a bold vision: to revolutionize system simulation by embracing an open standard for modeling and simulation—Modelica!
  
@@ -16,7 +16,7 @@ We're proud to see that vision come to life as we serve global industries with b
 
 ### New in Modelon Impact
 
-####Analysis View
+#### Analysis View
 
 We now have a dedicated space for data visualization in Modelon Impact. While users can still configure graphs in the model view, they can now configure multiple plots and graphs simultaneously for comparative analysis. 
 
