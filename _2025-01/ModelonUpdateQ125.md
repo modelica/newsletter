@@ -12,7 +12,7 @@ Two decades ago, Modelon was founded with a bold vision: to revolutionize system
  
 We're proud to see that vision come to life as we serve global industries with best-in-class modeling technology and continue to innovate, building the future of cloud-based simulation.
 
-[Co-Founder Johan Andreasson reflects on our journey, click to read.](https://modelon.com/blog/twenty-years-of-excellence-in-system-simulation/)
+[Co-Founder Johan Andreasson wrote a reflection about our journey.](https://modelon.com/blog/twenty-years-of-excellence-in-system-simulation/)
 
 ### New in Modelon Impact
 
@@ -43,6 +43,6 @@ Michael Johnson, Senior Engineer from Babcock Power, said, “Doing transient an
 
 A well-designed closed-loop control system is the key to keeping systems stable, efficient, and responsive. Without it, performance suffers—often leading to instability and reduced lifespan. 
  
-Engineers can develop high-fidelity control strategies that are tested and optimized inside Modelon Impact before real-world deployment. [Read our latest blog to learn how.](https://modelon.com/blog/designing-closed-loop-control-systems-with-modelica/)
+Engineers can develop high-fidelity control strategies that are tested and optimized inside Modelon Impact before real-world deployment. [Learn how.](https://modelon.com/blog/designing-closed-loop-control-systems-with-modelica/)
 
 [Sign up for the Modelon newsletter.](https://modelon.com/news-blog/)
