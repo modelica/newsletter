@@ -28,7 +28,7 @@ Dr Robert Braun, Chairperson, opens the workshop. The background is a Chat GPT A
 
 Prof. John Baras, presents his keynote on Machine Learning and AI in Model-based sysems engineering.
 
-In the evening the first day we had a real hightlight, a study visit to CMIV – The Center for Medical Image Science and Visualization at Linköping University. An extremeley interesting presentation was made by Anders Persson, professor and director of the center. Amazing visualizations and simulations were presented.
+In the evening the first day we had a real highlight, a study visit to CMIV – The Center for Medical Image Science and Visualization at Linköping University. An extremeley interesting presentation was made by Anders Persson, professor and director of the center. Amazing visualizations and simulations were presented.
 
 ![](CMIV_Heart_dynamics_20250204_175908.jpg)
 
