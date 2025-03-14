@@ -62,6 +62,13 @@ Many OMEdit bugs were also fixed in this release. Overall, [40+ issues](https://
 A serious bug [#13582](https://github.com/OpenModelica/OpenModelica/issues/13582) affecting co-simulation FMUs using the CVODE stiff solver was identified.
 It has been not yet fixed, but it should be fixed in the final 1.25.0 release, or in a patch 1.25.1 release.
 
+## OMSimulator
+
+OMSimulator focused on improving Model Exchange simulations. We analyzed multiple Modelica libraries, including MSL4, and addressed key issues in event handling and ODE solver implementation.
+These enhancements increased coverage from ~50% to ~95% across several libraries.
+The results were [presented](https://openmodelica.org/images/M_images/OpenModelicaWorkshop_2025/2025-02-03_OMSimulator.pdf) at the OpenModelica workshop in February 2025.
+The latest stable release, OMSimulator 2.1.3, is available on GitHub or via pip `pip install OMSimulator`
+
 ## Next release
 
 The next release is planned to be released in autumn 2025. It should include further improvements to the GUI such as a restructured Simulation Setup dialog, faster editing of large models in OMEdit, etc.
