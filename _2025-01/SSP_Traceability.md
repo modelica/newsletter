@@ -25,4 +25,5 @@ work with other organizations, such as the [Object Management Group OMG]( https:
 in the next steps to improve tool interoperability even further. [The current specification]( https://modelica.github.io/ssp-ls-traceability/master/) is available online. 
 Comments by interested parties can be supplied in the [issue section of the github repository]( https://github.com/modelica/ssp-ls-traceability/issues). The Release of version 1.0 of SSP Traceability 
 is planned for Q2 2025. 
+
 ![Traceability Process Example](EVRangeProcess.png){: style="float: left; margin-left: 1em;"} 
