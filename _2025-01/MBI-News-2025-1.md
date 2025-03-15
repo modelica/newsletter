@@ -10,7 +10,7 @@ Model Based Innocation (MBI LLC for short) has had a busy few months since the l
 
 - As a reseller of [Modelon](https://modelon.com/modelon), we offer [Modelon Impact](https://modelon.com/modelon-impact/), the [Modelon Libraries](https://modelon.com/modelon-library-suite-modelica-libraries/), and the [FMI-Toolbox](https://modelon.com/fmi-toolbox/)
 - As a reseller for [PMSFIT](https://pmsf.eu/), we offer the [PMSFIT FMIBench](https://modelbased.cloud/tools/fmi/) solution, supporting both FMI and SSP.
-- As a Partner of [eXXcellent solutions GmbH](https://www.exxcellent.de/), we offer [orchideo | easySSP](https://www.exxcellent.de/orchideo-easy-ssp)
+- As a Partner of [eXXcellent solutions GmbH](https://www.exxcellent.de/), we offer [orchideo \| easySSP](https://www.exxcellent.de/orchideo-easy-ssp)
 
 In the combination of these tools, this covers needs for standards-based system simulation for everything from small customers to enterprise needs. 
 
