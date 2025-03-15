@@ -1,9 +1,9 @@
 ---
-title: orchideo | easySSP v1.4.1 now available
-author: Gregor Hermann, Peter Lobner [eXXcellent solutions](https://www.exxcellent.de/)
+title: "orchideo | easySSP v1.4.1 now available"
+author: "Gregor Hermann, Peter Lobner [eXXcellent solutions](https://www.exxcellent.de/)"
 category: "vendor"
 ---
-![orchideo | easySSP now with SSP 2.0 and FMI 3.0 support, PDF workflow documentation and Modelica types](easySSP_banner.png 'orchideo | easySSP v1.4.1')
+![orchideo easySSP now with SSP 2.0 and FMI 3.0 support, PDF workflow documentation and Modelica types](easySSP_banner.png 'orchideo  easySSP v1.4.1')
 
 The **new easySSP version 1.4.1** introduces **support for the newly released SSP 2.0 standard** for import & export, modeling and  simulation, enabling improved exchange of system simulation models and architectures. This includes updates such as FMI 3.0-compatible data types, support for acausal modeling, and embedded Simulation Resource Metadata (SRMD).
 
