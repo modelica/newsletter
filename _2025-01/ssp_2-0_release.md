@@ -1,8 +1,9 @@
 ---
-title: SSP 2.0: The Next Step in Standardized System Simulation
-author: Pierre Mai, Hans-Martin Heinkel, Peter Lobner
+title: "SSP 2.0: The Next Step in Standardized System Simulation"
+author: "Pierre Mai, Hans-Martin Heinkel, Peter Lobner"
 category: "project"
 ---
+
 ![SSP 2.0: The Next Step in Standardized System Simulation](ssp_2-0.jpg)
 
 The Modelica Association has released **SSP 2.0**, marking a major milestone in the evolution of the **System Structure & Parameterization (SSP)** standard. Building on SSP 1.0, the new version expands capabilities for exchanging composite system models and simulation architectures, supporting FMI 3.0, Modelica components, and abstract simulation architectures.
