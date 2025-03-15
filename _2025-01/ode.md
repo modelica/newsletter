@@ -1,6 +1,6 @@
 ---
 title: "Engineering Tools for the Modern Age: Introducing ODE from Orthogonal Supersystems"
-author: Yang Ji ([orthogonal supersystems](https://www.orthogonal.dev/)
+author: Yang Ji ([orthogonal supersystems](https://www.orthogonal.dev/))
 category: vendor
 ---
   

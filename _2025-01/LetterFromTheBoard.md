@@ -8,7 +8,7 @@ Dear Modelica, FMI, SSP, DCP, eFMI interested,
 
 The new year starts with a new release of one of our standards: SSP2.0 has been released as Christmas present but if you have not taken notice yet, you may very well choose to enjoy it as an Easter egg:
 
-https://ssp-standard.org/news/2024-12-20-ssp-2-0-release/
+[ssp-standard.org/news/2024-12-20-ssp-2-0-release/](https://ssp-standard.org/news/2024-12-20-ssp-2-0-release/)
 
 Whereas SSP (such as all our standards) has been carefully crafted to be generically applicable to a wide set of applications, one major driver for these efforts is the automotive industry. Hence, we welcome the increasing exchange and collaboration of the Modelica Association and [ASAM](https://www.asam.net/) whose primary aim is the standardization for automotive developments.  
 

@@ -1,10 +1,10 @@
 ---
 index: true
-hidden: true
+hidden: false
 layout: default
 title: "2025-01"
 name: "2025-01"
-date: "2025-3-15"
+date: "2025-03-15"
 description: "The Spring 2025 edition of the Modelica Association newsletter"
 ---
 

@@ -106,3 +106,7 @@ collections:
     permalink: /:collection/:path
     title: Spring 2025 release
     output: true         
+  2025-02:
+    permalink: /:collection/:path
+    title: Summer 2025 release
+    output: true         

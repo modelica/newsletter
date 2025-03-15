@@ -29,5 +29,3 @@ This webinar will focus on adsorption processes in direct air capture applicatio
 
 
 Both webinars offer an opportunity to exchange knowledge and discuss system modeling approaches with others in the field. 
-
-*This article is provided by Lina Rosenthal [TLK Energy](https://tlk-energy.de)*
