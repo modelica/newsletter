@@ -1,7 +1,7 @@
 ---
 title: "The SSP Traceability Layered Standard"
 author: "Hubertus Tummescheit, [Model Based Innovation](at https://modelbased.cloud/)"
-category: "news"
+category: "project"
 ---
 
 The demonstrated credibility of simulations to decision makers is one of the key challenges to make system simulation more widely accepted. 
