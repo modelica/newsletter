@@ -8,7 +8,7 @@ category: association
 
 ![FMI](FMI.png)
 
-### Maintenance releases FMI 3.0.2 and FMI 2.0.5 available
+#### Maintenance releases FMI 3.0.2 and FMI 2.0.5 available
 
 Two maintenance releases FMI 2.0.5 and FMI 3.0.2 have been released end of 2024 with clarifications and bugfixes and no new features compared to FMI 2.0.4 and FMI 3.0.1 respectively. 
 FMUs created according to FMI 3.0.2 are valid FMUs according to FMI 3.0 and FMI 3.0.1 and vice versa. The good news is, that FMI 2 and 3 are actively maintained, and no serious bugs have been found in the FMI 3.0 specification yet, even though FMI 3.0 features are more and more used!
