@@ -2,8 +2,8 @@
 index: true
 hidden: true
 layout: default
-title: "The winter of 2025"
-name: "2025-01"
+title: "The summer of 2025"
+name: "2025-02"
 description: "email version - again"
 ---
 
