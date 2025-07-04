@@ -26,4 +26,4 @@ Software requirements:
  - Time limited licenses (Dymola®, Software Production Engineering) valid throughout the conference week are provided.
  - To provide the download links, participants have to register for the tutorial. **Please write an e-mail to Christoff.Buerger@3ds.com (Modelica Association Project eFMI® project leader) that you like to participate.**
 
-If you have any general questions regarding the eFMI® tutorial, you can contact our _public_ mailing list, [`efmi-info@googlegroups.com`](https://groups.google.com/g/efmi-info) (no Google account required).
+If you have any general questions regarding the eFMI® tutorial, you can contact our _public_ mailing list, [efmi-info@googlegroups.com](https://groups.google.com/g/efmi-info) (no Google account required).
