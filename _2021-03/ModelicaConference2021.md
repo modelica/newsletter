@@ -11,11 +11,11 @@ It has been organized by [Linköping University](https://liu.se/) and [RISE](htt
 
 ![modelica2021-fig1a](https://user-images.githubusercontent.com/7248038/146614501-4658eab5-10bd-446b-89b5-862998c22186.jpg)
 
-## Welcome
+#### Welcome
 
 We would have loved to welcome you in Linköping at the Concert and Congress hall, but unfortunately even after delaying the conference by 6 months, we have made the decision to move the conference online due to the pandemic. We decided to turn this into an opportunity,  by waiving registration fees so that more people would have the possibility to get involved in the community. We are grateful to our sponsors and the Modelica Association for making this possible. Another change we have made this year is to extend the conference over the whole week, and we dedicated half of each day to scientific papers and half to tutorials, vendor sessions and industrial user sessions.  Two half-days were dedicated to Industrial User Presentation Sessions, that are not part of the proceedings, but an opportunity for actual users to exchange their experience with the community.  This year we received a total of 81 submissions, all throughly reviewed by our program committee.
 
-## Facts
+#### Facts
 
 -	5 days
 -	16 sessions with 69 presentations
@@ -26,21 +26,21 @@ We would have loved to welcome you in Linköping at the Concert and Congress hal
 -	Over 560 participants from over 40 countries
 -	Proceedings available at the [Conference Website](https://2021.international.conference.modelica.org/proceedings/)
 
-## Conference chairs
+#### Conference chairs
 
 - Lena Buffoni, Linköping University
 -	Lennart Ochel, RISE Research Institutes of Sweden AB
 
-## Program chairs
+#### Program chairs
 
 - Adrian Pop, Linköping University
 - Martin Sjölund, Linköping University
 
-## Conference board
+#### Conference board
 
 Lena Buffoni, Lennart Ochel, Adrian Pop, Martin Sjölund, Francesco Casella, Hilding Elmqvist, Peter Fritzson, Martin Otter, Michael Tiller
 
-## Modelica Library Award
+#### Modelica Library Award
 
 We are proud to announce the winners of the Modelica Library Award 2021, presented by Modelica Association vice-chair Martin Sjölund:
 
@@ -68,6 +68,6 @@ And the second place was shared by two libraries:
 
 We would like to thank the Modelica Association board, the Program Committee and all the Writers and Participants for supporting the conference! We hope to see you at the next event.
 
-## Contact
+#### Contact
 
 In case of questions, please send an email to: [modelica2021@groups.liu.se](mailto:modelica2021@groups.liu.se)
