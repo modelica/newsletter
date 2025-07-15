@@ -17,7 +17,7 @@ We’re happy to announce that Modelon will be a Gold Sponsor at the upcoming In
 
 Modelon will also have a booth in the exhibition hall. We hope to see you there in just a few months!  
 
-
+![](Modelica-Announcement-1200x627.png)
 #### Modelica Buildings Library Now Available in Modelon Impact 
 
 Modelon is happy to announce that the Modelica Buildings Library is included and fully supported in Modelon Impact. This integration creates new possibilities for engineers and researchers working to improve building performance, enabling scalable modeling and simulation within a modern, collaborative environment. 
@@ -25,6 +25,7 @@ Modelon is happy to announce that the Modelica Buildings Library is included and
 [Read the full announcement here.](https://modelon.com/blog/modelica-buildings-library-now-in-modelon-impact/)
 
 
+![](Community Social Post.png)
 #### Introducing Modelon Help Center and Community
 
 We’re excited to announce the upcoming launch of the Modelon Help Center and Community — a dedicated space for the global Modelica community to connect, share ideas, and support one another. 
@@ -34,6 +35,8 @@ Whether you're a researcher, system simulation expert, or just passionate about 
 We’re currently opening access to a small group of early users. Want in? 
 [Join the waitlist by adding your email here.](https://modelon.com/community-coming-soon/) 
 
+
+![](Takaneka LinkedIn.jpg)
 #### New Case Study: Enhancing HVAC System Simulation and Operational Tuning for Takenaka Corporation 
 
 To bridge the gap between HVAC system design and real-world performance, Takenaka Corporation—one of Japan’s leading engineering contractors—partnered with Modelon. Leveraging Modelon Impact’s physics-based modeling and seamless integration with EnergyPlus, Takenaka developed a high-fidelity HVAC system simulation for a standard office floor. This enabled more accurate control logic tuning, operational optimization, and laid the groundwork for future modeling of larger buildings. The collaboration not only improved energy performance but also strengthened Takenaka’s internal simulation capabilities, supporting their long-term vision for energy-efficient, comfortable Net Zero Energy Buildings (ZEBs).
