@@ -12,7 +12,7 @@ category: association
 
 #### 250 Tools supporting the FMI Standard
 
-![250 Tools supporting FMI](250-tools-fmi.jpg)
+![250 Tools supporting FMI](250-tools-fmi.png)
 
 The FMI project is proud to celebrate the milestone of 250 tools supporting the Functional Mock-up Interface (FMI) standard to be listed on the [FMI tools page](https://fmi-standard.org/tools/)! We want to provide some statistics:
 
