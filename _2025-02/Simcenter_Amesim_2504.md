@@ -1,8 +1,10 @@
 ---
-title: Simcenter Amesim 2504
+title: Siemens Digital Industries Software
 author: "Bruno Loyer ([Siemens Digital Industries Software](https://www.sw.siemens.com/ ))"
 category: "vendor"
 ---
+
+#### Simcenter Amesim 2504 released
 [Siemens Digital Industries Software](https://www.sw.siemens.com/) is pleased to announce the recent release of **Simcenter&nbsp;Amesim&nbsp;2504** as part of its [system simulation solutions](https://blogs.sw.siemens.com/simcenter/whats-new-in-simcenter-systems-2504/). This release introduces key updates including further more accelerated simulations and improved model validation tools. Enhancements target electrification with new battery and heat exchanger assistants, electrochemical aging simulations, and hydrogen applications with components for electrolyzer and cryogenic storage modeling. It also supports the import of 3.0 Functional Mockup Units (FMUs) for co-simulation, as described hereafter.
 
 ![](amesim_banner_2504.png)
@@ -20,4 +22,10 @@ The FMU comes from Simulink R2025a. It features an FMI array output represented 
 
 ![](amesim_with_imported_FMU3.png)
 
+#### Upcoming event: 16th International Modelica & FMI Conference
+**Karim Besbes**, from [Siemens Digital Industries Software](https://www.sw.siemens.com/), is going to present an innovative paper entitled: &ldquo;An innovative heterogeneous modeling approach to build a cooling system for battery thermal management with common fluid properties involving FMI terminals&rdquo;.
+This work, which proposes approaches for sharing media properties between tools, which is still an interoperability challenge at the present time, demonstrates Siemens' willingness to contribute to both FMI and Modelica to offer the best to its customers.
+Check out the Tuesday afternoon session &ldquo;&rdquo; on the conference's [preliminary program](https://modelica.org/events/modelica2025/16thModelicaFMI_PrelProgram.pdf)!
+
 For more information on **Simcenter&nbsp;Amesim**, please visit our [website](https://www.plm.automation.siemens.com/global/en/products/simcenter/simcenter-amesim.html ).
+
