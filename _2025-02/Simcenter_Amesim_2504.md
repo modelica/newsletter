@@ -8,7 +8,7 @@ category: "vendor"
 ![](amesim_banner_2504.png)
 
 #### Import of 3.0 FMUs for co-simulation
-To further extend the capabilities of Simcenter&nbsp;Amesim as heterogeneous model integration platform, the import of 3.0 FMUs for co-simulation has been implemented. 
+To further extend the capabilities of **Simcenter&nbsp;Amesim** as heterogeneous model integration platform, the import of 3.0 FMUs for co-simulation has been implemented. 
 Fixed-size FMI 3.0 <i>arrays</i> are supported as well as <i>tunable</i> elements/parameters. Expected benefits for users are:
 
 * A direct import of virtual ECUs, typically with arrays.
@@ -19,6 +19,5 @@ The below picture shows an example of 3.0 FMU imported to a real-time capable Si
 The FMU comes from Simulink R2025a. It features an FMI array output represented by a vector, as well as tunable parameters, allowing to change the value of this vector. These tunable parameters are used to control the excavator.
 
 ![](amesim_with_imported_FMU3.png)
-
 
 For more information on **Simcenter&nbsp;Amesim**, please visit our [website](https://www.plm.automation.siemens.com/global/en/products/simcenter/simcenter-amesim.html ).
