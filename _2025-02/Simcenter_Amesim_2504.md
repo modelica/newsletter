@@ -25,7 +25,7 @@ The FMU comes from Simulink R2025a. It features an FMI array output represented 
 #### Upcoming event: 16th International Modelica & FMI Conference
 **Karim Besbes**, from [Siemens Digital Industries Software](https://www.sw.siemens.com/), is going to present an innovative paper entitled: &ldquo;An innovative heterogeneous modeling approach to build a cooling system for battery thermal management with common fluid properties involving FMI terminals&rdquo;.
 This work, which proposes approaches for sharing media properties between tools, which is still an interoperability challenge at the present time, demonstrates Siemens' willingness to contribute to both FMI and Modelica to offer the best to its customers.
-Check out the Tuesday afternoon session on the conference's [preliminary program](https://modelica.org/events/modelica2025/16thModelicaFMI_PrelProgram.pdf)!
+Check out the Tuesday afternoon session on the conference's [preliminary program](https://modelica.org/events/modelica2025/16thModelicaFMI_PrelProgram.pdf).
 
 For more information on **Simcenter&nbsp;Amesim**, please visit our [website](https://www.plm.automation.siemens.com/global/en/products/simcenter/simcenter-amesim.html ).
 
