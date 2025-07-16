@@ -77,7 +77,7 @@ We will present the new Layered Standard for Network communication also at the c
 
 ### 16th International Modelica _and FMI_ Conference Sept 8-10 2025 in Lucerne, Switzerland
 
-![Modelica and FMI Conference](Modelica_and_FMI_Confernce_Logo.png)
+![Modelica and FMI Conference](Modelica_and_FMI_Conference_Logo.png)
 
 We are are happy to invite you to the coming [16th International Modelica & FMI Conference](https://modelica.org/events/modelica2025/) in Lucerne, where the importance of FMI is now also reflected in the conference title!
 
