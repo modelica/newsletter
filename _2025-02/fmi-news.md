@@ -79,7 +79,7 @@ We will present the new Layered Standard for Network communication also at the c
 
 ![Modelica and FMI Conference](Modelica_and_FMI_Conference_Logo.png)
 
-We are are happy to invite you to the coming [16th International Modelica & FMI Conference](https://modelica.org/events/modelica2025/) in Lucerne, where the importance of FMI is now also reflected in the conference title!
+We are happy to invite you to the coming [16th International Modelica & FMI Conference](https://modelica.org/events/modelica2025/) in Lucerne, where the importance of FMI is now also reflected in the conference title!
 
 This is the most attractive conference also for participants mainly interested in FMI as participants can select sessions focused on FMI from the beginning to the end of the conference. Check out the [(preliminary) conference program](https://modelica.org/events/modelica2025/Tutorial_Abstracts_16th_Modelica_and_FMI_Conference.pdf)
 
