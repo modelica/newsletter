@@ -17,7 +17,7 @@ Fixed-size FMI 3.0 <i>arrays</i> are supported as well as <i>tunable</i> element
 * The capability to orchestrate multiple 3.0 and 2.0 FMUs within the same model, while using distinct run settings for each FMU.
 
 Test FMUs from Simulink, Dymola, Twin Activate, MapleSim and other tools have been successfully imported and simulated during the implementation phase.
-The below picture shows an example of 3.0 FMU imported to a real-time capable Simcenter&nbsp;Amesim hydraulic excavator model, whose execution is synchronized with the wall clock time.
+The below picture shows an example of 3.0 FMU imported to a real-time capable **Simcenter&nbsp;Amesim** hydraulic excavator model, whose execution is synchronized with the wall clock time.
 The FMU comes from Simulink R2025a. It features an FMI array output represented by a vector, as well as tunable parameters, allowing to change the value of this vector. These tunable parameters are used to control the excavator.
 
 ![](amesim_with_imported_FMU3.png)
