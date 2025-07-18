@@ -84,7 +84,7 @@ We are happy to invite you to the coming [16th International Modelica & FMI Conf
 This is the most attractive conference also for participants mainly interested in FMI as participants can select sessions focused on FMI from the beginning to the end of the conference. Check out the [(preliminary) conference program](https://modelica.org/events/modelica2025/Tutorial_Abstracts_16th_Modelica_and_FMI_Conference.pdf)
 
 - tutorials on FMI
-  - FMI Beginners' Tutorial (see below)
+  - FMI Beginners' Tututorial (see below)
   - CasADi tutorial on dynamic optimization with FMI 3.0 Model Exchange
   - Exporting and importing an FMU using C code
   - FMUGym: From Uncertainty-Aware Simulation to Learning-Based Control with FMI and Python
