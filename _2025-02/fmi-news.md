@@ -110,7 +110,7 @@ Don’t miss this opportunity to strengthen your simulation skills and become pa
 ![FMI-Beginners' Tutorial](FMI-Tutorial.jpg)
 
 
-### FMI Advisory Committee meeting after the 16th International Modelica and FMI Conference, Sept 11 2025 in Lucerne
+### FMI Advisory Committee meeting after the 16th International Modelcia and FMI Conference, Sept 11 2025 in Lucerne
 
 Besides the FMI Steering Committee members and Contributing members (see [here](https://fmi-standard.org/about/)), the FMI Advisory committee consist of the the following companies: AIRBUS, blue automation, Claytex, COMSOL, DNV, Fraunhofer (IIS/EAS First, SCAI), GM Motorsports, KEB Automation, LBL, NVIDIA, Knorr-Bremse Rail Vehicle Systems, MathWorks, Open Modelica Consortium, Samares Engineering, SINTEF Nordvest, University of Halle, Volkswagen, Volvo Autonomous Solutions, VTI.
 
