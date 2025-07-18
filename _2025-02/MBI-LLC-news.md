@@ -18,11 +18,14 @@ For [orchideo \| easySSP](https://www.exxcellent.de/orchideo-easy-ssp) we now of
 In the combination of these tools, this covers needs for standards-based system simulation for everything from small customers to enterprise needs. 
 
 #### [Libraries]((https://modelbased.cloud/libraries/)
+
 For Libraries, our main Modelica platform is Modelon Impact, but we work with other tools as well, especially for open-source libraries, and extending open-source libraries. MBI has adapted some open source libraries to fully work with Modelon Impact, for Example
 
 #### [Training](https://modelbased.cloud/services/)
+
+![](ModelicaControls.png "Controls in Modelica")
 - We offer basic and advanced Modelica training for customers that need to get started quickly, and for those that want to go more in depth. Our Modelica training is done on cloud-based Modelon Impact, which allows to provide training without any installation hassles. We also offer training on integrating Modelon Impact into heterogeneous tool landscapes and existing product design workflows.
-- Modelica is very well suited for controls design, analysis and verification. We offer specialized training and support for all topics related to modeling for controls. With the Python integration of Modelon Impact offers integration with excellent Python packages for Control. MBI also provides specialized libraries for Controls development. 
+- Modelica is very well suited for controls design, analysis and verification. We offer specialized training and support for all topics related to modeling for controls. With the Python integration of Modelon Impact offers integration with excellent Python packages for Control. MBI also provides specialized libraries for Controls development. For example, we have adapted the [Industrial Control Systems Library](https://github.com/hubertus65/IndustrialControlSystems) for Modelon Impact and provide support for it.   
   
 
 
