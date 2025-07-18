@@ -12,4 +12,4 @@ The upcoming release of System Modeler 14.3 brings powerful new features for use
 - *Live Tuning During Simulation*: Modify gains, time constants, or other parameters on the fly—without stopping or recompiling your model.
 - *Simulate Using Calendar Time*: Set simulation periods using real-world dates and generate time-aware plots for clearer, more contextual insights.
 
-Stay tuned—System Modeler 14.3 is just around the corner! A full feature list will be available at [wolfram.com/system-modeler](https://www.wolfram.com/system-modeler/) upon release.
+Stay tuned—System Modeler 14.3 is just around the corner! A full feature list will be available at [wolfram.com/system-modeler/what-is-new](https://www.wolfram.com/system-modeler/what-is-new/) upon release.
