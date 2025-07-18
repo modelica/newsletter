@@ -6,11 +6,11 @@ category: association
 
 {::options parse_block_html="true" /}
 
-## News from the FMI Project
+#### News from the FMI Project
 
 ![FMI](FMI.png)
 
-### 250 Tools supporting the FMI Standard
+#### 250 Tools supporting the FMI Standard
 
 ![250 Tools supporting FMI](250-tools-fmi.png)
 
@@ -41,7 +41,7 @@ User Interface
 - 66 tools with command line interface (CLI)
 - 66 libraries/plug-in 
 
-### The FMI Layered Standard for Network Communication v1.0 has been released - enabling the simulation of virtual ECUs with FMI 3.0!
+#### The FMI Layered Standard for Network Communication v1.0 has been released - enabling the simulation of virtual ECUs with FMI 3.0!
 
 ![FMI-LS-BUS](FMI-LS-BUS.png)
 
@@ -75,7 +75,7 @@ They enable the faster exchange of vECUs and give users the option of tool freed
 
 We will present the new Layered Standard for Network communication also at the coming "16th International Modelica and FMI Conference" in Lucerne, Sept 8-10 2025, in our talk "FMI Layered Standard for Network Communication: Applications in Networked ECU Development". [Come and meet us there](https://modelica.org/events/modelica2025/)!
 
-### 16th Internation Modelica _and FMI_ Conference Sept 8-10 2025 in Lucerne, Switzerland
+#### 16th Internation Modelica _and FMI_ Conference Sept 8-10 2025 in Lucerne, Switzerland
 
 ![Modelica and FMI Conference](Modelica_and_FMI_Confernce_Logo.png)
 
@@ -96,7 +96,7 @@ This is the most attractive conference also for participants mainly interested i
 
 Looking forward to meet you in Lucerne!
 
-### FMI Beginners' Tutorial offered at the 16th International Modelica and FMI Conference
+#### FMI Beginners' Tutorial offered at the 16th International Modelica and FMI Conference
 
 The FMI project is happy to announce the FMI Beginners Tutorial on September 8, 2025, in Lucerne, Switzerland.
 This tutorial is ideal for newcomers to the FMI standard and co-simulation. You’ll gain practical insights, explore practical examples, and connect with experts in the field:
@@ -110,7 +110,7 @@ Don’t miss this opportunity to strengthen your simulation skills and become pa
 ![FMI-Beginners' Tutorial](FMI-Tutorial.jpg)
 
 
-### FMI Advisory Committee meeting after the 16th International Modelcia and FMI Conference, Sept 11 2025 in Lucerne
+#### FMI Advisory Committee meeting after the 16th International Modelcia and FMI Conference, Sept 11 2025 in Lucerne
 
 Besides the FMI Steering Committee members and Contributing members (see [here](https://fmi-standard.org/about/)), the FMI Advisory committee consist of the the following companies: AIRBUS, blue automation, Claytex, COMSOL, DNV, Fraunhofer (IIS/EAS First, SCAI), GM Motorsports, KEB Automation, LBL, NVIDIA, Knorr-Bremse Rail Vehicle Systems, MathWorks, Open Modelica Consortium, Samares Engineering, SINTEF Nordvest, University of Halle, Volkswagen, Volvo Autonomous Solutions, VTI.
 
@@ -118,7 +118,7 @@ There will be a face-2-face FMI Advisory Committee meeting the day after the Mod
 
 If you have a topic suggestion, or want to join as a guest, please contact contact@fmi-standard.org.
 
-### Other Resources and Discussion Forums for FMI-related Questions
+#### Other Resources and Discussion Forums for FMI-related Questions
 
 * Visit the [FMI tools page](https://fmi-standard.org/tools) listing 250 tools supporting FMI!
 * Join the [LinkedIn FMI community](https://www.linkedin.com/groups/7477473/) to get the latest news on FMI, FMI supporting tools and discussions within the user community.
