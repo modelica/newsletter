@@ -75,7 +75,7 @@ They enable the faster exchange of vECUs and give users the option of tool freed
 
 We will present the new Layered Standard for Network communication also at the coming "16th International Modelica and FMI Conference" in Lucerne, Sept 8-10 2025, in our talk "FMI Layered Standard for Network Communication: Applications in Networked ECU Development". [Come and meet us there](https://modelica.org/events/modelica2025/)!
 
-### 16th International Modelica _and FMI_ Conference Sept 8-10 2025 in Lucerne, Switzerland
+### 16th Internation Modelica _and FMI_ Conference Sept 8-10 2025 in Lucerne, Switzerland
 
 ![Modelica and FMI Conference](Modelica_and_FMI_Confernce_Logo.png)
 
