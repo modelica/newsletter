@@ -8,8 +8,6 @@ category: association
 
 #### News from the FMI Project
 
-![FMI](FMI.png)
-
 #### 250 Tools supporting the FMI Standard
 
 ![250 Tools supporting FMI](250-tools-fmi.png)
