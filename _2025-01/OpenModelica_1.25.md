@@ -8,7 +8,7 @@ OpenModelica 1.25.0 will be released late March 2025. It will be regular early-s
 
 Main highlights: OMEdit now supports **hierarchical parameter editing** in structured models, a **Reload package** feature, and an **Open Class in text view** feature.
 
-## OpenModelica Compiler (OMC)
+#### OpenModelica Compiler (OMC)
 
 The new front end has been further improved with [15+ issues solved](https://github.com/OpenModelica/OpenModelica/issues?q=is%3Aissue%20milestone%3A1.25.0%20label%3ACOMP%2FOMC%2FFrontend%20state%3Aclosed%20-reason%3Anot-planned).
 [Two fixes](https://github.com/OpenModelica/OpenModelica/issues?q=is%3Aclosed%20is%3Aissue%20milestone%3A1.25.0%20label%3A%22COMP%2FBase%20Modelica%22%20) regarding the new experimental
@@ -27,7 +27,7 @@ chosen start attributes. For more details see the [paper](https://doi.org/10.101
 and the [presentation](https://openmodelica.org/images/M_images/OpenModelicaWorkshop_2025/2025-02-03_Newton_Diagnostics.pdf) at the 2025 OpenModelica Workshop for more details. Please note that residual scaling
 is still not implemented, so this feature is not yet fully operational when applied to systems of equations that are badly scaled due to the use of SI units.
 
-## Graphical Editor OMEdit
+#### Graphical Editor OMEdit
 
 OMEdit 1.25.0 provides several, long awaited-for features.
 
@@ -55,21 +55,21 @@ Hence, starting from version 1.25.0, support of the old graphical editing mode i
 
 Many OMEdit bugs were also fixed in this release. Overall, [40+ issues](https://github.com/OpenModelica/OpenModelica/issues?q=milestone%3A1.25.0%20state%3Aclosed%20label%3ACOMP%2FGUI%2FOMEdit%20-reason%3Anot-planned%20is%3Aissue%20) were addressed.
 
-## FMI export
+#### FMI export
 
 [Several issues](https://github.com/OpenModelica/OpenModelica/issues?q=milestone%3A1.25.0%20label%3ACOMP%2FFMI%20state%3Aclosed%20-reason%3Anot-planned) regarding FMI export were addressed.
 
 A serious bug [#13582](https://github.com/OpenModelica/OpenModelica/issues/13582) affecting co-simulation FMUs using the CVODE stiff solver was identified.
 It has been not yet fixed, but it should be fixed in the final 1.25.0 release, or in a patch 1.25.1 release.
 
-## OMSimulator
+#### OMSimulator
 
 OMSimulator focused on improving Model Exchange simulations. We analyzed multiple Modelica libraries, including MSL4, and addressed key issues in event handling and ODE solver implementation.
 These enhancements increased coverage from ~50% to ~95% across several libraries.
 The results were [presented](https://openmodelica.org/images/M_images/OpenModelicaWorkshop_2025/2025-02-03_OMSimulator.pdf) at the OpenModelica workshop in February 2025.
 The latest stable release, OMSimulator 2.1.3, is available on GitHub or via pip `pip install OMSimulator`
 
-## Next release
+#### Next release
 
 The next release is planned to be released in autumn 2025. It should include further improvements to the GUI such as a restructured Simulation Setup dialog, faster editing of large models in OMEdit, etc.
 Further improvements in FMI 2.0.x export are also planned.

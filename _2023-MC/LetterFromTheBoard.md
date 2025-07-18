@@ -61,7 +61,7 @@ Chairperson of the Modelica Association
 
 *This article was provided by Martin Otter [Modelica](https://www.modelica.org/)*
 
-## Invitation from local organizers
+#### Invitation from local organizers
 
 ![Conference Logo](ModelicaConference2023.png "Modelica Conference 2023"){:width="400px"}
 

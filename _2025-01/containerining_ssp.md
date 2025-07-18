@@ -1,7 +1,7 @@
 ---
 title: Containerizing SSP
 author: "Dag Brück ([Dassault Systèmes AB](https://www.dymola.com/))"
-category: "project"
+category: "education"
 ---
 
 ![DC Motor variants](https://github.com/user-attachments/assets/6b4cc490-c437-4d93-b454-dffbcd152d90)
