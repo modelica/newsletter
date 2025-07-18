@@ -1,0 +1,11 @@
+The upcoming release of System Modeler 14.3 brings a host of productivity-boosting features—especially for users who combine Modelica modeling with the analytical power using Wolfram Language. From automatic validation to live tuning and calendar-time simulations, this version is built to streamline design, analysis, and iteration.
+
+Highlights of System Modeler 14.3
+
+* Automated Design Validation: Use high-level specifications to automatically verify performance and safety—powered by Wolfram Language.
+
+* Live Tuning During Simulation: Change gains, constants, and parameters on the fly—no need to restart.
+
+* Simulate Using Calendar Time: Set simulation ranges using real-world dates and plot results with time-aware axes.
+
+With built-in validation, interactive simulation tools, and deep Wolfram integration, System Modeler 14.3 offers a uniquely powerful environment for modern engineering modeling.
