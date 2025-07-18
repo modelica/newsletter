@@ -97,7 +97,7 @@ This is the most attractive conference also for participants mainly interested i
 - scientific sessions on FMI
 - industrial user sessions on FMI
 - Modelica-related sessions that also involve the usage of FMI
-- sessions on FMI's "sister" standards SSP, eFMI, DCP
+- sessions on FMI's "sibling" standards SSP, eFMI, DCP
 
 Looking forward to meet you in Lucerne!
 
