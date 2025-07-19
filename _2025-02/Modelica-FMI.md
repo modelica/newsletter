@@ -1,16 +1,16 @@
 ---
 title: A generic FMU import for Modelica
-author: Torsten Sommer (Dassault Systèmes)
-category: Modelica
+author: Torsten Sommer ([Dassault Systèmes](https://www.3ds.com))
+category: library
 ---
 
 ![FMI](Modelica-FMI.png)
 
-## Modelica FMI
+#### Modelica FMI
 
 We are happy to annouce the release of a generic Modelica library to import [Functional Mock-up Units](https://fmi-standard.org/).
 
-## Highlights
+#### Highlights
 
 - supports FMI 2.0 and FMI 3.0 for Co-Simulation
 - works with all Modelica tools

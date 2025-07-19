@@ -1,12 +1,12 @@
 ---
-title: orchideo | easySSP v1.4.2 now available
-author: Gregor Hermann, Peter Lobner [eXXcellent solutions](https://www.exxcellent.de/)
+title: "orchideo | easySSP v1.4.2 now available"
+author: "Gregor Hermann, Peter Lobner [eXXcellent solutions](https://www.exxcellent.de/)"
 category: "vendor"
 ---
 
 ![](easySSP1_4_2.png)
 
-#### orchideo | easySSP v1.4.2 released
+#### orchideo \| easySSP v1.4.2 released
 
 The new **easySSP version 1.4.2** introduces **hierarchical parameter handling** for component synchronization, making it easier to display and override parameters defined at higher system levels. Additionally, a new merge function for parameter bindings allows for more efficient consolidation of parameter configurations.
 

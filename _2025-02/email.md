@@ -17,7 +17,7 @@ Dear Modelica, FMI, SSP, DCP, eFMI interested,
 ## Editor's note
 
 *Anyone is cordially invited to post to the forthcoming Modelica newsletter - just [set your preference to be reminded in time](http://eepurl.com/dpvVdH). The contribution shall be short and conscise and refrain from using excessive advertisement language. The final decision and form is up to the newsletter editor.
-The deadline for articles for the next, summer, newsletter is **Fr. July 18, 2025**. See the [submission guidelines](https://newsletter.modelica.org/submission-guidelines.html) for more details on how to submit.*
+The deadline for articles for the next, fall, newsletter is **Fr. November 21, 2025**. See the [submission guidelines](https://newsletter.modelica.org/submission-guidelines.html) for more details on how to submit.*
 
 *All the best,    
 [Filip Ježek](mailto:filip.jezek@creativeconnections.cz), newsletter editor*

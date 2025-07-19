@@ -3,12 +3,6 @@ title: Letter from the Board
 author: "Dirk Zimmer ([Modelica Association](https://www.modelica.org/))"
 category: "letter"
 ---
-
-<still draft state>
-<links to be added>
-
-
-
 Dear Modelica, FMI, SSP, DCP, eFMI interested,
 
 This newsletter is full of anticipation for our upcoming main event: the [16th international Modelica & FMI conference](https://modelica.org/events/modelica2025/)!
@@ -31,7 +25,7 @@ Being part of the conference board, I also appreciate the strong commitment of o
 
 I hope that you will enjoy the refreshed format and the packed program and that I will see many of you at the conference.
 
-## Post Conference Activity
+#### Post Conference Activity
 
 For many of us, the conference is also an ideal opportunity to meet in person. This shall be exploited beyond the main event.
 
@@ -41,7 +35,7 @@ From Thursday afternoon to Friday afternoon, we have hold meetings for the indiv
 
 These meetings are for Modelica Association members only. Registration info has been communicated by email.
 
-## Modelica in China
+#### Modelica in China
 
 I have decided to visit our Modelica user base in China and hence have undertaken a journey through 6 cities in mainland China this May. This journey let me exchange with Modelica and FMI users, with academia, with industry and with main tool developers and consultants in systems engineering from various technical fields.
 
@@ -59,6 +53,5 @@ As it turns out, this introduction to the newsletter got quite lengthy. I promis
 
 Have fun with the newsletter and see you at the conference!
 
-Dirk Zimmer on July 18, 2025
-
-Chair of the Modelica Association
+Dirk Zimmer on July 18, 2025 \
+*Chair of the Modelica Association*

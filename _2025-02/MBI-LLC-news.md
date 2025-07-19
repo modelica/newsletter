@@ -1,6 +1,6 @@
 ---
 title: "Model Based Innovation (MBI) Updates "
-author: "Hubertus Tummescheit, [Model Based Innovation](at https://modelbased.cloud/)"
+author: "Hubertus Tummescheit, [Model Based Innovation]( https://modelbased.cloud/)"
 category: "vendor"
 ---
 ![](MBI-LLC.svg "MBI Logo")
@@ -10,9 +10,8 @@ we also provide services to help you set up your processes to successfully use m
 
 #### [Tool Updates](https://modelbased.cloud/tools/)
 
-[Modelon Impact](https://modelon.com/modelon-impact/) is our tool of choice for Modelica due to its cloud-based nature that makes collaboration and integration so much easier. 
-We offer Modelon Impact with fully supported extensions and add-ons to integrate it with controls design. This includes the [FMI-Toolbox](https://modelon.com/fmi-toolbox/) 
-for seamless integration into Simulink and [PMSFIT FMIBench](https://modelbased.cloud/tools/fmi/) for FMI integration and co-simulation, supporting both FMI and SSP. 
+[Modelon Impact](https://modelon.com/modelon-impact/) is our tool of choice for Modelica due to its cloud-based nature that makes collaboration and integration so much easier.  We offer Modelon Impact with fully supported extensions and add-ons to integrate it with controls design. This includes the [FMI-Toolbox](https://modelon.com/fmi-toolbox/) for seamless integration into Simulink and [PMSFIT FMIBench](https://modelbased.cloud/tools/fmi/) for FMI integration and co-simulation, supporting both FMI and SSP. 
+
 For [orchideo \| easySSP](https://www.exxcellent.de/orchideo-easy-ssp) we now offer extended examples and getting-started training. News about their latest release is in eXXcellent solutions section in this newsletter.  
 
 In the combination of these tools, this covers needs for standards-based system simulation for everything from small customers to enterprise needs. 
