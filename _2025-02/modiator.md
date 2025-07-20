@@ -22,4 +22,4 @@ to get a desired user interface for experimenting with their specific model. A
 lternatively, AI tools can be used to produce a first Modelica model of the application and a
 first version of the HTML and JavaScript code of the web app.
 
-<img width="622" height="253" alt="modiator" src="modiator.png" />
+<img width="620" height="auto" alt="modiator" src="modiator.png" />
