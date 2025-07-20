@@ -24,6 +24,6 @@ Software requirements:
  - Participants have to bring their own computer with Windows 10 or 11, 64-Bit, x86.
  - Required software will be provided few days before via download and at the tutorial via USB stick.
  - Time limited licenses (Dymola®, Software Production Engineering) valid throughout the conference week are provided.
- - To provide the download links, participants have to register for the tutorial. **Please write an e-mail to Christoff.Buerger@3ds.com (Modelica Association Project eFMI® project leader) that you like to participate.**
+ - To provide the download links, participants have to register for the tutorial. **Please write an e-mail to [Christoff.Buerger@3ds.com](mailto:Christoff.Buerger@3ds.com) (Modelica Association Project eFMI® project leader) that you like to participate.**
 
 If you have any general questions regarding the eFMI® tutorial, you can contact our _public_ mailing list, [efmi-info@googlegroups.com](https://groups.google.com/g/efmi-info) (no Google account required).

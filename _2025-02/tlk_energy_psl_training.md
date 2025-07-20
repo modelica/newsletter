@@ -27,7 +27,5 @@ If you can’t make it this time: No worries, we will offer further PSL Training
 ✔️ Official PSL Certificate upon completion 
 
 **Interested?**\
-Register by email: **training@tlk-energy.de** or visit our [website](https://tlk-energy.de/en/modelica-training).\
-Any questions? Feel free to contact us — we look forward to seeing you online! 
-
-*This article is provided by Lina Rosenthal [TLK Energy](https://tlk-energy.de)*  
+Register by email: **[training@tlk-energy.de](training@tlk-energy.de)** or visit our [website](https://tlk-energy.de/en/modelica-training).\
+Any questions? Feel free to contact us — we look forward to seeing you online!  
