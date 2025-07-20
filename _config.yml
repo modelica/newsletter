@@ -1,7 +1,7 @@
 theme: jekyll-theme-tactile
 google_analytics: UA-114571919-1
 future: true
-current-contribution-url: "https://github.com/modelica/newsletter/tree/main/_2025-02"
+current-contribution-url: "https://github.com/modelica/newsletter/tree/main/_2025-03"
 defaults:
   - scope:
       path: ""
@@ -9,8 +9,8 @@ defaults:
       image: /assets/images/Modelica_Association.png
     author: modelica 
 contribution-open: true
-contribution-deadline: July 18, 2025
-current-newsletter-date: March 17, 2024
+contribution-deadline: November 21, 2025
+current-newsletter-date: July 21, 2025
 baseurl: /
 url: "https://newsletter.modelica.org"
 collections:
@@ -109,4 +109,8 @@ collections:
   2025-02:
     permalink: /:collection/:path
     title: Summer 2025 release
+    output: true         
+  2025-03:
+    permalink: /:collection/:path
+    title: Fall 2025 release
     output: true         

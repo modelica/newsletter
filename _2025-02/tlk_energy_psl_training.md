@@ -1,5 +1,5 @@
 --- 
-title: New: Hands-On Training for the Process Systems Library (PSL) 
+title: "New: Hands-On Training for the Process Systems Library (PSL)"
 author: "Lina Rosenthal ([TLK Energy GmbH](https://tlk-energy.de))"
 category: "education"
 ---
