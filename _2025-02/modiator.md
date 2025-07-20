@@ -18,8 +18,8 @@ Modiator will be used during a tutorial at the conference. The participants will
 web app simulator with a specialized user interface for a certain model/domain. The specific user 
 Modelica model can be developed using the Modiator UI. A web app template will be provided which calls 
 the Modiator API to compile and simulate Modelica models. The participants will adapt this template
-to get a desired user interface for experimenting with their specific model. A
-lternatively, AI tools can be used to produce a first Modelica model of the application and a
+to get a desired user interface for experimenting with their specific model. Alternatively, 
+AI tools can be used to produce a first Modelica model of the application and a
 first version of the HTML and JavaScript code of the web app.
 
 <img width="620" height="auto" alt="modiator" src="modiator.png" />
