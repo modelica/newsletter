@@ -25,6 +25,21 @@ Being part of the conference board, I also appreciate the strong commitment of o
 
 I hope that you will enjoy the refreshed format and the packed program and that I will see many of you at the conference.
 
+#### Panel Discussion
+
+For the first time at the International Modelica Conference, we will have a Penel discussion. The topic is: **Open Standards vs. Open source, Collaboration or Conflict?**.
+
+We choose panelist from a braod range of companies and organizations using Modelica for their product design and research. Our distinguished Panelists are:
+
+- Adam Moravanszky, Senior Director Simulation Technology,  NVIDIA
+- Clément Coïc, Technology Cluster Lead - Digital Mechatronics, Siemens Healthineers
+- Dirk Zimmer (Chairman Modelica Association), Coordinator for M&S Methods and Tools, DLR
+- Marius Dupuis, CEO, ASAM e.V.
+- Michael Wetter, Computational Senior Scientist, Lawrence Berkeley National Laboratory (LBNL)
+- Ulrich Schulmeister, VP Technology and Engineering, Robert Bosch GmbH
+
+The panel discussion will evolve around a few prepared questions, and questions from the audience. It will be moderated by our board member Hubertus Tummescheit, (Board member Modelica Association), President Model Based Innovation LLC. 
+
 #### Post Conference Activity
 
 For many of us, the conference is also an ideal opportunity to meet in person. This shall be exploited beyond the main event.
