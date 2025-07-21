@@ -4,7 +4,7 @@ author: "Torsten Sommer ([Dassault Systèmes](https://www.3ds.com))"
 category: "conference"
 ---
 
-![FMI Tutorial](FMI-tutorial-logo.png "FMI Tutorial"){:width="620px"}
+![FMI Tutorial](FMI-tutorial-logo.png "FMI Tutorial"){:width="250px"}
 
 **Time:** Monday, 08/Sep/2025, 1:30pm--4:45pm (including 30min coffee break)
 
