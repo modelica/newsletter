@@ -1,10 +1,13 @@
-# [EOOLT 2026: 10th International Workshop on Equation-Based Object-Oriented Modeling Languages and Tools](https://eoolt.org/2026/)
+---
+title: "EOOLT 2026: 10th International Workshop on Equation-Based Object-Oriented Modeling Languages and Tools"
+author: "Benoît Caillaud, [INRIA Rennes](https://www.inria.fr/en/inria-centre-rennes-university)"
+category: "conference"
+---
 
-### Hochschule Bielefeld, University of Applied Sciences, Bielefeld, Germany
+**Hochschule Bielefeld, University of Applied Sciences, Bielefeld, Germany** \
+**June 15, 2026**
 
-### June 15, 2026
-
-### First call for papers
+#### First call for papers
 
 Many engineers rely heavily on model-based design and control of complex cyber-physical systems. Of paramount importance is the ability to capture all central aspects of such systems in the models, including the physical behavior of the system components and the architecture description of its software and hardware. This calls for a special class of modelling languages: hybrid modeling languages based on equations that support both continuous-time and event-based aspects. Modelica, SysML, VHDL-AMS and Simulink/Simscape are prominent examples. Using such a language offers a number of advantages: models can be reused, integration can be tested in an early design phase, and simulation code can be generated for a number of different platforms.
 
@@ -28,7 +31,7 @@ Typical subjects of the EOOLT workshop range from language design via modeling a
 * Code generation for real-time systems, embedded system, multi-core platforms, and distributed systems
 * Tools for analyzing or optimizing equation-based models
 
-### Important dates
+#### Important dates
 
 * Paper submission deadline: March 27
 * Author notification: April 27
@@ -45,12 +48,12 @@ All submissions must describe original research work, not previously published o
 
 All papers should be submitted using the EasyChair conference management system.
 
-### Links
+#### Links
 
 * **Webpage**: [https://eoolt.org/2026/](https://easychair.org/my2/conference?conf=eoolt2026)
 * **Easychair**: [https://easychair.org/my2/conference?conf=eoolt2026](https://easychair.org/my2/conference?conf=eoolt2026)
 
-### Committees
+#### Committees
 
 **Steering committee**
 
@@ -64,6 +67,6 @@ All papers should be submitted using the EasyChair conference management system.
 * Bernhard Bachmann (General Chair) Hochschule Bielefeld, Germany
 * Benoît Caillaud (Program Chair) INRIA Rennes, France
 
-### Venue
+#### Venue
 
 The conference will be held on June 15th 2026, at the Hochschule Bielefeld, University of Applied Sciences, Bielefeld, Germany
