@@ -15,7 +15,7 @@ On the modeling side, users benefit from refined model libraries and additional 
 
 ![](amesim_banner_2511.png)
 
-#### Interactive Tool-Coupling FMUs thanks to live and fully syncrhonized Sketch Animation
+#### Interactive Tool-Coupling FMUs thanks to live and fully synchronized Sketch Animation
 Before release 2511, Sketch Animation, one of the key strengths of **Simcenter&nbsp;Amesim**'s post-processing capabilities, could only be activated when **Simcenter&nbsp;Amesim** acted as the main model (FMU importing tool). This is still particularly useful during the Software-in-the-Loop (SiL) phase in which a controller model's code can be imported to **Simcenter&nbsp;Amesim**. Now, even as of the Model-in-the-Loop (MiL) phase, this powerful capability can be used with a Tool-Coupling FMU exported from **Simcenter&nbsp;Amesim** and imported in the chosen &mdash; FMI compliant &mdash; Controls Design environment. The below example shows how to get live insight into the behavior of an exported plant model (3.0 FMU) during its coupling with **Simulink** used as external orchestrator. In this case, the Control Designer gets an improved understanding of simulation results: he/she can directly observe how the controller model interacts with the **Simcenter&nbsp;Amesim** “plant model” via animations that are perfectly synchronized with the post-processing tools of both software, for maximum flexibility and convenience throughout the running co-simulation.
 
 
