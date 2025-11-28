@@ -8,8 +8,8 @@ category: "vendor"
 [Siemens Digital Industries Software](https://www.sw.siemens.com/) is pleased to announce the recent release of **Simcenter&nbsp;Amesim&nbsp;2511** as part of its [system simulation solutions](https://blogs.sw.siemens.com/simcenter/simcenter-systems-release-2511/). This release introduces key updates including:
 
 * A brand-new help browser with a more modern look and feel.
-* A new licensing and deployment model, called <b>Simcenter X Systems</b> that offers ease-of-use and flexibility based on a SaaS approach to licensing.  
-* An AI-enabled Chat, improving productivity across multi-language teams of <b>Simcenter X Systems</b> users.
+* A new licensing and deployment model, called <b>Simcenter X Advanced</b> that offers ease-of-use and flexibility based on a SaaS approach to licensing.  
+* An AI-enabled Chat, improving productivity across multi-language teams of <b>Simcenter X Advanced</b> users.
 
 On the modeling side, users benefit from refined model libraries and additional components, which improve accuracy and flexibility when constructing engineering systems for automotive, aerospace, and energy applications. 
 
