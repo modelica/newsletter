@@ -24,7 +24,7 @@ All FMI-related papers, tutorials and industrial user presentations on the [Lite
 
 #### FMI Design meeting in Berlin 
 
-![FMI Design Meeting Berling](FMI-Berlin.png 'FMI Dessign Meeting in Berlin, Dec 3/4 2025')
+![FMI Design Meeting Berlin](FMI-Berlin.png 'FMI Design Meeting in Berlin, Dec 3/4 2025')
 
 The FMI Project had a very productive FMI Design Meeting Berlin on Dec 3/4 2025. Good progress was made on
 
