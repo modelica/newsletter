@@ -19,14 +19,28 @@ The FMI Project actively maintains the FMI 2.0.x and 3.0.x standards, and curren
 
 Additionally two new working groups for the improvement of efficiency of data communication between FMUs and for DAE support have been formed.
 
-### Literature and  Video recordings from the conference
+### FMI Design meeting in Berlin
+
+We had a very productive FMI Design 
+
+### The FMI Layered Standard for Network Communication - growing tool support and extension for Flexray, Ethernet, LIN
+
+The year 2025 marks a significant advancement for the FMI Layered Standard for Network Communication (FMI-LS-BUS). With the release of version 1.0, a key milestone has been reached, laying the foundation for a standardized and flexible representation of networks in FMUs. In general the FMI-LS-BUS approach is suitable not only for the automotive industry but also for all domains, such as industrial automation, aerospace, and energy.
+
+Version 1.0.0 offers, for the first time, full support for Physical Signal Abstraction and extends Network Abstraction to include the CAN, CAN FD, and CAN XL bus systems. This enables developers to model complex communication structures realistically and interoperably. This step is an important contribution to the unification of simulation standards and facilitates collaboration between different tools and platforms.
+
+But that's not all: Throughout the year, further releases were published, continuously expanding the functionality of the FMI-LS-BUS. Version 1.1.0-Beta.2 introduced support for FlexRay, an essential bus for safety-critical applications. Shortly thereafter, version 1.2.0-Alpha.2 followed, which for the first time provides Ethernet support for the FMI-LS-BUS. In parallel, work on draft version 1.3.0 was completed, integrating the LIN bus – an important step for covering low-speed communication in distributed systems.
+
+These developments clearly demonstrate that the FMI-LS-BUS is well on its way to establishing itself as a cross-industry standard. It offers a scalable solution for the growing demands on modeling communication systems in a wide variety of application areas.
 
 
-##### The FMI Layered Standard for Network Communication - growing tool support and extension for Flexray, Ethernet, LIN
 
 ##### 16th International Modelica _and FMI_ Conference Sept 8-10 2025 in Lucerne, Switzerland
 
-Literautre
+Literature
+
+Video recordings from the conference
+
 
 ##### FMI Beginners' Tutorial offered at the 16th International Modelica and FMI Conference
 
