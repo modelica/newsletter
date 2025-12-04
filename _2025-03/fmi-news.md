@@ -1,6 +1,6 @@
 ---
 title: News from the FMI Project
-author: Christian Berstch, [MAP FMI](https://fmi-standard.org/)
+author: Christian Bertsch, [MAP FMI](https://fmi-standard.org/)
 category: association
 ---
 
