@@ -1,4 +1,8 @@
-## Modelica in Process Engineering – Community Meetup 2026 (May 5, Cologne)
+---
+title: "Modelica in Process Engineering – Community Meetup 2026"
+author: "TLK Energy ([TLK Energy](https://tlk-energy.de/))"
+category: "conference"
+---
 
 In many fields, Modelica has become a proven and widely used modeling technology. For thermal and energy systems, it is already a major success. In process engineering, however, its use is still limited to isolated activities, despite strong technical foundations and no inherent barriers to broader adoption.
 
@@ -11,16 +15,13 @@ To help spark this connection, we are initiating the **Modelica in Process Engin
 **Date:** May 5, 2026  
 **Location:** ANNO 1858, Cologne, Germany
 
-**Format:**  
+**Format:**
 - Short impulse talks and application reports  
 - Open discussion rounds and exchange of experiences  
 - Show & Tell contributions from participants  
 - Informal networking from 17:00  
 - Joint dinner in the *Brauerei Malzmühle* from 18:00
 
-The event website will go online soon.  
-To receive an update once registration opens, please sign up for the TLK Energy newsletter:
-
-https://tlk-energy.de/en/newsletter
+The event website will go online soon. To receive an update once registration opens, please sign up for the [TLK Energy newsletter](https://tlk-energy.de/en/newsletter).
 
 We look forward to connecting the community and meeting many of you in Cologne.
