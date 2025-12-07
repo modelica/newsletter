@@ -1,5 +1,5 @@
 ---
-title: "American Modelica Conference 2026
+title: "American Modelica Conference 2026"
 author: "Chris Laughman, [North American Modelica Users Group](https://modelica.org/events/american2026/))"
 category: "conference"
 ---

@@ -1,12 +1,12 @@
 ---
-title: orchideo | easySSP v1.4.4 now available
-author: Gregor Hermann, Peter Lobner [eXXcellent solutions](https://www.exxcellent.de/)
+title: "orchideo | easySSP v1.4.4 now available"
+author: "Gregor Hermann, Peter Lobner [eXXcellent solutions](https://www.exxcellent.de/)"
 category: "vendor"
 ---
 
 ![](easySSP1_4_4.png)
 
-#### orchideo | easySSP v1.4.4 released
+#### orchideo \| easySSP v1.4.4 released
 
 The new **easySSP version 1.4.4** introduces major new capabilities:
 

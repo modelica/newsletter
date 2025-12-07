@@ -1,5 +1,5 @@
 ---
-title: train_fmu_gym: Enabling FMU-based Deep Reinforcement Learning
+title: "train_fmu_gym: Enabling FMU-based Deep Reinforcement Learning"
 author: "Johannes Ultsch [Department of Vehicle System Dynamics and Control, Deutsches Zentrum für Luft- und Raumfahrt (DLR)](https://www.dlr.de/)"
 category: "library"
 ---
