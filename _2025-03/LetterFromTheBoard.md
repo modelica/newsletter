@@ -40,6 +40,15 @@ To address this, the Modelica Association is proud to have gained [Dr. Rui Gao](
 
 Dr. Gao succeeds [Dr. Michael Tiller](https://modelica.org/news/2025-09-05-newsecretaryoftheboard/), who served on the board for more than 20 years. The Modelica Association is deeply grateful for his long service and pleased that he will continue as a regular member and in the board of [NAMUG](https://namug.org/).
 
+
+### New Deputy Leader for eFMI
+
+In addition to the board, there are also changes regarding the organization  of the eFMI Project. We are happy to announce that Daeoh Kang (CEO of [iVH Co., Ltd.](https://www.ivh.co.kr/)) is the new deputy project leader of the [Modelica Association Project eFMI](https://www.efmi-standard.org/). We gladly welcome Daeoh and like to thank Hubertus Tummescheit, our former deputy project leader, for his contributions and wish him all the best with his new affiliations at [The REUSE Company](https://www.reusecompany.com/).
+
+Daeoh is well familiar with eFMI and Modelica, promoting its application in industry, like he showed at the [eFMI tutorial](https://youtu.be/HobYT2BYTL0) at the last [International Modelica & FMI Conference](https://modelica.org/events/modelica2025/), 2025. iVH offers eFMI training for Modelica users in Korea and has been the conference organizer of the last [Asian Modelica Conference](https://modelica.org/events/asian2024/), 2024. In the spirit of the Modelica Association to open itself for Asia, Daeoh is a perfect match to represent and promote eFMI in the eastern hemisphere.
+
+With Daeoh becoming new deputy project leader, iVH is also stepping up from Advisory Board membership to become a Steering Committee member.
+
 ### Teaching Initiative
 
 In Lucerne, I briefly announced that the Modelica Association intends to launch a Teaching Initiative. The response was immediate and very encouraging.  Clément Coïc has taken the lead and has already started publishing an insightful series of [introductory articles on social media](https://www.linkedin.com/newsletters/7373084674463719424/). If you are not active on social media, do not worry since the articles will also be made available in a more traditional format.
