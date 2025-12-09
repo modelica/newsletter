@@ -1,7 +1,7 @@
 ---
 title: "Orthogonal Updates ODE Suite and Launches Transfer Platform"
 author: "[orthogonal supersystems GmbH ](https://www.orthogonal.dev/)"
-category: "education"
+category: "vendor"
 ---
 
 orthogonal supersystems GmbH has released major updates across its **ODE** engineering suite and launched a new independent platform, **Transfer**.
